@@ -1,4 +1,4 @@
-﻿using System;
+﻿using UniversalNameGenerator.Views;
 
 namespace UniversalNameGenerator
 {
@@ -6,7 +6,8 @@ namespace UniversalNameGenerator
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            MainMenu mainMenu = new MainMenu();
+            mainMenu.Run();
         }
     }
 }
