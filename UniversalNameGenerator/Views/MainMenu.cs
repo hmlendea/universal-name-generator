@@ -6,6 +6,9 @@ using System.Text.RegularExpressions;
 
 namespace UniversalNameGenerator.Views
 {
+    /// <summary>
+    /// Main menu.
+    /// </summary>
     public class MainMenu : Menu
     {
         List<string> settlementBases, settlementSuffixes, settlementFilters;
