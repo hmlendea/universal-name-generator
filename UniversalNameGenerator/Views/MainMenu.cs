@@ -1,6 +1,5 @@
 ﻿using System;
 using System.IO;
-using System.Xml.Serialization;
 using System.Collections.Generic;
 using System.Globalization;
 using System.Text.RegularExpressions;
@@ -29,7 +28,7 @@ namespace UniversalNameGenerator.Views
             Random rnd = new Random();
             int count;
 
-            LoadWords();
+            LoadWordLists();
 
             for (count = 0; count < 15; count++)
             {
@@ -53,25 +52,17 @@ namespace UniversalNameGenerator.Views
             }
         }
 
-        void LoadWords()
+        /// <summary>
+        /// Loads the word lists.
+        /// </summary>
+        void LoadWordLists()
         {
-            XmlSerializer xs = new XmlSerializer(typeof(List<string>));
-
-            StreamReader settlementBasesSR = new StreamReader(
-                                                 Path.Combine("names", "romanian", "settlement_bases.xml"));
-            StreamReader settlementSuffixesSR = new StreamReader(
-                                                    Path.Combine("names", "romanian", "settlement_suffixes.xml"));
-            StreamReader settlementFiltersSR = new StreamReader(
-                                                   Path.Combine("names", "romanian", "settlement_filters.xml"));
-            
-
-            settlementBases = (List<string>)xs.Deserialize(settlementBasesSR);
-            settlementSuffixes = (List<string>)xs.Deserialize(settlementSuffixesSR);
-            settlementFilters = (List<string>)xs.Deserialize(settlementFiltersSR);
-
-            settlementBasesSR.Dispose();
-            settlementSuffixesSR.Dispose();
-            settlementFiltersSR.Dispose();
+            settlementBases = new List<string>(File.ReadAllLines(
+                    Path.Combine("names", "romanian", "settlement_bases.txt")));
+            settlementSuffixes = new List<string>(File.ReadAllLines(
+                    Path.Combine("names", "romanian", "settlement_suffixes.txt")));
+            settlementFilters = new List<string>(File.ReadAllLines(
+                    Path.Combine("names", "romanian", "settlement_filters.txt")));
         }
 
         /// <summary>
