@@ -2,6 +2,9 @@
 
 namespace UniversalNameGenerator.Models
 {
+    /// <summary>
+    /// Entity base.
+    /// </summary>
     public abstract class EntityBase
     {
         /// <summary>

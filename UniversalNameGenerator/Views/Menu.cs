@@ -17,8 +17,22 @@ namespace UniversalNameGenerator.Views
         readonly Dictionary<string, string> commandTexts;
         readonly Dictionary<string, Action> commandActions;
 
+        /// <summary>
+        /// Gets or sets the title colour.
+        /// </summary>
+        /// <value>The title colour.</value>
         public ConsoleColor TitleColour { get; set; } = ConsoleColor.Green;
+
+        /// <summary>
+        /// Gets or sets the title decoration colour.
+        /// </summary>
+        /// <value>The title decoration colour.</value>
         public ConsoleColor TitleDecorationColour { get; set; } = ConsoleColor.Yellow;
+
+        /// <summary>
+        /// Gets or sets the prompt colour.
+        /// </summary>
+        /// <value>The prompt colour.</value>
         public ConsoleColor PromptColour { get; set; } = ConsoleColor.White;
 
         /// <summary>
@@ -27,9 +41,22 @@ namespace UniversalNameGenerator.Views
         /// <value>The title.</value>
         public string Title { get; set; }
 
+        /// <summary>
+        /// Gets or sets the title decoration on the left.
+        /// </summary>
+        /// <value>The title decoration on the left.</value>
         public string TitleDecorationLeft { get; set; } = "-==< ";
+
+        /// <summary>
+        /// Gets or sets the title decoration on the right.
+        /// </summary>
+        /// <value>The title decoration on the right.</value>
         public string TitleDecorationRight { get; set; } = " >==-";
 
+        /// <summary>
+        /// Gets or sets the prompt.
+        /// </summary>
+        /// <value>The prompt.</value>
         public string Prompt { get; set; } = "> ";
 
         /// <summary>
@@ -127,6 +154,9 @@ namespace UniversalNameGenerator.Views
             }
         }
 
+        /// <summary>
+        /// Prints the title.
+        /// </summary>
         void PrintTitle()
         {
             ConsoleEx.WriteColoured(TitleDecorationLeft, TitleDecorationColour);
