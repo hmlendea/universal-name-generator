@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using System.Linq;
 
+using UniversalNameGenerator.Utils;
+
 namespace UniversalNameGenerator.Views
 {
     /// <summary>
@@ -15,9 +17,9 @@ namespace UniversalNameGenerator.Views
         readonly Dictionary<string, string> commandTexts;
         readonly Dictionary<string, Action> commandActions;
 
-        public ConsoleColor TitleColor { get; set; } = ConsoleColor.Green;
-        public ConsoleColor TitleDecorationColor { get; set; } = ConsoleColor.Yellow;
-        public ConsoleColor PromptColor { get; set; } = ConsoleColor.White;
+        public ConsoleColor TitleColour { get; set; } = ConsoleColor.Green;
+        public ConsoleColor TitleDecorationColour { get; set; } = ConsoleColor.Yellow;
+        public ConsoleColor PromptColour { get; set; } = ConsoleColor.White;
 
         /// <summary>
         /// Gets or sets the title.
@@ -127,16 +129,10 @@ namespace UniversalNameGenerator.Views
 
         void PrintTitle()
         {
-            Console.ForegroundColor = TitleDecorationColor;
-            Console.Write(TitleDecorationLeft);
+            ConsoleEx.WriteColoured(TitleDecorationLeft, TitleDecorationColour);
+            ConsoleEx.WriteColoured(Title, TitleColour);
+            ConsoleEx.WriteColoured(TitleDecorationRight, TitleDecorationColour);
 
-            Console.ForegroundColor = TitleColor;
-            Console.Write(Title);
-
-            Console.ForegroundColor = TitleDecorationColor;
-            Console.Write(TitleDecorationRight);
-
-            Console.ResetColor();
             Console.WriteLine();
         }
 
@@ -158,9 +154,7 @@ namespace UniversalNameGenerator.Views
         /// <returns>The command.</returns>
         string GetCommand()
         {
-            Console.ForegroundColor = PromptColor;
-            Console.Write(Prompt);
-            Console.ResetColor();
+            ConsoleEx.WriteColoured(Prompt, PromptColour);
 
             cmd = Console.ReadLine();
             return cmd;
