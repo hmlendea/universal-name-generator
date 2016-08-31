@@ -2,8 +2,16 @@
 
 namespace UniversalNameGenerator.Utils
 {
+    /// <summary>
+    /// Console extras.
+    /// </summary>
     public static class ConsoleEx
     {
+        /// <summary>
+        /// Writes the coloured text to standart output.
+        /// </summary>
+        /// <param name="text">Text.</param>
+        /// <param name="foreColour">Foreground colour.</param>
         public static void WriteColoured(string text, ConsoleColor foreColour)
         {
             ConsoleColor oldForeColour = Console.ForegroundColor;
@@ -15,6 +23,12 @@ namespace UniversalNameGenerator.Utils
             Console.ForegroundColor = oldForeColour;
         }
 
+        /// <summary>
+        /// Writes the coloured text to standart output.
+        /// </summary>
+        /// <param name="text">Text.</param>
+        /// <param name="foreColour">Foreground colour.</param>
+        /// <param name="backColour">Background colour.</param>
         public static void WriteColoured(string text, ConsoleColor foreColour, ConsoleColor backColour)
         {
             ConsoleColor oldForeColour = Console.ForegroundColor;
@@ -29,6 +43,11 @@ namespace UniversalNameGenerator.Utils
             Console.BackgroundColor = oldBackColour;
         }
 
+        /// <summary>
+        /// Writes the coloured line to standart output.
+        /// </summary>
+        /// <param name="text">Text.</param>
+        /// <param name="foreColour">Foreground colour.</param>
         public static void WriteLineColoured(string text, ConsoleColor foreColour)
         {
             ConsoleColor oldForeColour = Console.ForegroundColor;
@@ -40,6 +59,12 @@ namespace UniversalNameGenerator.Utils
             Console.ForegroundColor = oldForeColour;
         }
 
+        /// <summary>
+        /// Writes the coloured line to standart output.
+        /// </summary>
+        /// <param name="text">Text.</param>
+        /// <param name="foreColour">Foreground colour.</param>
+        /// <param name="backColour">Background colour.</param>
         public static void WriteLineColoured(string text, ConsoleColor foreColour, ConsoleColor backColour)
         {
             ConsoleColor oldForeColour = Console.ForegroundColor;

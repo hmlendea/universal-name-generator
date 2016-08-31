@@ -5,6 +5,9 @@ using UniversalNameGenerator.Models;
 
 namespace UniversalNameGenerator.Repositories
 {
+    /// <summary>
+    /// Memory Repository.
+    /// </summary>
     public class Repository<T> where T : EntityBase
     {
         /// <summary>
@@ -22,6 +25,9 @@ namespace UniversalNameGenerator.Repositories
             get { return Entities.Count; }
         }
 
+        /// <summary>
+        /// Initializes a new instance of the <see cref="UniversalNameGenerator.Repositories.Repository`1"/> class.
+        /// </summary>
         public Repository()
         {
             Entities = new List<T>();
@@ -39,6 +45,10 @@ namespace UniversalNameGenerator.Repositories
             Entities.Add(entity);
         }
 
+        /// <summary>
+        /// Get the entity with the specified identifier.
+        /// </summary>
+        /// <param name="id">Identifier.</param>
         public virtual T Get(string id)
         {
             T entity = Entities.Find(E => E.Id == id);
@@ -70,6 +80,10 @@ namespace UniversalNameGenerator.Repositories
             Entities.Remove(entity);
         }
 
+        /// <summary>
+        /// Remove the entity with the specified identifier.
+        /// </summary>
+        /// <param name="id">Identifier.</param>
         public virtual void Remove(string id)
         {
             if (!Contains(id))
