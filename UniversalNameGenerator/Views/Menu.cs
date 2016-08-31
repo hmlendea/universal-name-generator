@@ -12,8 +12,8 @@ namespace UniversalNameGenerator.Views
         string title, cmd;
         bool isRunning;
 
-        Dictionary<string, string> commandTexts;
-        Dictionary<string, Action> commandActions;
+        readonly Dictionary<string, string> commandTexts;
+        readonly Dictionary<string, Action> commandActions;
 
         /// <summary>
         /// Gets or sets the title.
