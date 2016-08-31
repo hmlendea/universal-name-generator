@@ -43,6 +43,7 @@
     <Compile Include="Repositories\Repository.cs" />
     <Compile Include="Repositories\RepositoryException.cs" />
     <Compile Include="Repositories\RepositoryXml.cs" />
+    <Compile Include="Utils\ConsoleEx.cs" />
     <Compile Include="Views\MainMenu.cs" />
     <Compile Include="Views\Menu.cs" />
     <Compile Include="Views\LanguageMenu.cs" />
