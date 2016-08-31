@@ -72,11 +72,16 @@ namespace UniversalNameGenerator.Views
         void LoadWordLists()
         {
             settlementBases = new List<string>(File.ReadAllLines(
-                    Path.Combine("wordlists", Language.Id, "settlement_bases.txt")));
+                    Path.Combine(MainClass.ApplicationDirectory, "Languages",
+                        Language.Id, "settlement_bases.txt")));
+            
             settlementSuffixes = new List<string>(File.ReadAllLines(
-                    Path.Combine("wordlists", Language.Id, "settlement_suffixes.txt")));
+                    Path.Combine(MainClass.ApplicationDirectory, "Languages",
+                        Language.Id, "settlement_suffixes.txt")));
+            
             settlementFilters = new List<string>(File.ReadAllLines(
-                    Path.Combine("wordlists", Language.Id, "settlement_filters.txt")));
+                    Path.Combine(MainClass.ApplicationDirectory, "Languages",
+                        Language.Id, "settlement_filters.txt")));
         }
 
         /// <summary>

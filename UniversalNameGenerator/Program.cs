@@ -1,4 +1,6 @@
-﻿using UniversalNameGenerator.Views;
+﻿using System;
+
+using UniversalNameGenerator.Views;
 
 namespace UniversalNameGenerator
 {
@@ -7,6 +9,23 @@ namespace UniversalNameGenerator
     /// </summary>
     public static class MainClass
     {
+        static string applicationDirectory;
+
+        /// <summary>
+        /// Gets the application directory.
+        /// </summary>
+        /// <value>The application directory.</value>
+        public static string ApplicationDirectory
+        {
+            get
+            {
+                if (string.IsNullOrEmpty(applicationDirectory))
+                    applicationDirectory = AppDomain.CurrentDomain.BaseDirectory;
+
+                return applicationDirectory;
+            }
+        }
+
         /// <summary>
         /// The entry point of the program, where the program control starts and ends.
         /// </summary>
