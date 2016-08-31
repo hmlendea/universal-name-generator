@@ -5,6 +5,9 @@ using UniversalNameGenerator.Repositories;
 
 namespace UniversalNameGenerator.Controllers
 {
+    /// <summary>
+    /// Language controller.
+    /// </summary>
     public class LanguageController
     {
         /// <summary>
@@ -17,7 +20,7 @@ namespace UniversalNameGenerator.Controllers
         public void Create(string id, string name, List<string> categories)
         {
             RepositoryXml<Language> repository = new RepositoryXml<Language>("languages.xml");
-            Language Language = new Language()
+            Language Language = new Language
             {
                 Id = id,
                 Name = name,

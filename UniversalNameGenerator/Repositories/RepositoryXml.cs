@@ -1,5 +1,4 @@
-﻿using System.Text;
-using System.IO;
+﻿using System.IO;
 using System.Collections.Generic;
 using System.Xml.Serialization;
 
@@ -7,6 +6,9 @@ using UniversalNameGenerator.Models;
 
 namespace UniversalNameGenerator.Repositories
 {
+    /// <summary>
+    /// XML Repository.
+    /// </summary>
     public class RepositoryXml<T> : Repository<T> where T : EntityBase
     {
         /// <summary>

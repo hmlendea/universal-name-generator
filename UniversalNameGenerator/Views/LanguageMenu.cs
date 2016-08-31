@@ -13,8 +13,13 @@ namespace UniversalNameGenerator.Views
     /// </summary>
     public class LanguageMenu : Menu
     {
-        public Language Language { get; private set; }
         List<string> settlementBases, settlementSuffixes, settlementFilters;
+
+        /// <summary>
+        /// Gets the language.
+        /// </summary>
+        /// <value>The language.</value>
+        public Language Language { get; private set; }
 
         /// <summary>
         /// Initializes a new instance of the <see cref="UniversalNameGenerator.Views.LanguageMenu"/> class.

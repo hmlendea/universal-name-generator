@@ -3,6 +3,9 @@ using System.Runtime.Serialization;
 
 namespace UniversalNameGenerator.Repositories
 {
+    /// <summary>
+    /// Repository exception.
+    /// </summary>
     [Serializable]
     public class RepositoryException : Exception
     {
