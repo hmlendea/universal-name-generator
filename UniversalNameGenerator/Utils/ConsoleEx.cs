@@ -39,7 +39,7 @@ namespace UniversalNameGenerator.Utils
 
             Console.Write(text);
 
-            Console.BackgroundColor = oldForeColour;
+            Console.ForegroundColor = oldForeColour;
             Console.BackgroundColor = oldBackColour;
         }
 
@@ -75,7 +75,7 @@ namespace UniversalNameGenerator.Utils
 
             Console.WriteLine(text);
 
-            Console.BackgroundColor = oldForeColour;
+            Console.ForegroundColor = oldForeColour;
             Console.BackgroundColor = oldBackColour;
         }
     }
