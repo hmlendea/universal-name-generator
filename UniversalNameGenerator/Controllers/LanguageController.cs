@@ -1,5 +1,4 @@
-﻿using System.IO;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 
 using UniversalNameGenerator.Models;
 using UniversalNameGenerator.Repositories;
@@ -8,8 +7,6 @@ namespace UniversalNameGenerator.Controllers
 {
     public class LanguageController
     {
-        readonly string repositoryXmlFile = Path.Combine("names", "languages.xml");
-
         /// <summary>
         /// Adds the Language.
         /// </summary>
@@ -19,7 +16,7 @@ namespace UniversalNameGenerator.Controllers
         /// <param name="categories">Categories.</param>
         public void Create(string id, string name, List<string> categories)
         {
-            RepositoryXml<Language> repository = new RepositoryXml<Language>(repositoryXmlFile);
+            RepositoryXml<Language> repository = new RepositoryXml<Language>("languages.xml");
             Language Language = new Language()
             {
                 Id = id,
@@ -38,7 +35,7 @@ namespace UniversalNameGenerator.Controllers
         /// <param name="id">Identifier.</param>
         public Language Get(string id)
         {
-            RepositoryXml<Language> repository = new RepositoryXml<Language>(repositoryXmlFile);
+            RepositoryXml<Language> repository = new RepositoryXml<Language>("languages.xml");
 
             return repository.Get(id);
         }
@@ -49,7 +46,7 @@ namespace UniversalNameGenerator.Controllers
         /// <returns>The Languages.</returns>
         public List<Language> GetAll()
         {
-            RepositoryXml<Language> repository = new RepositoryXml<Language>(repositoryXmlFile);
+            RepositoryXml<Language> repository = new RepositoryXml<Language>("languages.xml");
 
             return repository.GetAll();
         }
@@ -62,7 +59,7 @@ namespace UniversalNameGenerator.Controllers
         /// <param name="categories">Categories.</param>
         public void Modify(string id, string name, List<string> categories)
         {
-            RepositoryXml<Language> repository = new RepositoryXml<Language>(repositoryXmlFile);
+            RepositoryXml<Language> repository = new RepositoryXml<Language>("languages.xml");
             Language Language = repository.Get(id);
 
             Language.Name = name;
@@ -75,7 +72,7 @@ namespace UniversalNameGenerator.Controllers
         /// <param name="id">Identifier.</param>
         public void Delete(string id)
         {
-            RepositoryXml<Language> repository = new RepositoryXml<Language>(repositoryXmlFile);
+            RepositoryXml<Language> repository = new RepositoryXml<Language>("languages.xml");
 
             repository.Remove(id);
         }
