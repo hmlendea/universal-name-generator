@@ -24,6 +24,7 @@ namespace UniversalNameGenerator.Views
         {
             Language = language;
             Title = "Universal Name Generator [" + Language.Name + "]";
+            Prompt = Language.Id + " > ";
 
             AddCommand("settlements", "Generate 15 settlement names", GenerateSettlementNames);
         }
