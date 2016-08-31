@@ -9,21 +9,26 @@ namespace UniversalNameGenerator.Views
     /// </summary>
     public class Menu
     {
-        string title, cmd;
+        string cmd;
         bool isRunning;
 
         readonly Dictionary<string, string> commandTexts;
         readonly Dictionary<string, Action> commandActions;
 
+        public ConsoleColor TitleColor { get; set; } = ConsoleColor.Green;
+        public ConsoleColor TitleDecorationColor { get; set; } = ConsoleColor.Yellow;
+        public ConsoleColor PromptColor { get; set; } = ConsoleColor.White;
+
         /// <summary>
         /// Gets or sets the title.
         /// </summary>
         /// <value>The title.</value>
-        public string Title
-        {
-            get { return title; }
-            set { title = value; }
-        }
+        public string Title { get; set; }
+
+        public string TitleDecorationLeft { get; set; } = "-==< ";
+        public string TitleDecorationRight { get; set; } = " >==-";
+
+        public string Prompt { get; set; } = "> ";
 
         /// <summary>
         /// Initializes a new instance of the <see cref="UniversalNameGenerator.Views.Menu"/> class.
@@ -44,7 +49,7 @@ namespace UniversalNameGenerator.Views
         public Menu(string title)
             : this()
         {
-            this.title = title;
+            Title = title;
         }
 
         /// <summary>
@@ -106,9 +111,9 @@ namespace UniversalNameGenerator.Views
         /// </summary>
         public void Run()
         {
-            Console.WriteLine("-===< {0} >===-" + Environment.NewLine, title);
             isRunning = true;
 
+            PrintTitle();
             PrintCommandList();
 
             while (isRunning)
@@ -118,6 +123,21 @@ namespace UniversalNameGenerator.Views
                 GetCommand();
                 HandleCommand();
             }
+        }
+
+        void PrintTitle()
+        {
+            Console.ForegroundColor = TitleDecorationColor;
+            Console.Write(TitleDecorationLeft);
+
+            Console.ForegroundColor = TitleColor;
+            Console.Write(Title);
+
+            Console.ForegroundColor = TitleDecorationColor;
+            Console.Write(TitleDecorationRight);
+
+            Console.ResetColor();
+            Console.WriteLine();
         }
 
         /// <summary>
@@ -138,7 +158,9 @@ namespace UniversalNameGenerator.Views
         /// <returns>The command.</returns>
         string GetCommand()
         {
-            Console.Write("> ");
+            Console.ForegroundColor = PromptColor;
+            Console.Write(Prompt);
+            Console.ResetColor();
 
             cmd = Console.ReadLine();
             return cmd;
