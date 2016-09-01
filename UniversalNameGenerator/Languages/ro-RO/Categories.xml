@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCategory xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Category>
+    <Id>settlement</Id>
+    <Name>Settlement names</Name>
+    <Wordlists>
+      <string>bases</string>
+      <string>filters</string>
+      <string>suffixes</string>
+    </Wordlists>
+  </Category>
+</ArrayOfCategory>
