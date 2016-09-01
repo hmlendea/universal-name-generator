@@ -36,6 +36,7 @@ Basarabeanu
 Basarabescu
 Basescu
 Bendeac
+Berce
 Berinde
 Birladeanu
 Blaga
@@ -44,6 +45,7 @@ Bogdanescu
 Bogza
 Boian
 Bolojan
+Bordea
 Borsan
 Botezatu
 Boureanu
@@ -69,6 +71,8 @@ Calinescu
 Calugareanu
 Calugarescu
 Calugaru
+Campean
+Campeanu
 Candea
 Caragiale
 Caramitru
@@ -76,6 +80,7 @@ Cartarescu
 Catargiu
 Cazacu
 Ceobanu
+Cercelaru
 Cernea
 Chelaru
 Chelu
@@ -83,6 +88,8 @@ Chiorean
 Chiriac
 Chirila
 Chivu
+Cimpean
+Cimpeanu
 Cioara
 Cioba
 Ciobanu
@@ -114,6 +121,7 @@ Covaci
 Cozma
 Craciun
 Craioveanu
+Crava
 Creanga
 Cretu
 Crisan
@@ -163,6 +171,7 @@ Florea
 Florescu
 Florinescu
 Focseanu
+Frumos
 Funar
 Gabor
 Gaceanu
@@ -171,6 +180,7 @@ Galateanu
 Galca
 Gale
 Ganea
+Gavrila
 Geoana
 Georgescu
 Gheorghescu
@@ -187,6 +197,7 @@ Goldis
 Golea
 Grecu
 Grigorescu
+Groparu
 Grosu
 Groza
 Gusa
@@ -209,6 +220,7 @@ Iordanescu
 Istrate
 Ivanescu
 Ivascu
+Jianu
 Judean
 Lascar
 Lascu
@@ -231,10 +243,12 @@ Maniu
 Manole
 Marcu
 Marculescu
+Margelaru
 Marginean
 Margineanu
 Marian
 Martinescu
+Marza
 Mateescu
 Matei
 Mergea
@@ -244,9 +258,11 @@ Mihalache
 Mircea
 Mircescu
 Mironescu
+Mirza
 Mlendea
 Mocanu
 Moculescu
+Modoi
 Moisuc
 Moldovan
 Moldovanu
@@ -273,6 +289,7 @@ Negrea
 Negrescu
 Nemes
 Nica
+Nichitescu
 Nicolescu
 Niculescu
 Nistor
@@ -287,9 +304,11 @@ Oradeanu
 Pacurar
 Pacuraru
 Pantiru
+Paros
 Partoc
 Parvu
 Parvulescu
+Pascal
 Pascu
 Patrascu
 Pavelescu
@@ -298,14 +317,17 @@ Pescaru
 Petran
 Petrea
 Petrescu
-Petrescu
 Petrus
+Pircabulescu
 Pirvu
 Pirvulescu
 Piturca
 Plesu
+Ponor
+Ponorean
 Popa
 Popescu
+Porumbescu
 Potcovaru
 Preda
 Prodan
@@ -343,8 +365,10 @@ Stan
 Stanescu
 Stefanescu
 Stegerean
+Sticlaru
 Stoenescu
 Stoian
+Stoleru
 Stolojan
 Stribei
 Suceveanu
@@ -374,6 +398,10 @@ Udrea
 Ungur
 Ungureanu
 Ungurescu
+Urat
+Uratescu
+Urit
+Uritescu
 Ursu
 Urzica
 Vacarescu
@@ -384,12 +412,15 @@ Varga
 Vasilescu
 Vasiliu
 Vianu
+Vidican
 Viziru
 Vladimirescu
 Vlah
 Vlaicu
 Voicu
 Voinea
+Voinescu
+Voinic
 Vulpe
 Zamfir
 Zelea
