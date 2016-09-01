@@ -14,8 +14,7 @@ namespace UniversalNameGenerator.Views
     /// </summary>
     public class LanguageMenu : Menu
     {
-        CategoryController categoryController;
-        List<string> wordlistBases, wordlistSuffixes, wordlistFilters;
+        readonly CategoryController categoryController;
 
         /// <summary>
         /// Gets the language.
@@ -45,21 +44,37 @@ namespace UniversalNameGenerator.Views
         /// <param name="category">Category.</param>
         void GenerateNames(Category category)
         {
+            Dictionary<string, List<string>> wordlists = new Dictionary<string, List<string>>();
+            List<string> filters;
             Random rnd = new Random();
             int count;
 
-            LoadWordLists(category);
+            foreach(string wordlistId in category.Wordlists)
+            {
+                List<string> wordlist = new List<string>(File.ReadAllLines(
+                    Path.Combine(MainClass.ApplicationDirectory, "Languages",
+                        Language.Id, category.Id + "_" + wordlistId + ".txt")));
+
+                wordlists.Add(wordlistId, wordlist);
+            }
+
+            filters = new List<string>(File.ReadAllLines(
+                    Path.Combine(MainClass.ApplicationDirectory, "Languages",
+                        Language.Id, category.Id + "_filters.txt")));
 
             for (count = 0; count < 15; count++)
             {
-                string nameBase = wordlistBases[rnd.Next(0, wordlistBases.Count)].ToLower();
-                string nameSuffix = wordlistSuffixes[rnd.Next(0, wordlistSuffixes.Count)].ToLower();
-                string name = nameBase + nameSuffix;
+                string name = category.GenerationSchema;
 
-                if (nameBase[nameBase.Length - 1] == nameSuffix[0])
-                    name = name.Remove(nameBase.Length - 1, 1);
+                foreach (string wordlistId in wordlists.Keys)
+                    if (name.Contains("{" + wordlistId + "}"))
+                    {
+                        List<string> wordlist = wordlists[wordlistId];
 
-                if (!SettlementNameIsValid(name))
+                        name = name.Replace("{" + wordlistId + "}", wordlist[rnd.Next(0, wordlist.Count)]);
+                    }
+                
+                if (!SettlementNameIsValid(name, filters))
                 {
                     count -= 1;
                     continue;
@@ -73,32 +88,14 @@ namespace UniversalNameGenerator.Views
         }
 
         /// <summary>
-        /// Loads the word lists.
-        /// </summary>
-        /// <param name="category">Category.</param>
-        void LoadWordLists(Category category)
-        {
-            wordlistBases = new List<string>(File.ReadAllLines(
-                    Path.Combine(MainClass.ApplicationDirectory, "Languages",
-                        Language.Id, category.Id + "_bases.txt")));
-            
-            wordlistSuffixes = new List<string>(File.ReadAllLines(
-                    Path.Combine(MainClass.ApplicationDirectory, "Languages",
-                        Language.Id, category.Id + "_suffixes.txt")));
-            
-            wordlistFilters = new List<string>(File.ReadAllLines(
-                    Path.Combine(MainClass.ApplicationDirectory, "Languages",
-                        Language.Id, category.Id + "_filters.txt")));
-        }
-
-        /// <summary>
-        /// Determines whether the settlement name is valid.
+        /// Determines whether the settlement name is valid based on a list of filters.
         /// </summary>
         /// <returns><c>true</c> if the settlement name is valid; otherwise, <c>false</c>.</returns>
         /// <param name="name">Name.</param>
-        bool SettlementNameIsValid(string name)
+        /// <param name="filters">Filters.</param>
+        bool SettlementNameIsValid(string name, List<string> filters)
         {
-            foreach (string pattern in wordlistFilters)
+            foreach (string pattern in filters)
                 if (Regex.IsMatch(name, pattern))
                     return false;
 

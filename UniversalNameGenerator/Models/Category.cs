@@ -21,5 +21,8 @@ namespace UniversalNameGenerator.Models
         /// <value>The wordlists.</value>
         [MaxLength(20)]
         public List<string> Wordlists { get; set; }
+
+        [MaxLength(60)]
+        public string GenerationSchema { get; set; }
     }
 }
