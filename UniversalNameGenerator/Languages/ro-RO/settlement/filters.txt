@@ -4,12 +4,11 @@ gh([a-df-hj-z])
 ([a-z][a-z])\1
 ii(?!$)
 dr[b-df-hj-np-tv-z]
-pr[b-df-hj-np-tv-z]
-lb[b-df-hj-np-tv-z]
-lc[b-df-hj-np-tv-z]
+j[b-df-hj-np-tv-z]
+l[b-df-hj-np-tv-z]
 mn[b-df-hj-np-tv-z]
-nc[b-df-hj-np-tv-z]
-nt[b-df-hj-np-tv-z]
+n[b-df-hj-np-tv-z]
+pr[b-df-hj-np-tv-z]
 rb[b-df-hj-np-tv-z]
 rc[b-df-hj-np-tv-z]
 rd[b-df-hj-np-tv-z]
@@ -149,3 +148,4 @@ siu$
 tva$
 uau$
 urus$
+vna$
