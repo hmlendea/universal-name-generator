@@ -62,13 +62,13 @@
     </Content>
   </ItemGroup>
   <ItemGroup>
-    <None Include="Languages\ro-RO\settlement_bases.txt">
+    <None Include="Languages\ro-RO\settlement\bases.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Include="Languages\ro-RO\settlement_filters.txt">
+    <None Include="Languages\ro-RO\settlement\filters.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Include="Languages\ro-RO\settlement_suffixes.txt">
+    <None Include="Languages\ro-RO\settlement\suffixes.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
   </ItemGroup>

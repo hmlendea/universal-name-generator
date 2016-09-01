@@ -53,14 +53,14 @@ namespace UniversalNameGenerator.Views
             {
                 List<string> wordlist = new List<string>(File.ReadAllLines(
                     Path.Combine(MainClass.ApplicationDirectory, "Languages",
-                        Language.Id, category.Id + "_" + wordlistId + ".txt")));
+                        Language.Id, category.Id, wordlistId + ".txt")));
 
                 wordlists.Add(wordlistId, wordlist);
             }
 
             filters = new List<string>(File.ReadAllLines(
                     Path.Combine(MainClass.ApplicationDirectory, "Languages",
-                        Language.Id, category.Id + "_filters.txt")));
+                        Language.Id, category.Id, "filters.txt")));
 
             for (count = 0; count < 15; count++)
             {
