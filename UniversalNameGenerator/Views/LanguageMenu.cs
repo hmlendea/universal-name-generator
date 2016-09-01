@@ -73,8 +73,12 @@ namespace UniversalNameGenerator.Views
                     if (name.Contains("{" + wordlistId + "}"))
                     {
                         List<string> wordlist = wordlists[wordlistId];
+                        string word = string.Empty;
 
-                        name = name.Replace("{" + wordlistId + "}", wordlist[rnd.Next(0, wordlist.Count)]);
+                        while (string.IsNullOrWhiteSpace(word))
+                            word = wordlist[rnd.Next(0, wordlist.Count)];
+
+                        name = name.Replace("{" + wordlistId + "}", word);
                     }
                 
                 if (!NameIsValid(name, filters))
@@ -98,6 +102,9 @@ namespace UniversalNameGenerator.Views
         /// <param name="filters">Filters.</param>
         bool NameIsValid(string name, List<string> filters)
         {
+            if (string.IsNullOrWhiteSpace(name))
+                return false;
+
             foreach (string pattern in filters)
                 if (Regex.IsMatch(name, pattern))
                     return false;
