@@ -36,6 +36,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Controllers\LanguageController.cs" />
+    <Compile Include="Models\Category.cs" />
     <Compile Include="Models\EntityBase.cs" />
     <Compile Include="Models\Language.cs" />
     <Compile Include="Program.cs" />
@@ -50,9 +51,7 @@
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ItemGroup />
-  <ItemGroup>
-    <Folder Include="Languages\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <Content Include="Languages\Languages.xml">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>

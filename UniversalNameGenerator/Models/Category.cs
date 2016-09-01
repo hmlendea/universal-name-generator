@@ -4,9 +4,9 @@ using System.ComponentModel.DataAnnotations;
 namespace UniversalNameGenerator.Models
 {
     /// <summary>
-    /// Language.
+    /// Category.
     /// </summary>
-    public class Language : EntityBase
+    public class Category : EntityBase
     {
         /// <summary>
         /// Gets or sets the name.
@@ -16,10 +16,10 @@ namespace UniversalNameGenerator.Models
         public string Name { get; set; }
 
         /// <summary>
-        /// Gets or sets the categories.
+        /// Gets or sets the wordlists.
         /// </summary>
-        /// <value>The categories.</value>
+        /// <value>The wordlists.</value>
         [MaxLength(20)]
-        public List<Category> Categories { get; set; }
+        public List<string> Wordlists { get; set; }
     }
 }
