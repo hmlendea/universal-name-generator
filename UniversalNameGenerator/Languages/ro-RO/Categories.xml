@@ -10,4 +10,13 @@
     </Wordlists>
     <GenerationSchema>{bases}{suffixes}</GenerationSchema>
   </Category>
+  <Category>
+    <Id>person-male</Id>
+    <Name>Male names</Name>
+    <Wordlists>
+      <string>firstnames</string>
+      <string>surnames</string>
+    </Wordlists>
+    <GenerationSchema>{firstnames} {surnames}</GenerationSchema>
+  </Category>
 </ArrayOfCategory>
