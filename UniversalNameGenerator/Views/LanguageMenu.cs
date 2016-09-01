@@ -5,6 +5,7 @@ using System.Globalization;
 using System.Text.RegularExpressions;
 
 using UniversalNameGenerator.Models;
+using UniversalNameGenerator.Controllers;
 
 namespace UniversalNameGenerator.Views
 {
@@ -13,7 +14,8 @@ namespace UniversalNameGenerator.Views
     /// </summary>
     public class LanguageMenu : Menu
     {
-        List<string> settlementBases, settlementSuffixes, settlementFilters;
+        CategoryController categoryController;
+        List<string> wordlistBases, wordlistSuffixes, wordlistFilters;
 
         /// <summary>
         /// Gets the language.
@@ -31,23 +33,27 @@ namespace UniversalNameGenerator.Views
             Title = "Universal Name Generator [" + Language.Name + "]";
             Prompt = Language.Id + " > ";
 
-            AddCommand("settlements", "Generate 15 settlement names", GenerateSettlementNames);
+            categoryController = new CategoryController(Language);
+
+            foreach (Category category in categoryController.GetAll())
+                AddCommand(category.Id, "Generate 15 " + category.Name.ToLower(), delegate { GenerateNames(category); });
         }
 
         /// <summary>
-        /// Generates 15 settlement names.
+        /// Generates settlement names.
         /// </summary>
-        void GenerateSettlementNames()
+        /// <param name="category">Category.</param>
+        void GenerateNames(Category category)
         {
             Random rnd = new Random();
             int count;
 
-            LoadWordLists();
+            LoadWordLists(category);
 
             for (count = 0; count < 15; count++)
             {
-                string nameBase = settlementBases[rnd.Next(0, settlementBases.Count)].ToLower();
-                string nameSuffix = settlementSuffixes[rnd.Next(0, settlementSuffixes.Count)].ToLower();
+                string nameBase = wordlistBases[rnd.Next(0, wordlistBases.Count)].ToLower();
+                string nameSuffix = wordlistSuffixes[rnd.Next(0, wordlistSuffixes.Count)].ToLower();
                 string name = nameBase + nameSuffix;
 
                 if (nameBase[nameBase.Length - 1] == nameSuffix[0])
@@ -69,19 +75,20 @@ namespace UniversalNameGenerator.Views
         /// <summary>
         /// Loads the word lists.
         /// </summary>
-        void LoadWordLists()
+        /// <param name="category">Category.</param>
+        void LoadWordLists(Category category)
         {
-            settlementBases = new List<string>(File.ReadAllLines(
+            wordlistBases = new List<string>(File.ReadAllLines(
                     Path.Combine(MainClass.ApplicationDirectory, "Languages",
-                        Language.Id, "settlement_bases.txt")));
+                        Language.Id, category.Id + "_bases.txt")));
             
-            settlementSuffixes = new List<string>(File.ReadAllLines(
+            wordlistSuffixes = new List<string>(File.ReadAllLines(
                     Path.Combine(MainClass.ApplicationDirectory, "Languages",
-                        Language.Id, "settlement_suffixes.txt")));
+                        Language.Id, category.Id + "_suffixes.txt")));
             
-            settlementFilters = new List<string>(File.ReadAllLines(
+            wordlistFilters = new List<string>(File.ReadAllLines(
                     Path.Combine(MainClass.ApplicationDirectory, "Languages",
-                        Language.Id, "settlement_filters.txt")));
+                        Language.Id, category.Id + "_filters.txt")));
         }
 
         /// <summary>
@@ -91,7 +98,7 @@ namespace UniversalNameGenerator.Views
         /// <param name="name">Name.</param>
         bool SettlementNameIsValid(string name)
         {
-            foreach (string pattern in settlementFilters)
+            foreach (string pattern in wordlistFilters)
                 if (Regex.IsMatch(name, pattern))
                     return false;
 
