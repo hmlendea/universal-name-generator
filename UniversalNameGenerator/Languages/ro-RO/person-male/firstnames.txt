@@ -30,6 +30,7 @@ Costin
 Cozma
 Cristian
 Cristofor
+Dacian
 Daniel
 Darius
 David
@@ -52,6 +53,7 @@ Gavril
 Gelu
 George
 Gheorghe
+Ghita
 Glad
 Grigore
 Horatiu
@@ -67,6 +69,7 @@ Iorghu
 Iosif
 Iulian
 Iuliu
+Laur
 Laurentiu
 Laviniu
 Liviu
@@ -97,10 +100,9 @@ Petrica
 Petru
 Radu
 Rares
+Raul
 Razvan
 Robert
-Robert
-Sandu
 Sandu
 Sebastian
 Serban
