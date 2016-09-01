@@ -35,11 +35,14 @@ namespace UniversalNameGenerator.Views
             categoryController = new CategoryController(Language);
 
             foreach (Category category in categoryController.GetAll())
-                AddCommand(category.Id, "Generate 15 " + category.Name.ToLower(), delegate { GenerateNames(category); });
+                AddCommand(category.Id, "Generate 15 " + category.Name.ToLower(), delegate
+                    {
+                        GenerateNames(category);
+                    });
         }
 
         /// <summary>
-        /// Generates settlement names.
+        /// Generates names for the specified category.
         /// </summary>
         /// <param name="category">Category.</param>
         void GenerateNames(Category category)
@@ -49,11 +52,11 @@ namespace UniversalNameGenerator.Views
             Random rnd = new Random();
             int count;
 
-            foreach(string wordlistId in category.Wordlists)
+            foreach (string wordlistId in category.Wordlists)
             {
                 List<string> wordlist = new List<string>(File.ReadAllLines(
-                    Path.Combine(MainClass.ApplicationDirectory, "Languages",
-                        Language.Id, category.Id, wordlistId + ".txt")));
+                                                Path.Combine(MainClass.ApplicationDirectory, "Languages",
+                                                    Language.Id, category.Id, wordlistId + ".txt")));
 
                 wordlists.Add(wordlistId, wordlist);
             }
@@ -74,7 +77,7 @@ namespace UniversalNameGenerator.Views
                         name = name.Replace("{" + wordlistId + "}", wordlist[rnd.Next(0, wordlist.Count)]);
                     }
                 
-                if (!SettlementNameIsValid(name, filters))
+                if (!NameIsValid(name, filters))
                 {
                     count -= 1;
                     continue;
@@ -88,12 +91,12 @@ namespace UniversalNameGenerator.Views
         }
 
         /// <summary>
-        /// Determines whether the settlement name is valid based on a list of filters.
+        /// Determines whether the name is valid, based on a list of filters.
         /// </summary>
-        /// <returns><c>true</c> if the settlement name is valid; otherwise, <c>false</c>.</returns>
+        /// <returns><c>true</c> if the name is valid; otherwise, <c>false</c>.</returns>
         /// <param name="name">Name.</param>
         /// <param name="filters">Filters.</param>
-        bool SettlementNameIsValid(string name, List<string> filters)
+        bool NameIsValid(string name, List<string> filters)
         {
             foreach (string pattern in filters)
                 if (Regex.IsMatch(name, pattern))
