@@ -8,5 +8,6 @@
       <string>filters</string>
       <string>suffixes</string>
     </Wordlists>
+    <GenerationSchema>{bases}{suffixes}</GenerationSchema>
   </Category>
 </ArrayOfCategory>
