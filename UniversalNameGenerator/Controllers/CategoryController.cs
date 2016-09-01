@@ -13,8 +13,16 @@ namespace UniversalNameGenerator.Controllers
     {
         readonly string repositoryFilePath;
 
+        /// <summary>
+        /// Gets the language.
+        /// </summary>
+        /// <value>The language.</value>
         public Language Language { get; private set; }
 
+        /// <summary>
+        /// Initializes a new instance of the <see cref="UniversalNameGenerator.Controllers.CategoryController"/> class.
+        /// </summary>
+        /// <param name="language">Language.</param>
         public CategoryController(Language language)
         {
             Language = language;
@@ -23,9 +31,9 @@ namespace UniversalNameGenerator.Controllers
         }
 
         /// <summary>
-        /// Adds the Category.
+        /// Adds the category.
         /// </summary>
-        /// <returns>The Category.</returns>
+        /// <returns>The category.</returns>
         /// <param name="id">Identifier.</param>
         /// <param name="name">Name.</param>
         /// <param name="wordlists">Wordlists.</param>
@@ -44,9 +52,9 @@ namespace UniversalNameGenerator.Controllers
         }
 
         /// <summary>
-        /// Gets the Category by identifier.
+        /// Gets the category by identifier.
         /// </summary>
-        /// <returns>The Category by identifier.</returns>
+        /// <returns>The category.</returns>
         /// <param name="id">Identifier.</param>
         public Category Get(string id)
         {
@@ -56,7 +64,7 @@ namespace UniversalNameGenerator.Controllers
         }
 
         /// <summary>
-        /// Gets all Categorys.
+        /// Gets all categories.
         /// </summary>
         /// <returns>The Categorys.</returns>
         public List<Category> GetAll()
