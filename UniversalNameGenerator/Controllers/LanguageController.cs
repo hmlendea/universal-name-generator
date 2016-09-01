@@ -20,7 +20,7 @@ namespace UniversalNameGenerator.Controllers
         /// <param name="id">Identifier.</param>
         /// <param name="name">Name.</param>
         /// <param name="categories">Categories.</param>
-        public void Create(string id, string name, List<string> categories)
+        public void Create(string id, string name, List<Category> categories)
         {
             RepositoryXml<Language> repository = new RepositoryXml<Language>(repositoryFilePath);
             Language Language = new Language
@@ -63,7 +63,7 @@ namespace UniversalNameGenerator.Controllers
         /// <param name="id">Identifier.</param>
         /// <param name="name">Name.</param>
         /// <param name="categories">Categories.</param>
-        public void Modify(string id, string name, List<string> categories)
+        public void Modify(string id, string name, List<Category> categories)
         {
             RepositoryXml<Language> repository = new RepositoryXml<Language>(repositoryFilePath);
             Language Language = repository.Get(id);
