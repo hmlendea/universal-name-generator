@@ -33,6 +33,7 @@ dg
 ds
 dt
 eai
+fs
 gc
 grv
 gv
@@ -105,6 +106,8 @@ nenu
 ntant
 paid
 rogr
+rse
+rso
 sins
 sosa
 cinso
@@ -145,6 +148,7 @@ rva$
 scea$
 sid$
 siu$
+svita$
 tva$
 uau$
 urus$
