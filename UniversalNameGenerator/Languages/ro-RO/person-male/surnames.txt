@@ -69,6 +69,7 @@ Birladeanu
 Birsan
 Blaga
 Blajan
+Blandiana
 Boboc
 Bobu
 Boc
@@ -314,6 +315,7 @@ Gogean
 Goian
 Goldis
 Golea
+Gradinaru
 Graur
 Grecu
 Grigorescu
