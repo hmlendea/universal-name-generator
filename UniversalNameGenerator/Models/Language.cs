@@ -14,12 +14,5 @@ namespace UniversalNameGenerator.Models
         /// <value>The name.</value>
         [MaxLength(20)]
         public string Name { get; set; }
-
-        /// <summary>
-        /// Gets or sets the categories.
-        /// </summary>
-        /// <value>The categories.</value>
-        [MaxLength(20)]
-        public List<Category> Categories { get; set; }
     }
 }
