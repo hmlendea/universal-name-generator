@@ -12,7 +12,16 @@
   </Category>
   <Category>
     <Id>person-male</Id>
-    <Name>Male names</Name>
+    <Name>Male person names</Name>
+    <Wordlists>
+      <string>firstnames</string>
+      <string>surnames</string>
+    </Wordlists>
+    <GenerationSchema>{firstnames} {surnames}</GenerationSchema>
+  </Category>
+  <Category>
+    <Id>person-female</Id>
+    <Name>Female person names</Name>
     <Wordlists>
       <string>firstnames</string>
       <string>surnames</string>
