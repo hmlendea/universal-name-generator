@@ -21,10 +21,10 @@ Camelia
 Carina
 Carla
 Carmen
-Catalina
+Cătălina
 Claudia
-Codruta
-Constanta
+Codruța
+Constanța
 Corina
 Cornelia
 Cosmina
@@ -69,9 +69,9 @@ Lidia
 Livia
 Loredana
 Luciana
-Lucretia
-Luminita
-Madalina
+Lucreția
+Luminița
+Mădălina
 Magda
 Magdalena
 Maia
@@ -84,7 +84,8 @@ Marilena
 Marina
 Marinela
 Marioara
-Mariuca
+Mărioara
+Măriuca
 Marta
 Mihaela
 Milena
@@ -122,8 +123,8 @@ Simona
 Sofia
 Sonia
 Sorina
-Stefana
-Stefania
+Ștefana
+Ștefania
 Stela
 Tamara
 Tatiana
@@ -134,5 +135,5 @@ Valerica
 Veronica
 Victoria
 Viorica
-Voichita
+Voichița
 Zeina
