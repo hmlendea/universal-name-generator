@@ -1,6 +1,7 @@
 ﻿Adamache
 Adameșteanu
 Adamuț
+Adămuț
 Adrianescu
 Agache
 Albescu
@@ -33,6 +34,7 @@ Ardeleanu
 Arghezi
 Argintaru
 Atanasiu
+Augustin
 Averescu
 Avram
 Avramescu
@@ -53,6 +55,7 @@ Baltag
 Ban
 Banciu
 Bănică
+Banuț
 Bar
 Barbu
 Bărceanu
@@ -61,7 +64,9 @@ Bârlădeanu
 Barnuțiu
 Basarab
 Basarabeanu
+Băsărăbeanu
 Basarabescu
+Băsărăbescu
 Băsescu
 Bătrân
 Begu
@@ -71,6 +76,8 @@ Belu
 Bendeac
 Bengescu
 Berce
+Berceanu
+Berea
 Berinde
 Bihoreanu
 Bîrladeanu
@@ -84,18 +91,22 @@ Bobu
 Boc
 Boca
 Bocean
+Bocșan
 Bocuțiu
 Boeriu
 Boga
 Bogdănescu
 Bogza
 Boian
+Boiculese
 Boldijar
 Boloca
 Bolojan
+Bolovăneanu
 Bolovănescu
 Bondar
 Bordea
+Borha
 Borilă
 Borșan
 Botezatu
@@ -132,6 +143,7 @@ Butnaru
 Butuc
 Cacovean
 Călinescu
+Călugăr
 Călugăreanu
 Călugărescu
 Călugăru
@@ -189,6 +201,7 @@ Codarcea
 Codrea
 Codreanu
 Codrescu
+Cojan
 Cojoc
 Cojocariu
 Cojocaru
@@ -206,6 +219,7 @@ Corbu
 Corda
 Cornea
 Corneanu
+Coroiu
 Coșbuc
 Coste
 Costea
@@ -251,6 +265,7 @@ Diacon
 Diaconescu
 Diaconu
 Dică
+Dima
 Dimitrescu
 Dincu
 Dinescu
@@ -271,6 +286,7 @@ Drăghici
 Drăghinescu
 Dragnea
 Drăgoi
+Dragu
 Ducă
 Duică
 Dulgheru
@@ -292,6 +308,7 @@ Fieraru
 Filimon
 Filimonescu
 Filip
+Filipaș
 Filipescu
 Flămând
 Floare
@@ -339,6 +356,7 @@ Grădinaru
 Graur
 Grecu
 Grigorescu
+Grigoroiu
 Grivei
 Groparu
 Grosu
@@ -367,6 +385,7 @@ Iancu
 Iaru
 Iederan
 Iftimia
+Ilea
 Ilie
 Ilieș
 Iliescu
@@ -381,6 +400,7 @@ Isărescu
 Ispirescu
 Istrate
 Iuga
+Iurașcu
 Iureș
 Ivănescu
 Ivașcu
@@ -415,6 +435,7 @@ Lupean
 Lupescu
 Lupșe
 Lupu
+Macaru
 Machin
 Macinic
 Macovei
@@ -433,7 +454,9 @@ Mărgelaru
 Mărginean
 Mărgineanu
 Marian
+Marincaș
 Martinescu
+Marton
 Mârza
 Mateescu
 Matei
@@ -626,6 +649,7 @@ Retegan
 Roman
 Roșca
 Roșu
+Rotar
 Rotaru
 Rozeanu
 Rus
@@ -667,7 +691,9 @@ Stanciu
 Stancu
 Stănescu
 Stăniloae
+Stăniloaie
 Ștefănescu
+Ștefu
 Stegerean
 Stelea
 Sticlaru
@@ -683,11 +709,13 @@ Suciu
 Surdu
 Tabarcea
 Tamaș
+Tămaș
 Tănase
 Tănăsescu
 Tarcău
 Tarcea
 Tăriceanu
+Tătăran
 Tătărescu
 Tătărușanu
 Tecău
@@ -707,13 +735,16 @@ Toader
 Tocut
 Todea
 Todoruț
+Toma
 Tomescu
 Tonciu
 Topârceanu
 Topîrceanu
 Trahanache
 Traistă
+Trâmbițaș
 Trifu
+Trîmbițaș
 Tudorescu
 Tudoroiu
 Tudose
@@ -755,6 +786,8 @@ Viziru
 Vladimirescu
 Vlah
 Vlaicu
+Vlăsceanu
+Vlascu
 Vodă
 Voicu
 Voiculescu
@@ -764,6 +797,7 @@ Voinic
 Vrabie
 Vrânceanu
 Vulpe
+Vultur
 Zaharia
 Zamfir
 Zelea
