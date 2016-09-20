@@ -60,33 +60,33 @@
     <Content Include="Languages\ro-RO\Categories.xml">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="Languages\ro-RO\person-female\filters.txt">
+    <Content Include="Languages\ro-RO\persons_filters.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="Languages\ro-RO\person-female\firstnames.txt">
+    <Content Include="Languages\ro-RO\persons_females.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="Languages\ro-RO\person-female\surnames.txt">
+    <Content Include="Languages\ro-RO\persons_surnames.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="Languages\ro-RO\person-male\filters.txt">
+    <Content Include="Languages\ro-RO\persons_males.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="Languages\ro-RO\person-male\firstnames.txt">
+    <Content Include="Languages\ro-RO\settlements_bases.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="Languages\ro-RO\person-male\surnames.txt">
+    <Content Include="Languages\ro-RO\settlements_suffixes.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
   </ItemGroup>
   <ItemGroup>
-    <None Include="Languages\ro-RO\settlement\bases.txt">
+    <None Include="Languages\ro-RO\persons_bases.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Include="Languages\ro-RO\settlement\filters.txt">
+    <None Include="Languages\ro-RO\settlements_filters.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Include="Languages\ro-RO\settlement\suffixes.txt">
+    <None Include="Languages\ro-RO\persons_suffixes.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
   </ItemGroup>
