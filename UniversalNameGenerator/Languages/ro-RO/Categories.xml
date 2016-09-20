@@ -3,29 +3,32 @@
   <Category>
     <Id>settlement</Id>
     <Name>Settlement names</Name>
+    <Filterlist>settlements_filters</Filterlist>
     <Wordlists>
-      <string>bases</string>
-      <string>filters</string>
-      <string>suffixes</string>
+      <string>settlements_bases</string>
+      <string>settlements_filters</string>
+      <string>settlements_suffixes</string>
     </Wordlists>
-    <GenerationSchema>{bases}{suffixes}</GenerationSchema>
+    <GenerationSchema>{settlements_bases}{settlements_suffixes}</GenerationSchema>
   </Category>
   <Category>
-    <Id>person-male</Id>
+    <Id>persons-male</Id>
     <Name>Male person names</Name>
+    <Filterlist>persons_filters</Filterlist>
     <Wordlists>
-      <string>firstnames</string>
-      <string>surnames</string>
+      <string>persons_males</string>
+      <string>persons_surnames</string>
     </Wordlists>
-    <GenerationSchema>{firstnames} {surnames}</GenerationSchema>
+    <GenerationSchema>{persons_males} {persons_surnames}</GenerationSchema>
   </Category>
   <Category>
-    <Id>person-female</Id>
-    <Name>Female person names</Name>
+    <Id>persons-female</Id>
+    <Name>Female persons names</Name>
+    <Filterlist>persons_filters</Filterlist>
     <Wordlists>
-      <string>firstnames</string>
-      <string>surnames</string>
+      <string>persons_females</string>
+      <string>persons_surnames</string>
     </Wordlists>
-    <GenerationSchema>{firstnames} {surnames}</GenerationSchema>
+    <GenerationSchema>{persons_females} {persons_surnames}</GenerationSchema>
   </Category>
 </ArrayOfCategory>
