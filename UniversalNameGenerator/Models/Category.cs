@@ -16,9 +16,9 @@ namespace UniversalNameGenerator.Models
         public string Name { get; set; }
 
         /// <summary>
-        /// Gets or sets the wordlists.
+        /// Gets or sets the path to the wordlists.
         /// </summary>
-        /// <value>The wordlists.</value>
+        /// <value>The wordlists paths.</value>
         [MaxLength(20)]
         public List<string> Wordlists { get; set; }
 
@@ -28,5 +28,11 @@ namespace UniversalNameGenerator.Models
         /// <value>The generation schema.</value>
         [MaxLength(60)]
         public string GenerationSchema { get; set; }
+
+        /// <summary>
+        /// Gets or sets the path to the filterlist.
+        /// </summary>
+        /// <value>The filterlist path.</value>
+        public string Filterlist { get; set; }
     }
 }
