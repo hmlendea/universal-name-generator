@@ -1,4 +1,7 @@
-﻿using System.IO;
+﻿using System;
+using System.Text.RegularExpressions;
+using System.Globalization;
+using System.IO;
 using System.Collections.Generic;
 
 using UniversalNameGenerator.Models;
@@ -98,6 +101,74 @@ namespace UniversalNameGenerator.Controllers
             RepositoryXml<Category> repository = new RepositoryXml<Category>(repositoryFilePath);
 
             repository.Remove(id);
+        }
+
+        /// <summary>
+        /// Generates a name.
+        /// </summary>
+        /// <param name="id">Category identifier.</param>
+        public string GenerateName(string id)
+        {
+            RepositoryXml<Category> repository = new RepositoryXml<Category>(repositoryFilePath);
+            Category category = repository.Get(id);
+
+            List<string> filters;
+            Dictionary<string, List<string>> wordlists = new Dictionary<string, List<string>>();
+            Random rnd = new Random();
+            string name = string.Empty;
+
+            foreach (string wordlistId in category.Wordlists)
+            {
+                List<string> wordlist = new List<string>(File.ReadAllLines(
+                                                Path.Combine(MainClass.ApplicationDirectory, "Languages",
+                                                    Language.Id, wordlistId + ".txt")));
+
+                wordlists.Add(wordlistId, wordlist);
+            }
+
+            filters = new List<string>(File.ReadAllLines(
+                    Path.Combine(MainClass.ApplicationDirectory, "Languages",
+                        Language.Id, category.Filterlist + ".txt")));
+            
+            while (!NameIsValid(name, filters))
+            {
+                name = category.GenerationSchema;
+
+                foreach (string wordlistId in wordlists.Keys)
+                    if (name.Contains("{" + wordlistId + "}"))
+                    {
+                        List<string> wordlist = wordlists[wordlistId];
+                        string word = string.Empty;
+
+                        while (string.IsNullOrWhiteSpace(word))
+                            word = wordlist[rnd.Next(wordlist.Count)];
+
+                        name = name.Replace("{" + wordlistId + "}", word);
+                    }
+
+                // Capitalization
+                name = CultureInfo.GetCultureInfo("ro-RO").TextInfo.ToTitleCase(name);
+            }
+
+            return name;
+        }
+
+        /// <summary>
+        /// Determines whether the name is valid, based on a list of filters.
+        /// </summary>
+        /// <returns><c>true</c> if the name is valid; otherwise, <c>false</c>.</returns>
+        /// <param name="name">Name.</param>
+        /// <param name="filters">Filters.</param>
+        bool NameIsValid(string name, List<string> filters)
+        {
+            if (string.IsNullOrWhiteSpace(name))
+                return false;
+
+            foreach (string pattern in filters)
+                if (Regex.IsMatch(name, pattern))
+                    return false;
+
+            return true;
         }
     }
 }
