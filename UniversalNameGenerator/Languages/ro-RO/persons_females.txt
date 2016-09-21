@@ -40,6 +40,7 @@ Denisa
 Diana
 Dochia
 Doina
+Dora
 Dorina
 Ecaterina
 Elena
@@ -68,10 +69,13 @@ Lavinia
 Leontina
 Liana
 Lidia
+Ligia
+Liliana
 Livia
 Loredana
 Luciana
 Lucreția
+Luiza
 Luminița
 Mădălina
 Magda
@@ -111,6 +115,7 @@ Otilia
 Patricia
 Paula
 Petra
+Petruța
 Raluca
 Ramona
 Roberta
