@@ -42,13 +42,13 @@ Bab
 Baciu
 Bacovia
 Badea
-Badescu
+Bădescu
 Baghiu
 Baiu
 Bălăceanu
 Bălan
-Bălaneanu
-Bălanescu
+Bălăneanu
+Bălănescu
 Balc
 Bălcescu
 Balint
@@ -137,7 +137,7 @@ Buhai
 Bumbescu
 Bunău
 Bunea
-Burca
+Burcă
 Burlacu
 Busuioc
 Butacu
