@@ -45,6 +45,7 @@ Badea
 Badescu
 Baghiu
 Baiu
+Bălăceanu
 Bălan
 Bălaneanu
 Bălanescu
@@ -72,6 +73,7 @@ Bătrân
 Begu
 Beldean
 Belea
+Beleanu
 Belu
 Bendeac
 Bengescu
@@ -117,6 +119,7 @@ Bradea
 Brăileanu
 Brâncoveanu
 Brâncuși
+Brănescu
 Brânză
 Brașoveanu
 Brătianu
@@ -139,6 +142,7 @@ Burlacu
 Busuioc
 Butacu
 Bute
+Butnariu
 Butnaru
 Butuc
 Cacovean
@@ -166,6 +170,7 @@ Cernat
 Cernea
 Chelaru
 Chelu
+Chesăuan
 Chiorean
 Chiriac
 Chirilă
@@ -231,6 +236,7 @@ Covaci
 Cozma
 Crăciun
 Crăciunaș
+Crăciunean
 Crainic
 Craioveanu
 Cravă
@@ -251,6 +257,7 @@ Cumpănas
 Cuza
 Dâlcă
 Damian
+Danciu
 Dascăl
 Dăscălescu
 Dascălu
@@ -267,6 +274,7 @@ Dică
 Dima
 Dimitrescu
 Dincu
+Dincuță
 Dinescu
 Dinică
 Dinu
@@ -329,7 +337,10 @@ Gâlcă
 Gale
 Ganea
 Gavrilă
+Gavrilescu
 Gavriliu
+Gavriloae
+Gavriolaie
 Geoana
 Georgescu
 Gheorghe
@@ -341,6 +352,7 @@ Ghică
 Ghilescu
 Ghimpu
 Ghiu
+Gilăuan
 Gioșan
 Giurescu
 Giurgiu
@@ -384,6 +396,7 @@ Iancu
 Iaru
 Iederan
 Iftimia
+Iga
 Ilea
 Ilie
 Ilieș
@@ -465,6 +478,8 @@ Melinescu
 Mergea
 Merisanu
 Merișescu
+Micle
+Miclea
 Micu
 Micula
 Mihăilescu
@@ -598,6 +613,7 @@ Pitaru
 Piteșteanu
 Pițurcă
 Pituț
+Pleșa
 Pleșu
 Ploieșteanu
 Podar
@@ -627,6 +643,7 @@ Prunaru
 Prunea
 Pruteanu
 Puiu
+Purdea
 Puscaș
 Pușcașu
 Racoviță
@@ -751,6 +768,7 @@ Tulea
 Turcanu
 Turcescu
 Turcu
+Turian
 Țuțea
 Udrea
 Ungur
@@ -774,6 +792,7 @@ Vasilescu
 Vasiliu
 Vasluianu
 Vereș
+Vesa
 Vianu
 Vidican
 Vieru
