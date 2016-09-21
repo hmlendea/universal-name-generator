@@ -15,6 +15,7 @@ namespace UniversalNameGenerator.Controllers
     public class CategoryController
     {
         readonly string repositoryFilePath;
+        readonly Random rnd;
 
         /// <summary>
         /// Gets the language.
@@ -31,6 +32,7 @@ namespace UniversalNameGenerator.Controllers
             Language = language;
 
             repositoryFilePath = Path.Combine(MainClass.ApplicationDirectory, "Languages", Language.Id, "Categories.xml");
+            rnd = new Random();
         }
 
         /// <summary>
@@ -114,7 +116,6 @@ namespace UniversalNameGenerator.Controllers
 
             List<string> filters;
             Dictionary<string, List<string>> wordlists = new Dictionary<string, List<string>>();
-            Random rnd = new Random();
             string name = string.Empty;
 
             foreach (string wordlistId in category.Wordlists)
@@ -137,11 +138,10 @@ namespace UniversalNameGenerator.Controllers
                 foreach (string wordlistId in wordlists.Keys)
                     if (name.Contains("{" + wordlistId + "}"))
                     {
-                        List<string> wordlist = wordlists[wordlistId];
                         string word = string.Empty;
 
                         while (string.IsNullOrWhiteSpace(word))
-                            word = wordlist[rnd.Next(wordlist.Count)];
+                            word = wordlists[wordlistId][rnd.Next(wordlists[wordlistId].Count)];
 
                         name = name.Replace("{" + wordlistId + "}", word);
                     }
