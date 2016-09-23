@@ -141,6 +141,7 @@ Burcă
 Burlacu
 Busuioc
 Butacu
+Butan
 Bute
 Butnariu
 Butnaru
@@ -193,6 +194,7 @@ Ciorbă
 Ciorogariu
 Cioroianu
 Cios
+Cipcigan
 Cîrstea
 Ciubotaru
 Ciufudean
@@ -430,8 +432,10 @@ Lefter
 Lemnaru
 Lenga
 Leonte
+Lesenciuc
 Leu
 Leucuța
+Lincu
 Lipa
 Lipan
 Loghin
@@ -486,6 +490,7 @@ Mihăilescu
 Mihalache
 Mihalcea
 Mihoc
+Mihu
 Mihuța
 Milescu
 Mincu
@@ -514,6 +519,7 @@ Moroșanu
 Moț
 Mugurescu
 Muntean
+Murariu
 Murea
 Mureșan
 Mureșanu
@@ -548,6 +554,7 @@ Niculiță
 Nisipeanu
 Nistor
 Oancea
+Oatu
 Olar
 Olaru
 Oltean
