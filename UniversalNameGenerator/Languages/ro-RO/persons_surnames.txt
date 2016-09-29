@@ -22,6 +22,7 @@ Andronache
 Anghel
 Anghelache
 Anghelescu
+Angheluță
 Aniței
 Antonescu
 Apostol
@@ -33,6 +34,7 @@ Ardelean
 Ardeleanu
 Arghezi
 Argintaru
+Armașu
 Atanasiu
 Augustin
 Averescu
@@ -69,6 +71,7 @@ Băsărăbeanu
 Basarabescu
 Băsărăbescu
 Băsescu
+Bâtă
 Bătrân
 Begu
 Beldean
@@ -219,6 +222,7 @@ Comănescu
 Constănțeanu
 Constantin
 Constantinescu
+Copaciu
 Copil
 Coposu
 Corbeanu
@@ -244,6 +248,7 @@ Craioveanu
 Cravă
 Creangă
 Cretu
+Crețu
 Crișan
 Cristea
 Cristescu
@@ -252,6 +257,7 @@ Crivăț
 Crivei
 Croitor
 Croitoru
+Crudu
 Cucicea
 Culgheru
 Culianu
@@ -307,10 +313,12 @@ Duță
 Eliade
 Eminescu
 Enache
+Enea
 Enescu
 Epureanu
 Farcaș
 Farcașianu
+Faur
 Felea
 Feneșan
 Fieraru
@@ -329,6 +337,7 @@ Florișteanu
 Focșeanu
 Frătean
 Frumos
+Frumușanu
 Funar
 Furcă
 Gabor
@@ -387,6 +396,8 @@ Hașdeu
 Hațieganu
 Herăscu
 Herea
+Hodrea
+Hosu
 Hudea
 Huidu
 Hunedoreanu
@@ -394,11 +405,13 @@ Huțu
 Huțupan
 Iacob
 Iacobescu
+Iacoviță
 Iancu
 Iaru
 Iederan
 Iftimia
 Iga
+Ilaș
 Ilea
 Ilie
 Ilieș
@@ -668,6 +681,7 @@ Răuț
 Rebengiuc
 Rebreanu
 Retegan
+Rogojan
 Roman
 Roșca
 Roșu
@@ -685,7 +699,9 @@ Sălăgeanu
 Sălăjean
 Sălăjeanu
 Săndulescu
+Șanta
 Sărac
+Sârb
 Sas
 Sav
 Sava
@@ -701,6 +717,7 @@ Sima
 Simionescu
 Sircă
 Slavici
+Socol
 Somesan
 Someșanu
 Sorescu
@@ -791,6 +808,8 @@ Urziceanu
 Văcărescu
 Văduvă
 Vaina
+Vălean
+Valentin
 Vancea
 Vancu
 Vântu
@@ -808,6 +827,7 @@ Vișan
 Vișinescu
 Viziru
 Vladimirescu
+Vlăducu
 Vlah
 Vlaicu
 Vlăsceanu
