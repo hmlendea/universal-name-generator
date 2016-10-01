@@ -1,9 +1,10 @@
-﻿Adela
+Adela
 Adelina
 Adriana
 Agneta
 Alexandra
 Alina
+Alisia
 Amalia
 Amelia
 Ana
@@ -21,7 +22,7 @@ Camelia
 Carina
 Carla
 Carmen
-Cătălina
+Clara
 Claudia
 Codruța
 Constanța
@@ -30,6 +31,7 @@ Cornelia
 Cosmina
 Cristiana
 Cristina
+Cătălina
 Daciana
 Dalina
 Dana
@@ -44,6 +46,7 @@ Dora
 Dorina
 Ecaterina
 Elena
+Elisabeta
 Elvira
 Emanuela
 Emilia
@@ -77,7 +80,6 @@ Luciana
 Lucreția
 Luiza
 Luminița
-Mădălina
 Magda
 Magdalena
 Maia
@@ -90,8 +92,6 @@ Marilena
 Marina
 Marinela
 Marioara
-Mărioara
-Măriuca
 Marta
 Mihaela
 Milena
@@ -100,6 +100,9 @@ Mirela
 Miruna
 Monica
 Morica
+Mădălina
+Mărioara
+Măriuca
 Nadia
 Nadina
 Narcisa
@@ -131,8 +134,8 @@ Simona
 Sofia
 Sonia
 Sorina
-Ștefana
-Ștefania
+Stefana
+Stefania
 Stela
 Tamara
 Tatiana
@@ -145,3 +148,5 @@ Victoria
 Viorica
 Voichița
 Zeina
+Ștefana
+Ștefania
