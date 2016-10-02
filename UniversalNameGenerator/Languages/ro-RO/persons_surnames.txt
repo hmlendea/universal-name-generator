@@ -12,6 +12,7 @@ Alecsandri
 Alexandrescu
 Almășan
 Alupoaei
+Alupoaiei
 Aluței
 Ambrozie
 Amânar
@@ -733,15 +734,18 @@ Stăncel
 Stănescu
 Stăniloae
 Stăniloaie
+Stănoiu
 Suceveanu
 Suciu
 Surdu
 Sârb
+Sârbu
 Săftoiu
 Sălăgeanu
 Sălăjean
 Sălăjeanu
 Săndulescu
+Săpuneanu
 Sărac
 Tabarcea
 Tamaș
