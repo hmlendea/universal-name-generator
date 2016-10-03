@@ -78,6 +78,7 @@ Blaga
 Blandiana
 Blidaru
 Blăjan
+Bob
 Boboc
 Bobu
 Boc
@@ -156,12 +157,14 @@ Cacovean
 Cantemir
 Caragiale
 Caramitru
+Catana
 Catargiu
 Cazacu
 Cazan
 Ceaușescu
 Celan
 Ceobanu
+Cepoi
 Cercelaru
 Cernat
 Cernea
@@ -203,6 +206,7 @@ Codreanu
 Codrescu
 Cojan
 Cojoc
+Cojocar
 Cojocariu
 Cojocaru
 Cojocean
@@ -214,6 +218,7 @@ Constantinescu
 Constănțeanu
 Copaciu
 Copil
+Copos
 Coposu
 Corbeanu
 Corbu
@@ -223,6 +228,8 @@ Corneanu
 Coroiu
 Coste
 Costea
+Costean
+Costeanu
 Costescu
 Costin
 Cotruș
@@ -242,6 +249,7 @@ Cristoiu
 Crivei
 Crivăț
 Crișan
+Crișanu
 Croitor
 Croitoru
 Crudu
@@ -266,6 +274,7 @@ Călugăreanu
 Călugărescu
 Călugăru
 Cărtărescu
+Cărămidaru
 Damian
 Danciu
 Dascăl
@@ -304,6 +313,7 @@ Drăganu
 Drăghici
 Drăghinescu
 Drăgoi
+Dubleșiu
 Ducă
 Duică
 Dulgheru
@@ -350,18 +360,20 @@ Ganea
 Gavrilescu
 Gavriliu
 Gavriloae
-Gavrilă
 Gavriloaie
+Gavrilă
 Geoana
 Georgescu
 Gheorghe
 Gheorghescu
+Gheorghică
 Gheorghiu
 Gherea
 Gherman
 Ghică
 Ghilescu
 Ghimpu
+Ghiocel
 Ghiu
 Gilăuan
 Gioșan
@@ -383,6 +395,8 @@ Groparu
 Grosu
 Groza
 Grozea
+Grozeanu
+Grozescu
 Grădinaru
 Gușa
 Gâlcă
@@ -530,6 +544,7 @@ Moroșanu
 Moț
 Mugurescu
 Muntean
+Munteanu
 Murariu
 Murea
 Mureșan
@@ -585,11 +600,14 @@ Oprea
 Oprescu
 Opriș
 Oros
+Orz
 Orădeanu
 Palade
 Paleologu
+Pamfilie
 Pantiru
 Pană
+Papară
 Parfene
 Paroș
 Parțoc
@@ -648,6 +666,7 @@ Prunariu
 Prunaru
 Prunea
 Prună
+Prutean
 Pruteanu
 Puiu
 Purdea
@@ -712,6 +731,7 @@ Sircă
 Slavici
 Socol
 Somesan
+Someșan
 Someșanu
 Sorescu
 Sorlea
