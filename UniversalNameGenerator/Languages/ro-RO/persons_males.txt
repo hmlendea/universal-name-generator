@@ -178,6 +178,7 @@ Relu
 Remus
 Robert
 Roman
+Romică
 Sabin
 Sandu
 Sebastian
