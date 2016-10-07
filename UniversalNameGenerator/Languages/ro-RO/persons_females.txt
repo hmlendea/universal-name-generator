@@ -1,5 +1,6 @@
 Adela
 Adelina
+Adina
 Adriana
 Agneta
 Alexandra
@@ -8,6 +9,7 @@ Alisia
 Amalia
 Amelia
 Ana
+Anamaria
 Anca
 Anda
 Andra
@@ -15,7 +17,9 @@ Andrada
 Andreea
 Aneta
 Antonia
+Aura
 Aurelia
+Aurica
 Aurora
 Bianca
 Camelia
@@ -29,6 +33,7 @@ Constanța
 Corina
 Cornelia
 Cosmina
+Crina
 Cristiana
 Cristina
 Cătălina
@@ -58,6 +63,7 @@ Florentina
 Florica
 Florina
 Gabriela
+Geanina
 Georgeta
 Georgiana
 Ileana
@@ -67,15 +73,19 @@ Irina
 Iulia
 Iuliana
 Izabela
+Larisa
 Laura
 Lavinia
+Lenuța
 Leontina
 Liana
 Lidia
 Ligia
 Liliana
+Lisa
 Livia
 Loredana
+Lorena
 Luciana
 Lucreția
 Luiza
@@ -84,6 +94,7 @@ Magda
 Magdalena
 Maia
 Manuela
+Mara
 Marcela
 Margareta
 Maria
@@ -93,6 +104,8 @@ Marina
 Marinela
 Marioara
 Marta
+Melania
+Melisa
 Mihaela
 Milena
 Mioara
@@ -107,6 +120,7 @@ Nadia
 Nadina
 Narcisa
 Natalia
+Nichita
 Nicoleta
 Niculina
 Nina
@@ -118,9 +132,13 @@ Otilia
 Patricia
 Paula
 Petra
+Petronela
 Petruța
+Rafaela
 Raluca
 Ramona
+Rebeca
+Renata
 Roberta
 Rodica
 Roxana
