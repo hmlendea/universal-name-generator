@@ -94,6 +94,7 @@ Belea
 Beleanu
 Beleiu
 Belu
+Bendea
 Bendeac
 Bengescu
 Berbec
@@ -161,6 +162,7 @@ Breban
 Brînza
 Brumaru
 Brustur
+Bucin
 Buciuman
 Bucșa
 Bucur
@@ -229,6 +231,7 @@ Ceaușescu
 Celan
 Ceoban
 Ceobanu
+Ceoca
 Cepoi
 Cercelaru
 Cernat
@@ -456,6 +459,7 @@ Gălăteanu
 Galbază
 Gâlcă
 Gale
+Galea
 Ganea
 Gâșteanu
 Gâștescu
@@ -489,6 +493,7 @@ Godean
 Godeanu
 Goga
 Gogean
+Goia
 Goian
 Goldiș
 Golea
@@ -517,9 +522,11 @@ Hașdeu
 Hațieganu
 Herăscu
 Herea
+Herțeg
 Hodrea
 Hosu
 Hotea
+Hritcu
 Hudea
 Huidu
 Hule
@@ -640,6 +647,7 @@ Melinescu
 Mergea
 Merisanu
 Merișescu
+Merlușcă
 Mermeze
 Micle
 Miclea
@@ -749,6 +757,7 @@ Opriș
 Orădeanu
 Oros
 Orz
+Orza
 Păcurar
 Păcuraru
 Pădurar
@@ -798,7 +807,9 @@ Petrașcu
 Petrea
 Petrean
 Petrescu
+Petric
 Petriceicu
+Petru
 Petruș
 Petrușel
 Petruțiu
@@ -820,6 +831,7 @@ Pituț
 Pivaru
 Pleșa
 Pleșu
+Pletea
 Ploieșteanu
 Podar
 Podariu
@@ -924,6 +936,7 @@ Sima
 Simionescu
 Sircă
 Slavici
+Soare
 Socaciu
 Socol
 Somesan
@@ -996,6 +1009,7 @@ Tilea
 Timiș
 Timișoreanu
 Timofte
+Tincescu
 Țiriac
 Titulescu
 Tivadar
@@ -1113,6 +1127,7 @@ Zăvoian
 Zăvoran
 Zăvoranu
 Zbranca
+Zdrenghia
 Zegreanu
 Zelea
 Zgonea
