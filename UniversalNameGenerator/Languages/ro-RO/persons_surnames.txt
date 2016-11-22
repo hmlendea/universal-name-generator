@@ -158,6 +158,8 @@ Brașovean
 Brașoveanu
 Brașovianu
 Brătianu
+Brătianu
+Bratu
 Breban
 Brînza
 Brumaru
@@ -413,6 +415,7 @@ Duminică
 Dumitrache
 Dumitraș
 Dumitrescu
+Dușa
 Duță
 Eliade
 Eminescu
@@ -460,6 +463,7 @@ Galbază
 Gâlcă
 Gale
 Galea
+Galoș
 Ganea
 Gâșteanu
 Gâștescu
@@ -910,6 +914,7 @@ Sălăgeanu
 Sălăjean
 Sălăjeanu
 Sălcudean
+Șamșodan
 Sână
 Sandu
 Săndulescu
@@ -1033,6 +1038,7 @@ Trifa
 Trifan
 Trifu
 Trîmbițaș
+Trofan
 Tudoran
 Tudorescu
 Tudoroiu
