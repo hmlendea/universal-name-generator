@@ -147,6 +147,7 @@ Bota
 Botezatu
 Botiș
 Boureanu
+Bracaciu
 Brad
 Bradea
 Brăileanu
@@ -157,7 +158,6 @@ Brânză
 Brașovean
 Brașoveanu
 Brașovianu
-Brătianu
 Brătianu
 Bratu
 Breban
@@ -203,6 +203,7 @@ Buzescu
 Buzilă
 Caciulă
 Cacovean
+Cadiș
 Călinescu
 Călugăr
 Călugăreanu
@@ -226,11 +227,13 @@ Cărtărescu
 Căstăian
 Catana
 Catargiu
+Cătinean
 Cazac
 Cazacu
 Cazan
 Ceaușescu
 Celan
+Cenan
 Ceoban
 Ceobanu
 Ceoca
@@ -265,6 +268,7 @@ Ciolacu
 Cionca
 Cioran
 Ciorbă
+Ciorican
 Ciorogariu
 Cioroianu
 Ciortea
@@ -306,6 +310,7 @@ Constantinescu
 Copaciu
 Copciuc
 Copil
+Copindean
 Copos
 Coposu
 Coprean
@@ -318,6 +323,7 @@ Coroian
 Coroiu
 Coșbuc
 Coșofreț
+Costan
 Coste
 Costea
 Costean
@@ -368,6 +374,7 @@ Deac
 Deaconescu
 Decean
 Dej
+Dejeu
 Delean
 Deleanu
 Demian
@@ -465,6 +472,7 @@ Gale
 Galea
 Galoș
 Ganea
+Ganga
 Gâșteanu
 Gâștescu
 Gavrilă
@@ -485,6 +493,7 @@ Ghică
 Ghilescu
 Ghimpu
 Ghiocel
+Ghițea
 Ghiu
 Ghiurea
 Gilăuan
@@ -506,6 +515,7 @@ Graur
 Grecu
 Grigoraș
 Grigorescu
+Grigoriu
 Grigoroiu
 Grivei
 Groparu
@@ -551,10 +561,12 @@ Iga
 Ilaș
 Ile
 Ilea
+Iliaș
 Ilie
 Ilieș
 Iliescu
 Inovan
+Ioja
 Ionaș
 Ionescu
 Ioniță
@@ -581,6 +593,7 @@ Labiș
 Lăcătuș
 Lascăr
 Lascu
+Latcu
 Latiș
 Lazăr
 Lazea
@@ -699,6 +712,7 @@ Moț
 Mugurescu
 Muntean
 Munteanu
+Murar
 Murariu
 Murea
 Mureșan
@@ -860,6 +874,7 @@ Prahovean
 Prahoveanu
 Precup
 Preda
+Prelipceanu
 Pribag
 Pribagu
 Prigoană
@@ -876,6 +891,7 @@ Purcar
 Purdea
 Puscaș
 Pușcașu
+Racheru
 Racoviță
 Rădăuteanu
 Rădeanu
@@ -907,6 +923,8 @@ Rus
 Rusescu
 Rusu
 Sabău
+Safta
+Saftoiu
 Săftoiu
 Șaguna
 Sala
@@ -932,6 +950,7 @@ Savu
 Scrob
 Scurtu
 Scurtuț
+Sebeștean
 Șeicaru
 Sendrea
 Șerban
