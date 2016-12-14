@@ -127,10 +127,17 @@ namespace UniversalNameGenerator.Controllers
                 wordlists.Add(wordlistId, wordlist);
             }
 
-            filters = new List<string>(File.ReadAllLines(
-                    Path.Combine(MainClass.ApplicationDirectory, "Languages",
-                        Language.Id, category.Filterlist + ".txt")));
-            
+            if (!string.IsNullOrWhiteSpace(category.Filterlist))
+            {
+                filters = new List<string>(File.ReadAllLines(
+                        Path.Combine(MainClass.ApplicationDirectory, "Languages",
+                            Language.Id, category.Filterlist + ".txt")));
+            }
+            else
+            {
+                filters = new List<string>();
+            }
+
             while (!NameIsValid(name, filters))
             {
                 name = category.GenerationSchema;
