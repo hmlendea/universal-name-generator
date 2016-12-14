@@ -4,4 +4,8 @@
         <Id>ro-RO</Id>
         <Name>Romanian</Name>
     </Language>
+    <Language>
+        <Id>dacian</Id>
+        <Name>Dacian</Name>
+    </Language>
 </ArrayOfLanguage>
