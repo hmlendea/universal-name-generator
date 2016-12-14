@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCategory xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Category>
+    <Id>persons-male</Id>
+    <Name>Male person names</Name>
+    <Wordlists>
+      <string>persons_males</string>
+    </Wordlists>
+    <GenerationSchema>{persons_males}</GenerationSchema>
+  </Category>
+  <Category>
+    <Id>persons-female</Id>
+    <Name>Female persons names</Name>
+    <Wordlists>
+      <string>persons_females</string>
+    </Wordlists>
+    <GenerationSchema>{persons_females}</GenerationSchema>
+  </Category>
+</ArrayOfCategory>
