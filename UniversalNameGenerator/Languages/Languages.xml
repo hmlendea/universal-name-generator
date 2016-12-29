@@ -8,4 +8,8 @@
         <Id>dacian</Id>
         <Name>Dacian</Name>
     </Language>
+    <Language>
+        <Id>latin-republican</Id>
+        <Name>Latin (Republican period)</Name>
+    </Language>
 </ArrayOfLanguage>
