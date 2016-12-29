@@ -435,6 +435,7 @@ Farcaș
 Farcașianu
 Faur
 Fecioru
+Fedeșan
 Felea
 Feneșan
 Fericean
@@ -681,6 +682,7 @@ Mihu
 Mihuța
 Milescu
 Mincu
+Minea
 Minulescu
 Mircea
 Mircescu
@@ -995,6 +997,7 @@ Stîrcu
 Stoenescu
 Stoian
 Stoica
+Stoicescu
 Stoleru
 Stolojan
 Stribei
@@ -1105,6 +1108,7 @@ Vancu
 Vântu
 Varga
 Variu
+Vârtosu
 Vasilescu
 Vasiliu
 Vasluianu
