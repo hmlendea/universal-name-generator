@@ -8,6 +8,6 @@
 			<string>planets_suffixes</string>
 			<string>filters</string>
 		</Wordlists>
-		<GenerationSchema>{random,abcdefghijlmnoprstuv,6,8}</GenerationSchema>
+		<GenerationSchema>{random,a|b|c|d|e|f|g|h|i|j|l|m|n|o|p|r|s|t|u|v,6,8}</GenerationSchema>
 	</Category>
 </ArrayOfCategory>
