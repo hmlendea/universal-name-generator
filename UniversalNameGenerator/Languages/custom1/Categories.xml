@@ -8,6 +8,6 @@
 			<string>planets_suffixes</string>
 			<string>filters</string>
 		</Wordlists>
-		<GenerationSchema>{random,dkdfghyjklmmopqrztuwwxyz,3,12}k{random,hotu,1,1}</GenerationSchema>
+		<GenerationSchema>{random,abcdefghijlmnoprstuv,6,8}</GenerationSchema>
 	</Category>
 </ArrayOfCategory>
