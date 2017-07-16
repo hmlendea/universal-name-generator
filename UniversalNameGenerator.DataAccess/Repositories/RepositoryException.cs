@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Runtime.Serialization;
 
-namespace UniversalNameGenerator.Repositories
+namespace UniversalNameGenerator.DataAccess.Repositories
 {
     /// <summary>
     /// Repository exception.

@@ -4,7 +4,7 @@ using System.Xml.Serialization;
 
 using UniversalNameGenerator.Models;
 
-namespace UniversalNameGenerator.Repositories
+namespace UniversalNameGenerator.DataAccess.Repositories
 {
     /// <summary>
     /// XML Repository.
@@ -68,7 +68,7 @@ namespace UniversalNameGenerator.Repositories
 
             if (!File.Exists(FileName))
                 return;
-            
+
             using (StreamReader sr = new StreamReader(FileName))
             {
                 Entities = (List<T>)xs.Deserialize(sr);
