@@ -31,21 +31,13 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
-    <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Controllers\CategoryController.cs" />
     <Compile Include="Controllers\LanguageController.cs" />
-    <Compile Include="Models\Category.cs" />
-    <Compile Include="Models\EntityBase.cs" />
-    <Compile Include="Models\Language.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Repositories\Repository.cs" />
-    <Compile Include="Repositories\RepositoryException.cs" />
-    <Compile Include="Repositories\RepositoryXml.cs" />
-    <Compile Include="Utils\ConsoleEx.cs" />
     <Compile Include="Views\MainMenu.cs" />
     <Compile Include="Views\Menu.cs" />
     <Compile Include="Views\LanguageMenu.cs" />
@@ -54,88 +46,21 @@
   <ItemGroup />
   <ItemGroup />
   <ItemGroup>
-    <Content Include="Languages\dacian\Categories.xml">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="Languages\dacian\persons_females.txt">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="Languages\dacian\persons_males.txt">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="Languages\dacian\settlements_bases.txt">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="Languages\dacian\settlements_filters.txt">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="Languages\dacian\settlements_suffixes.txt">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="Languages\Languages.xml">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="Languages\ro-RO\Categories.xml">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="Languages\ro-RO\persons_filters.txt">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="Languages\ro-RO\persons_females.txt">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="Languages\ro-RO\persons_surnames.txt">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="Languages\ro-RO\persons_males.txt">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="Languages\ro-RO\settlements_bases.txt">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="Languages\ro-RO\settlements_suffixes.txt">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="Languages\custom1\Categories.xml">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="Languages\custom1\planets_suffixes.txt">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Languages\ro-RO\persons_bases.txt">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </None>
-    <None Include="Languages\ro-RO\settlements_filters.txt">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </None>
-    <None Include="Languages\ro-RO\persons_suffixes.txt">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </None>
-    <None Include="Languages\latin-republican\Categories.xml">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </None>
-    <None Include="Languages\latin-republican\persons_cognomen_males.txt">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </None>
-    <None Include="Languages\latin-republican\persons_filters.txt">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </None>
-    <None Include="Languages\latin-republican\persons_nomen.txt">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </None>
-    <None Include="Languages\latin-republican\persons_pronomen_females.txt">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </None>
-    <None Include="Languages\latin-republican\persons_pronomen_males.txt">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </None>
-    <None Include="Languages\custom1\filters.txt">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </None>
-  </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Languages\custom1\" />
+    <ProjectReference Include="..\UniversalNameGenerator.Models\UniversalNameGenerator.Models.csproj">
+      <Project>{01277AB4-A301-4F24-B35B-AE6713454565}</Project>
+      <Name>UniversalNameGenerator.Models</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\UniversalNameGenerator.DataAccess\UniversalNameGenerator.DataAccess.csproj">
+      <Project>{C2B5FFB4-AED7-450B-B9EF-41C52E25AEEE}</Project>
+      <Name>UniversalNameGenerator.DataAccess</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\UniversalNameGenerator.Data\UniversalNameGenerator.Data.csproj">
+      <Project>{FB162F2F-E809-491A-A0B5-4F9B2902C9BA}</Project>
+      <Name>UniversalNameGenerator.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\UniversalNameGenerator.Infrastructure\UniversalNameGenerator.Infrastructure.csproj">
+      <Project>{93A84833-5B4B-4272-AA8A-B55D24CBEFEB}</Project>
+      <Name>UniversalNameGenerator.Infrastructure</Name>
+    </ProjectReference>
   </ItemGroup>
 </Project>

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 
 using UniversalNameGenerator.Models;
-using UniversalNameGenerator.Repositories;
+using UniversalNameGenerator.DataAccess.Repositories;
 
 namespace UniversalNameGenerator.Controllers
 {

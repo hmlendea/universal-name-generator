@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace UniversalNameGenerator.Utils
+namespace UniversalNameGenerator.Infrastructure.Helpers
 {
     /// <summary>
     /// Console extras.

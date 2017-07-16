@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 using UniversalNameGenerator.Models;
 
-namespace UniversalNameGenerator.Repositories
+namespace UniversalNameGenerator.DataAccess.Repositories
 {
     /// <summary>
     /// Memory Repository.
