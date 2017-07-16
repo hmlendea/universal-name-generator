@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-using UniversalNameGenerator.Utils;
+using UniversalNameGenerator.Infrastructure.Helpers;
 
 namespace UniversalNameGenerator.Views
 {
