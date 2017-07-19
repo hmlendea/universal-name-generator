@@ -1,4 +1,4 @@
-Abrudan
+﻿Abrudan
 Aciubotariței
 Adam
 Adamache
@@ -895,7 +895,7 @@ Puscaș
 Pușcașu
 Racheru
 Racoviță
-Rădăuteanu
+Rădăuțeanu
 Rădeanu
 Rădescu
 Rădoi
@@ -954,7 +954,7 @@ Scurtu
 Scurtuț
 Sebeștean
 Șeicaru
-Sendrea
+Șendrea
 Șerban
 Șerbănescu
 Sim
