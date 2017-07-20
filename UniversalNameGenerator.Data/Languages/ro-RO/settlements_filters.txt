@@ -78,6 +78,7 @@ sg
 slc
 slv
 stg
+md
 tc
 td
 tg
@@ -135,6 +136,7 @@ jid$
 lsul$
 msid$
 nenas$
+cgi$
 nin$
 nla$
 nti$
