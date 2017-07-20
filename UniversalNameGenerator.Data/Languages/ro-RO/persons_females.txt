@@ -1,4 +1,4 @@
-Adela
+﻿Adela
 Adelina
 Adina
 Adriana
@@ -11,6 +11,7 @@ Amelia
 Ana
 Anamaria
 Anca
+Ancuța
 Anda
 Andra
 Andrada
@@ -67,6 +68,7 @@ Geanina
 Georgeta
 Georgiana
 Ileana
+Ilinca
 Ioana
 Ionela
 Irina
