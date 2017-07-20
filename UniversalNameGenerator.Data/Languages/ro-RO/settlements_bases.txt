@@ -137,7 +137,9 @@ cost
 costin
 crai
 cram
+creng
 cris
+crăm
 cuc
 cui
 cuptor
@@ -384,6 +386,7 @@ ploi
 plop
 plug
 pocol
+poft
 poi
 poien
 pont
