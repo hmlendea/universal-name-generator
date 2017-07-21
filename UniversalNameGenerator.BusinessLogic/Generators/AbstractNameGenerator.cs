@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Text.RegularExpressions;
 
 using UniversalNameGenerator.BusinessLogic.Generators.Interfaces;
 
@@ -131,20 +132,27 @@ namespace UniversalNameGenerator.BusinessLogic.Generators
             {
                 return false;
             }
-
+            
             if (!name.StartsWith(StartsWithFilter, StringComparison.InvariantCulture) ||
                 !name.EndsWith(EndsWithFilter, StringComparison.InvariantCulture))
             {
                 return false;
             }
 
+            // The same name was previously generated
             if (UsedWords.Contains(name))
             {
                 return false;
             }
 
-            if (ExcludedStrings.Any(name.Contains) ||
-                !IncludedStrings.All(name.Contains))
+            // The name contains a blacklisted pattern
+            if (ExcludedStrings.Any(p => Regex.IsMatch(name, p)))
+            {
+                return false;
+            }
+
+            // The name does not contain a mandatory pattern
+            if (!IncludedStrings.All(p => Regex.IsMatch(name, p)))
             {
                 return false;
             }
