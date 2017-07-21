@@ -9,7 +9,7 @@
       <string>settlements_filters</string>
       <string>settlements_suffixes</string>
     </Wordlists>
-    <GenerationSchema>{settlements_bases}{settlements_suffixes}</GenerationSchema>
+    <GenerationSchema>{randomiser,,settlements_bases|settlements_suffixes}</GenerationSchema>
   </Category>
   <Category>
     <Id>persons-male</Id>
@@ -17,7 +17,7 @@
     <Wordlists>
       <string>persons_males</string>
     </Wordlists>
-    <GenerationSchema>{persons_males}</GenerationSchema>
+    <GenerationSchema>{randomiser,,persons_males}</GenerationSchema>
   </Category>
   <Category>
     <Id>persons-female</Id>
@@ -25,6 +25,6 @@
     <Wordlists>
       <string>persons_females</string>
     </Wordlists>
-    <GenerationSchema>{persons_females}</GenerationSchema>
+    <GenerationSchema>{randomiser,,persons_females}</GenerationSchema>
   </Category>
 </ArrayOfCategory>
