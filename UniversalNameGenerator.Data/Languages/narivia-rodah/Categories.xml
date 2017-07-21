@@ -10,4 +10,12 @@
     </Wordlists>
     <GenerationSchema>{randomiser,,settlements_prefixes|settlements_bases|settlements_suffixes}</GenerationSchema>
   </Category>
+  <Category>
+    <Id>ships</Id>
+    <Name>Ships</Name>
+    <Wordlists>
+      <string>ships</string>
+    </Wordlists>
+    <GenerationSchema>{markov,ships}</GenerationSchema>
+  </Category>
 </ArrayOfCategory>
