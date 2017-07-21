@@ -9,7 +9,7 @@
       <string>settlements_filters</string>
       <string>settlements_suffixes</string>
     </Wordlists>
-    <GenerationSchema>{settlements_bases}{settlements_suffixes}</GenerationSchema>
+    <GenerationSchema>{randomiser,settlements_bases|settlements_suffixes}</GenerationSchema>
   </Category>
   <Category>
     <Id>persons-male</Id>
