@@ -9,7 +9,7 @@
       <string>persons_nomen</string>
       <string>persons_cognomen_males</string>
     </Wordlists>
-    <GenerationSchema>{persons_pronomen_males} {persons_nomen} {persons_cognomen_males}</GenerationSchema>
+    <GenerationSchema>{randomiser, ,persons_pronomen_males|persons_nomen|persons_cognomen_males}</GenerationSchema>
   </Category>
   <Category>
     <Id>persons-female</Id>
@@ -20,6 +20,6 @@
       <string>persons_nomen</string>
       <string>persons_cognomen_females</string>
     </Wordlists>
-    <GenerationSchema>{persons_females} {persons_surnames}</GenerationSchema>
+    <GenerationSchema>{randomiser, ,persons_pronomen_females|persons_nomen|persons_cognomen_females}</GenerationSchema>
   </Category>
 </ArrayOfCategory>

@@ -150,22 +150,6 @@ namespace UniversalNameGenerator.Controllers
             {
                 name = category.GenerationSchema;
 
-                // TODO: Remove this once the new generators are the only ones used
-                foreach (string wordlistId in wordlists.Keys)
-                {
-                    if (name.Contains("{" + wordlistId + "}"))
-                    {
-                        string word = string.Empty;
-
-                        while (string.IsNullOrWhiteSpace(word))
-                        {
-                            word = wordlists[wordlistId][rnd.Next(wordlists[wordlistId].Count)];
-                        }
-
-                        name = name.Replace("{" + wordlistId + "}", word);
-                    }
-                }
-
                 while (name.Contains("{") || name.Contains("}"))
                 {
                     int pos = name.IndexOf('{') + 1;
