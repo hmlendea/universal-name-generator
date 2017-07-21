@@ -182,9 +182,9 @@ namespace UniversalNameGenerator.Controllers
                             break;
 
                         case "randomiser":
-                            List<string> wordlistKeys = split[1].Split('|').ToList();
+                            List<string> wordlistKeys = split[2].Split('|').ToList();
 
-                            generator = new RandomMixerNameGenerator(wordlists[wordlistKeys[0]], wordlists[wordlistKeys[1]]);
+                            generator = new RandomMixerNameGenerator(split[1], wordlists[wordlistKeys[0]], wordlists[wordlistKeys[1]]);
                             generator.ExcludedStrings = filters;
 
                             value = generator.GenerateName();
