@@ -3,7 +3,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{93A84833-5B4B-4272-AA8A-B55D24CBEFEB}</ProjectGuid>
+    <ProjectGuid>{3468438A-0187-4B1B-B6B1-AEA4B46EB9A8}</ProjectGuid>
     <OutputType>Library</OutputType>
     <RootNamespace>UniversalNameGenerator.BusinessLogic</RootNamespace>
     <AssemblyName>UniversalNameGenerator.BusinessLogic</AssemblyName>
