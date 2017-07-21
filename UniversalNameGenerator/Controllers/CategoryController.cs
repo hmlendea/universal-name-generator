@@ -178,10 +178,22 @@ namespace UniversalNameGenerator.Controllers
                     {
                         case "random":
                             value = RandomString(split[1].Split('|').ToList(), int.Parse(split[2]), int.Parse(split[3]));
+
+                            break;
+
+                        case "randomiser":
+                            List<string> wordlistKeys = split[1].Split('|').ToList();
+
+                            generator = new RandomMixerNameGenerator(wordlists[wordlistKeys[0]], wordlists[wordlistKeys[1]]);
+                            generator.ExcludedStrings = filters;
+
+                            value = generator.GenerateName();
                             break;
 
                         case "markov":
                             generator = new MarkovNameGenerator(wordlists[split[1]]);
+                            generator.ExcludedStrings = filters;
+
                             value = generator.GenerateName();
                             break;
                     }
