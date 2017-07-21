@@ -46,6 +46,10 @@
   <ItemGroup />
   <ItemGroup />
   <ItemGroup>
+    <ProjectReference Include="..\UniversalNameGenerator.BusinessLogic\UniversalNameGenerator.BusinessLogic.csproj">
+      <Project>{3468438a-0187-4b1b-b6b1-aea4b46eb9a8}</Project>
+      <Name>UniversalNameGenerator.BusinessLogic</Name>
+    </ProjectReference>
     <ProjectReference Include="..\UniversalNameGenerator.Models\UniversalNameGenerator.Models.csproj">
       <Project>{01277AB4-A301-4F24-B35B-AE6713454565}</Project>
       <Name>UniversalNameGenerator.Models</Name>

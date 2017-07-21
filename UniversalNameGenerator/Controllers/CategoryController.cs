@@ -5,6 +5,8 @@ using System.IO;
 using System.Collections.Generic;
 using System.Linq;
 
+using UniversalNameGenerator.BusinessLogic.Generators;
+using UniversalNameGenerator.BusinessLogic.Generators.Interfaces;
 using UniversalNameGenerator.Models;
 using UniversalNameGenerator.DataAccess.Repositories;
 
@@ -117,8 +119,12 @@ namespace UniversalNameGenerator.Controllers
 
             List<string> filters;
             Dictionary<string, List<string>> wordlists = new Dictionary<string, List<string>>();
-            string name = string.Empty;
 
+            INameGenerator generator;
+
+            string name = string.Empty;
+            
+            // Load the wordlists
             foreach (string wordlistId in category.Wordlists)
             {
                 List<string> wordlist = new List<string>(File.ReadAllLines(
@@ -128,6 +134,7 @@ namespace UniversalNameGenerator.Controllers
                 wordlists.Add(wordlistId, wordlist);
             }
 
+            // Load the filters
             if (!string.IsNullOrWhiteSpace(category.Filterlist))
             {
                 filters = new List<string>(File.ReadAllLines(
@@ -143,16 +150,21 @@ namespace UniversalNameGenerator.Controllers
             {
                 name = category.GenerationSchema;
 
+                // TODO: Remove this once the new generators are the only ones used
                 foreach (string wordlistId in wordlists.Keys)
+                {
                     if (name.Contains("{" + wordlistId + "}"))
                     {
                         string word = string.Empty;
 
                         while (string.IsNullOrWhiteSpace(word))
+                        {
                             word = wordlists[wordlistId][rnd.Next(wordlists[wordlistId].Count)];
+                        }
 
                         name = name.Replace("{" + wordlistId + "}", word);
                     }
+                }
 
                 while (name.Contains("{") || name.Contains("}"))
                 {
@@ -166,6 +178,11 @@ namespace UniversalNameGenerator.Controllers
                     {
                         case "random":
                             value = RandomString(split[1].Split('|').ToList(), int.Parse(split[2]), int.Parse(split[3]));
+                            break;
+
+                        case "markov":
+                            generator = new MarkovNameGenerator(wordlists[split[1]]);
+                            value = generator.GenerateName();
                             break;
                     }
 

@@ -10,4 +10,12 @@
 		</Wordlists>
 		<GenerationSchema>{random,a|b|c|d|e|f|g|h|i|j|l|m|n|o|p|r|s|t|u|v,6,8}</GenerationSchema>
 	</Category>
+	<Category>
+		<Id>letian</Id>
+		<Name>Letian names</Name>
+		<Wordlists>
+			<string>letian</string>
+		</Wordlists>
+		<GenerationSchema>{markov,letian}</GenerationSchema>
+	</Category>
 </ArrayOfCategory>
