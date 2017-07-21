@@ -1,44 +1,33 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
-  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{3468438A-0187-4B1B-B6B1-AEA4B46EB9A8}</ProjectGuid>
+    <ProjectGuid>{93A84833-5B4B-4272-AA8A-B55D24CBEFEB}</ProjectGuid>
     <OutputType>Library</OutputType>
-    <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>UniversalNameGenerator.BusinessLogic</RootNamespace>
     <AssemblyName>UniversalNameGenerator.BusinessLogic</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
-    <FileAlignment>512</FileAlignment>
-    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
-    <OutputPath>bin\Debug\</OutputPath>
-    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <OutputPath>bin\Debug</OutputPath>
+    <DefineConstants>DEBUG;</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
+    <ConsolePause>false</ConsolePause>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
-    <DebugType>pdbonly</DebugType>
     <Optimize>true</Optimize>
-    <OutputPath>bin\Release\</OutputPath>
-    <DefineConstants>TRACE</DefineConstants>
+    <OutputPath>bin\Release</OutputPath>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
+    <ConsolePause>false</ConsolePause>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
-    <Reference Include="System.Core" />
-    <Reference Include="System.Xml.Linq" />
-    <Reference Include="System.Data.DataSetExtensions" />
-    <Reference Include="Microsoft.CSharp" />
-    <Reference Include="System.Data" />
-    <Reference Include="System.Net.Http" />
-    <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="GeneratorManager.cs" />
@@ -50,18 +39,19 @@
     <Compile Include="Generators\RandomMixerNameGenerator.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\UniversalNameGenerator.Models\UniversalNameGenerator.Models.csproj">
+      <Project>{01277AB4-A301-4F24-B35B-AE6713454565}</Project>
+      <Name>UniversalNameGenerator.Models</Name>
+    </ProjectReference>
     <ProjectReference Include="..\UniversalNameGenerator.DataAccess\UniversalNameGenerator.DataAccess.csproj">
-      <Project>{c2b5ffb4-aed7-450b-b9ef-41c52e25aeee}</Project>
+      <Project>{C2B5FFB4-AED7-450B-B9EF-41C52E25AEEE}</Project>
       <Name>UniversalNameGenerator.DataAccess</Name>
     </ProjectReference>
     <ProjectReference Include="..\UniversalNameGenerator.Infrastructure\UniversalNameGenerator.Infrastructure.csproj">
-      <Project>{93a84833-5b4b-4272-aa8a-b55d24cbefeb}</Project>
+      <Project>{93A84833-5B4B-4272-AA8A-B55D24CBEFEB}</Project>
       <Name>UniversalNameGenerator.Infrastructure</Name>
     </ProjectReference>
-    <ProjectReference Include="..\UniversalNameGenerator.Models\UniversalNameGenerator.Models.csproj">
-      <Project>{01277ab4-a301-4f24-b35b-ae6713454565}</Project>
-      <Name>UniversalNameGenerator.Models</Name>
-    </ProjectReference>
   </ItemGroup>
-  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
+
