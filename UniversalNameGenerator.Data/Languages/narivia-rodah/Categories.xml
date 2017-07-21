@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCategory xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Category>
+    <Id>settlements</Id>
+    <Name>Settlements</Name>
+    <Wordlists>
+      <string>settlements_prefixes</string>
+      <string>settlements_bases</string>
+      <string>settlements_suffixes</string>
+    </Wordlists>
+    <GenerationSchema>{randomiser,,settlements_prefixes|settlements_bases|settlements_suffixes}</GenerationSchema>
+  </Category>
+</ArrayOfCategory>
