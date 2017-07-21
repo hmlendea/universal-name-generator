@@ -10,10 +10,14 @@
 	</Language>
 	<Language>
 		<Id>latin-republican</Id>
-		<Name>Latin (Republican period)</Name>
+		<Name>Latin (Republican)</Name>
 	</Language>
 	<Language>
 		<Id>custom1</Id>
 		<Name>custom1</Name>
+	</Language>
+	<Language>
+		<Id>narivia-rodah</Id>
+		<Name>(Narivia) Rodah</Name>
 	</Language>
 </ArrayOfLanguage>
