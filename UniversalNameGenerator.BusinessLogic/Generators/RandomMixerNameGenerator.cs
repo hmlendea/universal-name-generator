@@ -8,6 +8,7 @@ namespace UniversalNameGenerator.BusinessLogic.Generators
     /// </summary>
     public class RandomMixerNameGenerator : AbstractNameGenerator
     {
+        readonly string separator;
         readonly int wordListsCount;
 
         readonly List<string> wordList1;
@@ -17,12 +18,15 @@ namespace UniversalNameGenerator.BusinessLogic.Generators
         /// <summary>
         /// Initializes a new instance of the <see cref="RandomMixerNameGenerator"/> class.
         /// </summary>
+        /// <param name="separator">Separator.</param>
         /// <param name="wordList1">Word list 1.</param>
         /// <param name="wordList2">Word list 2.</param>
         /// <param name="wordList3">Word list 3.</param>
-        public RandomMixerNameGenerator(List<string> wordList1, List<string> wordList2, List<string> wordList3)
+        public RandomMixerNameGenerator(string separator, List<string> wordList1, List<string> wordList2, List<string> wordList3)
         {
             wordListsCount = 3;
+
+            this.separator = separator;
 
             this.wordList1 = wordList1;
             this.wordList2 = wordList2;
@@ -32,11 +36,14 @@ namespace UniversalNameGenerator.BusinessLogic.Generators
         /// <summary>
         /// Initializes a new instance of the <see cref="RandomMixerNameGenerator"/> class.
         /// </summary>
+        /// <param name="separator">Separator.</param>
         /// <param name="wordList1">Word list1.</param>
         /// <param name="wordList2">Word list2.</param>
-        public RandomMixerNameGenerator(List<string> wordList1, List<string> wordList2)
+        public RandomMixerNameGenerator(string separator, List<string> wordList1, List<string> wordList2)
         {
             wordListsCount = 2;
+
+            this.separator = separator;
 
             this.wordList1 = wordList1;
             this.wordList2 = wordList2;
@@ -68,13 +75,13 @@ namespace UniversalNameGenerator.BusinessLogic.Generators
             switch (wordListsCount)
             {
                 case 2:
-                    name = wordList1[random.Next(wordList1.Count)] +
+                    name = wordList1[random.Next(wordList1.Count)] + separator +
                            wordList2[random.Next(wordList2.Count)];
                     break;
 
                 case 3:
-                    name = wordList1[random.Next(wordList1.Count)] +
-                           wordList2[random.Next(wordList2.Count)] +
+                    name = wordList1[random.Next(wordList1.Count)] + separator +
+                           wordList2[random.Next(wordList2.Count)] + separator +
                            wordList3[random.Next(wordList3.Count)];
                     break;
             }
