@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 
 using UniversalNameGenerator.Models;
 using UniversalNameGenerator.Controllers;
@@ -44,18 +45,9 @@ namespace UniversalNameGenerator.Views
         /// <param name="category">Category.</param>
         void GetNames(Category category)
         {
-            List<string> names = new List<string>();
+            List<string> names = categoryController.GenerateNames(category.Id, 15).ToList();
 
-            while(names.Count != 15)
-            {
-                string name = categoryController.GenerateName(category.Id);
-
-                if (!names.Contains(name))
-                    names.Add(name);
-            }
-
-            foreach (string name in names)
-                Console.WriteLine(name);
+            names.ForEach(Console.WriteLine);
         }
     }
 }

@@ -41,16 +41,26 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="GeneratorManager.cs" />
     <Compile Include="Generators\AbstractNameGenerator.cs" />
     <Compile Include="Generators\Interfaces\INameGenerator.cs" />
     <Compile Include="Generators\MarkovNameGenerator.cs" />
+    <Compile Include="Interfaces\IGeneratorManager.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Generators\RandomMixerNameGenerator.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\UniversalNameGenerator.DataAccess\UniversalNameGenerator.DataAccess.csproj">
+      <Project>{c2b5ffb4-aed7-450b-b9ef-41c52e25aeee}</Project>
+      <Name>UniversalNameGenerator.DataAccess</Name>
+    </ProjectReference>
     <ProjectReference Include="..\UniversalNameGenerator.Infrastructure\UniversalNameGenerator.Infrastructure.csproj">
       <Project>{93a84833-5b4b-4272-aa8a-b55d24cbefeb}</Project>
       <Name>UniversalNameGenerator.Infrastructure</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\UniversalNameGenerator.Models\UniversalNameGenerator.Models.csproj">
+      <Project>{01277ab4-a301-4f24-b35b-ae6713454565}</Project>
+      <Name>UniversalNameGenerator.Models</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
