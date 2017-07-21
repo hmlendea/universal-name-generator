@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Narivia.GameLogic.Generators
+namespace UniversalNameGenerator.BusinessLogic.Generators
 {
     /// <summary>
     /// Random name generator that mixes words from different lists
