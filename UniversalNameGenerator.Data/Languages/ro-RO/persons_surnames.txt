@@ -217,7 +217,6 @@ Băsescu
 Băsărăbeanu
 Băsărăbescu
 Bătrân
-Caciulă
 Cacovean
 Cadiș
 Cantemir
@@ -392,6 +391,7 @@ Cîrjan
 Cîrlova
 Cîrpar
 Cîrstea
+Căciulă
 Călinescu
 Călugăr
 Călugăreanu
