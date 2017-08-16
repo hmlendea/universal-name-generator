@@ -1,5 +1,10 @@
-﻿using UniversalNameGenerator.Models;
-using UniversalNameGenerator.Controllers;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+
+using UniversalNameGenerator.BusinessLogic;
+using UniversalNameGenerator.BusinessLogic.Interfaces;
+using UniversalNameGenerator.Models;
 
 namespace UniversalNameGenerator.Views
 {
@@ -8,17 +13,33 @@ namespace UniversalNameGenerator.Views
     /// </summary>
     public class MainMenu : Menu
     {
+        IGeneratorSchemaManager schemaManager;
+        IGeneratorManager generator;
+
         /// <summary>
-        /// Initializes a new instance of the <see cref="UniversalNameGenerator.Views.LanguageMenu"/> class.
+        /// Initializes a new instance of the <see cref="MainMenu"/> class.
         /// </summary>
         public MainMenu()
         {
             Title = "Universal Name Generator";
 
-            LanguageController languageController = new LanguageController();
+            schemaManager = new GeneratorSchemaManager();
+            generator = new GeneratorManager();
 
-            foreach(Language language in languageController.GetAll())
-                AddCommand(language.Id, language.Name + " language", new LanguageMenu(language).Run);
+            List<GenerationSchema> schemas = schemaManager.GetAll()
+                                                       .OrderBy(s => s.Name)
+                                                       .ToList();
+
+            schemas.ForEach(schema => AddCommand(schema.Id,
+                                                 schema.Name,
+                                                 delegate { GenerateNames(schema, 15); }));
+        }
+
+        void GenerateNames(GenerationSchema schema, int amount)
+        {
+            List<string> names = generator.GenerateNames(schema, amount).ToList();
+
+            names.ForEach(Console.WriteLine);
         }
     }
 }

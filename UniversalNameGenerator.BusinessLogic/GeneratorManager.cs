@@ -6,7 +6,6 @@ using System.Linq;
 using UniversalNameGenerator.BusinessLogic.Generators;
 using UniversalNameGenerator.BusinessLogic.Generators.Interfaces;
 using UniversalNameGenerator.BusinessLogic.Interfaces;
-using UniversalNameGenerator.DataAccess.Repositories;
 using UniversalNameGenerator.Models;
 
 namespace UniversalNameGenerator.BusinessLogic
@@ -15,31 +14,27 @@ namespace UniversalNameGenerator.BusinessLogic
     {
         Random random;
 
-        public IEnumerable<string> GenerateNames(string languageId, string categoryId, int amount)
+        public IEnumerable<string> GenerateNames(GenerationSchema schema, int amount)
         {
-            string repositoryFilePath = Path.Combine("Languages", languageId, "Categories.xml");
             random = new Random();
-
-            RepositoryXml<Category> repository = new RepositoryXml<Category>(repositoryFilePath);
-            Category category = repository.Get(categoryId);
-
+            
             List<string> filters;
             Dictionary<string, List<string>> wordlists = new Dictionary<string, List<string>>();
 
             INameGenerator generator;
             
             // Load the wordlists
-            foreach (string wordlistId in category.Wordlists)
+            foreach (string wordlistId in schema.Wordlists)
             {
-                List<string> wordlist = new List<string>(File.ReadAllLines(Path.Combine("Languages", languageId, wordlistId + ".txt")));
+                List<string> wordlist = new List<string>(File.ReadAllLines(Path.Combine("Wordlists", wordlistId + ".txt")));
 
                 wordlists.Add(wordlistId, wordlist);
             }
 
             // Load the filters
-            if (!string.IsNullOrWhiteSpace(category.Filterlist))
+            if (!string.IsNullOrWhiteSpace(schema.Filterlist))
             {
-                filters = new List<string>(File.ReadAllLines(Path.Combine("Languages", languageId, category.Filterlist + ".txt")));
+                filters = new List<string>(File.ReadAllLines(Path.Combine("Wordlists", schema.Filterlist + ".txt")));
             }
             else
             {
@@ -50,7 +45,7 @@ namespace UniversalNameGenerator.BusinessLogic
 
             while (names.Count < amount)
             {
-                string name = category.GenerationSchema;
+                string name = schema.Schema;
 
                 while (name.Contains("{") || name.Contains("}"))
                 {

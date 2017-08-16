@@ -33,114 +33,84 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Languages\custom1\Categories.xml">
+    <Content Include="Wordlists\dacian-persons-females.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="Languages\custom1\letian.txt">
+    <Content Include="Wordlists\dacian-persons-males.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="Languages\custom1\planets_suffixes.txt">
+    <Content Include="Wordlists\dacian-settlements-bases.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="Languages\dacian\Categories.xml">
+    <Content Include="Wordlists\dacian-settlements-filters.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="Languages\dacian\persons_females.txt">
+    <Content Include="Wordlists\dacian-settlements-suffixes.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="Languages\dacian\persons_males.txt">
+    <Content Include="GenerationSchemas.xml">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="Languages\dacian\settlements_bases.txt">
+    <Content Include="Wordlists\latin-cognomen-females.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="Languages\dacian\settlements_filters.txt">
+    <Content Include="Wordlists\rodah-persons-filters.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="Languages\dacian\settlements_suffixes.txt">
+    <Content Include="Wordlists\rodah-settlements-bases.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="Languages\Languages.xml">
+    <Content Include="Wordlists\rodah-settlements-prefixes.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="Languages\latin-republican\persons_cognomen_females.txt">
+    <Content Include="Wordlists\rodah-settlements-suffixes.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="Languages\narivia-rodah\Categories.xml">
+    <Content Include="Wordlists\rodah-ships.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="Languages\narivia-rodah\persons_filters.txt">
+    <Content Include="Wordlists\ro-colours.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="Languages\narivia-rodah\settlements_bases.txt">
+    <Content Include="Wordlists\ro-persons-female.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="Languages\narivia-rodah\settlements_prefixes.txt">
+    <Content Include="Wordlists\ro-persons-filters.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="Languages\narivia-rodah\settlements_suffixes.txt">
+    <Content Include="Wordlists\ro-persons-male.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="Languages\narivia-rodah\ships.txt">
+    <Content Include="Wordlists\ro-surnames.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="Languages\ro-RO\Categories.xml">
+    <Content Include="Wordlists\ro-plants.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="Languages\ro-RO\colours.txt">
+    <Content Include="Wordlists\ro-settlements-bases.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="Languages\ro-RO\persons_females.txt">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="Languages\ro-RO\persons_filters.txt">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="Languages\ro-RO\persons_males.txt">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="Languages\ro-RO\persons_surnames.txt">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="Languages\ro-RO\plants.txt">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="Languages\ro-RO\settlements_bases.txt">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="Languages\ro-RO\settlements_suffixes.txt">
+    <Content Include="Wordlists\ro-settlements-suffixes.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
   </ItemGroup>
   <ItemGroup>
-    <None Include="Languages\custom1\filters.txt">
+    <None Include="Wordlists\latin-cognomen-males.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Include="Languages\latin-republican\Categories.xml">
+    <None Include="Wordlists\latin-persons-filters.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Include="Languages\latin-republican\persons_cognomen_males.txt">
+    <None Include="Wordlists\latin-nomen.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Include="Languages\latin-republican\persons_filters.txt">
+    <None Include="Wordlists\latin-pronomen-females.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Include="Languages\latin-republican\persons_nomen.txt">
+    <None Include="Wordlists\latin-pronomen-males.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Include="Languages\latin-republican\persons_pronomen_females.txt">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </None>
-    <None Include="Languages\latin-republican\persons_pronomen_males.txt">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </None>
-    <None Include="Languages\ro-RO\persons_bases.txt">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </None>
-    <None Include="Languages\ro-RO\persons_suffixes.txt">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </None>
-    <None Include="Languages\ro-RO\settlements_filters.txt">
+    <None Include="Wordlists\ro-settlements-filters.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
   </ItemGroup>
