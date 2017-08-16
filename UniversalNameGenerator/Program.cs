@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Text;
 
 using UniversalNameGenerator.Views;
 
@@ -32,6 +33,8 @@ namespace UniversalNameGenerator
         /// <param name="args">The command-line arguments.</param>
         public static void Main(string[] args)
         {
+            Console.OutputEncoding = Encoding.UTF8;
+
             MainMenu mainMenu = new MainMenu();
             mainMenu.Run();
         }
