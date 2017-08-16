@@ -6,7 +6,7 @@ namespace UniversalNameGenerator.Models
     /// <summary>
     /// Category.
     /// </summary>
-    public class Category : EntityBase
+    public class GenerationSchema : EntityBase
     {
         /// <summary>
         /// Gets or sets the name.
@@ -27,7 +27,7 @@ namespace UniversalNameGenerator.Models
         /// </summary>
         /// <value>The generation schema.</value>
         [MaxLength(60)]
-        public string GenerationSchema { get; set; }
+        public string Schema { get; set; }
 
         /// <summary>
         /// Gets or sets the path to the filterlist.

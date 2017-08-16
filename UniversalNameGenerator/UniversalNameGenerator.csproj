@@ -34,13 +34,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Controllers\CategoryController.cs" />
-    <Compile Include="Controllers\LanguageController.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Views\MainMenu.cs" />
     <Compile Include="Views\Menu.cs" />
-    <Compile Include="Views\LanguageMenu.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ItemGroup />
@@ -53,10 +50,6 @@
     <ProjectReference Include="..\UniversalNameGenerator.Models\UniversalNameGenerator.Models.csproj">
       <Project>{01277AB4-A301-4F24-B35B-AE6713454565}</Project>
       <Name>UniversalNameGenerator.Models</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\UniversalNameGenerator.DataAccess\UniversalNameGenerator.DataAccess.csproj">
-      <Project>{C2B5FFB4-AED7-450B-B9EF-41C52E25AEEE}</Project>
-      <Name>UniversalNameGenerator.DataAccess</Name>
     </ProjectReference>
     <ProjectReference Include="..\UniversalNameGenerator.Data\UniversalNameGenerator.Data.csproj">
       <Project>{FB162F2F-E809-491A-A0B5-4F9B2902C9BA}</Project>

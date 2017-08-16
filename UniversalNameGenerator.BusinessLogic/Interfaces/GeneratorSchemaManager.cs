@@ -4,8 +4,8 @@ using UniversalNameGenerator.Models;
 
 namespace UniversalNameGenerator.BusinessLogic.Interfaces
 {
-    public interface IGeneratorManager
+    public interface IGeneratorSchemaManager
     {
-        IEnumerable<string> GenerateNames(GenerationSchema schema, int amount);
+        IEnumerable<GenerationSchema> GetAll();
     }
 }
