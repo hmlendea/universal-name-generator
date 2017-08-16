@@ -16,13 +16,6 @@ namespace UniversalNameGenerator.Models
         public string Name { get; set; }
 
         /// <summary>
-        /// Gets or sets the path to the wordlists.
-        /// </summary>
-        /// <value>The wordlists paths.</value>
-        [MaxLength(20)]
-        public List<string> Wordlists { get; set; }
-
-        /// <summary>
         /// Gets or sets the generation schema.
         /// </summary>
         /// <value>The generation schema.</value>

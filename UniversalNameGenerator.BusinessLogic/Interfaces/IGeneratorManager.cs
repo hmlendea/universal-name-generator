@@ -6,6 +6,6 @@ namespace UniversalNameGenerator.BusinessLogic.Interfaces
 {
     public interface IGeneratorManager
     {
-        IEnumerable<string> GenerateNames(GenerationSchema schema, int amount);
+        IEnumerable<string> GenerateNames(string schema, string filterlist, int amount);
     }
 }
