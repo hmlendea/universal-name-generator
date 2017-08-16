@@ -4,98 +4,56 @@
     <Id>ro-settlements</Id>
     <Name>Romanian settlement names</Name>
     <Filterlist>ro-settlements-filters</Filterlist>
-    <Wordlists>
-      <string>ro-settlements-bases</string>
-      <string>ro-settlements-filters</string>
-      <string>ro-settlements-suffixes</string>
-    </Wordlists>
     <Schema>{randomiser,,ro-settlements-bases|ro-settlements-suffixes}</Schema>
   </GenerationSchema>
   <GenerationSchema>
     <Id>ro-persons-male</Id>
     <Name>Romanian male persons</Name>
     <Filterlist>ro-persons-filters</Filterlist>
-    <Wordlists>
-      <string>ro-persons-males</string>
-      <string>ro-persons-surnames</string>
-    </Wordlists>
     <Schema>{randomiser, ,ro-persons-males|ro-persons-surnames}</Schema>
   </GenerationSchema>
   <GenerationSchema>
     <Id>ro-persons-female</Id>
     <Name>Romanian female persons</Name>
     <Filterlist>ro-persons-filters</Filterlist>
-    <Wordlists>
-      <string>ro-persons-females</string>
-      <string>ro-persons-surnames</string>
-    </Wordlists>
     <Schema>{randomiser, ,ro-persons-females|ro-persons-surnames}</Schema>
   </GenerationSchema>
   <GenerationSchema>
     <Id>dacian-settlements</Id>
     <Name>Dacian settlement names</Name>
     <Filterlist>dacian-settlements-filters</Filterlist>
-    <Wordlists>
-      <string>dacian-settlements-bases</string>
-      <string>dacian-settlements-filters</string>
-      <string>dacian-settlements-suffixes</string>
-    </Wordlists>
     <Schema>{randomiser,,dacian-settlements-bases|dacian-settlements-suffixes}</Schema>
   </GenerationSchema>
   <GenerationSchema>
     <Id>dacian-persons-male</Id>
     <Name>Dacian male persons</Name>
-    <Wordlists>
-      <string>dacian-persons-males</string>
-    </Wordlists>
     <Schema>{randomiser,,dacian-persons-males}</Schema>
   </GenerationSchema>
   <GenerationSchema>
     <Id>dacian-persons-female</Id>
     <Name>Dacian female persons</Name>
-    <Wordlists>
-      <string>dacian-persons-females</string>
-    </Wordlists>
     <Schema>{randomiser,,dacian-persons-females}</Schema>
   </GenerationSchema>
   <GenerationSchema>
     <Id>latin-persons-male</Id>
     <Name>Latin (Republican) male persons</Name>
     <Filterlist>latin-persons-filters</Filterlist>
-    <Wordlists>
-      <string>latin-pronomen-males</string>
-      <string>latin-nomen</string>
-      <string>latin-cognomen-males</string>
-    </Wordlists>
     <Schema>{randomiser, ,latin-pronomen-males|latin-nomen|latin-cognomen-males}</Schema>
   </GenerationSchema>
   <GenerationSchema>
     <Id>latin-persons-female</Id>
     <Name>Latin (Republican) female persons</Name>
     <Filterlist>latin-persons-filters</Filterlist>
-    <Wordlists>
-      <string>latin-pronomen-females</string>
-      <string>latin-nomen</string>
-      <string>latin-cognomen-females</string>
-    </Wordlists>
     <Schema>{randomiser, ,latin-pronomen-females|latin-nomen|latin-cognomen-females}</Schema>
   </GenerationSchema>
   <GenerationSchema>
     <Id>rodah-settlements</Id>
     <Name>Rodah (Narivia) settlements</Name>
-    <Wordlists>
-      <string>rodah-settlements-prefixes</string>
-      <string>rodah-settlements-bases</string>
-      <string>rodah-settlements-suffixes</string>
-    </Wordlists>
     <Schema>{randomiser,,rodah-settlements-prefixes|rodah-settlements-bases|rodah-settlements-suffixes}</Schema>
   </GenerationSchema>
   <GenerationSchema>
     <Id>rodah-ships</Id>
     <Name>Rodah (Narivia) ships</Name>
-    <Wordlists>
-      <string>rodah-ships</string>
-    </Wordlists>
     <Schema>{markov,rodah-ships}</Schema>
   </GenerationSchema>
 </ArrayOfGenerationSchema>
