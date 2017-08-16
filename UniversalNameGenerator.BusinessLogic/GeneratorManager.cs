@@ -6,7 +6,6 @@ using System.Linq;
 using UniversalNameGenerator.BusinessLogic.Generators;
 using UniversalNameGenerator.BusinessLogic.Generators.Interfaces;
 using UniversalNameGenerator.BusinessLogic.Interfaces;
-using UniversalNameGenerator.Models;
 
 namespace UniversalNameGenerator.BusinessLogic
 {
@@ -14,27 +13,16 @@ namespace UniversalNameGenerator.BusinessLogic
     {
         Random random;
 
-        public IEnumerable<string> GenerateNames(GenerationSchema schema, int amount)
+        public IEnumerable<string> GenerateNames(string schema, string filterlist, int amount)
         {
             random = new Random();
             
             List<string> filters;
-            Dictionary<string, List<string>> wordlists = new Dictionary<string, List<string>>();
-
-            INameGenerator generator;
             
-            // Load the wordlists
-            foreach (string wordlistId in schema.Wordlists)
-            {
-                List<string> wordlist = new List<string>(File.ReadAllLines(Path.Combine("Wordlists", wordlistId + ".txt")));
-
-                wordlists.Add(wordlistId, wordlist);
-            }
-
             // Load the filters
-            if (!string.IsNullOrWhiteSpace(schema.Filterlist))
+            if (!string.IsNullOrWhiteSpace(filterlist))
             {
-                filters = new List<string>(File.ReadAllLines(Path.Combine("Wordlists", schema.Filterlist + ".txt")));
+                filters = new List<string>(File.ReadAllLines(Path.Combine("Wordlists", filterlist + ".txt")));
             }
             else
             {
@@ -45,7 +33,7 @@ namespace UniversalNameGenerator.BusinessLogic
 
             while (names.Count < amount)
             {
-                string name = schema.Schema;
+                string name = schema;
 
                 while (name.Contains("{") || name.Contains("}"))
                 {
@@ -59,23 +47,14 @@ namespace UniversalNameGenerator.BusinessLogic
                     {
                         case "random":
                             value = RandomString(split[1].Split('|').ToList(), int.Parse(split[2]), int.Parse(split[3]));
-
                             break;
 
                         case "randomiser":
-                            List<string> wordlistKeys = split[2].Split('|').ToList();
-
-                            generator = new RandomMixerNameGenerator(split[1], wordlistKeys.Select((k) => wordlists[k]).ToList());
-                            generator.ExcludedStrings = filters;
-
-                            value = generator.GenerateName();
+                            value = GenerateRandomiserName(split, filters);
                             break;
 
                         case "markov":
-                            generator = new MarkovNameGenerator(wordlists[split[1]]);
-                            generator.ExcludedStrings = filters;
-
-                            value = generator.GenerateName();
+                            value = GenerateMarkovName(split, filters);
                             break;
                     }
 
@@ -110,6 +89,35 @@ namespace UniversalNameGenerator.BusinessLogic
             }
 
             return str;
+        }
+
+        string GenerateRandomiserName(string[] split, List<string> filters)
+        {
+            List<string> wordlistKeys = split[2].Split('|').ToList();
+
+            List<List<string>> wordlists = new List<List<string>>();
+
+            foreach (string wordlistId in wordlistKeys)
+            {
+                List<string> wordlist = File.ReadAllLines(Path.Combine("Wordlists", wordlistId + ".txt")).ToList();
+
+                wordlists.Add(wordlist);
+            }
+
+            INameGenerator generator = new RandomMixerNameGenerator(split[1], wordlists);
+            generator.ExcludedStrings = filters;
+
+            return generator.GenerateName();
+        }
+
+        string GenerateMarkovName(string[] split, List<string> filters)
+        {
+            List<string> wordlist = File.ReadAllLines(Path.Combine("Wordlists", split[1] + ".txt")).ToList();
+
+            INameGenerator generator = new MarkovNameGenerator(wordlist);
+            generator.ExcludedStrings = filters;
+
+            return generator.GenerateName();
         }
     }
 }

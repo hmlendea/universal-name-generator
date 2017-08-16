@@ -27,8 +27,8 @@ namespace UniversalNameGenerator.Views
             generator = new GeneratorManager();
 
             List<GenerationSchema> schemas = schemaManager.GetAll()
-                                                       .OrderBy(s => s.Name)
-                                                       .ToList();
+                                                          .OrderBy(s => s.Name)
+                                                          .ToList();
 
             schemas.ForEach(schema => AddCommand(schema.Id,
                                                  schema.Name,
@@ -37,7 +37,7 @@ namespace UniversalNameGenerator.Views
 
         void GenerateNames(GenerationSchema schema, int amount)
         {
-            List<string> names = generator.GenerateNames(schema, amount).ToList();
+            List<string> names = generator.GenerateNames(schema.Schema, schema.Filterlist, amount).ToList();
 
             names.ForEach(Console.WriteLine);
         }
