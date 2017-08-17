@@ -721,6 +721,7 @@ Lupșa
 Lupșe
 Lăcustă
 Lăcătuș
+Lăpușan
 Macaru
 Machin
 Macinic
@@ -1283,6 +1284,7 @@ Vulpe
 Vulpean
 Vulpeș
 Vultur
+Vușcanu
 Vântu
 Vârtosu
 Văcărean
