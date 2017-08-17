@@ -10,13 +10,13 @@
     <Id>ro-persons-male</Id>
     <Name>Romanian male persons</Name>
     <Filterlist>ro-persons-filters</Filterlist>
-    <Schema>{randomiser, ,ro-persons-males|ro-persons-surnames}</Schema>
+    <Schema>{randomiser, ,ro-persons-males|ro-surnames}</Schema>
   </GenerationSchema>
   <GenerationSchema>
     <Id>ro-persons-female</Id>
     <Name>Romanian female persons</Name>
     <Filterlist>ro-persons-filters</Filterlist>
-    <Schema>{randomiser, ,ro-persons-females|ro-persons-surnames}</Schema>
+    <Schema>{randomiser, ,ro-persons-females|ro-surnames}</Schema>
   </GenerationSchema>
   <GenerationSchema>
     <Id>dacian-settlements</Id>
