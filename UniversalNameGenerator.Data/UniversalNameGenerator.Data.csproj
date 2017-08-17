@@ -54,7 +54,9 @@
     <Content Include="Wordlists\latin-cognomen-females.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="Wordlists\ro-animals.txt" />
+    <Content Include="Wordlists\ro-animals.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
     <Content Include="Wordlists\rodah-persons-filters.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
