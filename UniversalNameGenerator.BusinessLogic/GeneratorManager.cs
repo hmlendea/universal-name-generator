@@ -5,6 +5,7 @@ using System.Linq;
 
 using UniversalNameGenerator.BusinessLogic.Generators;
 using UniversalNameGenerator.BusinessLogic.Generators.Interfaces;
+using UniversalNameGenerator.BusinessLogic.Generators.MarkovNameGenerator;
 using UniversalNameGenerator.BusinessLogic.Interfaces;
 
 namespace UniversalNameGenerator.BusinessLogic
@@ -112,12 +113,14 @@ namespace UniversalNameGenerator.BusinessLogic
 
         string GenerateMarkovName(string[] split, List<string> filters)
         {
-            List<string> wordlist = File.ReadAllLines(Path.Combine("Wordlists", split[1] + ".txt")).ToList();
+            string filePath = Path.Combine("Wordlists", split[1] + ".txt");
+            List<string> wordlist = File.ReadAllLines(filePath)
+                                        .Select(w => w.ToLowerInvariant())
+                                        .ToList();
 
-            INameGenerator generator = new MarkovNameGenerator(wordlist);
-            generator.ExcludedStrings = filters;
-
-            return generator.GenerateName();
+            MarkovNameGenerator generator = new MarkovNameGenerator(wordlist, 3, 0.0f);
+            
+            return generator.GenerateName(5, 11, string.Empty, string.Empty, string.Empty, string.Empty);
         }
     }
 }

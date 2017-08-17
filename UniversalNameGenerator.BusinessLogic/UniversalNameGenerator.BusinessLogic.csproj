@@ -34,7 +34,9 @@
     <Compile Include="GeneratorManager.cs" />
     <Compile Include="Generators\AbstractNameGenerator.cs" />
     <Compile Include="Generators\Interfaces\INameGenerator.cs" />
-    <Compile Include="Generators\MarkovNameGenerator.cs" />
+    <Compile Include="Generators\MarkovNameGenerator\MarkovGenerator.cs" />
+    <Compile Include="Generators\MarkovNameGenerator\MarkovModel.cs" />
+    <Compile Include="Generators\MarkovNameGenerator\MarkovNameGenerator.cs" />
     <Compile Include="Interfaces\GeneratorSchemaManager.cs" />
     <Compile Include="Interfaces\IGeneratorManager.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
