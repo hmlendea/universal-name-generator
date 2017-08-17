@@ -32,7 +32,7 @@ namespace UniversalNameGenerator.BusinessLogic.Generators
 
             DateTime startTime = DateTime.Now;
 
-            while (DateTime.Now < startTime.AddMilliseconds(MaxProcessingTime) &&
+            while (DateTime.Now < startTime.AddMilliseconds(MaxProcessingTimePerWord) &&
                    !IsNameValid(name))
             {
                 name = string.Empty;

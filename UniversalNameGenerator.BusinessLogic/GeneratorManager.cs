@@ -62,10 +62,7 @@ namespace UniversalNameGenerator.BusinessLogic
                     name = name.Replace("{" + com + "}", value);
                 }
 
-                if (!names.Contains(name))
-                {
-                    names.Add(name);
-                }
+                names.Add(name);
             }
 
             return names;
@@ -118,9 +115,21 @@ namespace UniversalNameGenerator.BusinessLogic
                                         .Select(w => w.ToLowerInvariant())
                                         .ToList();
 
-            MarkovNameGenerator generator = new MarkovNameGenerator(wordlist, 3, 0.0f);
-            
-            return generator.GenerateName(5, 11, string.Empty, string.Empty, string.Empty, string.Empty);
+            INameGenerator generator = new MarkovNameGenerator(wordlist, 3, 0.0f)
+            {
+                MinNameLength = 5,
+                MaxNameLength = 12,
+                ExcludedStrings = filters
+            };
+
+            string name = null;
+
+            while (string.IsNullOrEmpty(name))
+            {
+                name = generator.GenerateName();
+            }
+
+            return name;
         }
     }
 }
