@@ -23,5 +23,17 @@ namespace UniversalNameGenerator.Infrastructure.Extensions
 
             return new string(chars);
         }
+
+        public static string Repeat(this string source, int count)
+        {
+            string result = string.Empty;
+
+            for (int i = 0; i < count; i++)
+            {
+                result += source;
+            }
+
+            return result;
+        }
     }
 }
