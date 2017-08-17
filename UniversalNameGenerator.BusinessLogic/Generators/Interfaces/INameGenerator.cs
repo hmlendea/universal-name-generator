@@ -23,7 +23,7 @@ namespace UniversalNameGenerator.BusinessLogic.Generators.Interfaces
         /// Gets or sets the maximum processing time.
         /// </summary>
         /// <value>The maximum processing time in milliseconds.</value>
-        int MaxProcessingTime { get; set; }
+        int MaxProcessingTimePerWord { get; set; }
 
         /// <summary>
         /// Gets or sets the excluded strings.
@@ -53,7 +53,7 @@ namespace UniversalNameGenerator.BusinessLogic.Generators.Interfaces
         /// Gets the used words.
         /// </summary>
         /// <value>The used words.</value>
-        List<string> UsedWords { get; }
+        List<string> GeneratedWords { get; }
 
         /// <summary>
         /// Generates a name.

@@ -9,6 +9,8 @@ namespace UniversalNameGenerator.BusinessLogic.Generators.MarkovNameGenerator
     {
         public int Order { get; private set; }
 
+        public List<string> Data { get; private set; }
+
         float prior;
 
         List<MarkovModel> models;
@@ -16,11 +18,13 @@ namespace UniversalNameGenerator.BusinessLogic.Generators.MarkovNameGenerator
         public MarkovGenerator(List<string> data, int order, float prior)
         {
             Order = order;
+            Data = data;
+
             this.prior = prior;
 
             List<string> letters = new List<string>();
 
-            foreach (string word in data)
+            foreach (string word in Data)
             {
                 for (int i = 0; i < word.Length; i++)
                 {
@@ -36,7 +40,7 @@ namespace UniversalNameGenerator.BusinessLogic.Generators.MarkovNameGenerator
             models = new List<MarkovModel>();
             for (int i = 0; i < order; i++)
             {
-                MarkovModel model = new MarkovModel(data.ToList(), Order - i, prior, domain);
+                MarkovModel model = new MarkovModel(Data.ToList(), Order - i, prior, domain);
                 models.Add(model);
             }
         }
