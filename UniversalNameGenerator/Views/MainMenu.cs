@@ -32,7 +32,7 @@ namespace UniversalNameGenerator.Views
 
             schemas.ForEach(schema => AddCommand(schema.Id,
                                                  schema.Name,
-                                                 delegate { GenerateNames(schema, 15); }));
+                                                 delegate { GenerateNames(schema, 10); }));
         }
 
         void GenerateNames(GenerationSchema schema, int amount)

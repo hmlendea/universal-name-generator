@@ -22,10 +22,10 @@ namespace UniversalNameGenerator.BusinessLogic.Generators
         public int MaxNameLength { get; set; }
 
         /// <summary>
-        /// Gets or sets the maximum processing time.
+        /// Gets or sets the maximum processing time per word.
         /// </summary>
-        /// <value>The maximum processing time in milliseconds.</value>
-        public int MaxProcessingTime { get; set; }
+        /// <value>The maximum processing time per word, in milliseconds.</value>
+        public int MaxProcessingTimePerWord { get; set; }
 
         /// <summary>
         /// Gets or sets the excluded strings.
@@ -55,7 +55,7 @@ namespace UniversalNameGenerator.BusinessLogic.Generators
         /// Gets or sets the used words.
         /// </summary>
         /// <value>The used words.</value>
-        public List<string> UsedWords { get; protected set; }
+        public List<string> GeneratedWords { get; protected set; }
 
         protected readonly Random random;
 
@@ -66,14 +66,14 @@ namespace UniversalNameGenerator.BusinessLogic.Generators
         {
             MinNameLength = 5;
             MaxNameLength = 10;
-            MaxProcessingTime = 1000;
+            MaxProcessingTimePerWord = 1000;
 
             StartsWithFilter = string.Empty;
             EndsWithFilter = string.Empty;
 
             ExcludedStrings = new List<string>();
             IncludedStrings = new List<string>();
-            UsedWords = new List<string>();
+            GeneratedWords = new List<string>();
 
             random = new Random();
         }
@@ -92,17 +92,18 @@ namespace UniversalNameGenerator.BusinessLogic.Generators
         public List<string> GenerateNames(int maximumCount)
         {
             List<string> names = new List<string>();
-            DateTime startTime = DateTime.Now;
 
-            while (DateTime.Now < startTime.AddMilliseconds(MaxProcessingTime) &&
-                   names.Count < maximumCount)
+            DateTime startTime = DateTime.Now;
+            DateTime currentTime = DateTime.Now;
+            DateTime endTime = startTime.AddMilliseconds(MaxProcessingTimePerWord * maximumCount);
+
+            while (currentTime < endTime && names.Count < maximumCount)
             {
                 string name = GenerateName();
 
-                if (!string.IsNullOrWhiteSpace(name))
-                {
-                    names.Add(name);
-                }
+                names.Add(name);
+
+                currentTime = DateTime.Now;
             }
 
             return names;
@@ -113,7 +114,7 @@ namespace UniversalNameGenerator.BusinessLogic.Generators
         /// </summary>
         public void Reset()
         {
-            UsedWords.Clear();
+            GeneratedWords.Clear();
         }
 
         /// <summary>
@@ -140,7 +141,7 @@ namespace UniversalNameGenerator.BusinessLogic.Generators
             }
 
             // The same name was previously generated
-            if (UsedWords.Contains(name))
+            if (GeneratedWords.Contains(name))
             {
                 return false;
             }
