@@ -8,6 +8,7 @@ Bardakar
 Benkitar
 Betagontek
 Brakanag
+Bundabalad
 Dahtagunar
 Dangabadal
 Drumadar
@@ -18,11 +19,13 @@ Etregar
 Fordabal
 Guldukar
 Gurdagamad
+Hundikatag
 Ikabadol
 Includak
 Iotkabar
 Kabadonom
 Kamarad
+Katargol
 Kolnatak
 Krantanar
 Kumtanar
@@ -47,4 +50,5 @@ Trikadol
 Trimikad
 Urdanekal
 Vurdekal
+Zoldogalad
 Zolomar

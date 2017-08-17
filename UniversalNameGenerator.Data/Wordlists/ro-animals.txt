@@ -2,6 +2,7 @@ alunar
 antilopă
 arici
 asin
+babuin
 bivol
 bizam
 bizon
@@ -30,6 +31,7 @@ elefant
 falanuc
 focă
 gazelă
+gibon
 girafă
 gorilă
 grivan
@@ -50,9 +52,14 @@ leopard
 leu
 liliac
 lopătar
+loris
 lup
+macac
 maimuță
 mamut
+caracal
+lincs
+mandril
 mistreț
 morsă
 muflon
@@ -63,7 +70,9 @@ oaie
 oposum
 orbete
 ornitorinc
+panteră
 papagal
+pigmeu
 pinguin
 pisică
 ponei
@@ -77,6 +86,7 @@ rinocer
 râs
 sconcs
 suricată
+tamarin
 tigru
 urangutan
 urs
