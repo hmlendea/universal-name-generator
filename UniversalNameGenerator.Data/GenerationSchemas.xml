@@ -6,14 +6,24 @@
     <Schema>{randomiser,,asian-settlements-bases|asian-settlements-suffixes}</Schema>
   </GenerationSchema>
   <GenerationSchema>
-    <Id>ro-fauna</Id>
-    <Name>Romanian fauna species names</Name>
-    <Schema>{markov,ro-animals|ro-birds}</Schema>
+    <Id>ro-birds</Id>
+    <Name>Romanian bird species names</Name>
+    <Schema>{markov,ro-birds}</Schema>
   </GenerationSchema>
   <GenerationSchema>
-    <Id>ro-birds</Id>
-    <Name>Romanian bird names</Name>
-    <Schema>{markov,ro-birds}</Schema>
+    <Id>ro-colours</Id>
+    <Name>Romanian colours names</Name>
+    <Schema>{markov,ro-colours}</Schema>
+  </GenerationSchema>
+  <GenerationSchema>
+    <Id>ro-fauna</Id>
+    <Name>Romanian fauna species names</Name>
+    <Schema>{markov,ro-animals|ro-birds|ro-insects}</Schema>
+  </GenerationSchema>
+  <GenerationSchema>
+    <Id>ro-insects</Id>
+    <Name>Romanian insect species names</Name>
+    <Schema>{markov,ro-insects}</Schema>
   </GenerationSchema>
   <GenerationSchema>
     <Id>ro-plants</Id>
