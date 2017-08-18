@@ -1,6 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ArrayOfGenerationSchema xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <GenerationSchema>
+    <Id>asian-settlements</Id>
+    <Name>Asian settlement names</Name>
+    <Schema>{randomiser,,asian-settlements-bases|asian-settlements-suffixes}</Schema>
+  </GenerationSchema>
+  <GenerationSchema>
     <Id>ro-animals</Id>
     <Name>Romanian animal names</Name>
     <Schema>{markov,ro-animals}</Schema>
