@@ -115,7 +115,8 @@ namespace UniversalNameGenerator.BusinessLogic
 
             foreach (string wordlistId in wordlistKeys)
             {
-                List<string> wordlist = File.ReadAllLines(Path.Combine("Wordlists", wordlistId + ".txt")).ToList();
+                string filePath = Path.Combine("Wordlists", wordlistId + ".txt");
+                List<string> wordlist = File.ReadAllLines(filePath).ToList();
 
                 wordlists.Add(wordlist);
             }
@@ -128,12 +129,19 @@ namespace UniversalNameGenerator.BusinessLogic
 
         IEnumerable<string> GenerateMarkovNames(int amount, string[] split, List<string> filters)
         {
-            string filePath = Path.Combine("Wordlists", split[1] + ".txt");
-            List<string> wordlist = File.ReadAllLines(filePath)
-                                        .Select(w => w.ToLowerInvariant())
-                                        .ToList();
+            List<string> wordlistKeys = split[1].Split('|').ToList();
 
-            INameGenerator generator = new MarkovNameGenerator(wordlist, 3, 0.0f)
+            List<List<string>> wordlists = new List<List<string>>();
+
+            foreach (string wordlistId in wordlistKeys)
+            {
+                string filePath = Path.Combine("Wordlists", wordlistId + ".txt");
+                List<string> wordlist = File.ReadAllLines(filePath).ToList();
+
+                wordlists.Add(wordlist);
+            }
+
+            INameGenerator generator = new MarkovNameGenerator(wordlists, 3, 0.0f)
             {
                 MinNameLength = 5,
                 MaxNameLength = 12,
