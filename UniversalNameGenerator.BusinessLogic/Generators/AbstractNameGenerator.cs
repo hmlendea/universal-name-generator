@@ -57,12 +57,15 @@ namespace UniversalNameGenerator.BusinessLogic.Generators
         /// <value>The used words.</value>
         public List<string> GeneratedWords { get; protected set; }
 
+        public List<List<string>> Wordlists { get; protected set; }
+
         protected readonly Random random;
 
         /// <summary>
         /// Initializes a new instance of the <see cref="AbstractNameGenerator"/> class.
         /// </summary>
-        protected AbstractNameGenerator()
+        /// <param name="wordlists">Word lists.</param>
+        protected AbstractNameGenerator(List<List<string>> wordlists)
         {
             MinNameLength = 5;
             MaxNameLength = 10;
@@ -73,23 +76,19 @@ namespace UniversalNameGenerator.BusinessLogic.Generators
 
             ExcludedStrings = new List<string>();
             IncludedStrings = new List<string>();
+
             GeneratedWords = new List<string>();
+            Wordlists = wordlists;
 
             random = new Random();
         }
-
-        /// <summary>
-        /// Gets a name.
-        /// </summary>
-        /// <returns>The name.</returns>
-        public abstract string GenerateName();
 
         /// <summary>
         /// Generates names.
         /// </summary>
         /// <returns>The names.</returns>
         /// <param name="maximumCount">Maximum count.</param>
-        public List<string> GenerateNames(int maximumCount)
+        public IEnumerable<string> Generate(int maximumCount)
         {
             List<string> names = new List<string>();
 
@@ -97,14 +96,14 @@ namespace UniversalNameGenerator.BusinessLogic.Generators
             DateTime currentTime = DateTime.Now;
             DateTime endTime = startTime.AddMilliseconds(MaxProcessingTimePerWord * maximumCount);
 
-            while (currentTime < endTime && names.Count < maximumCount)
+            while (names.Count < maximumCount && currentTime <= endTime)
             {
-                string name = GenerateName();
-
-                // The generated name wasn't valid
-                if (name != null)
+                string name = GenerationAlogrithm();
+                
+                if (IsNameValid(name))
                 {
                     names.Add(name);
+                    GeneratedWords.Add(name);
                 }
 
                 currentTime = DateTime.Now;
@@ -120,6 +119,8 @@ namespace UniversalNameGenerator.BusinessLogic.Generators
         {
             GeneratedWords.Clear();
         }
+
+        protected abstract string GenerationAlogrithm();
 
         /// <summary>
         /// Checks wether the the name is valid.
@@ -146,6 +147,12 @@ namespace UniversalNameGenerator.BusinessLogic.Generators
 
             // The same name was previously generated
             if (GeneratedWords.Contains(name))
+            {
+                return false;
+            }
+
+            // The same name was part of the seed wordlists
+            if (Wordlists.Any(wl => wl.Contains(name)))
             {
                 return false;
             }
