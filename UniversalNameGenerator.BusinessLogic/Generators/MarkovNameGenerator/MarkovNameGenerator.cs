@@ -7,11 +7,12 @@ namespace UniversalNameGenerator.BusinessLogic.Generators.MarkovNameGenerator
         MarkovGenerator generator;
 
         public MarkovNameGenerator(List<string> data, int order, float prior)
+            : base(new List<List<string>> { data })
         {
             generator = new MarkovGenerator(data, order, prior);
         }
 
-        public override string GenerateName()
+        protected override string GenerationAlogrithm()
         {
             string name = string.Empty;
 

@@ -1,5 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 
 namespace UniversalNameGenerator.BusinessLogic.Generators
 {
@@ -8,17 +7,17 @@ namespace UniversalNameGenerator.BusinessLogic.Generators
     /// </summary>
     public class RandomMixerNameGenerator : AbstractNameGenerator
     {
-        readonly List<List<string>> wordLists;
         readonly string separator;
 
         /// <summary>
         /// Initializes a new instance of the <see cref="RandomMixerNameGenerator"/> class.
         /// </summary>
         /// <param name="separator">Separator.</param>
-        /// <param name="wordLists">Word lists.</param>
-        public RandomMixerNameGenerator(string separator, List<List<string>> wordLists)
+        /// <param name="wordlists">Word lists.</param>
+        public RandomMixerNameGenerator(string separator, List<List<string>> wordlists)
+            : base (wordlists)
         {
-            this.wordLists = wordLists;
+            Wordlists = wordlists;
             this.separator = separator;
         }
 
@@ -26,19 +25,11 @@ namespace UniversalNameGenerator.BusinessLogic.Generators
         /// Generates a name.
         /// </summary>
         /// <returns>The name.</returns>
-        public override string GenerateName()
+        protected override string GenerationAlogrithm()
         {
             string name = string.Empty;
 
-            DateTime startTime = DateTime.Now;
-
-            while (DateTime.Now < startTime.AddMilliseconds(MaxProcessingTimePerWord) &&
-                   !IsNameValid(name))
-            {
-                name = string.Empty;
-
-                wordLists.ForEach(wl => name += wl[random.Next(wl.Count)] + separator);
-            }
+            Wordlists.ForEach(wl => name += wl[random.Next(wl.Count)] + separator);
 
             return name;
         }

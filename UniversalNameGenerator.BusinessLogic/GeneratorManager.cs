@@ -123,7 +123,7 @@ namespace UniversalNameGenerator.BusinessLogic
             INameGenerator generator = new RandomMixerNameGenerator(split[1], wordlists);
             generator.ExcludedStrings = filters;
 
-            return generator.GenerateNames(amount);
+            return generator.Generate(amount);
         }
 
         IEnumerable<string> GenerateMarkovNames(int amount, string[] split, List<string> filters)
@@ -140,7 +140,7 @@ namespace UniversalNameGenerator.BusinessLogic
                 ExcludedStrings = filters
             };
             
-            return generator.GenerateNames(amount);
+            return generator.Generate(amount);
         }
     }
 }
