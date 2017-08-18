@@ -101,7 +101,11 @@ namespace UniversalNameGenerator.BusinessLogic.Generators
             {
                 string name = GenerateName();
 
-                names.Add(name);
+                // The generated name wasn't valid
+                if (name != null)
+                {
+                    names.Add(name);
+                }
 
                 currentTime = DateTime.Now;
             }
