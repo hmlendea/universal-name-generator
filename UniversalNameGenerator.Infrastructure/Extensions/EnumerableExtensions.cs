@@ -65,7 +65,9 @@ namespace UniversalNameGenerator.Infrastructure.Extensions
                 random = new Random();
             }
 
-            return enumerable.ElementAt(random.Next(enumerable.Count()));
+            int randomIndex = random.Next(enumerable.Count());
+
+            return enumerable.ElementAt(randomIndex);
         }
     }
 }

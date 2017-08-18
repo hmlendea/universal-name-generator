@@ -1,5 +1,7 @@
 ﻿using System.Collections.Generic;
 
+using UniversalNameGenerator.Infrastructure.Extensions;
+
 namespace UniversalNameGenerator.BusinessLogic.Generators
 {
     /// <summary>
@@ -18,6 +20,8 @@ namespace UniversalNameGenerator.BusinessLogic.Generators
             : base (wordlists)
         {
             Wordlists = wordlists;
+            OnlyNewNames = false;
+
             this.separator = separator;
         }
 
@@ -29,7 +33,7 @@ namespace UniversalNameGenerator.BusinessLogic.Generators
         {
             string name = string.Empty;
 
-            Wordlists.ForEach(wl => name += wl[random.Next(wl.Count)] + separator);
+            Wordlists.ForEach(wl => name += wl.GetRandomElement() + separator);
 
             return name;
         }
