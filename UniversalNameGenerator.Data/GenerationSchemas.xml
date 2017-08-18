@@ -57,6 +57,11 @@
     <Schema>{randomiser, ,latin-pronomen-females|latin-nomen|latin-cognomen-females}</Schema>
   </GenerationSchema>
   <GenerationSchema>
+    <Id>letian-settlements</Id>
+    <Name>Letian (Narivia) settlements</Name>
+    <Schema>{markov,letian-settlements}</Schema>
+  </GenerationSchema>
+  <GenerationSchema>
     <Id>rodah-settlements</Id>
     <Name>Rodah (Narivia) settlements</Name>
     <Schema>{randomiser,,rodah-settlements-prefixes|rodah-settlements-bases|rodah-settlements-suffixes}</Schema>
