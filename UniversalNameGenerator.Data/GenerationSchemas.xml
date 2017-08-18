@@ -18,7 +18,12 @@
   <GenerationSchema>
     <Id>ro-fauna</Id>
     <Name>Romanian fauna species names</Name>
-    <Schema>{markov,ro-animals|ro-birds|ro-insects}</Schema>
+    <Schema>{markov,ro-animals|ro-birds|ro-fishes|ro-insects}</Schema>
+  </GenerationSchema>
+  <GenerationSchema>
+    <Id>ro-fishes</Id>
+    <Name>Romanian fish species names</Name>
+    <Schema>{markov,ro-fishes}</Schema>
   </GenerationSchema>
   <GenerationSchema>
     <Id>ro-insects</Id>
