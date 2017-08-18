@@ -8,7 +8,7 @@
   <GenerationSchema>
     <Id>ro-fauna</Id>
     <Name>Romanian fauna species names</Name>
-    <Schema>{markov,ro-animals}</Schema>
+    <Schema>{markov,ro-animals|ro-birds}</Schema>
   </GenerationSchema>
   <GenerationSchema>
     <Id>ro-birds</Id>
