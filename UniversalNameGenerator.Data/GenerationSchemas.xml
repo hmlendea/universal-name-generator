@@ -1,6 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ArrayOfGenerationSchema xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <GenerationSchema>
+    <Id>ro-animals</Id>
+    <Name>Romanian animal names</Name>
+    <Schema>{markov,ro-animals}</Schema>
+  </GenerationSchema>
+  <GenerationSchema>
+    <Id>ro-plants</Id>
+    <Name>Romanian plant names</Name>
+    <Schema>{markov,ro-plants}</Schema>
+  </GenerationSchema>
+  <GenerationSchema>
     <Id>ro-settlements</Id>
     <Name>Romanian settlement names</Name>
     <Filterlist>ro-settlements-filters</Filterlist>
