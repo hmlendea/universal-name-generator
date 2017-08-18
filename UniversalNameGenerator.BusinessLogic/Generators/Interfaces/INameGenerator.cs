@@ -56,17 +56,17 @@ namespace UniversalNameGenerator.BusinessLogic.Generators.Interfaces
         List<string> GeneratedWords { get; }
 
         /// <summary>
-        /// Generates a name.
+        /// Gets the word lists.
         /// </summary>
-        /// <returns>The name.</returns>
-        string GenerateName();
-
+        /// <value>The word lists.</value>
+        List<List<string>> Wordlists { get; }
+        
         /// <summary>
         /// Generates names.
         /// </summary>
         /// <returns>The names.</returns>
         /// <param name="maximumCount">Maximum count.</param>
-        List<string> GenerateNames(int maximumCount);
+        IEnumerable<string> Generate(int maximumCount);
 
         /// <summary>
         /// Reset the list of used names.
