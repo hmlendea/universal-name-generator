@@ -27,6 +27,8 @@ namespace UniversalNameGenerator.BusinessLogic.Generators
         /// <value>The maximum processing time per word, in milliseconds.</value>
         public int MaxProcessingTimePerWord { get; set; }
 
+        public bool OnlyNewNames { get; set; }
+
         /// <summary>
         /// Gets or sets the excluded strings.
         /// </summary>
@@ -69,7 +71,9 @@ namespace UniversalNameGenerator.BusinessLogic.Generators
         {
             MinNameLength = 5;
             MaxNameLength = 10;
+
             MaxProcessingTimePerWord = 1000;
+            OnlyNewNames = true;
 
             StartsWithFilter = string.Empty;
             EndsWithFilter = string.Empty;
@@ -152,7 +156,7 @@ namespace UniversalNameGenerator.BusinessLogic.Generators
             }
 
             // The same name was part of the seed wordlists
-            if (Wordlists.Any(wl => wl.Contains(name)))
+            if (OnlyNewNames && Wordlists.Any(wl => wl.Contains(name)))
             {
                 return false;
             }
