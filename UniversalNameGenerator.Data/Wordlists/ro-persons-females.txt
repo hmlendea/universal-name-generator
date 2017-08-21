@@ -27,7 +27,6 @@ Camelia
 Carina
 Carla
 Carmen
-Cătălina
 Clara
 Claudia
 Codruța
@@ -38,6 +37,7 @@ Cosmina
 Crina
 Cristiana
 Cristina
+Cătălina
 Daciana
 Dalina
 Dana
@@ -92,7 +92,6 @@ Luciana
 Lucreția
 Luiza
 Luminița
-Mădălina
 Magda
 Magdalena
 Maia
@@ -106,8 +105,6 @@ Marilena
 Marina
 Marinela
 Marioara
-Mărioara
-Măriuca
 Marta
 Melania
 Melisa
@@ -118,6 +115,9 @@ Mirela
 Miruna
 Monica
 Morica
+Mădălina
+Mărioara
+Măriuca
 Nadia
 Nadina
 Narcisa
@@ -143,6 +143,7 @@ Rebeca
 Renata
 Roberta
 Rodica
+Romanița
 Roxana
 Rozalia
 Ruxandra
@@ -154,8 +155,6 @@ Simona
 Sofia
 Sonia
 Sorina
-Ștefana
-Ștefania
 Stela
 Tamara
 Tatiana
@@ -168,3 +167,5 @@ Victoria
 Viorica
 Voichița
 Zeina
+Ștefana
+Ștefania
