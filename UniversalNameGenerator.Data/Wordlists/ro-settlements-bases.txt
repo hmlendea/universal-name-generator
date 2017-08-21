@@ -53,6 +53,7 @@ bolb
 bolbur
 bolde
 bolin
+bon
 bondăr
 bonț
 bor
@@ -135,6 +136,7 @@ cen
 cenuș
 cer
 cerb
+cercel
 cern
 cerna
 cerș
@@ -170,6 +172,7 @@ cocin
 cod
 codr
 colib
+colț
 com
 coman
 comar
@@ -192,6 +195,8 @@ cost
 coste
 costin
 covă
+coț
+coțof
 crai
 cram
 creng
@@ -201,6 +206,7 @@ cris
 cristu
 criu
 criule
+cromp
 crăm
 crăs
 cuc
@@ -211,6 +217,7 @@ cur
 curc
 curt
 câ
+câin
 câmp
 cân
 cânt
@@ -232,6 +239,8 @@ căn
 căpr
 căpri
 căprior
+cărăm
+cărămid
 cău
 căză
 dac
@@ -316,6 +325,7 @@ fra
 fras
 frasin
 frat
+frez
 frig
 fru
 frun
@@ -334,10 +344,7 @@ fău
 gal
 gala
 galact
-galat
-galb
-galet
-gaur
+galaț
 gem
 georg
 ghen
@@ -377,6 +384,12 @@ groz
 guvid
 găe
 găin
+gălb
+gălet
+găleț
+gălăț
+gărd
+găur
 ha
 han
 harap
@@ -453,6 +466,7 @@ lunc
 luncăn
 lung
 lup
+lăpt
 magh
 maia
 mam
@@ -568,6 +582,7 @@ paul
 pașc
 peci
 perd
+pes
 pescăr
 pest
 petin
@@ -596,9 +611,14 @@ port
 porumb
 pot
 potol
+pra
+prag
 prah
 pre
+prej
 preot
+pres
+preș
 prip
 prisl
 prun
@@ -613,6 +633,7 @@ pâng
 pângă
 pângăr
 pădur
+păpuș
 păsăr
 pătur
 pătâr
@@ -714,6 +735,7 @@ strop
 strug
 strugur
 stră
+străj
 stân
 suc
 suli
@@ -765,6 +787,7 @@ trant
 tren
 trid
 tril
+trof
 troi
 trol
 trud
@@ -845,13 +868,17 @@ zel
 zgon
 zid
 zidar
+zimn
 zimni
 zla
 zvon
 zărne
 însu
 întor
+șal
+șerp
 șim
+șoim
 șol
 șom
 ște
