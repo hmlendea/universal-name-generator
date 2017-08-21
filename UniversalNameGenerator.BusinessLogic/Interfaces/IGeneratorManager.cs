@@ -1,11 +1,11 @@
 ﻿using System.Collections.Generic;
 
-using UniversalNameGenerator.Models;
+using UniversalNameGenerator.Models.Enumerations;
 
 namespace UniversalNameGenerator.BusinessLogic.Interfaces
 {
     public interface IGeneratorManager
     {
-        IEnumerable<string> GenerateNames(string schema, string filterlist, int amount);
+        IEnumerable<string> GenerateNames(string schema, int amount, string filterlist, WordCasing casing);
     }
 }

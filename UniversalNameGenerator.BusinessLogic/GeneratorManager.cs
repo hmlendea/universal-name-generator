@@ -7,6 +7,8 @@ using UniversalNameGenerator.BusinessLogic.Generators;
 using UniversalNameGenerator.BusinessLogic.Generators.Interfaces;
 using UniversalNameGenerator.BusinessLogic.Generators.MarkovNameGenerator;
 using UniversalNameGenerator.BusinessLogic.Interfaces;
+using UniversalNameGenerator.Infrastructure.Extensions;
+using UniversalNameGenerator.Models.Enumerations;
 
 namespace UniversalNameGenerator.BusinessLogic
 {
@@ -14,7 +16,7 @@ namespace UniversalNameGenerator.BusinessLogic
     {
         Random random;
 
-        public IEnumerable<string> GenerateNames(string schema, string filterlist, int amount)
+        public IEnumerable<string> GenerateNames(string schema, int amount, string filterlist, WordCasing casing)
         {
             random = new Random();
 
@@ -73,6 +75,26 @@ namespace UniversalNameGenerator.BusinessLogic
                 string name = string.Empty;
 
                 z.ForEach(x => name += x[i]);
+
+                switch(casing)
+                {
+                    case WordCasing.Lower:
+                        name = name.ToLower();
+                        break;
+
+                    case WordCasing.Upper:
+                        name = name.ToUpper();
+                        break;
+
+                    case WordCasing.Title:
+                        name = name.ToTitle();
+                        break;
+
+                    case WordCasing.Sentence:
+                        name = name.ToSentence();
+                        break;
+                }
+
                 names.Add(name);
             }
 

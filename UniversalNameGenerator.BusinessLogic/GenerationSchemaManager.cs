@@ -18,7 +18,6 @@ namespace UniversalNameGenerator.BusinessLogic
         /// <summary>
         /// Initializes a new instance of the <see cref="GeneratorSchemaManager"/> class.
         /// </summary>
-        /// <param name="language">Language.</param>
         public GeneratorSchemaManager()
         {
             repositoryFilePath = "GenerationSchemas.xml";
