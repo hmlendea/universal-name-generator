@@ -319,6 +319,7 @@ frat
 frig
 fru
 frun
+fui
 fuior
 fulger
 funar
@@ -327,7 +328,8 @@ fundu
 fă
 făgă
 făle
-fălty
+fălt
+fălti
 fău
 gal
 gala

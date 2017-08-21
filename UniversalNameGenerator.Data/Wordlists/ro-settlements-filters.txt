@@ -16,6 +16,7 @@ baud$
 bco
 bgi
 brs
+bza$
 cda
 cgi$
 ch([a-df-hj-z])
