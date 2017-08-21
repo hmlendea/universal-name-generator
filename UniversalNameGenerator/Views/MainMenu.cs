@@ -37,7 +37,7 @@ namespace UniversalNameGenerator.Views
 
         void GenerateNames(GenerationSchema schema, int amount)
         {
-            List<string> names = generator.GenerateNames(schema.Schema, schema.Filterlist, amount).ToList();
+            List<string> names = generator.GenerateNames(schema.Schema, schema.FilterlistPath, amount).ToList();
 
             names.ForEach(Console.WriteLine);
         }
