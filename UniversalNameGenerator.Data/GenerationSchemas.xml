@@ -16,6 +16,11 @@
     <Schema>{markov,ro-colours}</Schema>
   </GenerationSchemaEntity>
   <GenerationSchemaEntity>
+    <Id>ro-flora</Id>
+    <Name>Romanian flora species names</Name>
+    <Schema>{markov,ro-plants|ro-fruits|ro-trees}</Schema>
+  </GenerationSchemaEntity>
+  <GenerationSchemaEntity>
     <Id>ro-fauna</Id>
     <Name>Romanian fauna species names</Name>
     <Schema>{markov,ro-animals|ro-birds|ro-fishes|ro-insects}</Schema>
