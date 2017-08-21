@@ -1,9 +1,9 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
 
+using UniversalNameGenerator.DataAccess.DataObjects;
 using UniversalNameGenerator.DataAccess.Exceptions;
 using UniversalNameGenerator.DataAccess.Repositories.Interfaces;
-using UniversalNameGenerator.Models;
 
 namespace UniversalNameGenerator.DataAccess.Repositories
 {
@@ -12,7 +12,7 @@ namespace UniversalNameGenerator.DataAccess.Repositories
     /// </summary>
     public class GenerationSchemaRepository : IGenerationSchemaRepository
     {
-        readonly XmlDatabase<GenerationSchema> xmlDatabase;
+        readonly XmlDatabase<GenerationSchemaEntity> xmlDatabase;
 
         /// <summary>
         /// Initializes a new instance of the <see cref="GenerationSchemaRepository"/> class.
@@ -20,16 +20,16 @@ namespace UniversalNameGenerator.DataAccess.Repositories
         /// <param name="fileName">File name.</param>
         public GenerationSchemaRepository(string fileName)
         {
-            xmlDatabase = new XmlDatabase<GenerationSchema>(fileName);
+            xmlDatabase = new XmlDatabase<GenerationSchemaEntity>(fileName);
         }
 
         /// <summary>
         /// Adds the specified generation schema.
         /// </summary>
         /// <param name="generation schemaEntity">GenerationSchema.</param>
-        public void Add(GenerationSchema schemaEntity)
+        public void Add(GenerationSchemaEntity schemaEntity)
         {
-            List<GenerationSchema> schemaEntities = xmlDatabase.LoadEntities().ToList();
+            List<GenerationSchemaEntity> schemaEntities = xmlDatabase.LoadEntities().ToList();
             schemaEntities.Add(schemaEntity);
 
             try
@@ -38,7 +38,7 @@ namespace UniversalNameGenerator.DataAccess.Repositories
             }
             catch
             {
-                throw new DuplicateEntityException(schemaEntity.Id, nameof(GenerationSchema).Replace("Entity", ""));
+                throw new DuplicateEntityException(schemaEntity.Id, nameof(GenerationSchemaEntity).Replace("Entity", ""));
             }
         }
 
@@ -47,14 +47,14 @@ namespace UniversalNameGenerator.DataAccess.Repositories
         /// </summary>
         /// <returns>The generation schema.</returns>
         /// <param name="id">Identifier.</param>
-        public GenerationSchema Get(string id)
+        public GenerationSchemaEntity Get(string id)
         {
-            List<GenerationSchema> schemaEntities = xmlDatabase.LoadEntities().ToList();
-            GenerationSchema schemaEntity = schemaEntities.FirstOrDefault(x => x.Id == id);
+            List<GenerationSchemaEntity> schemaEntities = xmlDatabase.LoadEntities().ToList();
+            GenerationSchemaEntity schemaEntity = schemaEntities.FirstOrDefault(x => x.Id == id);
 
             if (schemaEntity == null)
             {
-                throw new EntityNotFoundException(id, nameof(GenerationSchema).Replace("Entity", ""));
+                throw new EntityNotFoundException(id, nameof(GenerationSchemaEntity).Replace("Entity", ""));
             }
 
             return schemaEntity;
@@ -64,9 +64,9 @@ namespace UniversalNameGenerator.DataAccess.Repositories
         /// Gets all the generation schemas.
         /// </summary>
         /// <returns>The generation schemas</returns>
-        public IEnumerable<GenerationSchema> GetAll()
+        public IEnumerable<GenerationSchemaEntity> GetAll()
         {
-            List<GenerationSchema> schemaEntities = xmlDatabase.LoadEntities().ToList();
+            List<GenerationSchemaEntity> schemaEntities = xmlDatabase.LoadEntities().ToList();
 
             return schemaEntities;
         }
@@ -75,18 +75,18 @@ namespace UniversalNameGenerator.DataAccess.Repositories
         /// Updates the specified generation schema.
         /// </summary>
         /// <param name="schemaEntity">Generation schema.</param>
-        public void Update(GenerationSchema schemaEntity)
+        public void Update(GenerationSchemaEntity schemaEntity)
         {
-            List<GenerationSchema> schemaEntities = xmlDatabase.LoadEntities().ToList();
-            GenerationSchema schemaEntityToUpdate = schemaEntities.FirstOrDefault(x => x.Id == schemaEntity.Id);
+            List<GenerationSchemaEntity> schemaEntities = xmlDatabase.LoadEntities().ToList();
+            GenerationSchemaEntity schemaEntityToUpdate = schemaEntities.FirstOrDefault(x => x.Id == schemaEntity.Id);
 
             if (schemaEntityToUpdate == null)
             {
-                throw new EntityNotFoundException(schemaEntity.Id, nameof(GenerationSchema).Replace("Entity", ""));
+                throw new EntityNotFoundException(schemaEntity.Id, nameof(GenerationSchemaEntity).Replace("Entity", ""));
             }
 
             schemaEntityToUpdate.Name = schemaEntity.Name;
-            schemaEntityToUpdate.Filterlist = schemaEntity.Filterlist;
+            schemaEntityToUpdate.FilterlistPath = schemaEntity.FilterlistPath;
             schemaEntityToUpdate.Schema = schemaEntity.Schema;
 
             xmlDatabase.SaveEntities(schemaEntities);
@@ -98,7 +98,7 @@ namespace UniversalNameGenerator.DataAccess.Repositories
         /// <param name="id">Identifier.</param>
         public void Remove(string id)
         {
-            List<GenerationSchema> schemaEntities = xmlDatabase.LoadEntities().ToList();
+            List<GenerationSchemaEntity> schemaEntities = xmlDatabase.LoadEntities().ToList();
             schemaEntities.RemoveAll(x => x.Id == id);
 
             try
@@ -107,7 +107,7 @@ namespace UniversalNameGenerator.DataAccess.Repositories
             }
             catch
             {
-                throw new DuplicateEntityException(id, nameof(GenerationSchema).Replace("Entity", ""));
+                throw new DuplicateEntityException(id, nameof(GenerationSchemaEntity).Replace("Entity", ""));
             }
         }
     }

@@ -1,6 +1,7 @@
 ﻿using System.Collections.Generic;
 
 using UniversalNameGenerator.BusinessLogic.Interfaces;
+using UniversalNameGenerator.BusinessLogic.Mapping;
 using UniversalNameGenerator.DataAccess.Repositories;
 using UniversalNameGenerator.DataAccess.Repositories.Interfaces;
 using UniversalNameGenerator.Models;
@@ -22,6 +23,7 @@ namespace UniversalNameGenerator.BusinessLogic
         {
             repositoryFilePath = "GenerationSchemas.xml";
         }
+
         /// <summary>
         /// Gets all generation schemas.
         /// </summary>
@@ -30,7 +32,7 @@ namespace UniversalNameGenerator.BusinessLogic
         {
             IGenerationSchemaRepository repository = new GenerationSchemaRepository(repositoryFilePath);
 
-            return repository.GetAll();
+            return repository.GetAll().ToDomainModels();
         }
     }
 }
