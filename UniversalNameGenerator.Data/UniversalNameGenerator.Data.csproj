@@ -75,6 +75,7 @@
     <Content Include="Wordlists\ro-insects.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <Content Include="Wordlists\ro-trees.txt" />
     <Content Include="Wordlists\rodah-persons-filters.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
