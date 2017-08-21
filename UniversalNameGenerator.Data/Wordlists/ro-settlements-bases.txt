@@ -21,11 +21,7 @@ astr
 aur
 avid
 azu
-ba
-baba
-bac
 bad
-bai
 bal
 baltag
 ban
@@ -61,6 +57,8 @@ bondăr
 bonț
 bor
 bord
+born
+bornă
 borog
 bot
 botin
@@ -69,7 +67,6 @@ boul
 bovid
 boț
 braga
-brail
 bras
 bre
 brea
@@ -87,8 +84,8 @@ buce
 bucha
 buco
 bucov
-bucs
 bucur
+bucș
 bude
 buf
 buhu
@@ -107,6 +104,9 @@ butoi
 buște
 bâr
 bă
+băb
+băc
+băd
 băi
 băile
 băl
@@ -122,10 +122,6 @@ cala
 calaf
 cales
 calif
-can
-cante
-capr
-caprior
 car
 cara
 caram
@@ -214,7 +210,12 @@ cuptor
 cur
 curc
 curt
+câ
 câmp
+cân
+cânt
+cânte
+că
 căi
 căla
 căld
@@ -227,6 +228,10 @@ căm
 cămen
 cămin
 cămăr
+căn
+căpr
+căpri
+căprior
 cău
 căză
 dac
@@ -324,7 +329,6 @@ făgă
 făle
 fălty
 fău
-gain
 gal
 gala
 galact
@@ -370,6 +374,7 @@ grigorio
 groz
 guvid
 găe
+găin
 ha
 han
 harap
@@ -557,8 +562,8 @@ pan
 pandur
 pante
 par
-pasc
 paul
+pașc
 peci
 perd
 pescăr
@@ -627,7 +632,7 @@ ros
 rovi
 roșio
 rug
-ruman
+rumân
 rus
 râ
 râb
@@ -643,7 +648,6 @@ râșc
 sac
 sacuen
 sadov
-salaj
 salc
 salon
 sap
@@ -663,19 +667,20 @@ sega
 sen
 sener
 sever
-sfant
+sfânt
 sib
 siber
 sigh
 sighis
 silvan
+silvăn
 sime
-sla
 slat
 slo
 slob
 slobo
 sloboz
+slă
 smirn
 socr
 somes
@@ -721,6 +726,7 @@ sâng
 sânge
 sânger
 sârma
+sălaj
 ta
 tabar
 tara
@@ -741,6 +747,7 @@ tiner
 tir
 tira
 tisma
+tismă
 toder
 tomn
 top
@@ -824,6 +831,7 @@ vânător
 vă
 văc
 văd
+vădu
 văduv
 văl
 vălc
