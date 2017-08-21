@@ -39,6 +39,7 @@
     <Compile Include="Generators\MarkovNameGenerator\MarkovNameGenerator.cs" />
     <Compile Include="Interfaces\GeneratorSchemaManager.cs" />
     <Compile Include="Interfaces\IGeneratorManager.cs" />
+    <Compile Include="Mapping\GenerationSchemaMappingExtensions.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Generators\RandomMixerNameGenerator.cs" />
   </ItemGroup>

@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-using UniversalNameGenerator.Models;
+using UniversalNameGenerator.DataAccess.DataObjects;
 
 namespace UniversalNameGenerator.DataAccess.Repositories.Interfaces
 {
@@ -13,26 +13,26 @@ namespace UniversalNameGenerator.DataAccess.Repositories.Interfaces
         /// Adds the specified biome.
         /// </summary>
         /// <param name="biomeEntity">GenerationSchema.</param>
-        void Add(GenerationSchema biomeEntity);
+        void Add(GenerationSchemaEntity biomeEntity);
 
         /// <summary>
         /// Get the biome with the specified identifier.
         /// </summary>
         /// <returns>The biome.</returns>
         /// <param name="id">Identifier.</param>
-        GenerationSchema Get(string id);
+        GenerationSchemaEntity Get(string id);
 
         /// <summary>
         /// Gets all the biomes.
         /// </summary>
         /// <returns>The biomes</returns>
-        IEnumerable<GenerationSchema> GetAll();
+        IEnumerable<GenerationSchemaEntity> GetAll();
 
         /// <summary>
         /// Updates the specified biome.
         /// </summary>
         /// <param name="biomeEntity">GenerationSchema.</param>
-        void Update(GenerationSchema biomeEntity);
+        void Update(GenerationSchemaEntity biomeEntity);
 
         /// <summary>
         /// Removes the biome with the specified identifier.
