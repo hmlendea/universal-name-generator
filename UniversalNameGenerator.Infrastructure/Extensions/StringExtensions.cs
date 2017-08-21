@@ -4,12 +4,7 @@ namespace UniversalNameGenerator.Infrastructure.Extensions
 {
     public static class StringExtensions
     {
-        /// <summary>
-        /// Gets the duplicated elements.
-        /// </summary>
-        /// <param name="source">The collection.</param>
-        /// <returns>The duplicated elements.</returns>
-        public static string ToTitleCase(this string source)
+        public static string ToTitle(this string source)
         {
             char[] chars = source.ToLower().ToCharArray();
 
@@ -20,6 +15,15 @@ namespace UniversalNameGenerator.Infrastructure.Extensions
                     chars[i] = char.ToUpper(chars[i]);
                 }
             }
+
+            return new string(chars);
+        }
+
+        public static string ToSentence(this string source)
+        {
+            char[] chars = source.ToLower().ToCharArray();
+
+            chars[0] = char.ToUpper(chars[0]);
 
             return new string(chars);
         }

@@ -1,8 +1,10 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using System.Linq;
 
 using UniversalNameGenerator.DataAccess.DataObjects;
 using UniversalNameGenerator.Models;
+using UniversalNameGenerator.Models.Enumerations;
 
 namespace UniversalNameGenerator.BusinessLogic.Mapping
 {
@@ -23,7 +25,8 @@ namespace UniversalNameGenerator.BusinessLogic.Mapping
                 Id = generationSchemaEntity.Id,
                 Name = generationSchemaEntity.Name,
                 Schema = generationSchemaEntity.Schema,
-                FilterlistPath = generationSchemaEntity.FilterlistPath
+                FilterlistPath = generationSchemaEntity.FilterlistPath,
+                WordCasing = (WordCasing)Enum.Parse(typeof(WordCasing), generationSchemaEntity.WordCasing),
             };
 
             return generationSchema;
@@ -41,7 +44,8 @@ namespace UniversalNameGenerator.BusinessLogic.Mapping
                 Id = generationSchema.Id,
                 Name = generationSchema.Name,
                 Schema = generationSchema.Schema,
-                FilterlistPath = generationSchema.FilterlistPath
+                FilterlistPath = generationSchema.FilterlistPath,
+                WordCasing = generationSchema.WordCasing.ToString()
             };
 
             return generationSchemaEntity;

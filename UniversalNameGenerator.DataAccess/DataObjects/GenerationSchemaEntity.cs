@@ -1,4 +1,6 @@
-﻿namespace UniversalNameGenerator.DataAccess.DataObjects
+﻿using UniversalNameGenerator.Infrastructure.Extensions;
+
+namespace UniversalNameGenerator.DataAccess.DataObjects
 {
     public class GenerationSchemaEntity
     {
@@ -25,5 +27,12 @@
         /// </summary>
         /// <value>The filterlist path.</value>
         public string FilterlistPath { get; set; }
+
+        public string WordCasing { get; set; }
+
+        public GenerationSchemaEntity()
+        {
+            WordCasing = Models.Enumerations.WordCasing.Title.GetDisplayName();
+        }
     }
 }
