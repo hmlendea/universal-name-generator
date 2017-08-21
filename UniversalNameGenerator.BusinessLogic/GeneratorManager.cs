@@ -165,8 +165,8 @@ namespace UniversalNameGenerator.BusinessLogic
 
             INameGenerator generator = new MarkovNameGenerator(wordlists, 3, 0.0f)
             {
-                MinNameLength = 5,
-                MaxNameLength = 12,
+                MinNameLength = 4,
+                MaxNameLength = 14,
                 ExcludedStrings = filters
             };
             
