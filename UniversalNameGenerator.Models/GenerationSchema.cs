@@ -1,6 +1,8 @@
 ﻿using System;
 using System.ComponentModel.DataAnnotations;
 
+using UniversalNameGenerator.Models.Enumerations;
+
 namespace UniversalNameGenerator.Models
 {
     /// <summary>
@@ -36,12 +38,19 @@ namespace UniversalNameGenerator.Models
         /// <value>The filterlist path.</value>
         public string FilterlistPath { get; set; }
 
+        public WordCasing WordCasing { get; set; }
+
+        public GenerationSchema()
+        {
+            WordCasing = WordCasing.Sentence;
+        }
+
         /// <summary>
-        /// Determines whether the specified <see cref="Army"/> is equal to the current <see cref="Army"/>.
+        /// Determines whether the specified <see cref="GenerationSchema"/> is equal to the current <see cref="GenerationSchema"/>.
         /// </summary>
-        /// <param name="other">The <see cref="Army"/> to compare with the current <see cref="Army"/>.</param>
-        /// <returns><c>true</c> if the specified <see cref=Army"/> is equal to the current
-        /// <see cref="Army"/>; otherwise, <c>false</c>.</returns>
+        /// <param name="other">The <see cref="GenerationSchema"/> to compare with the current <see cref="GenerationSchema"/>.</param>
+        /// <returns><c>true</c> if the specified <see cref=GenerationSchema"/> is equal to the current
+        /// <see cref="GenerationSchema"/>; otherwise, <c>false</c>.</returns>
         public bool Equals(GenerationSchema other)
         {
             if (ReferenceEquals(null, other))
@@ -61,11 +70,11 @@ namespace UniversalNameGenerator.Models
         }
 
         /// <summary>
-        /// Determines whether the specified <see cref="object"/> is equal to the current <see cref="Army"/>.
+        /// Determines whether the specified <see cref="object"/> is equal to the current <see cref="GenerationSchema"/>.
         /// </summary>
-        /// <param name="obj">The <see cref="object"/> to compare with the current <see cref="Army"/>.</param>
+        /// <param name="obj">The <see cref="object"/> to compare with the current <see cref="GenerationSchema"/>.</param>
         /// <returns><c>true</c> if the specified <see cref="object"/> is equal to the current
-        /// <see cref="Army"/>; otherwise, <c>false</c>.</returns>
+        /// <see cref="GenerationSchema"/>; otherwise, <c>false</c>.</returns>
         public override bool Equals(object obj)
         {
             if (ReferenceEquals(null, obj))
@@ -87,7 +96,7 @@ namespace UniversalNameGenerator.Models
         }
 
         /// <summary>
-        /// Serves as a hash function for a <see cref="Army"/> object.
+        /// Serves as a hash function for a <see cref="GenerationSchema"/> object.
         /// </summary>
         /// <returns>A hash code for this instance that is suitable for use in hashing algorithms and data structures such as a
         /// hash table.</returns>
