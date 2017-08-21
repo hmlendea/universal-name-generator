@@ -31,6 +31,11 @@
     <Schema>{markov,ro-fishes}</Schema>
   </GenerationSchemaEntity>
   <GenerationSchemaEntity>
+    <Id>ro-fruits</Id>
+    <Name>Romanian fruit species names</Name>
+    <Schema>{markov,ro-fruits}</Schema>
+  </GenerationSchemaEntity>
+  <GenerationSchemaEntity>
     <Id>ro-insects</Id>
     <Name>Romanian insect species names</Name>
     <Schema>{markov,ro-insects}</Schema>
@@ -57,6 +62,11 @@
     <Name>Romanian female persons</Name>
     <Filterlist>ro-persons-filters</Filterlist>
     <Schema>{randomiser, ,ro-persons-females|ro-surnames}</Schema>
+  </GenerationSchemaEntity>
+  <GenerationSchemaEntity>
+    <Id>ro-trees</Id>
+    <Name>Romanian tree species names</Name>
+    <Schema>{markov,ro-trees}</Schema>
   </GenerationSchemaEntity>
   <GenerationSchemaEntity>
     <Id>dacian-settlements</Id>
