@@ -2,21 +2,21 @@
 
 using UniversalNameGenerator.Infrastructure.Extensions;
 
-namespace UniversalNameGenerator.BusinessLogic.Generators
+namespace UniversalNameGenerator.BusinessLogic.NameGenerators.Randomiser
 {
     /// <summary>
     /// Random name generator that mixes words from different lists
     /// </summary>
-    public class RandomMixerNameGenerator : AbstractNameGenerator
+    public class RandomiserNameGenerator : NameGenerator
     {
         readonly string separator;
 
         /// <summary>
-        /// Initializes a new instance of the <see cref="RandomMixerNameGenerator"/> class.
+        /// Initializes a new instance of the <see cref="RandomiserNameGenerator"/> class.
         /// </summary>
         /// <param name="separator">Separator.</param>
         /// <param name="wordlists">Word lists.</param>
-        public RandomMixerNameGenerator(string separator, List<List<string>> wordlists)
+        public RandomiserNameGenerator(string separator, List<List<string>> wordlists)
             : base (wordlists)
         {
             Wordlists = wordlists;
