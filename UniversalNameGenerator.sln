@@ -11,7 +11,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniversalNameGenerator.Data
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniversalNameGenerator.Data", "UniversalNameGenerator.Data\UniversalNameGenerator.Data.csproj", "{FB162F2F-E809-491A-A0B5-4F9B2902C9BA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniversalNameGenerator.Infrastructure", "UniversalNameGenerator.Infrastructure\UniversalNameGenerator.Infrastructure.csproj", "{93A84833-5B4B-4272-AA8A-B55D24CBEFEB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniversalNameGenerator.Common", "UniversalNameGenerator.Infrastructure\UniversalNameGenerator.Common.csproj", "{93A84833-5B4B-4272-AA8A-B55D24CBEFEB}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniversalNameGenerator.BusinessLogic", "UniversalNameGenerator.BusinessLogic\UniversalNameGenerator.BusinessLogic.csproj", "{3468438A-0187-4B1B-B6B1-AEA4B46EB9A8}"
 EndProject

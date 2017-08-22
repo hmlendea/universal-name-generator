@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Reflection;
 
-namespace UniversalNameGenerator.Infrastructure.Extensions
+namespace UniversalNameGenerator.Common.Extensions
 {
     /// <summary>
     /// Enumerable extensions.

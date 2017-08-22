@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace UniversalNameGenerator.Infrastructure.Extensions
+namespace UniversalNameGenerator.Common.Extensions
 {
     /// <summary>
     /// Dictionary extensions.

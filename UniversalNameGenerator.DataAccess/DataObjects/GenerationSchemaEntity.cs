@@ -1,4 +1,4 @@
-﻿using UniversalNameGenerator.Infrastructure.Extensions;
+﻿using UniversalNameGenerator.Common.Extensions;
 
 namespace UniversalNameGenerator.DataAccess.DataObjects
 {

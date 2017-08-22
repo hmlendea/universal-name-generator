@@ -1,6 +1,6 @@
 ﻿using System.Linq;
 
-namespace UniversalNameGenerator.Infrastructure.Extensions
+namespace UniversalNameGenerator.Common.Extensions
 {
     public static class StringExtensions
     {

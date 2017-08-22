@@ -55,9 +55,9 @@
       <Project>{FB162F2F-E809-491A-A0B5-4F9B2902C9BA}</Project>
       <Name>UniversalNameGenerator.Data</Name>
     </ProjectReference>
-    <ProjectReference Include="..\UniversalNameGenerator.Infrastructure\UniversalNameGenerator.Infrastructure.csproj">
+    <ProjectReference Include="..\UniversalNameGenerator.Infrastructure\UniversalNameGenerator.Common.csproj">
       <Project>{93A84833-5B4B-4272-AA8A-B55D24CBEFEB}</Project>
-      <Name>UniversalNameGenerator.Infrastructure</Name>
+      <Name>UniversalNameGenerator.Common</Name>
     </ProjectReference>
   </ItemGroup>
 </Project>
