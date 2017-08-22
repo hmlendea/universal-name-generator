@@ -4,10 +4,10 @@ using System.Linq;
 
 using UniversalNameGenerator.Common.Helpers;
 
-namespace UniversalNameGenerator.Views
+namespace UniversalNameGenerator.Menus
 {
     /// <summary>
-    /// Command-line Menu.
+    /// Command-line menu.
     /// </summary>
     public class Menu
     {
@@ -21,19 +21,19 @@ namespace UniversalNameGenerator.Views
         /// Gets or sets the title colour.
         /// </summary>
         /// <value>The title colour.</value>
-        public ConsoleColor TitleColour { get; set; } = ConsoleColor.Green;
+        public ConsoleColor TitleColour { get; set; }
 
         /// <summary>
         /// Gets or sets the title decoration colour.
         /// </summary>
         /// <value>The title decoration colour.</value>
-        public ConsoleColor TitleDecorationColour { get; set; } = ConsoleColor.Yellow;
+        public ConsoleColor TitleDecorationColour { get; set; }
 
         /// <summary>
         /// Gets or sets the prompt colour.
         /// </summary>
         /// <value>The prompt colour.</value>
-        public ConsoleColor PromptColour { get; set; } = ConsoleColor.White;
+        public ConsoleColor PromptColour { get; set; }
 
         /// <summary>
         /// Gets or sets the title.
@@ -60,19 +60,23 @@ namespace UniversalNameGenerator.Views
         public string Prompt { get; set; } = "> ";
 
         /// <summary>
-        /// Initializes a new instance of the <see cref="UniversalNameGenerator.Views.Menu"/> class.
+        /// Initializes a new instance of the <see cref="Menu"/> class.
         /// </summary>
         public Menu()
         {
             commandTexts = new Dictionary<string, string>();
             commandActions = new Dictionary<string, Action>();
 
+            TitleColour = ConsoleColor.Green;
+            TitleDecorationColour = ConsoleColor.Yellow;
+            PromptColour = ConsoleColor.White;
+
             AddCommand("exit", "Exit this menu", Exit);
             AddCommand("print", "Print the command list", PrintCommandList);
         }
 
         /// <summary>
-        /// Initializes a new instance of the <see cref="UniversalNameGenerator.Views.Menu"/> class.
+        /// Initializes a new instance of the <see cref="Menu"/> class.
         /// </summary>
         /// <param name="title">Title.</param>
         public Menu(string title)
