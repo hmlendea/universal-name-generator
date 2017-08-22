@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Text;
 
-using UniversalNameGenerator.Views;
+using UniversalNameGenerator.Menus;
 
 namespace UniversalNameGenerator
 {

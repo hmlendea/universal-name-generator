@@ -6,7 +6,7 @@ using UniversalNameGenerator.BusinessLogic.GenerationManagers;
 using UniversalNameGenerator.BusinessLogic.GenerationManagers.Interfaces;
 using UniversalNameGenerator.Models;
 
-namespace UniversalNameGenerator.Views
+namespace UniversalNameGenerator.Menus
 {
     /// <summary>
     /// Main menu.
