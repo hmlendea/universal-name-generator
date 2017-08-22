@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace UniversalNameGenerator.Infrastructure.Extensions
+namespace UniversalNameGenerator.Common.Extensions
 {
     /// <summary>
     /// Enumerable extensions.

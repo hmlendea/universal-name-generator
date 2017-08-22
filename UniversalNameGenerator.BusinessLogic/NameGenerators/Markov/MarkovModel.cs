@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-using UniversalNameGenerator.Infrastructure.Extensions;
+using UniversalNameGenerator.Common.Extensions;
 
 namespace UniversalNameGenerator.BusinessLogic.NameGenerators.Markov
 {
