@@ -1,4 +1,5 @@
 acvilă
+aglică
 alcă
 alunar
 aușel
@@ -105,6 +106,7 @@ pescăruș
 piciorong
 pietrar
 pietruș
+pinguin
 pitulice
 pițigoi
 pleșuv
@@ -117,6 +119,7 @@ prigorie
 privighetoare
 prundaș
 prundăraș
+pterodactil
 pupăză
 rață
 rândunică
