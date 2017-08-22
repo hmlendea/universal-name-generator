@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace UniversalNameGenerator.BusinessLogic.Generators.Interfaces
+namespace UniversalNameGenerator.BusinessLogic.NameGenerators.Interfaces
 {
     /// <summary>
     /// Name Generator interface.

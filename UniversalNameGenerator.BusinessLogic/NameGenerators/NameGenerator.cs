@@ -3,11 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text.RegularExpressions;
 
-using UniversalNameGenerator.BusinessLogic.Generators.Interfaces;
+using UniversalNameGenerator.BusinessLogic.NameGenerators.Interfaces;
 
-namespace UniversalNameGenerator.BusinessLogic.Generators
+namespace UniversalNameGenerator.BusinessLogic.NameGenerators
 {
-    public abstract class AbstractNameGenerator : INameGenerator
+    public abstract class NameGenerator : INameGenerator
     {
         /// <summary>
         /// Gets or sets the minimum length of the name.
@@ -64,10 +64,10 @@ namespace UniversalNameGenerator.BusinessLogic.Generators
         protected readonly Random random;
 
         /// <summary>
-        /// Initializes a new instance of the <see cref="AbstractNameGenerator"/> class.
+        /// Initializes a new instance of the <see cref="NameGenerator"/> class.
         /// </summary>
         /// <param name="wordlists">Word lists.</param>
-        protected AbstractNameGenerator(List<List<string>> wordlists)
+        protected NameGenerator(List<List<string>> wordlists)
         {
             MinNameLength = 5;
             MaxNameLength = 10;
