@@ -41,9 +41,9 @@
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
-    <ProjectReference Include="..\UniversalNameGenerator.Infrastructure\UniversalNameGenerator.Infrastructure.csproj">
+    <ProjectReference Include="..\UniversalNameGenerator.Infrastructure\UniversalNameGenerator.Common.csproj">
       <Project>{93a84833-5b4b-4272-aa8a-b55d24cbefeb}</Project>
-      <Name>UniversalNameGenerator.Infrastructure</Name>
+      <Name>UniversalNameGenerator.Common</Name>
     </ProjectReference>
     <ProjectReference Include="..\UniversalNameGenerator.Models\UniversalNameGenerator.Models.csproj">
       <Project>{01277AB4-A301-4F24-B35B-AE6713454565}</Project>

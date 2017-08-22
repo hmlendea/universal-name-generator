@@ -7,7 +7,7 @@ using UniversalNameGenerator.BusinessLogic.GenerationManagers.Interfaces;
 using UniversalNameGenerator.BusinessLogic.NameGenerators.Interfaces;
 using UniversalNameGenerator.BusinessLogic.NameGenerators.Markov;
 using UniversalNameGenerator.BusinessLogic.NameGenerators.Randomiser;
-using UniversalNameGenerator.Infrastructure.Extensions;
+using UniversalNameGenerator.Common.Extensions;
 using UniversalNameGenerator.Models.Enumerations;
 
 namespace UniversalNameGenerator.BusinessLogic.GenerationManagers

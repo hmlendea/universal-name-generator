@@ -51,9 +51,9 @@
       <Project>{C2B5FFB4-AED7-450B-B9EF-41C52E25AEEE}</Project>
       <Name>UniversalNameGenerator.DataAccess</Name>
     </ProjectReference>
-    <ProjectReference Include="..\UniversalNameGenerator.Infrastructure\UniversalNameGenerator.Infrastructure.csproj">
+    <ProjectReference Include="..\UniversalNameGenerator.Infrastructure\UniversalNameGenerator.Common.csproj">
       <Project>{93A84833-5B4B-4272-AA8A-B55D24CBEFEB}</Project>
-      <Name>UniversalNameGenerator.Infrastructure</Name>
+      <Name>UniversalNameGenerator.Common</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
