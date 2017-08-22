@@ -30,18 +30,17 @@
     <Reference Include="System" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="GenerationSchemaManager.cs" />
-    <Compile Include="GeneratorManager.cs" />
-    <Compile Include="Generators\AbstractNameGenerator.cs" />
-    <Compile Include="Generators\Interfaces\INameGenerator.cs" />
-    <Compile Include="Generators\MarkovNameGenerator\MarkovGenerator.cs" />
-    <Compile Include="Generators\MarkovNameGenerator\MarkovModel.cs" />
-    <Compile Include="Generators\MarkovNameGenerator\MarkovNameGenerator.cs" />
-    <Compile Include="Interfaces\GeneratorSchemaManager.cs" />
-    <Compile Include="Interfaces\IGeneratorManager.cs" />
+    <Compile Include="GenerationManagers\GenerationSchemaManager.cs" />
+    <Compile Include="GenerationManagers\GeneratorManager.cs" />
+    <Compile Include="NameGenerators\NameGenerator.cs" />
+    <Compile Include="NameGenerators\Interfaces\INameGenerator.cs" />
+    <Compile Include="NameGenerators\Markov\MarkovNameGenerator.cs" />
+    <Compile Include="NameGenerators\Markov\MarkovModel.cs" />
+    <Compile Include="GenerationManagers\Interfaces\IGeneratorSchemaManager.cs" />
+    <Compile Include="GenerationManagers\Interfaces\IGeneratorManager.cs" />
     <Compile Include="Mapping\GenerationSchemaMappingExtensions.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Generators\RandomMixerNameGenerator.cs" />
+    <Compile Include="NameGenerators\Randomiser\RandomiserNameGenerator.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\UniversalNameGenerator.Models\UniversalNameGenerator.Models.csproj">

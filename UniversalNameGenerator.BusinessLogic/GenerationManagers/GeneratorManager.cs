@@ -3,14 +3,14 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 
-using UniversalNameGenerator.BusinessLogic.Generators;
-using UniversalNameGenerator.BusinessLogic.Generators.Interfaces;
-using UniversalNameGenerator.BusinessLogic.Generators.MarkovNameGenerator;
-using UniversalNameGenerator.BusinessLogic.Interfaces;
+using UniversalNameGenerator.BusinessLogic.GenerationManagers.Interfaces;
+using UniversalNameGenerator.BusinessLogic.NameGenerators.Interfaces;
+using UniversalNameGenerator.BusinessLogic.NameGenerators.Markov;
+using UniversalNameGenerator.BusinessLogic.NameGenerators.Randomiser;
 using UniversalNameGenerator.Infrastructure.Extensions;
 using UniversalNameGenerator.Models.Enumerations;
 
-namespace UniversalNameGenerator.BusinessLogic
+namespace UniversalNameGenerator.BusinessLogic.GenerationManagers
 {
     public class GeneratorManager : IGeneratorManager
     {
@@ -143,7 +143,7 @@ namespace UniversalNameGenerator.BusinessLogic
                 wordlists.Add(wordlist);
             }
 
-            INameGenerator generator = new RandomMixerNameGenerator(split[1], wordlists);
+            INameGenerator generator = new RandomiserNameGenerator(split[1], wordlists);
             generator.ExcludedStrings = filters;
 
             return generator.Generate(amount);
