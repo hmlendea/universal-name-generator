@@ -1,8 +1,8 @@
 ([a-hj-z])\1
 ([a-z][a-z])\1
 [jl][b-df-hj-np-tv-z]
+a[ae]
 a[ăâî]
-ae
 ahv
 anauti$
 anena$
@@ -67,6 +67,7 @@ msid$
 mso
 mv[ai]
 n[b-df-hj-np-tv-z]
+n[nv]
 nan[iu]
 ncn
 ndv
@@ -82,7 +83,6 @@ ns[aot]
 ntant
 nti$
 nu[ns]$
-nv
 oau$
 osr
 oun
@@ -106,16 +106,15 @@ rt[gv]
 rva$
 rvi
 rzv
+s[gsș]
 sc[mn]
 scea$
-sg
 si[du]$
 sins
 sl[cv]
 sosa
 stg
 svita$
-sș
 t[cdglnpsvț]
 tr[b-df-hj-np-tv-z]
 tva$
