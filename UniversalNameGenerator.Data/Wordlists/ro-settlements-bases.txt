@@ -720,8 +720,6 @@ stap
 stapan
 star
 stareț
-stef
-stefan
 stel
 sticl
 stol
@@ -882,5 +880,7 @@ zărne
 șol
 șom
 ște
+ștef
+ștefăn
 țic
 țăn
