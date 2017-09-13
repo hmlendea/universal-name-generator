@@ -46,10 +46,28 @@
     <Schema>{markov,ro-plants}</Schema>
   </GenerationSchemaEntity>
   <GenerationSchemaEntity>
-    <Id>ro-settlements</Id>
+    <Id>ro-settlements-random</Id>
     <Name>Romanian settlement names</Name>
     <Filterlist>ro-settlements-filters</Filterlist>
     <Schema>{randomiser,,ro-settlements-bases|ro-settlements-suffixes}</Schema>
+  </GenerationSchemaEntity>
+  <GenerationSchemaEntity>
+    <Id>ro-settlements</Id>
+    <Name>Romanian settlement names</Name>
+    <Filterlist>ro-settlements-filters</Filterlist>
+    <Schema>{markov,ro-settlements-cities|ro-settlements-towns}</Schema>
+  </GenerationSchemaEntity>
+  <GenerationSchemaEntity>
+    <Id>ro-settlements-cities</Id>
+    <Name>Romanian settlement names</Name>
+    <Filterlist>ro-settlements-filters</Filterlist>
+    <Schema>{markov,ro-settlements-cities}</Schema>
+  </GenerationSchemaEntity>
+  <GenerationSchemaEntity>
+    <Id>ro-settlements-towns</Id>
+    <Name>Romanian settlement names</Name>
+    <Filterlist>ro-settlements-filters</Filterlist>
+    <Schema>{markov,ro-settlements-towns}</Schema>
   </GenerationSchemaEntity>
   <GenerationSchemaEntity>
     <Id>ro-persons-male</Id>
