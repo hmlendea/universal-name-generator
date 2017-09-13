@@ -59,13 +59,19 @@
   </GenerationSchemaEntity>
   <GenerationSchemaEntity>
     <Id>ro-settlements-cities</Id>
-    <Name>Romanian settlement names</Name>
+    <Name>Romanian city names</Name>
     <Filterlist>ro-settlements-filters</Filterlist>
     <Schema>{markov,ro-settlements-cities}</Schema>
   </GenerationSchemaEntity>
   <GenerationSchemaEntity>
+    <Id>ro-settlements-communes</Id>
+    <Name>Romanian commune names</Name>
+    <Filterlist>ro-settlements-filters</Filterlist>
+    <Schema>{markov,ro-settlements-communes}</Schema>
+  </GenerationSchemaEntity>
+  <GenerationSchemaEntity>
     <Id>ro-settlements-towns</Id>
-    <Name>Romanian settlement names</Name>
+    <Name>Romanian town names</Name>
     <Filterlist>ro-settlements-filters</Filterlist>
     <Schema>{markov,ro-settlements-towns}</Schema>
   </GenerationSchemaEntity>

@@ -27,7 +27,7 @@ namespace UniversalNameGenerator.Menus
             generator = new GeneratorManager();
 
             List<GenerationSchema> schemas = schemaManager.GetAll()
-                                                          .OrderBy(s => s.Name)
+                                                          .OrderBy(s => s.Id)
                                                           .ToList();
 
             schemas.ForEach(schema => AddCommand(schema.Id,
