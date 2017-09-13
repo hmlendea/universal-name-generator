@@ -16,6 +16,13 @@ namespace UniversalNameGenerator.BusinessLogic.GenerationManagers
     {
         Random random;
 
+        Dictionary<string, INameGenerator> generators;
+
+        public GeneratorManager()
+        {
+            generators = new Dictionary<string, INameGenerator>();
+        }
+
         public IEnumerable<string> GenerateNames(string schema, int amount, string filterlist, WordCasing casing)
         {
             random = new Random();
@@ -57,11 +64,11 @@ namespace UniversalNameGenerator.BusinessLogic.GenerationManagers
                             break;
 
                         case "randomiser":
-                            values = GenerateRandomiserNames(amount, split, filters);
+                            values = GenerateRandomiserNames(schema, amount, split, filters);
                             break;
 
                         case "markov":
-                            values = GenerateMarkovNames(amount, split, filters);
+                            values = GenerateMarkovNames(schema, amount, split, filters);
                             break;
                     }
 
@@ -129,7 +136,7 @@ namespace UniversalNameGenerator.BusinessLogic.GenerationManagers
             return names;
         }
 
-        IEnumerable<string> GenerateRandomiserNames(int amount, string[] split, List<string> filters)
+        IEnumerable<string> GenerateRandomiserNames(string schema, int amount, string[] split, List<string> filters)
         {
             int minLength = int.Parse(split[2]);
             int maxLength = int.Parse(split[3]);
@@ -145,17 +152,27 @@ namespace UniversalNameGenerator.BusinessLogic.GenerationManagers
                 wordlists.Add(wordlist);
             }
 
-            INameGenerator generator = new RandomiserNameGenerator(split[1], wordlists)
+            INameGenerator generator;
+
+            if (generators.Keys.Contains(schema))
             {
-                MinNameLength = minLength,
-                MaxNameLength = maxLength,
-                ExcludedStrings = filters
-            };
+                generator = generators[schema];
+            }
+            else
+            {
+                generator = new RandomiserNameGenerator(split[1], wordlists)
+                {
+                    MinNameLength = minLength,
+                    MaxNameLength = maxLength,
+                    ExcludedStrings = filters
+                };
+                generators.Add(schema, generator);
+            }
 
             return generator.Generate(amount);
         }
 
-        IEnumerable<string> GenerateMarkovNames(int amount, string[] split, List<string> filters)
+        IEnumerable<string> GenerateMarkovNames(string schema, int amount, string[] split, List<string> filters)
         {
             int minLength = int.Parse(split[1]);
             int maxLength = int.Parse(split[2]);
@@ -171,13 +188,23 @@ namespace UniversalNameGenerator.BusinessLogic.GenerationManagers
                 wordlists.Add(wordlist);
             }
 
-            INameGenerator generator = new MarkovNameGenerator(wordlists, 3, 0.0f)
+            INameGenerator generator;
+
+            if (generators.Keys.Contains(schema))
             {
-                MinNameLength = minLength,
-                MaxNameLength = maxLength,
-                ExcludedStrings = filters
-            };
-            
+                generator = generators[schema];
+            }
+            else
+            {
+                generator = new MarkovNameGenerator(wordlists, 3, 0.0f)
+                {
+                    MinNameLength = minLength,
+                    MaxNameLength = maxLength,
+                    ExcludedStrings = filters
+                };
+                generators.Add(schema, generator);
+            }
+
             return generator.Generate(amount);
         }
     }
