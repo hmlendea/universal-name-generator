@@ -3,136 +3,136 @@
   <GenerationSchemaEntity>
     <Id>asian-settlements</Id>
     <Name>Asian settlement names</Name>
-    <Schema>{randomiser,,asian-settlements-bases|asian-settlements-suffixes}</Schema>
+    <Schema>{randomiser,,4,24,asian-settlements-bases|asian-settlements-suffixes}</Schema>
   </GenerationSchemaEntity>
   <GenerationSchemaEntity>
     <Id>ro-birds</Id>
     <Name>Romanian bird species names</Name>
-    <Schema>{markov,ro-birds}</Schema>
+    <Schema>{markov,4,16,ro-birds}</Schema>
   </GenerationSchemaEntity>
   <GenerationSchemaEntity>
     <Id>ro-colours</Id>
     <Name>Romanian colours names</Name>
-    <Schema>{markov,ro-colours}</Schema>
+    <Schema>{markov,4,16,ro-colours}</Schema>
   </GenerationSchemaEntity>
   <GenerationSchemaEntity>
     <Id>ro-flora</Id>
     <Name>Romanian flora species names</Name>
-    <Schema>{markov,ro-plants|ro-fruits|ro-trees}</Schema>
+    <Schema>{markov,4,16,ro-plants|ro-fruits|ro-trees}</Schema>
   </GenerationSchemaEntity>
   <GenerationSchemaEntity>
     <Id>ro-fauna</Id>
     <Name>Romanian fauna species names</Name>
-    <Schema>{markov,ro-animals|ro-birds|ro-fishes|ro-insects}</Schema>
+    <Schema>{markov,4,16,ro-animals|ro-birds|ro-fishes|ro-insects}</Schema>
   </GenerationSchemaEntity>
   <GenerationSchemaEntity>
     <Id>ro-fishes</Id>
     <Name>Romanian fish species names</Name>
-    <Schema>{markov,ro-fishes}</Schema>
+    <Schema>{markov,4,16,ro-fishes}</Schema>
   </GenerationSchemaEntity>
   <GenerationSchemaEntity>
     <Id>ro-fruits</Id>
     <Name>Romanian fruit species names</Name>
-    <Schema>{markov,ro-fruits}</Schema>
+    <Schema>{markov,4,16,ro-fruits}</Schema>
   </GenerationSchemaEntity>
   <GenerationSchemaEntity>
     <Id>ro-insects</Id>
     <Name>Romanian insect species names</Name>
-    <Schema>{markov,ro-insects}</Schema>
+    <Schema>{markov,4,16,ro-insects}</Schema>
   </GenerationSchemaEntity>
   <GenerationSchemaEntity>
     <Id>ro-plants</Id>
     <Name>Romanian plant names</Name>
-    <Schema>{markov,ro-plants}</Schema>
+    <Schema>{markov,4,16,ro-plants}</Schema>
   </GenerationSchemaEntity>
   <GenerationSchemaEntity>
     <Id>ro-settlements-random</Id>
     <Name>Romanian settlement names generated randomly</Name>
     <Filterlist>ro-settlements-filters</Filterlist>
-    <Schema>{randomiser,,ro-settlements-bases|ro-settlements-suffixes}</Schema>
+    <Schema>{randomiser,,4,24,ro-settlements-bases|ro-settlements-suffixes}</Schema>
   </GenerationSchemaEntity>
   <GenerationSchemaEntity>
     <Id>ro-settlements</Id>
     <Name>Romanian settlement names</Name>
     <Filterlist>ro-settlements-filters</Filterlist>
-    <Schema>{markov,ro-settlements-cities|ro-settlements-towns|ro-settlements-communes}</Schema>
+    <Schema>{markov,4,24,ro-settlements-cities|ro-settlements-towns|ro-settlements-communes}</Schema>
   </GenerationSchemaEntity>
   <GenerationSchemaEntity>
     <Id>ro-settlements-cities</Id>
     <Name>Romanian city names</Name>
     <Filterlist>ro-settlements-filters</Filterlist>
-    <Schema>{markov,ro-settlements-cities}</Schema>
+    <Schema>{markov,4,24,ro-settlements-cities}</Schema>
   </GenerationSchemaEntity>
   <GenerationSchemaEntity>
     <Id>ro-settlements-communes</Id>
     <Name>Romanian commune names</Name>
     <Filterlist>ro-settlements-filters</Filterlist>
-    <Schema>{markov,ro-settlements-communes}</Schema>
+    <Schema>{markov,4,24,ro-settlements-communes}</Schema>
   </GenerationSchemaEntity>
   <GenerationSchemaEntity>
     <Id>ro-settlements-towns</Id>
     <Name>Romanian town names</Name>
     <Filterlist>ro-settlements-filters</Filterlist>
-    <Schema>{markov,ro-settlements-towns}</Schema>
+    <Schema>{markov,4,24,ro-settlements-towns}</Schema>
   </GenerationSchemaEntity>
   <GenerationSchemaEntity>
     <Id>ro-persons-male</Id>
     <Name>Romanian male persons</Name>
     <Filterlist>ro-persons-filters</Filterlist>
-    <Schema>{randomiser, ,ro-persons-males|ro-surnames}</Schema>
+    <Schema>{randomiser, ,4,32,ro-persons-males|ro-surnames}</Schema>
   </GenerationSchemaEntity>
   <GenerationSchemaEntity>
     <Id>ro-persons-female</Id>
     <Name>Romanian female persons</Name>
     <Filterlist>ro-persons-filters</Filterlist>
-    <Schema>{randomiser, ,ro-persons-females|ro-surnames}</Schema>
+    <Schema>{randomiser, ,4,32,ro-persons-females|ro-surnames}</Schema>
   </GenerationSchemaEntity>
   <GenerationSchemaEntity>
     <Id>ro-trees</Id>
     <Name>Romanian tree species names</Name>
-    <Schema>{markov,ro-trees}</Schema>
+    <Schema>{markov,4,16,ro-trees}</Schema>
   </GenerationSchemaEntity>
   <GenerationSchemaEntity>
     <Id>dacian-settlements</Id>
     <Name>Dacian settlement names</Name>
     <Filterlist>dacian-settlements-filters</Filterlist>
-    <Schema>{randomiser,,dacian-settlements-bases|dacian-settlements-suffixes}</Schema>
+    <Schema>{randomiser,,4,24,dacian-settlements-bases|dacian-settlements-suffixes}</Schema>
   </GenerationSchemaEntity>
   <GenerationSchemaEntity>
     <Id>dacian-persons-male</Id>
     <Name>Dacian male persons</Name>
-    <Schema>{randomiser,,dacian-persons-males}</Schema>
+    <Schema>{randomiser,,4,16,dacian-persons-males}</Schema>
   </GenerationSchemaEntity>
   <GenerationSchemaEntity>
     <Id>dacian-persons-female</Id>
     <Name>Dacian female persons</Name>
-    <Schema>{randomiser,,dacian-persons-females}</Schema>
+    <Schema>{randomiser,,4,16,dacian-persons-females}</Schema>
   </GenerationSchemaEntity>
   <GenerationSchemaEntity>
     <Id>latin-persons-male</Id>
     <Name>Latin (Republican) male persons</Name>
     <Filterlist>latin-persons-filters</Filterlist>
-    <Schema>{randomiser, ,latin-pronomen-males|latin-nomen|latin-cognomen-males}</Schema>
+    <Schema>{randomiser, ,4,32,latin-pronomen-males|latin-nomen|latin-cognomen-males}</Schema>
   </GenerationSchemaEntity>
   <GenerationSchemaEntity>
     <Id>latin-persons-female</Id>
     <Name>Latin (Republican) female persons</Name>
     <Filterlist>latin-persons-filters</Filterlist>
-    <Schema>{randomiser, ,latin-pronomen-females|latin-nomen|latin-cognomen-females}</Schema>
+    <Schema>{randomiser, ,4,32,latin-pronomen-females|latin-nomen|latin-cognomen-females}</Schema>
   </GenerationSchemaEntity>
   <GenerationSchemaEntity>
     <Id>letian-settlements</Id>
     <Name>Letian (Narivia) settlements</Name>
-    <Schema>{markov,letian-settlements}</Schema>
+    <Schema>{markov,4,16,letian-settlements}</Schema>
   </GenerationSchemaEntity>
   <GenerationSchemaEntity>
     <Id>rodah-settlements</Id>
     <Name>Rodah (Narivia) settlements</Name>
-    <Schema>{randomiser,,rodah-settlements-prefixes|rodah-settlements-bases|rodah-settlements-suffixes}</Schema>
+    <Schema>{randomiser,,6,12,rodah-settlements-prefixes|rodah-settlements-bases|rodah-settlements-suffixes}</Schema>
   </GenerationSchemaEntity>
   <GenerationSchemaEntity>
     <Id>rodah-ships</Id>
     <Name>Rodah (Narivia) ships</Name>
-    <Schema>{markov,rodah-ships}</Schema>
+    <Schema>{markov,4,16,rodah-ships}</Schema>
   </GenerationSchemaEntity>
 </ArrayOfGenerationSchemaEntity>

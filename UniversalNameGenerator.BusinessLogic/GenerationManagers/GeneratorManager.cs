@@ -131,7 +131,9 @@ namespace UniversalNameGenerator.BusinessLogic.GenerationManagers
 
         IEnumerable<string> GenerateRandomiserNames(int amount, string[] split, List<string> filters)
         {
-            List<string> wordlistKeys = split[2].Split('|').ToList();
+            int minLength = int.Parse(split[2]);
+            int maxLength = int.Parse(split[3]);
+            List<string> wordlistKeys = split[4].Split('|').ToList();
 
             List<List<string>> wordlists = new List<List<string>>();
 
@@ -143,15 +145,21 @@ namespace UniversalNameGenerator.BusinessLogic.GenerationManagers
                 wordlists.Add(wordlist);
             }
 
-            INameGenerator generator = new RandomiserNameGenerator(split[1], wordlists);
-            generator.ExcludedStrings = filters;
+            INameGenerator generator = new RandomiserNameGenerator(split[1], wordlists)
+            {
+                MinNameLength = minLength,
+                MaxNameLength = maxLength,
+                ExcludedStrings = filters
+            };
 
             return generator.Generate(amount);
         }
 
         IEnumerable<string> GenerateMarkovNames(int amount, string[] split, List<string> filters)
         {
-            List<string> wordlistKeys = split[1].Split('|').ToList();
+            int minLength = int.Parse(split[1]);
+            int maxLength = int.Parse(split[2]);
+            List<string> wordlistKeys = split[3].Split('|').ToList();
 
             List<List<string>> wordlists = new List<List<string>>();
 
@@ -165,8 +173,8 @@ namespace UniversalNameGenerator.BusinessLogic.GenerationManagers
 
             INameGenerator generator = new MarkovNameGenerator(wordlists, 3, 0.0f)
             {
-                MinNameLength = 4,
-                MaxNameLength = 14,
+                MinNameLength = minLength,
+                MaxNameLength = maxLength,
                 ExcludedStrings = filters
             };
             
