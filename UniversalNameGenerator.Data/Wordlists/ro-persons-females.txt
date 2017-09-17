@@ -1,4 +1,4 @@
-﻿Adela
+Adela
 Adelina
 Adina
 Adriana
@@ -27,6 +27,7 @@ Camelia
 Carina
 Carla
 Carmen
+Catița
 Clara
 Claudia
 Codruța
@@ -53,12 +54,14 @@ Dorina
 Ecaterina
 Elena
 Elisabeta
+Eliza
 Elvira
 Emanuela
 Emilia
 Eugenia
 Eva
 Felicia
+Firoanda
 Flavia
 Florentina
 Florica
@@ -67,6 +70,7 @@ Gabriela
 Geanina
 Georgeta
 Georgiana
+Gina
 Ileana
 Ilinca
 Ioana
@@ -105,6 +109,7 @@ Marilena
 Marina
 Marinela
 Marioara
+Marișca
 Marta
 Melania
 Melisa
@@ -133,6 +138,7 @@ Olivia
 Otilia
 Patricia
 Paula
+Persida
 Petra
 Petronela
 Petruța
@@ -148,6 +154,7 @@ Roxana
 Rozalia
 Ruxandra
 Sabina
+Samica
 Sandra
 Saveta
 Silvia
@@ -167,5 +174,7 @@ Victoria
 Viorica
 Voichița
 Zeina
+Zoia
 Ștefana
 Ștefania
+﻿Adela
