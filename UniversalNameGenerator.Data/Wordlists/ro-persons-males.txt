@@ -1,4 +1,3 @@
-﻿Adam
 Adelin
 Adrian
 Alex
@@ -34,6 +33,7 @@ Corneliu
 Corvin
 Cosmin
 Costache
+Costel
 Costin
 Cozma
 Crin
@@ -60,6 +60,7 @@ Dragoș
 Dumitru
 Eduard
 Eftimie
+Eliodor
 Emanuel
 Emanuil
 Emil
@@ -94,6 +95,8 @@ Horia
 Iacob
 Iancu
 Ieremia
+Ignat
+Ignațiu
 Ilarie
 Ilarion
 Ilie
@@ -104,6 +107,7 @@ Ionuț
 Iordache
 Iordan
 Iorghu
+Iorgu
 Iosif
 Irinel
 Iulian
@@ -111,12 +115,14 @@ Iuliu
 Iurie
 Iustin
 Iustinian
+Ivantie
 Lascăr
 Latcu
 Laur
 Laurențiu
 Laviniu
 Lazăr
+Leonard
 Leontin
 Lică
 Liviu
@@ -172,6 +178,7 @@ Pavel
 Petre
 Petrică
 Petru
+Pompiliu
 Puiu
 Radu
 Rareș
@@ -209,6 +216,7 @@ Valentin
 Valerian
 Valeriu
 Vasile
+Vicențiu
 Victor
 Vintilă
 Viorel
@@ -222,3 +230,4 @@ Zaharia
 Zamfir
 Șerban
 Ștefan
+﻿Adam
