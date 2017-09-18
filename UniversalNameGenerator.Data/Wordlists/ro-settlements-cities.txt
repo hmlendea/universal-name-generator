@@ -1,133 +1,130 @@
-﻿București
-Timișoara
-Cluj
-Napoca
-Iași
-Constanța
-Craiova
-Brașov
-Galați
-Ploiești
-Oradea
-Brăila
-Arad
-Pitești
-Sibiu
-Bacău
-Târgu
-Mureș
-Baia
-Mare
-Râmnic
-Vâlcea
-Drobeta
-Turnu
-Severin
-Drobeta-Turnu Severin
-Satu Mare
-Satu
-Baia Mare
-Cluj-Napoca
-Târgu Mureș
-Râmnicu Vâlcea
-Suceava
-Piatra
-Neamț
-Piatra Neamț
-Târgoviște
-Focșani
-Bistrița
-Tulcea
-Reșița
-Slatina
-Călărași
-Alba
-Iulia
-Alba Iulia
-Giurgiu
-Deva
-Hunedoara
-Zalău
-Sfântu
-Sfântu Gheorghe
-Gheorghe
-Bârlad
-Vaslui
-Roman
-Turda
-Mediaș
-Slobozia
-Alexandria
-Lugoj
-Medgidia
-Onești
-Miercurea
-Ciuc
-Miercurea Ciuc
-Sighetu Marmației
-Sighet
-Marmația
-Petroșani
-Mangalia
-Tecuci
-Odorhei
-Odorheiu Secuiesc
-Râmnicu Sărat
-Pașcani
-Dej
-Reghin
-Câmpina
-Câmpulung
-Caracal
-Săcele
-Făgăraș
-Fetești
-Sighișoara
-Roșiorii de Vede
-Roșiori
-Curtea
-Argeș
-Curtea de Argeș
-Sebeș
-Huși
-Fălticeni
-Oltenița
-Turnu
-Turnu Măgurele
-Măgurele
-Caransebeș
-Dorohoi
-Vulcan
-Rădăuți
-Lupeni
+﻿Adjud
 Aiud
-Câmpia Turzii
-Turda
-Târnăveni
-Moinești
-Codlea
-Carei
-Gherla
+Alba
+Alba Iulia
+Alexandria
+Arad
+Argeș
+Bacău
+Baia
+Baia Mare
+Beiuș
+Bistrița
 Blaj
-Motru
-Moreni
-Târgu Secuiesc
-Gheorgheni
-Orăștie
-Drăgășani
-Salonta
+Brad
+Brașov
+Brăila
+București
+Bârlad
 Băilești
 Calafat
+Caracal
+Caransebeș
+Carei
+Ciuc
+Cluj
+Cluj-Napoca
+Codlea
+Constanța
+Craiova
+Curtea
+Curtea de Argeș
+Câmpia Turzii
+Câmpina
 Câmpulung
 Câmpulung Moldovenesc
-Adjud
-Marghita
-Urziceni
-Brad
-Șimleu
-Silvania
-Vatra Dornei
+Călărași
+Dej
+Deva
 Dorna
-Toplița
+Dorohoi
+Drobeta
+Drobeta-Turnu Severin
+Drăgășani
+Fetești
+Focșani
+Făgăraș
+Fălticeni
+Galați
+Gheorghe
+Gheorgheni
+Gherla
+Giurgiu
 Gura Humorului
-Beiuș
+Hunedoara
+Huși
+Iași
+Iulia
+Lugoj
+Lupeni
+Mangalia
+Mare
+Marghita
+Marmația
+Medgidia
+Mediaș
+Miercurea
+Miercurea Ciuc
+Moinești
+Moreni
+Motru
+Mureș
+Măgurele
+Napoca
+Neamț
+Odorhei
+Odorheiu Secuiesc
+Oltenița
+Onești
+Oradea
+Orăștie
+Pașcani
+Petroșani
+Piatra
+Piatra Neamț
+Pitești
+Ploiești
+Reghin
+Reșița
+Roman
+Roșiori
+Roșiorii de Vede
+Râmnic
+Râmnicu Sărat
+Râmnicu Vâlcea
+Rădăuți
+Salonta
+Satu
+Satu Mare
+Sebeș
+Severin
+Sfântu
+Sfântu Gheorghe
+Sibiu
+Sighet
+Sighetu Marmației
+Sighișoara
+Silvania
+Slatina
+Slobozia
+Suceava
+Săcele
+Tecuci
+Timișoara
+Toplița
+Tulcea
+Turda
+Turnu
+Turnu Măgurele
+Târgoviște
+Târgu
+Târgu Mureș
+Târgu Secuiesc
+Târnăveni
+Urziceni
+Vaslui
+Vatra Dornei
+Vulcan
+Vâlcea
+Zalău
+Șimleu
