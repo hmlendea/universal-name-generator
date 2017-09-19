@@ -1,5 +1,6 @@
 ﻿Abram
 Abrămuț
+Adășeni
 Agăș
 Albac
 Albești
@@ -18,6 +19,7 @@ Arieșeni
 Asău
 Aușeu
 Avram Iancu
+Avrămeni
 Aștileu
 Balcani
 Barcău
@@ -40,6 +42,7 @@ Birchiș
 Bistra
 Bistrița
 Blandiana
+Blândești
 Blăgești
 Bocsig
 Bogați
@@ -52,9 +55,11 @@ Bradu
 Braniștea
 Bratca
 Brazii
+Broscăuți
 Brusturi
 Brusturoasa
 Brăduleț
+Brăești
 Bucerdea
 Bucerdea Grânoasă
 Bucium
@@ -81,6 +86,7 @@ Bârzava
 Băbana
 Băiculești
 Bălilești
+Bălușeni
 Cașin
 Cefa
 Ceica
@@ -112,26 +118,37 @@ Cociuba
 Cociuba Mare
 Cocu
 Colonești
+Concești
 Conop
 Copăcel
+Copălău
 Corbasca
 Corbeni
 Corbi
+Cordăreni
+Corlăteni
+Corni
 Cotmeana
 Covăsânț
 Coșbuc
 Coșești
+Coșula
 Coțofănești
+Coțușca
 Craiva
 Cricău
+Cristești
+Cristinești
 Criștioru de Jos
 Crăciunelu de Jos
 Cuca
+Curtești
 Curtuișeni
 Curățele
 Cut
 Câlnic
 Câmpani
+Cândești
 Căbești
 Căian
 Căianu Mic
@@ -139,6 +156,7 @@ Căiuți
 Căldăraru
 Călinești
 Călugăra
+Călărași
 Căpâlna
 Cărand
 Cărpinet
@@ -148,10 +166,13 @@ Davidești
 Dealu Morii
 Deldru
 Derna
+Dersca
 Dezna
 Dieci
+Dimăcheni
 Diosig
 Dobrești
+Dobârceni
 Dofteana
 Domnești
 Dorobanți
@@ -159,9 +180,12 @@ Doșat
 Dragoslavele
 Drăganu
 Drăgești
+Drăgușeni
 Drăgănești
 Dumitrița
+Durnești
 Dâmbovicioara
+Dângeni
 Dârmănești
 Dămienești
 Faraoani
@@ -170,11 +194,13 @@ Filipeni
 Filipești
 Finiș
 Frumușeni
+Frumușica
 Fântânele
 Făget
 Fărău
 Galații Bistriței
 Galda de Jos
+George Enescu
 Gepiu
 Ghimeș
 Ghimeș-Făget
@@ -186,6 +212,7 @@ Giurgești
 Glăvănești
 Godeni
 Golești
+Gorbănești
 Grânoasa
 Grăniceri
 Gura Văii
@@ -194,14 +221,19 @@ Gârbova
 Gârda de Sus
 Gârleni
 Găiceana
+Havârna
 Helegiu
 Hemeiuș
 Hidișel
 Hidișelu de Sus
+Hilișeu
+Hilișeu-Horia
+Hlipiceni
 Holod
 Hopârta
 Horea
 Horgești
+Hudești
 Huruiești
 Husasău
 Husasău de Tinca
@@ -209,7 +241,9 @@ Hârsești
 Hârtiești
 Hălmăgel
 Hălmăgiu
+Hănești
 Hășmaș
+Ibănești
 Ighiu
 Ignești
 Ilva
@@ -226,6 +260,7 @@ Josenii Bârgăului
 Lazuri
 Lazuri de Beiuș
 Lechința
+Leorda
 Leordeni
 Lerești
 Letea
@@ -237,6 +272,7 @@ Livezi
 Livezile
 Lopadea
 Lopadea Nouă
+Lozna
 Lugașu de Jos
 Luizi
 Luizi-Călugăra
@@ -248,19 +284,25 @@ Lupșa
 Lăzăreni
 Macea
 Maieru
+Manoleasa
 Mare-Pravăț
 Matei
 Merișani
 Meteș
 Micești
 Miceștii de Câmpie
+Mihai Eminescu
 Mihalț
 Mihăești
 Mihăiești
+Mihăileni
+Mihălășeni
 Milaș
+Mileanca
 Mioarele
 Miroși
 Mirăslău
+Mitoc
 Mișca
 Mogoș
 Moneasa
@@ -288,6 +330,7 @@ Negrești
 Negri
 Negrilești
 Nicolae Bălcescu
+Nicșeni
 Nojorid
 Noșlac
 Nucșoara
@@ -331,6 +374,7 @@ Poienari
 Poienarii de Argeș
 Poienarii de Muscel
 Pomezeu
+Pomârla
 Ponor
 Popești
 Poșaga
@@ -338,10 +382,12 @@ Pravăț
 Priboieni
 Prundu
 Prundu Bârgăului
+Prăjeni
 Prăjești
 Pâncești
 Pângărești
 Pârjol
+Păltiniș
 Păuliș
 Racova
 Rebra
@@ -350,9 +396,12 @@ Recea
 Remetea
 Rieni
 Rimetea
+Ripiceni
 Rociu
 Rodna
+Roma
 Romuli
+Românești
 Roșia
 Roșia de Secaș
 Roșia Montană
@@ -363,10 +412,15 @@ Râca
 Râmeț
 Răbăgani
 Răchitoasa
+Răchiți
 Răcăciuni
 Rădești
+Rădăuți
+Rădăuți-Prut
 Rătești
+Răuseni
 Salva
+Santa Mare
 Sascut
 Schitu
 Schitu Golești
@@ -392,6 +446,9 @@ Stremț
 Strugari
 Stâlpeni
 Stănișești
+Stăuceni
+Suharău
+Sulița
 Suplac
 Suplacu de Barcău
 Suseni
@@ -431,8 +488,11 @@ Tiha Bârgăului
 Tileagd
 Tinca
 Toboliu
+Todireni
 Traian
 Trotuș
+Trușești
+Tudora
 Tulca
 Târgu Trotuș
 Târlișua
@@ -447,6 +507,7 @@ Uileacu de Beiuș
 Ungheni
 Ungureni
 Unirea
+Unțeni
 Urechești
 Uriu
 Urmeniș
@@ -467,10 +528,16 @@ Vințu
 Vințu de Jos
 Vladimirescu
 Vlădești
+Vlăsinești
+Vorniceni
+Vorona
 Vultureni
 Vulturești
 Vârciorog
+Vârfu
+Vârfu Câmpului
 Vârfurile
+Văculești
 Vărădia
 Vărădia de Mureș
 Zagra
@@ -485,6 +552,7 @@ Zărand
 Șagu
 Șanț
 Șeitin
+Șendriceni
 Șepreuș
 Șibot
 Șicula
@@ -504,6 +572,7 @@ Zărand
 Șona
 Șpring
 Ștefan cel Mare
+Știubieni
 Șugag
 Șuici
 Șuncuiuș
