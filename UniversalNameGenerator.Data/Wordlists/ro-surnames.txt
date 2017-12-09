@@ -198,6 +198,7 @@ Bulmez
 Bulzan
 Bulzean
 Bulzescu
+Bumbar
 Bumbescu
 Bumbu
 Bunea
@@ -229,6 +230,7 @@ Bâtă
 Bîrladeanu
 Bădeliță
 Bădescu
+Bădălău
 Bălan
 Bălcescu
 Bălăceanu
@@ -282,6 +284,7 @@ Chivu
 Chișe
 Chițu
 Chițureanu
+Cibotaru
 Cimpoi
 Cinca
 Cioară
@@ -1053,6 +1056,7 @@ Pleșa
 Pleșu
 Ploieșteanu
 Plotuna
+Plumb
 Podar
 Podariu
 Podoleanu
@@ -1142,6 +1146,7 @@ Roman
 Romanu
 Român
 Românescu
+Rosoga
 Rotar
 Rotaru
 Rotund
@@ -1245,6 +1250,7 @@ Stăniloae
 Stăniloaie
 Stănoiu
 Stănușoiu
+Subțirică
 Suceveanu
 Suciu
 Surdu
@@ -1320,6 +1326,10 @@ Turcanu
 Turcescu
 Turcu
 Turian
+Târnăvan
+Târnăvean
+Tîrnovan
+Tăbleț
 Tămaș
 Tănase
 Tănăsescu
@@ -1462,6 +1472,7 @@ Zăvoranu
 Știrbei
 Știrbu
 Șutu
+Țene
 Țică
 Țiriac
 Țugurlan
