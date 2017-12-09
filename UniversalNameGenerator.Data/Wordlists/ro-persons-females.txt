@@ -51,6 +51,8 @@ Dochia
 Doina
 Dora
 Dorina
+Dumitra
+Dumitrița
 Ecaterina
 Elena
 Elisabeta
@@ -76,6 +78,7 @@ Ilinca
 Ioana
 Ionela
 Irina
+Isabela
 Iulia
 Iuliana
 Izabela
@@ -150,6 +153,7 @@ Renata
 Roberta
 Rodica
 Romanița
+Romina
 Roxana
 Rozalia
 Ruxandra
