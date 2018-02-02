@@ -34,7 +34,7 @@ namespace UniversalNameGenerator.BusinessLogic.NameGenerators.Randomiser
         {
             string name = string.Empty;
 
-            Wordlists.ForEach(wl => name += wl.GetRandomElement() + separator);
+            Wordlists.ForEach(wl => name += wl.GetRandomElement().Values.GetRandomElement() + separator);
 
             return name;
         }
