@@ -94,7 +94,13 @@
   </GenerationSchemaEntity>
   <GenerationSchemaEntity>
     <Id>dacian-settlements</Id>
-    <Name>Dacian settlement names</Name>
+    <Name>Dacian settlement names (Procedurally generated)</Name>
+    <Filterlist>dacian-settlements-filters</Filterlist>
+    <Schema>{markov,4,20,dacian-settlements}</Schema>
+  </GenerationSchemaEntity>
+  <GenerationSchemaEntity>
+    <Id>dacian-settlements-real</Id>
+    <Name>Dacian settlement names (Real)</Name>
     <Filterlist>dacian-settlements-filters</Filterlist>
     <Schema>{randomiser,,4,24,dacian-settlements-bases|dacian-settlements-suffixes}</Schema>
   </GenerationSchemaEntity>
