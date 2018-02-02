@@ -2,6 +2,7 @@
 using System.Linq;
 
 using UniversalNameGenerator.Common.Extensions;
+using UniversalNameGenerator.Models;
 
 namespace UniversalNameGenerator.BusinessLogic.NameGenerators.Markov
 {
@@ -11,31 +12,32 @@ namespace UniversalNameGenerator.BusinessLogic.NameGenerators.Markov
 
         public float Prior { get; private set; }
 
-        public List<string> Data { get; private set; }
+        public List<Word> Data { get; private set; }
 
         List<MarkovModel> models;
         
-        public MarkovNameGenerator(List<string> data, int order, float prior)
-            : this(new List<List<string>> { data }, order, prior)
+        public MarkovNameGenerator(List<Word> data, int order, float prior)
+            : this(new List<List<Word>> { data }, order, prior)
         {
         }
 
-        public MarkovNameGenerator(List<List<string>> data, int order, float prior)
+        public MarkovNameGenerator(List<List<Word>> data, int order, float prior)
             : base(data)
         {
-            List<string> mergedDataLists = data.SelectMany(x => x).ToList();
+            List<Word> mergedDataLists = data.SelectMany(x => x).ToList();
 
             Order = order;
             Prior = prior;
             Data = mergedDataLists;
 
             List<string> letters = new List<string>();
+            List<string> wordValues = mergedDataLists.SelectMany(x => x.Values).ToList();
 
-            foreach (string word in Data)
+            foreach (string wordValue in wordValues)
             {
-                for (int i = 0; i < word.Length; i++)
+                for (int i = 0; i < wordValue.Length; i++)
                 {
-                    letters.Add(word[i].ToString());
+                    letters.Add(wordValue[i].ToString());
                 }
             }
 
@@ -47,7 +49,7 @@ namespace UniversalNameGenerator.BusinessLogic.NameGenerators.Markov
             models = new List<MarkovModel>();
             for (int i = 0; i < order; i++)
             {
-                MarkovModel model = new MarkovModel(Data.ToList(), Order - i, Prior, domain);
+                MarkovModel model = new MarkovModel(wordValues, Order - i, Prior, domain);
                 models.Add(model);
             }
         }
@@ -59,7 +61,7 @@ namespace UniversalNameGenerator.BusinessLogic.NameGenerators.Markov
             name = Generate();
             name = name.Replace("#", string.Empty);
 
-            if (IsNameValid(name) && !Data.Contains(name))
+            if (IsNameValid(name) && !Data.Any(w => w.Values.Contains(name)))
             {
                 return name;
             }

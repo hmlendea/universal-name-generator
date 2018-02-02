@@ -1,6 +1,7 @@
 ﻿using System.Collections.Generic;
 
 using UniversalNameGenerator.Common.Extensions;
+using UniversalNameGenerator.Models;
 
 namespace UniversalNameGenerator.BusinessLogic.NameGenerators.Randomiser
 {
@@ -16,7 +17,7 @@ namespace UniversalNameGenerator.BusinessLogic.NameGenerators.Randomiser
         /// </summary>
         /// <param name="separator">Separator.</param>
         /// <param name="wordlists">Word lists.</param>
-        public RandomiserNameGenerator(string separator, List<List<string>> wordlists)
+        public RandomiserNameGenerator(string separator, List<List<Word>> wordlists)
             : base (wordlists)
         {
             Wordlists = wordlists;

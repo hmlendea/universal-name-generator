@@ -37,7 +37,7 @@ namespace UniversalNameGenerator.BusinessLogic.Mapping
             WordEntity wordEntity = new WordEntity
             {
                 Id = word.Id,
-                Values = word.Values
+                Values = word.Values.ToList()
             };
 
             return wordEntity;
