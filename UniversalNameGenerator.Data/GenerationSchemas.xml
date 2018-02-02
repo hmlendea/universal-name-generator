@@ -100,11 +100,16 @@
   </GenerationSchemaEntity>
   <GenerationSchemaEntity>
     <Id>dacian-persons-male</Id>
-    <Name>Dacian male persons</Name>
+    <Name>Dacian male persons (Procedurally generated)</Name>
+    <Schema>{markov,4,16,dacian-persons-males}</Schema>
+  </GenerationSchemaEntity>
+  <GenerationSchemaEntity>
+    <Id>dacian-persons-male-real</Id>
+    <Name>Dacian male persons (Real)</Name>
     <Schema>{randomiser,,4,16,dacian-persons-males}</Schema>
   </GenerationSchemaEntity>
   <GenerationSchemaEntity>
-    <Id>dacian-persons-female</Id>
+    <Id>dacian-persons-female (Real)</Id>
     <Name>Dacian female persons</Name>
     <Schema>{randomiser,,4,16,dacian-persons-females}</Schema>
   </GenerationSchemaEntity>
