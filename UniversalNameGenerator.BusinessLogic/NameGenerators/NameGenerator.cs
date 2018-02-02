@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text.RegularExpressions;
 
 using UniversalNameGenerator.BusinessLogic.NameGenerators.Interfaces;
+using UniversalNameGenerator.Models;
 
 namespace UniversalNameGenerator.BusinessLogic.NameGenerators
 {
@@ -59,7 +60,7 @@ namespace UniversalNameGenerator.BusinessLogic.NameGenerators
         /// <value>The used words.</value>
         public List<string> GeneratedWords { get; protected set; }
 
-        public List<List<string>> Wordlists { get; protected set; }
+        public List<List<Word>> Wordlists { get; protected set; }
 
         protected readonly Random random;
 
@@ -67,7 +68,7 @@ namespace UniversalNameGenerator.BusinessLogic.NameGenerators
         /// Initializes a new instance of the <see cref="NameGenerator"/> class.
         /// </summary>
         /// <param name="wordlists">Word lists.</param>
-        protected NameGenerator(List<List<string>> wordlists)
+        protected NameGenerator(List<List<Word>> wordlists)
         {
             MinNameLength = 5;
             MaxNameLength = 10;
@@ -156,7 +157,7 @@ namespace UniversalNameGenerator.BusinessLogic.NameGenerators
             }
 
             // The same name was part of the seed wordlists
-            if (OnlyNewNames && Wordlists.Any(wl => wl.Contains(name)))
+            if (OnlyNewNames && Wordlists.Any(wl => wl.Any(w => w.Values.Contains(name))))
             {
                 return false;
             }

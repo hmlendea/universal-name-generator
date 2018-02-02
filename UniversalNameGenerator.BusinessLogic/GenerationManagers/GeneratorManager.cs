@@ -4,10 +4,14 @@ using System.IO;
 using System.Linq;
 
 using UniversalNameGenerator.BusinessLogic.GenerationManagers.Interfaces;
+using UniversalNameGenerator.BusinessLogic.Mapping;
 using UniversalNameGenerator.BusinessLogic.NameGenerators.Interfaces;
 using UniversalNameGenerator.BusinessLogic.NameGenerators.Markov;
 using UniversalNameGenerator.BusinessLogic.NameGenerators.Randomiser;
 using UniversalNameGenerator.Common.Extensions;
+using UniversalNameGenerator.DataAccess.Repositories;
+using UniversalNameGenerator.DataAccess.Repositories.Interfaces;
+using UniversalNameGenerator.Models;
 using UniversalNameGenerator.Models.Enumerations;
 
 namespace UniversalNameGenerator.BusinessLogic.GenerationManagers
@@ -142,12 +146,14 @@ namespace UniversalNameGenerator.BusinessLogic.GenerationManagers
             int maxLength = int.Parse(split[3]);
             List<string> wordlistKeys = split[4].Split('|').ToList();
 
-            List<List<string>> wordlists = new List<List<string>>();
+            List<List<Word>> wordlists = new List<List<Word>>();
 
             foreach (string wordlistId in wordlistKeys)
             {
                 string filePath = Path.Combine("Wordlists", wordlistId + ".txt");
-                List<string> wordlist = File.ReadAllLines(filePath).ToList();
+
+                IWordRepository wordRepository = new WordRepository(filePath);
+                List<Word> wordlist = wordRepository.GetAll().ToDomainModels().ToList();
 
                 wordlists.Add(wordlist);
             }
@@ -178,12 +184,14 @@ namespace UniversalNameGenerator.BusinessLogic.GenerationManagers
             int maxLength = int.Parse(split[2]);
             List<string> wordlistKeys = split[3].Split('|').ToList();
 
-            List<List<string>> wordlists = new List<List<string>>();
+            List<List<Word>> wordlists = new List<List<Word>>();
 
             foreach (string wordlistId in wordlistKeys)
             {
                 string filePath = Path.Combine("Wordlists", wordlistId + ".txt");
-                List<string> wordlist = File.ReadAllLines(filePath).ToList();
+
+                IWordRepository wordRepository = new WordRepository(filePath);
+                List<Word> wordlist = wordRepository.GetAll().ToDomainModels().ToList();
 
                 wordlists.Add(wordlist);
             }

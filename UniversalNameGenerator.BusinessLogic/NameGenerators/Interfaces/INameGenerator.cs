@@ -1,5 +1,7 @@
 ﻿using System.Collections.Generic;
 
+using UniversalNameGenerator.Models;
+
 namespace UniversalNameGenerator.BusinessLogic.NameGenerators.Interfaces
 {
     /// <summary>
@@ -59,7 +61,7 @@ namespace UniversalNameGenerator.BusinessLogic.NameGenerators.Interfaces
         /// Gets the word lists.
         /// </summary>
         /// <value>The word lists.</value>
-        List<List<string>> Wordlists { get; }
+        List<List<Word>> Wordlists { get; }
         
         /// <summary>
         /// Generates names.
