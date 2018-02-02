@@ -10,32 +10,32 @@ namespace UniversalNameGenerator.DataAccess.Repositories.Interfaces
     public interface IGenerationSchemaRepository
     {
         /// <summary>
-        /// Adds the specified biome.
+        /// Adds the specified generationSchema.
         /// </summary>
-        /// <param name="biomeEntity">GenerationSchema.</param>
-        void Add(GenerationSchemaEntity biomeEntity);
+        /// <param name="generationSchemaEntity">GenerationSchema.</param>
+        void Add(GenerationSchemaEntity generationSchemaEntity);
 
         /// <summary>
-        /// Get the biome with the specified identifier.
+        /// Get the generationSchema with the specified identifier.
         /// </summary>
-        /// <returns>The biome.</returns>
+        /// <returns>The generationSchema.</returns>
         /// <param name="id">Identifier.</param>
         GenerationSchemaEntity Get(string id);
 
         /// <summary>
-        /// Gets all the biomes.
+        /// Gets all the generationSchemas.
         /// </summary>
-        /// <returns>The biomes</returns>
+        /// <returns>The generationSchemas</returns>
         IEnumerable<GenerationSchemaEntity> GetAll();
 
         /// <summary>
-        /// Updates the specified biome.
+        /// Updates the specified generationSchema.
         /// </summary>
-        /// <param name="biomeEntity">GenerationSchema.</param>
-        void Update(GenerationSchemaEntity biomeEntity);
+        /// <param name="generationSchemaEntity">GenerationSchema.</param>
+        void Update(GenerationSchemaEntity generationSchemaEntity);
 
         /// <summary>
-        /// Removes the biome with the specified identifier.
+        /// Removes the generationSchema with the specified identifier.
         /// </summary>
         /// <param name="id">Identifier.</param>
         void Remove(string id);
