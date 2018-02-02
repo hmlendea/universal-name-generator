@@ -1,5 +1,6 @@
 ﻿using System.Collections.Generic;
 using System.IO;
+using System.Linq;
 
 using UniversalNameGenerator.DataAccess.DataObjects;
 using UniversalNameGenerator.DataAccess.Repositories.Interfaces;
@@ -44,38 +45,52 @@ namespace UniversalNameGenerator.DataAccess.Repositories
 
                 while ((line = reader.ReadLine()) != null)
                 {
-                    int separatorIndex = line.IndexOf('_');
+                    WordEntity word = GetWordFromLine(line);
 
-                    string id = string.Empty;
-                    string value = string.Empty;
-
-                    if (separatorIndex > 0)
+                    if (words.ContainsKey(word.Id))
                     {
-                        value = line.Substring(0, separatorIndex);
-                        id = line.Substring(separatorIndex + 1);
+                        words[word.Id].Values.Add(word.Values.First());
                     }
                     else
                     {
-                        id = line;
-                        value = line;
-                    }
-
-                    if (words.ContainsKey(id))
-                    {
-                        words[id].Values.Add(value);
-                    }
-                    else
-                    {
-                        WordEntity word = new WordEntity
-                        {
-                            Id = id,
-                            Values = new List<string> { value }
-                        };
-
                         words.Add(word.Id, word);
                     }
                 }
             }
+        }
+
+        WordEntity GetWordFromLine(string line)
+        {
+            string processedLine = UncommentLine(line);
+            int separatorIndex = processedLine.IndexOf('_');
+
+            WordEntity word = new WordEntity();
+
+            if (separatorIndex > 0)
+            {
+                word.Id = processedLine.Substring(separatorIndex + 1);
+                word.Values = new List<string> { processedLine.Substring(0, separatorIndex) };
+            }
+            else
+            {
+                word.Id = processedLine;
+                word.Values = new List<string> { processedLine };
+            }
+
+            return word;
+        }
+
+        string UncommentLine(string line)
+        {
+            int commentIndex = line.IndexOf('#');
+
+            if (commentIndex > 0)
+            {
+                line = line.Substring(0, commentIndex);
+                line = line.TrimEnd();
+            }
+
+            return line;
         }
     }
 }
