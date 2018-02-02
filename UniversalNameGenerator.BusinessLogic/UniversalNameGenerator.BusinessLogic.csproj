@@ -32,6 +32,7 @@
   <ItemGroup>
     <Compile Include="GenerationManagers\GenerationSchemaManager.cs" />
     <Compile Include="GenerationManagers\GeneratorManager.cs" />
+    <Compile Include="Mapping\WordMappingExtensions.cs" />
     <Compile Include="NameGenerators\NameGenerator.cs" />
     <Compile Include="NameGenerators\Interfaces\INameGenerator.cs" />
     <Compile Include="NameGenerators\Markov\MarkovNameGenerator.cs" />
