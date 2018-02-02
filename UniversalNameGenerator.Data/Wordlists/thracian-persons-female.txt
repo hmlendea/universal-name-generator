@@ -1,8 +1,8 @@
 Aidezyres
 Benzeis
 Bidia
-Blosta
-Blostis
+Blosta_Blostis
+Blostis_Blostis
 Cosingis
 Dentusykos
 Eptēsuchis
@@ -11,4 +11,3 @@ Mania
 Meda
 Mokasokos
 Reptatercos
-
