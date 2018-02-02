@@ -40,24 +40,27 @@
     <Compile Include="Menus\Menu.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
-  <ItemGroup />
-  <ItemGroup />
   <ItemGroup>
     <ProjectReference Include="..\UniversalNameGenerator.BusinessLogic\UniversalNameGenerator.BusinessLogic.csproj">
       <Project>{3468438a-0187-4b1b-b6b1-aea4b46eb9a8}</Project>
       <Name>UniversalNameGenerator.BusinessLogic</Name>
     </ProjectReference>
-    <ProjectReference Include="..\UniversalNameGenerator.Models\UniversalNameGenerator.Models.csproj">
-      <Project>{01277AB4-A301-4F24-B35B-AE6713454565}</Project>
-      <Name>UniversalNameGenerator.Models</Name>
+    <ProjectReference Include="..\UniversalNameGenerator.DataAccess\UniversalNameGenerator.DataAccess.csproj">
+      <Project>{c2b5ffb4-aed7-450b-b9ef-41c52e25aeee}</Project>
+      <Name>UniversalNameGenerator.DataAccess</Name>
     </ProjectReference>
     <ProjectReference Include="..\UniversalNameGenerator.Data\UniversalNameGenerator.Data.csproj">
-      <Project>{FB162F2F-E809-491A-A0B5-4F9B2902C9BA}</Project>
+      <Project>{fb162f2f-e809-491a-a0b5-4f9b2902c9ba}</Project>
       <Name>UniversalNameGenerator.Data</Name>
     </ProjectReference>
     <ProjectReference Include="..\UniversalNameGenerator.Infrastructure\UniversalNameGenerator.Common.csproj">
-      <Project>{93A84833-5B4B-4272-AA8A-B55D24CBEFEB}</Project>
+      <Project>{93a84833-5b4b-4272-aa8a-b55d24cbefeb}</Project>
       <Name>UniversalNameGenerator.Common</Name>
     </ProjectReference>
+    <ProjectReference Include="..\UniversalNameGenerator.Models\UniversalNameGenerator.Models.csproj">
+      <Project>{01277ab4-a301-4f24-b35b-ae6713454565}</Project>
+      <Name>UniversalNameGenerator.Models</Name>
+    </ProjectReference>
   </ItemGroup>
+  <ItemGroup />
 </Project>
