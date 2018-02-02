@@ -31,6 +31,8 @@ namespace UniversalNameGenerator.DataAccess.Repositories
         /// <returns>The generation words</returns>
         public IEnumerable<WordEntity> GetAll()
         {
+            LoadContent();
+
             return words.Values;
         }
 
