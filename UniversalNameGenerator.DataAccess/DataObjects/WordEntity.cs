@@ -6,7 +6,7 @@ namespace UniversalNameGenerator.DataAccess.DataObjects
     {
         public string Id { get; set; }
 
-        public IEnumerable<string> Values { get; set; }
+        public ICollection<string> Values { get; set; }
 
         public WordEntity()
         {
