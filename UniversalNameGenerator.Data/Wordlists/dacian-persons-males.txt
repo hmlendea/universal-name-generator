@@ -1,84 +1,91 @@
 Aptasa
-Avizina_Avizina
-Bastiza
+Avizina_Vezina # Mentioned on an ostracon of dacian cavalry stationed in East Egypt. Probably related to the name Vezina
+Bastiza # Name frequently found at Mons Claudianus
 Biciclis
-Bikili
-Blaesus
-Blaikisa
-Blegissa
-Brasus
-Burebista
+Bikili_Bikili # Decebal's friend. Mentioned by Dio Cassius
+Bikilis_Bikili # Alternate name for Bikili
+Blaesus # Child of a soldier of cohors I Aelia Dacorum
+Blaikisa # Mentioned on an ostracon of dacian cavalry stationed in East Egypt
+Blegissa # Mentioned on an ostracon of dacian cavalry stationed in East Egypt
+Brasus # Mentioned in an inscription at Apulum
+Burebista # King of the getae and dacian tribes from 82/61 BC to 45/44 BC. The first to unify the tribes into the Dacian Kingdom.
 Charnabon
-Comosicus
-Coryllus_Scorilo
+Comosicus # Dacian High Priest and King who lived in the 1st century BC. Only mentioned by Jordanes in a passage of his "Historia Romana"
+Coryllus_Scorilo # A corruption of the name "Scorilo", mentioned by Jordanes
 Coson_Cotiso
-Cothelas_Cothelas
-Cotiso_Cotiso
-Cotison_Cotiso
-Dablosa
-Dadas
-Dadazi
+Cothelas_Cothelas # king of the getae, ruling between northern Thrace and the Danube, near the Black Sea.
+Cotiso_Cotiso # Dacian king who apparently ruled the mountains between Banat and Oltenia in the 1st century BC. Mentioned by Horace, Suetonius and Florus
+Cotison_Cotiso # Alternate name for Cotiso
+Dablosa # Mentioned at Mons Claudianus (O. Claud. II 402 and 403)
+Dadas # Mentioned on an ostracon of dacian cavalry stationed in East Egypt
+Dadazi # Mentioned on an ostracon of dacian cavalry stationed in East Egypt
 Daidour
-Daizus
-Damanais
-Dapyg_Dapyx
-Dapyx_Dapyx
+Daizus # Thraco-getian royal name also found in Thrace
+Damanais # Mentioned at Mons Claudianus as father of the dacian soldier Dida from Krokodilo
+Danillo # A legionnaire
+Dapyg_Dapyx # Another interpretation of Dapyx's name
+Dapyx_Dapyx # 1st-century BC chieftain of a getae tribe or tribe union in Scythia Minor (Dobrogea)
 Dardanos
-Dardiolai
+Dardiolai # Mentioned on an ostracon of dacian cavalry stationed in East Egypt
 Decaeneus_Decaeneus
-Decebalus
+Decebalus_Decebalus # Last King of independent Dacia before Trajan's conquest in 105-106 AD
+Decibalus_Decebalus # Child of a soldier of cohors I Aelia Dacorum
+Degis_Diegis # Alternate name for Diegis
 Dekaineos_Decaeneus
 Dekibalos
-Dekinais
+Dekinais_Decaeneus # Mentioned on an ostracon of dacian cavalry stationed in East Egypt
 Dekinsada
-Denzibalos
+Denzibalos_Denzibalos # Mentioned on an ostracon of dacian cavalry stationed in East Egypt
+Denzibalus_Denzibalos # Attested in Britannia
 Dezibalos
 Diapalai
 Dicineus_Decaeneus
-Dicomes
-Dida
+Dicomes # Getian king in the 1st century BC
+Dida_Dida # Aelius Dida was a dacian centurion of cohors I Aelia Dacorum stationed in Britannia
+Didas_Dida # Dacian soldier from Krokodilo
 Diegis_Diegis
 Diengi_Diegis
-Diengis_Diegis
-Dieri_Dieri
-Diernais_Dieri
+Diengis_Diegis # Mentioned on an ostracon of dacian cavalry stationed in East Egypt
+Dieri_Dieri # Mentioned on an ostracon of dacian cavalry stationed in East Egypt
+Diernais_Dieri # Mentioned on an ostracon of dacian cavalry stationed in East Egypt
 Diolizis
-Diourdanos
+Diourdanos # Mentioned on an ostracon of dacian cavalry stationed in East Egypt
 Diourpa_Diurpaneus
 Diourpliz_Diurpaneus
 Ditoulai
-Diurpaneus_Diurpaneus
+Diurpaneus_Diurpaneus # The original name of Decebalus before changing its name after victory over the romans. Mentioned by Dio Cassius
 Dorpaneus_Diurpaneus
-Dotos_Dotos
-Dotouzi_Dotos
-Dourpokis
-Drilgisa
-Dromichaetes
-Duras
+Dotos_Dotos # Mentioned on an ostracon of dacian cavalry stationed in East Egypt
+Dotouzi_Dotos # Mentioned on an ostracon of dacian cavalry stationed in East Egypt
+Dourpokis # Mentioned on an ostracon of dacian cavalry stationed in East Egypt
+Drilgisa # With the inscription CIL VI 1801 as Natopor's brother at Rome
+Dromichaetes # King of the getae on both sides of the lower Danube around 300 BC
+Duras # King of dacians between 69 AD - 87 AD
 Eithazi
 Eithias
 Eithiokalos
 Geithozi
-Gudila_Cothelas
+Gudila_Cothelas # mentioned in the Prosopography of the Later Roman Empire: A.D. 395-527
 Ithiokalos
 Kaigiza
 Komakiza
 Komozoi
-Moskon
+Moskon # Getic king who ruled in the 3rd century BC in the northern parts of Dobrogea
 Muca_Mucatra
 Mucatra_Mucatra
 Naisoulai
 Nato
 Neisto
-Oroles
+Oroles # King of Dacia during the first half of the 2nd century BC. Mentioned by Trogus Pompeius
 Peti_Peto
 Peto_Peto
 Pouridour
-Rhemaxos
-Rholes
+Rhemaxos # King who ruled to the north of the Danube around 200 BC
+Rholes_Rholes # Getae chieftain in Scythia Minor (Dobrogea), mentioned by Dio Cassius in "Roman History"
 Rigozus
+Roles_Rholes # Alternate name for Rholes
 Rolouzis
-Rubobostes
+Rubobostes # Dacian king in Transylvania during the 2nd century BC
 Scorillus_Scorilo
 Scorilo_Scorilo
 Scorylo_Scorilo
@@ -97,8 +104,9 @@ Tiatus_Thiatus
 Titila_Thiatus
 Tsinna_Tsinna
 Tsiru
-Vezina_Avizina
-Zalmodegikos
+Vezina_Vezina
+Zalmodegicus_Zalmodegikos # Alternate name for Zalmodegikos
+Zalmodegikos_Zalmodegikos # Getan king that ruled around 200 BC
 Zeuta
 Zinnas
 Zinnas_Tsinna
@@ -109,4 +117,4 @@ Zourazi_Zourazi
 Zourdanos
 Zouroblost
 Zoutula
-Zyraxes
+Zyraxes # Getan king who ruled the northern part of Dobrogea in the 1st century BC
