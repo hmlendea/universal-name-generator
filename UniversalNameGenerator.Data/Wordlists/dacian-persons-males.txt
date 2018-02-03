@@ -11,6 +11,7 @@ Brasus # Mentioned in an inscription at Apulum
 Burebista # King of the getae and dacian tribes from 82/61 BC to 45/44 BC. The first to unify the tribes into the Dacian Kingdom.
 Charnabon
 Comosicus # Dacian High Priest and King who lived in the 1st century BC. Only mentioned by Jordanes in a passage of his "Historia Romana"
+Comozoi_Comozoi # Mentioned as father of Daizus
 Coryllus_Scorilo # A corruption of the name "Scorilo", mentioned by Jordanes
 Coson_Cotiso
 Cothelas_Cothelas # king of the getae, ruling between northern Thrace and the Danube, near the Black Sea.
@@ -59,17 +60,18 @@ Dotos_Dotos # Mentioned on an ostracon of dacian cavalry stationed in East Egypt
 Dotouzi_Dotos # Mentioned on an ostracon of dacian cavalry stationed in East Egypt
 Dourpokis # Mentioned on an ostracon of dacian cavalry stationed in East Egypt
 Drilgisa # With the inscription CIL VI 1801 as Natopor's brother at Rome
-Dromichaetes # King of the getae on both sides of the lower Danube around 300 BC
+Dromichaeta_Dromichaetes # Alternate name for Dromichaetes
+Dromichaetes_Dromichaetes # King of the getae on both sides of the lower Danube around 300 BC
 Duras # King of dacians between 69 AD - 87 AD
 Eithazi
 Eithias
 Eithiokalos
 Geithozi
-Gudila_Cothelas # mentioned in the Prosopography of the Later Roman Empire: A.D. 395-527
+Gudila_Cothelas # Mentioned in the Prosopography of the Later Roman Empire: A.D. 395-527
 Ithiokalos
-Kaigiza
-Komakiza
-Komozoi
+Kaigiza # Mentioned on an ostracon of dacian cavalry stationed in East Egypt
+Komakiza # Attested at Didymoi
+Komozoi_Comozoi # Alternate name for Comozoi
 Moskon # Getic king who ruled in the 3rd century BC in the northern parts of Dobrogea
 Muca_Mucatra
 Mucatra_Mucatra
@@ -84,32 +86,32 @@ Rhemaxos # King who ruled to the north of the Danube around 200 BC
 Rholes_Rholes # Getae chieftain in Scythia Minor (Dobrogea), mentioned by Dio Cassius in "Roman History"
 Rigozus
 Roles_Rholes # Alternate name for Rholes
-Rolouzis
+Rolouzis # Mentioned on an ostracon of dacian cavalry stationed in East Egypt
 Rubobostes # Dacian king in Transylvania during the 2nd century BC
 Scorillus_Scorilo
 Scorilo_Scorilo
 Scorylo_Scorilo
-Sinna_Tsinna
-Thia_Thiatus
+Sinna_Tsinna # Titus Aurelius Sinna from Ratiaria (Moesia Superior) in CIL III 14507, Viminacium (Moesia Superior), year 195
+Tarbus # Possibly a prince of the free dacians. Mentioned by Dio Cassius but the ethnicity is unclear
 Thiadicem_Thiadicem
 Thiais_Thiatus
-Thiamarkos_Thiamarkos
+Thiamarkos_Thiamarkos # Dacian king in the 1st century BC - 1st century AD
+Thia_Thiatus
 Thiati_Thiatus
 Thouthoila
 Tia_Thiatus
-Tiati_Thiatus
-Tiatitis_Thiatus
+Tiati_Thiatus # With the inscription CIL VI 1801 at Rome. Possibly an alternate name for Thiatus
+Tiatitis_Thiatus # Mentioned on an ostracon of dacian cavalry stationed in East Egypt. Possibly an alternate name for Thiatus
 Tiato_Thiatus
 Tiatus_Thiatus
 Titila_Thiatus
-Tsinna_Tsinna
-Tsiru
+Tsinna_Tsinna # Son of Bassus in ISM V 27, Capidava (Scythia Minor), 2nd century
+Tsiru # Tsiru son of Bassus in ISM V 27, Capidava (Scythia Minor), 2nd century
 Vezina_Vezina
 Zalmodegicus_Zalmodegikos # Alternate name for Zalmodegikos
 Zalmodegikos_Zalmodegikos # Getan king that ruled around 200 BC
 Zeuta
-Zinnas
-Zinnas_Tsinna
+Zinnas_Tsinna # In IOSPE I2 136, Olbia, late 1st-early 2nd century
 Zoltes
 Zoubliza
 Zourai_Zourazi
@@ -118,3 +120,4 @@ Zourdanos
 Zouroblost
 Zoutula
 Zyraxes # Getan king who ruled the northern part of Dobrogea in the 1st century BC
+

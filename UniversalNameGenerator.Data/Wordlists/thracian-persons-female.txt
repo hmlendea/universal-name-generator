@@ -6,8 +6,12 @@ Blostis_Blostis
 Cosingis
 Dentusykos
 Eptēsuchis
+Gepaepyris # Thracian princess, daughter of Cotys III (the sapaean one)
 Maisira
 Mania
 Meda
 Mokasokos
+Pythodorida_Pythodoris # Alternative name for Pythodoris
+Pythodoris_Pythodoris # Thracian princess, daughter of Cotys III (the sapaean one)
 Reptatercos
+
