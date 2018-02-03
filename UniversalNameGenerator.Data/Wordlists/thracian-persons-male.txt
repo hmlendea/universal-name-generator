@@ -1,54 +1,67 @@
-Abrupolis
-Adaeus
+Abrupolis # Sapei king (200 - 172 BC)
+Adaeus_Adaeus # Alternative co-ruler (c. 280-273 BC)
 Adaios
-Amadocus
-Amatokos_Metokos
-Beithys_Byzas
-Berisades
-Biz_Byzas
-Byses_Byzas
-Byzas_Byzas
-Cersobleptes
-Cetri
-Cotys_Cotiso
+Amadocus_Amadocus # King of Odrysia from 410 BC - early 4th century BC. Son of Sitalces
+Amatokos_Amadocus # Alternative name for Amadocus
+Beithys_Beithys # King of Thrace from c. 140 BC - c. 120 BC, son of Cotys IV
+Berisades # Ruler in Thrace, who inherited the dominions of king Cotys I. Probably a son of Cotys
+Bithyas_Beithys # Alternative name for Beithys
+Biz_Byzas # Alternative name for Byzas
+Byses_Byzas # Alternative name for Byzas
+Byzas_Byzas # Ruler from 168/166 BC or 148/146 BC or 180 BC
+Cersebleptes_Cersobleptes # Alternative name for Cersobleptes
+Cersobleptes_Cersobleptes # Son of king Cotys I
+Cetriporis # Son of Berisades
+Chales_Hales # Alternative name for Hales
+Cotys_Cotiso # King of Odrysia from 384 BC - 360 BC
 Dentupes
 Deo_Deos
 Deos_Deos
 Desakenthos
 Diagil_Diagylis
-Diagylis_Diagylis
-Diegylos_Diagylis
-Diygyles_Diagylis
+Diagylis_Diagylis # Ruler (168-150 - 140 BC or 180 BC)
+Diegylos_Diagylis # Alternative name for Diagylis
+Diygyles_Diagylis # Alternative name for Diagylis
 Diza
+Dyegilos # Alternative name for Diagylis
 Epta
-Hebryzelmis
-Kersivaulos
-Maisades
-Metokos_Metokos
+Hales_Hales # King of the triballi (fl. 376 BC - 75 BC)
+Hebryzelmis # King of Odrysia from 390 BC - 384 BC
+Kersivaulos # Alternative co-ruler (c. 260 BC)
+Kersobleptes_Cersobleptes # Alternative name for Cersobleptes
+Kotys_Cotiso # Alternative name for Cotys
+Maisades # Mentioned by Xenophon in Anabasis (7.2.32) as the father of Seuthes II
+Metokos_Amadocus # Alternative name for Amadocus
 Muka_Mucatra
-Odoroes
+Odoroes # Alternative co-ruler (c. 280-273 BC)
 Odryses
-Orsoaltios
-Pleuratus
+Orsoaltios # Alternative co-ruler (c. 265 BC)
 Pythodoris
-Raizdos_Raizdos
-Rhasku
-Rhescu
-Rhesus
-Rhoemetaces
-Roigos_Raizdos
-Sadalas
-Sadocos
-Scostodos
-Seuthes
-Sitalecs
-Skostodokos
-Sothimes
-Sparatocos
-Sparatokos
+Raizdos_Raizdos # King of the odrysians in Thrace after ca. 280 BC. Possibly the son of Cotys II
+Rhescuporis # King of Odrysia from 240 BC - 215 BC, son of Cotys III
+Rhoemetalces # King of Odrysia in 12 BC - 12 AD
+Roigos_Raizdos # Alternative name for Raizdos
+Sadalas # King of Odrysia from 87 BC - 79 BC +, son of Cotys V
+Sadocos # Son of king Sitalces
+Scostodos # Son of Berisades, alternative co-ruler (c. 275 BC)
+Seuthes # King of Odrysian state from 424 BC - ?410(407) BC. He was the nephew (or son?) of Sitalces. Other thracian kings also bear this name
+Sitalces_Sitalces # One of the great kings of the Thracian Odrysian state, son of Teres I
+Sitalkes_Sitalces # Alternative name for Sitalces
+Sitas_Sitalces # Dentheletae king, c. 30 BC. Mentioned by Cassius Dio in "Historia Romana" (Book LI, pp23). Possibly an alternative name for Sitalces
+Skostodokos # King in western Thrace in Strimos (c. 351 BC)
+Sothimes # King of Odrysia c. 163 BC
+Sparatocos_Sparatocos
+Sparatokos_Sparatocos # Alternative name for Sparatocos
+Spartacus # Gladiator
+Syrmios_Syrmus # Alternative name for Syrmus
+Syrmos_Syrmus # Alternative name for Syrmus
+Syrmus_Syrmus # King of the triballi tribe during the 330s BC
 Teres
 Tsizelmi
+Vologaeses # Chief of the Bessi tribe who killed Rhescuporis II (the astaean one) in battle
 Ziepyrus
 Zipaibes
 Ziper
 Zipyron
+Zoltes
+
