@@ -4,7 +4,9 @@ Bidia
 Blosta_Blostis
 Blostis_Blostis
 Cosingis
-Dentusykos
+Dentusucu_Dentusykos
+Dentusykos_Dentusykos
+Dentysykos_Dentusykos
 Eptēsuchis
 Gepaepyris # Thracian princess, daughter of Cotys III (the sapaean one)
 Maisira
