@@ -316,6 +316,7 @@ Chindriș
 Chioran
 Chiorean
 Chiriac
+Chirică
 Chirilă
 Chișe
 Chițu
@@ -561,6 +562,7 @@ Faur
 Fecioru
 Fedeșan
 Felea
+Felecan
 Feneșan
 Fericean
 Fericeanu
@@ -1524,3 +1526,4 @@ Zidaru
 Zisu
 Zugrăvescu
 Zugravu
+
