@@ -1,7 +1,9 @@
 Dokia
-Meda
-Rescuturme
-Zia_Zia
-Ziais_Zia
-Zina
 Duccidava
+Meda
+Rescuturme_Rescuturme
+Reskuturme_Rescuturme # Alternative name for Rescuturme
+Ziais_Zia
+Zia_Zia
+Zina
+

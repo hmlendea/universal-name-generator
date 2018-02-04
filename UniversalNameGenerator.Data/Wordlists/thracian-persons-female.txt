@@ -7,7 +7,8 @@ Cosingis
 Dentusucu_Dentusykos
 Dentusykos_Dentusykos
 Dentysykos_Dentusykos
-Eptēsuchis
+Eptesuchis_Eptesykos # Alternative name for Eptesykos
+Eptesykos_Eptesykos
 Gepaepyris # Thracian princess, daughter of Cotys III (the sapaean one)
 Maisira
 Mania
