@@ -15,7 +15,8 @@ Comosicus # Dacian High Priest and King who lived in the 1st century BC. Only me
 Comozoi_Comozoi # Mentioned as father of Daizus
 Coryllus_Scorilo # A corruption of the name "Scorilo", mentioned by Jordanes
 Coson_Cotiso
-Cothelas_Cothelas # king of the getae, ruling between northern Thrace and the Danube, near the Black Sea.
+Cotela_Cotiso # Name of a getian prince. Possibly an alternative name for Cotiso
+Cothelas_Cothelas # King of the getae, ruling between northern Thrace and the Danube, near the Black Sea.
 Cotiso_Cotiso # Dacian king who apparently ruled the mountains between Banat and Oltenia in the 1st century BC. Mentioned by Horace, Suetonius and Florus
 Cotison_Cotiso # Alternative name for Cotiso
 Dablosa # Mentioned at Mons Claudianus (O. Claud. II 402 and 403)
@@ -96,10 +97,10 @@ Scorilo_Scorilo
 Scorylo_Scorilo
 Sinna_Tsinna # Titus Aurelius Sinna from Ratiaria (Moesia Superior) in CIL III 14507, Viminacium (Moesia Superior), year 195
 Tarbus # Possibly a prince of the free dacians. Mentioned by Dio Cassius but the ethnicity is unclear
+Thia_Thiatus
 Thiadicem_Thiadicem
 Thiais_Thiatus
 Thiamarkos_Thiamarkos # Dacian king in the 1st century BC - 1st century AD
-Thia_Thiatus
 Thiati_Thiatus
 Thouthoila
 Tia_Thiatus
@@ -124,4 +125,3 @@ Zourdanos # Mentioned on an ostracon of dacian cavalry stationed in East Egypt
 Zouroblost # Mentioned on an ostracon of dacian cavalry stationed in East Egypt
 Zoutula # Mentioned on an ostracon of dacian cavalry stationed in East Egypt
 Zyraxes # Getan king who ruled the northern part of Dobrogea in the 1st century BC
-
