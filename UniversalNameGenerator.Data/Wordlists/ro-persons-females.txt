@@ -1,4 +1,5 @@
 Adela
+Adela
 Adelina
 Adina
 Adriana
@@ -53,6 +54,7 @@ Dora
 Dorina
 Dumitra
 Dumitrița
+Dănuța
 Ecaterina
 Elena
 Elisabeta
@@ -73,6 +75,7 @@ Geanina
 Georgeta
 Georgiana
 Gina
+Hortensia
 Ileana
 Ilinca
 Ioana
@@ -156,6 +159,7 @@ Romanița
 Romina
 Roxana
 Rozalia
+Rozica
 Ruxandra
 Sabina
 Samica
@@ -181,4 +185,3 @@ Zeina
 Zoia
 Ștefana
 Ștefania
-﻿Adela

@@ -24,6 +24,7 @@ Alupoaei
 Alupoaiei
 Aluței
 Ambrozie
+Amironesei
 Amânar
 Andone
 Andreescu
@@ -148,6 +149,7 @@ Bolojan
 Bolovăneanu
 Bolovănescu
 Bondar
+Bondor
 Bonta
 Bordea
 Bordean
@@ -175,6 +177,7 @@ Brașovianu
 Breana
 Breban
 Briciu
+Briscan
 Bruma
 Brumaru
 Brumă
@@ -267,6 +270,7 @@ Caragiale
 Caramitru
 Caravia
 Cardei
+Carțiș
 Catana
 Catargiu
 Cazac
@@ -288,8 +292,10 @@ Chelaru
 Chelu
 Chesăuan
 Chețan
+Chiaburu
 Chiciudean
 Chifan
+Chindea
 Chindriș
 Chioran
 Chiorean
@@ -527,6 +533,7 @@ Dragomir
 Dragomirescu
 Dragomiroiu
 Dragu
+Driha
 Drimba
 Drule
 Drăgan
@@ -584,6 +591,7 @@ Filipaș
 Filipciuc
 Filipescu
 Floare
+Flore
 Florea
 Florescu
 Florinescu
@@ -598,6 +606,7 @@ Frumușanu
 Frunză
 Frătean
 Frățilă
+Fufezan
 Fulgeanu
 Funar
 Furcă
@@ -634,6 +643,7 @@ Ghică
 Ghilescu
 Ghimpu
 Ghiocel
+Ghitera
 Ghitu
 Ghiu
 Ghiurea
@@ -788,6 +798,7 @@ Lascăr
 Laslău
 Latcu
 Latiș
+Laza
 Lazea
 Lazăr
 Lechințan
@@ -873,6 +884,7 @@ Micle
 Miclea
 Micu
 Micula
+Miculiciu
 Micuț
 Mihacea
 Mihai
@@ -1057,6 +1069,7 @@ Pantea
 Pantiru
 Pantofaru
 Pană
+Pap
 Papară
 Parfene
 Paroș
@@ -1073,6 +1086,7 @@ Pavel
 Pavelescu
 Pașc
 Paștiu
+Peciu
 Pelea
 Pescar
 Pescariu
@@ -1096,8 +1110,10 @@ Piersic
 Pincu
 Pinte
 Pintea
+Pinteru
 Pintilie
 Pircăbulescu
+Pirtea
 Pirvu
 Piscoi
 Pitaru
@@ -1113,6 +1129,7 @@ Pleșu
 Ploieșteanu
 Plotuna
 Plumb
+Plăcuț
 Podar
 Podariu
 Podoleanu
@@ -1178,6 +1195,7 @@ Pădurariu
 Păduraru
 Pădurean
 Pădureanu
+Pălângeanu
 Pălăcean
 Păstor
 Pătrașcu
@@ -1194,9 +1212,11 @@ Raț
 Rațiu
 Rebengiuc
 Rebreanu
+Reliu
 Resmeriță
 Retegan
 Ripnu
+Rizea
 Rogojan
 Roman
 Romanescu
@@ -1388,9 +1408,11 @@ Tulea
 Tuns
 Tunsu
 Turcanu
+Turcaș
 Turcescu
 Turcu
 Turian
+Tutilescu
 Târnăvan
 Târnăvean
 Tîrnovan
@@ -1419,6 +1441,7 @@ Ungur
 Ungureanu
 Ungurescu
 Urdea
+Urdăreanu
 Ureche
 Urițescu
 Ursache
@@ -1493,6 +1516,7 @@ Vulpes
 Vulpeș
 Vultur
 Vușcanu
+Vâlcov
 Vântu
 Vârtosu
 Văcărean
