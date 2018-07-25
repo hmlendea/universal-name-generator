@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26403.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniversalNameGenerator", "UniversalNameGenerator\UniversalNameGenerator.csproj", "{6D5729AE-4BC4-4F97-B809-9965BFF3E99F}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniversalNameGenerator.Models", "UniversalNameGenerator.Models\UniversalNameGenerator.Models.csproj", "{01277AB4-A301-4F24-B35B-AE6713454565}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniversalNameGenerator.DataAccess", "UniversalNameGenerator.DataAccess\UniversalNameGenerator.DataAccess.csproj", "{C2B5FFB4-AED7-450B-B9EF-41C52E25AEEE}"
@@ -15,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniversalNameGenerator.Comm
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniversalNameGenerator.BusinessLogic", "UniversalNameGenerator.BusinessLogic\UniversalNameGenerator.BusinessLogic.csproj", "{3468438A-0187-4B1B-B6B1-AEA4B46EB9A8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniversalNameGenerator", "UniversalNameGenerator\UniversalNameGenerator.csproj", "{6D5729AE-4BC4-4F97-B809-9965BFF3E99F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,12 +23,6 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{6D5729AE-4BC4-4F97-B809-9965BFF3E99F}.Debug|Any CPU.ActiveCfg = Debug|x86
-		{6D5729AE-4BC4-4F97-B809-9965BFF3E99F}.Debug|x86.ActiveCfg = Debug|x86
-		{6D5729AE-4BC4-4F97-B809-9965BFF3E99F}.Debug|x86.Build.0 = Debug|x86
-		{6D5729AE-4BC4-4F97-B809-9965BFF3E99F}.Release|Any CPU.ActiveCfg = Release|x86
-		{6D5729AE-4BC4-4F97-B809-9965BFF3E99F}.Release|x86.ActiveCfg = Release|x86
-		{6D5729AE-4BC4-4F97-B809-9965BFF3E99F}.Release|x86.Build.0 = Release|x86
 		{01277AB4-A301-4F24-B35B-AE6713454565}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{01277AB4-A301-4F24-B35B-AE6713454565}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{01277AB4-A301-4F24-B35B-AE6713454565}.Debug|x86.ActiveCfg = Debug|Any CPU
@@ -69,6 +63,14 @@ Global
 		{3468438A-0187-4B1B-B6B1-AEA4B46EB9A8}.Release|Any CPU.Build.0 = Release|Any CPU
 		{3468438A-0187-4B1B-B6B1-AEA4B46EB9A8}.Release|x86.ActiveCfg = Release|Any CPU
 		{3468438A-0187-4B1B-B6B1-AEA4B46EB9A8}.Release|x86.Build.0 = Release|Any CPU
+		{6D5729AE-4BC4-4F97-B809-9965BFF3E99F}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{6D5729AE-4BC4-4F97-B809-9965BFF3E99F}.Debug|Any CPU.Build.0 = Debug|x86
+		{6D5729AE-4BC4-4F97-B809-9965BFF3E99F}.Debug|x86.ActiveCfg = Debug|x86
+		{6D5729AE-4BC4-4F97-B809-9965BFF3E99F}.Debug|x86.Build.0 = Debug|x86
+		{6D5729AE-4BC4-4F97-B809-9965BFF3E99F}.Release|Any CPU.ActiveCfg = Release|x86
+		{6D5729AE-4BC4-4F97-B809-9965BFF3E99F}.Release|Any CPU.Build.0 = Release|x86
+		{6D5729AE-4BC4-4F97-B809-9965BFF3E99F}.Release|x86.ActiveCfg = Release|x86
+		{6D5729AE-4BC4-4F97-B809-9965BFF3E99F}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
