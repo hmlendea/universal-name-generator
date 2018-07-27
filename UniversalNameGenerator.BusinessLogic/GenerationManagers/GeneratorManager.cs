@@ -204,7 +204,7 @@ namespace UniversalNameGenerator.BusinessLogic.GenerationManagers
             }
             else
             {
-                generator = new MarkovNameGenerator(wordlists, 3, 0.0f)
+                generator = new MarkovNameGenerator(wordlists, 4, 0.0f)
                 {
                     MinNameLength = minLength,
                     MaxNameLength = maxLength,

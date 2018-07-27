@@ -18,7 +18,7 @@
   <GenerationSchemaEntity>
     <Id>ro-flora</Id>
     <Name>Romanian flora species names</Name>
-    <Schema>{markov,4,16,ro-plants|ro-fruits|ro-trees}</Schema>
+    <Schema>{markov,4,16,ro-plants|ro-fruits|ro-trees|ro-flora-fruits|ro-flora-vegetables}</Schema>
   </GenerationSchemaEntity>
   <GenerationSchemaEntity>
     <Id>ro-fauna</Id>
