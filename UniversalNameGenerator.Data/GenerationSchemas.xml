@@ -18,12 +18,17 @@
   <GenerationSchemaEntity>
     <Id>ro-flora</Id>
     <Name>Romanian flora species names</Name>
-    <Schema>{markov,4,16,ro-plants|ro-fruits|ro-trees|ro-flora-fruits|ro-flora-vegetables}</Schema>
+    <Schema>{markov,4,16,ro-plants|ro-fruits|ro-flora-trees|ro-flora-fruits|ro-flora-vegetables|ro-flora-medicinal}</Schema>
   </GenerationSchemaEntity>
   <GenerationSchemaEntity>
     <Id>ro-fauna</Id>
     <Name>Romanian fauna species names</Name>
     <Schema>{markov,4,16,ro-animals|ro-birds|ro-fishes|ro-insects}</Schema>
+  </GenerationSchemaEntity>
+  <GenerationSchemaEntity>
+    <Id>ro-fauna-trees</Id>
+    <Name>Romanian tree species names</Name>
+    <Schema>{markov,4,16,ro-fauna-trees}</Schema>
   </GenerationSchemaEntity>
   <GenerationSchemaEntity>
     <Id>ro-fishes</Id>
@@ -86,11 +91,6 @@
     <Name>Romanian female persons</Name>
     <Filterlist>ro-persons-filters</Filterlist>
     <Schema>{randomiser, ,4,32,ro-persons-females|ro-surnames}</Schema>
-  </GenerationSchemaEntity>
-  <GenerationSchemaEntity>
-    <Id>ro-trees</Id>
-    <Name>Romanian tree species names</Name>
-    <Schema>{markov,4,16,ro-trees}</Schema>
   </GenerationSchemaEntity>
   <GenerationSchemaEntity>
     <Id>dacian-settlements</Id>
