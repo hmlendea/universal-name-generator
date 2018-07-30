@@ -6,11 +6,6 @@
     <Schema>{randomiser,,4,24,asian-settlements-bases|asian-settlements-suffixes}</Schema>
   </GenerationSchemaEntity>
   <GenerationSchemaEntity>
-    <Id>ro-birds</Id>
-    <Name>Romanian bird species names</Name>
-    <Schema>{markov,4,16,ro-birds}</Schema>
-  </GenerationSchemaEntity>
-  <GenerationSchemaEntity>
     <Id>ro-colours</Id>
     <Name>Romanian colours names</Name>
     <Schema>{markov,4,16,ro-colours}</Schema>
@@ -18,32 +13,37 @@
   <GenerationSchemaEntity>
     <Id>ro-flora</Id>
     <Name>Romanian flora species names</Name>
-    <Schema>{markov,4,16,ro-plants|ro-fruits|ro-flora-trees|ro-flora-fruits|ro-flora-vegetables|ro-flora-medicinal}</Schema>
+    <Schema>{markov,4,16,ro-plants|ro-fruits|ro-flora-trees|ro-flora-fruits|ro-flora-vegetables|ro-flora-medicinal|ro-flora-flowers}</Schema>
   </GenerationSchemaEntity>
   <GenerationSchemaEntity>
-    <Id>ro-fauna</Id>
-    <Name>Romanian fauna species names</Name>
-    <Schema>{markov,4,16,ro-animals|ro-birds|ro-fishes|ro-insects}</Schema>
-  </GenerationSchemaEntity>
-  <GenerationSchemaEntity>
-    <Id>ro-fauna-trees</Id>
+    <Id>ro-flora-trees</Id>
     <Name>Romanian tree species names</Name>
     <Schema>{markov,4,16,ro-fauna-trees}</Schema>
   </GenerationSchemaEntity>
   <GenerationSchemaEntity>
-    <Id>ro-fishes</Id>
+    <Id>ro-fauna</Id>
+    <Name>Romanian fauna species names</Name>
+    <Schema>{markov,4,16,ro-fauna-animals|ro-fauna-birds|ro-fauna-fishes|ro-fauna-insects|ro-fauna-reptilian}</Schema>
+  </GenerationSchemaEntity>
+  <GenerationSchemaEntity>
+    <Id>ro-fauna-birds</Id>
+    <Name>Romanian bird species names</Name>
+    <Schema>{markov,4,16,ro-fauna-birds}</Schema>
+  </GenerationSchemaEntity>
+  <GenerationSchemaEntity>
+    <Id>ro-fauna-fishes</Id>
     <Name>Romanian fish species names</Name>
-    <Schema>{markov,4,16,ro-fishes}</Schema>
+    <Schema>{markov,4,16,ro-fauna-fishes}</Schema>
+  </GenerationSchemaEntity>
+  <GenerationSchemaEntity>
+    <Id>ro-fauna-insects</Id>
+    <Name>Romanian insect species names</Name>
+    <Schema>{markov,4,16,ro-fauna-insects}</Schema>
   </GenerationSchemaEntity>
   <GenerationSchemaEntity>
     <Id>ro-fruits</Id>
     <Name>Romanian fruit species names</Name>
-    <Schema>{markov,4,16,ro-fruits}</Schema>
-  </GenerationSchemaEntity>
-  <GenerationSchemaEntity>
-    <Id>ro-insects</Id>
-    <Name>Romanian insect species names</Name>
-    <Schema>{markov,4,16,ro-insects}</Schema>
+    <Schema>{markov,4,16,ro-flora-fruits}</Schema>
   </GenerationSchemaEntity>
   <GenerationSchemaEntity>
     <Id>ro-plants</Id>
