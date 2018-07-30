@@ -66,13 +66,19 @@
     <Content Include="Wordlists\letian-settlements.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="Wordlists\ro-animals.txt">
+    <Content Include="Wordlists\ro-fauna-animals.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="Wordlists\ro-birds.txt">
+    <Content Include="Wordlists\ro-fauna-birds.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="Wordlists\ro-fishes.txt">
+    <Content Include="Wordlists\ro-fauna-fishes.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Wordlists\ro-fauna-reptilian.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Wordlists\ro-flora-flowers.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
     <Content Include="Wordlists\ro-flora-fruits.txt">
@@ -90,7 +96,7 @@
     <Content Include="Wordlists\ro-fruits.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="Wordlists\ro-insects.txt">
+    <Content Include="Wordlists\ro-fauna-insects.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
     <Content Include="Wordlists\ro-settlements-cities.txt">
