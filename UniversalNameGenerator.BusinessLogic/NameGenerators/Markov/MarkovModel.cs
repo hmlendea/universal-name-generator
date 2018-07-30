@@ -62,7 +62,8 @@ namespace UniversalNameGenerator.BusinessLogic.NameGenerators.Markov
                         observations.AddOrUpdate(key, value); // TODO: Does the update part cause issues?
                     }
 
-                    value.Add(d[i + order].ToString());
+                    char letter = d[i + order];
+                    value.Add(letter.ToString());
                 }
             }
         }
@@ -89,29 +90,20 @@ namespace UniversalNameGenerator.BusinessLogic.NameGenerators.Markov
                         chains.AddOrUpdate(context, value);
                     }
 
-                    value.Add(prior + CountMatches(observations[context], prediction));
+                    int matchesCount = CountMatches(observations[context], prediction);
+                    value.Add(prior + matchesCount);
                 }
             }
         }
 
         int CountMatches(IEnumerable<string> array, string val)
         {
-            int count = 0;
-
             if (array == null)
             {
-                return count;
+                return 0;
             }
 
-            foreach(string str in array)
-            {
-                if (str == val)
-                {
-                    count += 1;
-                }
-            }
-
-            return count;
+            return array.Count(str => str == val);
         }
 
         int SelectIndex(IEnumerable<float> chain)
@@ -119,7 +111,7 @@ namespace UniversalNameGenerator.BusinessLogic.NameGenerators.Markov
             List<float> totals = new List<float>();
             float accumulator = 0;
 
-            foreach(float weight in chain)
+            foreach (float weight in chain)
             {
                 accumulator += weight;
                 totals.Add(accumulator);
@@ -129,7 +121,7 @@ namespace UniversalNameGenerator.BusinessLogic.NameGenerators.Markov
 
             for (int i = 0; i < totals.Count; i++)
             {
-                if( rand < totals[i])
+                if (rand < totals[i])
                 {
                     return i;
                 }
