@@ -43,13 +43,13 @@ namespace UniversalNameGenerator.BusinessLogic.NameGenerators.Markov
 
             letters.Sort();
 
-            List<string> domain = letters.ToList();
+            List<string> domain = letters.Distinct().ToList();
             domain.Insert(0, "#");
 
             models = new List<MarkovModel>();
             for (int i = 0; i < order; i++)
             {
-                MarkovModel model = new MarkovModel(wordValues, Order - i, Prior, domain);
+                MarkovModel model = new MarkovModel(wordValues.ToList(), Order - i, Prior, domain.ToList());
                 models.Add(model);
             }
         }
