@@ -78,10 +78,16 @@
     <Content Include="Wordlists\ro-fauna-reptilian.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <Content Include="Wordlists\ro-flora-cereals.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
     <Content Include="Wordlists\ro-flora-flowers.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
     <Content Include="Wordlists\ro-flora-fruits.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Wordlists\ro-flora-fungi.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
     <Content Include="Wordlists\ro-flora-medicinal.txt">
@@ -149,24 +155,24 @@
     </Content>
   </ItemGroup>
   <ItemGroup>
-    <None Include="Wordlists\latin-cognomen-males.txt">
+    <Content Include="Wordlists\latin-cognomen-males.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </None>
-    <None Include="Wordlists\latin-persons-filters.txt">
+    </Content>
+    <Content Include="Wordlists\latin-persons-filters.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </None>
-    <None Include="Wordlists\latin-nomen.txt">
+    </Content>
+    <Content Include="Wordlists\latin-nomen.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </None>
-    <None Include="Wordlists\latin-pronomen-females.txt">
+    </Content>
+    <Content Include="Wordlists\latin-pronomen-females.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </None>
-    <None Include="Wordlists\latin-pronomen-males.txt">
+    </Content>
+    <Content Include="Wordlists\latin-pronomen-males.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </None>
-    <None Include="Wordlists\ro-settlements-filters.txt">
+    </Content>
+    <Content Include="Wordlists\ro-settlements-filters.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </None>
+    </Content>
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
