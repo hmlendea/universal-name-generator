@@ -3,24 +3,29 @@ anghinare
 arahidă
 ardei
 bamă
+barabulă_cartof # Transylvanian regionalism
 bob
 bostan_dovleac
 brocoli
 burac_sfeclă
 capustă_varză
+cărălabă_gulie # Transylvanian regionalism
 cardon
-cartof
+carfiol_conopidă
+cartof_cartof
 castravete
 ceapă
 cimbru
-conopidă
+colompire_cartof # Transylvanian regionalism
+conopidă_conopidă
 creson
-curechi_varză
+croampă_cartof # Transylvanian regionalism
+curechi_varză # Transylvanian regionalism
 dovleac
 dovlecel
 fasole
 ghimbir
-gulie
+gulie_gulie
 hașmă
 hrean
 lăptucă
@@ -53,9 +58,8 @@ sparanghel
 ștevie
 tarhon
 țelină
-țelină
-țelină
 tomată_roșie
 usturoi
 vânătă
 varză_varză
+vinete

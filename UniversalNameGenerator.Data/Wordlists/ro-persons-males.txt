@@ -1,3 +1,4 @@
+﻿Adam
 Adelin
 Adrian
 Alex
@@ -17,9 +18,11 @@ Aurelian
 Avram
 Barbu
 Bogdan
+Călin
 Camil
 Carol
 Casian
+Cătălin
 Cezar
 Ciprian
 Claudiu
@@ -39,8 +42,6 @@ Cozma
 Crin
 Cristian
 Cristofor
-Călin
-Cătălin
 Dacian
 Damian
 Dan
@@ -130,6 +131,7 @@ Lorin
 Luca
 Lucian
 Lucrețiu
+Mădălin
 Manea
 Manole
 Manuel
@@ -153,7 +155,6 @@ Mitru
 Mitruț
 Moise
 Mugur
-Mădălin
 Narcis
 Naum
 Nechifor
@@ -183,15 +184,16 @@ Puiu
 Radu
 Rareș
 Raul
+Răzvan
 Relu
 Remus
 Robert
 Roman
 Romică
-Răzvan
 Sabin
 Sandu
 Sebastian
+Șerban
 Sergiu
 Sever
 Silviu
@@ -199,6 +201,7 @@ Simion
 Sorin
 Spiru
 Stan
+Ștefan
 Stelian
 Stroe
 Tache
@@ -228,6 +231,3 @@ Vlaicu
 Voicu
 Zaharia
 Zamfir
-Șerban
-Ștefan
-﻿Adam
