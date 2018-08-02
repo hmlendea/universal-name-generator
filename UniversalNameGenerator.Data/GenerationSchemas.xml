@@ -84,13 +84,13 @@
     <Id>ro-persons-male</Id>
     <Name>Romanian male persons</Name>
     <FilterlistPath>ro-persons-filters</FilterlistPath>
-    <Schema>{randomiser, ,4,32,ro-persons-males|ro-surnames}</Schema>
+    <Schema>{randomiser, ,4,32,ro-persons-males|ro-persons-surnames}</Schema>
   </GenerationSchemaEntity>
   <GenerationSchemaEntity>
     <Id>ro-persons-female</Id>
     <Name>Romanian female persons</Name>
     <FilterlistPath>ro-persons-filters</FilterlistPath>
-    <Schema>{randomiser, ,4,32,ro-persons-females|ro-surnames}</Schema>
+    <Schema>{randomiser, ,4,32,ro-persons-females|ro-persons-surnames}</Schema>
   </GenerationSchemaEntity>
   <GenerationSchemaEntity>
     <Id>ro-landmarks</Id>

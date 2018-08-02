@@ -1,78 +1,92 @@
-afină
-agrișă
+afină_cranberry
+agrișă_gooseberry
 alună
-ananas
+ananas_pineapple
+apricoasă_apricot
 avocado
 banană
-bolbotină # pepene verde
-boșar # pepene verde
-bostan # pepene verde
-caisă
-cantaloș # pepene
-cantalup # pepene
-căpșună
+bolbotină_watermelon
+boșar_watermelon
+bostan_watermelon
+caisă_apricot
+caisină_apricot
+cantaloș_melon
+cantalup_melon
+căpșună_Strawberry
 castană
 cătină
-caune # pepene
-cireș
+caune_melon
+cireașă_cherry
 clementină
-coacăză
+coacăză_blackcurrant
 cocos
 corcodușă
-cucurbătă # pepene verde
+cucurbătă_watermelon
 curmală
-die # pepene verde
+die_watermelon
 drăcilă
 dudă
-duleț # pepene verde
+duleț_watermelon
 fistic
 frăguță
-gălboi # pepene galben
-grepfrut
+gălboi_melon # Yellow
+garofoană_apricot
+gorgeolană_apricot
+grepfrut_grepfruit
 gutuie
-harbuz # pepene verde
-himanic # pepene
-himunic # pepene
-ieură # pepene
-lămâie
+harbuz_watermelon
+himanic_melon
+himunic_melon
+ieură_melon
+Jordolină_apricot
+lămâie_Lemon
 limetă
-lubă # pepene
-lubeniță # pepene verde
-măceșă
-măcieșă # măceșă
-mandarina
+lubă_melon
+lubeniță_watermelon
+măceșă_brier
+măcieșă_brier
+măgdălană_apricot
+mandarină
+măndulă_apricot
 mango
-măr
-mărăcină # măceș
-măslină
+măr_apple
+mărăcină_brier
+măslină_olive
 merișoară
 migdală
 mură
-nucă
+naramză_orange
+nectarină
+noroancă_orange
+nucă_walnut
 păducel
-pară
-pepene
+pară_pear
+pepene_melon
 piersică
 pomelo
-popone # pepene
-portocală
+pomeranță_orange
+popone_melon
+portocală_orange
 prună
-răsură # măceș
-rezachie # agriș
-rișiță # agriș
-rodie
-rug # măceș
-rujă # măceș
-rujiță # măceș
+răsură_brier
+rezachie_gooseberry
+rișiță_gooseberry
+rodie_pomegranate
+rug_brier
+rujă_brier
+rujiță_brier
 scorușă
-șiarchin # pepene
-sipică # măceș
-smochină
-strugure
-tigvă de tină # pepene
-trăgulă # pepene
+șiarchin_melon
+sipică_brier
+smochină_Fig
+struguraș_grape
+strugure_grape
+strugurel_grape
+tinghirea_apricot
+trăgulă_melon
 vișină
-vleg # pepene
-zămos # pepene
-zarzară
+vleg_melon
+zămos_melon
+zarzară_apricot
 zmeură
+zorzolină_apricot

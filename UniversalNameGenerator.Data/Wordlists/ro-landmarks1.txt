@@ -14,6 +14,8 @@ Baia_Bay
 Băile_Bay
 Balta_Swamp
 Bălțile_Swamp
+Bancul_Bank
+Bancurile_Bank
 Bărăganii_Steppe
 Bărăganul_Steppe
 Bazinele_Basin
@@ -24,6 +26,10 @@ Bolta_Arch
 Boltele_Arch
 Buricul_Crater
 Căile_Path
+Căldarea_Vulcan
+Căldările_Vulcan
+Caldera_Vulcan
+Calderele_Vulcan
 Calea_Path
 Câmpia_Plain
 Câmpiile_Plain
@@ -114,6 +120,8 @@ Fundătura_Path
 Fundăturile_Blockage
 Fundăturile_Path
 Gâtul_Gorge
+Ghețarii_Iceberg
+Ghețarul_Iceberg
 Golful_Gulf
 Golfurile_Gulf
 Grădina_Garden
@@ -168,6 +176,8 @@ Malul_Shore
 Malurile_Shore
 Marea_Sea
 Mările_Sea
+Masivii_Massif
+Masivul_Massif
 Meleagul_Region
 Meleagurile_Region
 Mina_Mine
@@ -257,6 +267,8 @@ Scorburile_Cave
 Șesurile_Flat
 Singurătatea_Wasteland
 Singurătățile_Wasteland
+Situl_Site
+Siturile_Site
 Solul_Land
 Solurile_Land
 Spărtura_Ravine
@@ -293,6 +305,8 @@ Trecătorile_Path
 Trecerea_Path
 Tundra_Tundra
 Tundrele_Tundra
+Duna_Dune
+Dunele_Dune
 Vadul_Ford
 Văgăuna_Cave
 Văgăuna_Pit
