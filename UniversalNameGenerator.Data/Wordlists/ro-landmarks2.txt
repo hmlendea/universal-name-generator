@@ -176,6 +176,7 @@ de Apus_Eastern
 de Aramă_OfBrass
 de Aur_OfGold
 de Cenușă_OfAsh
+de Cotitură_Curved
 de Fier_OfIron
 de Foc_OfFire
 de Jos_Lower
@@ -251,6 +252,11 @@ Haiducesc_OfTheOutlaw
 Haiducești_OfTheOutlaw
 Haiducilor_OfTheOutlaw
 Haiducului_OfTheOutlaw
+Haosului_Chaotic
+Haotic_Chaotic
+Haotică_Chaotic
+Haotice_Chaotic
+Haotici_Chaotic
 Împădurit_Forest
 Împădurită_Forest
 Împădurite_Forest
@@ -335,6 +341,10 @@ Luminoasă_Light
 Luminoase_Light
 Luminos_Light
 Luminoși_Light
+Mâloasă_Muddy
+Mâloase_Muddy
+Mâlos_Muddy
+Mâloși_Muddy
 Mândră_Proud
 Mândre_Proud
 Mândrii_Proud
@@ -399,6 +409,7 @@ Neted_Smooth
 Netedă_Smooth
 Netede_Smooth
 Netezi_Smooth
+Nimănui_OfNobody
 Nobil_Noble
 Nobilă_Noble
 Nobile_Noble
@@ -524,6 +535,10 @@ Răsăritean_Western
 Răsăriteană_Western
 Răsăritene_Western
 Răsăriteni_Western
+Răsucit_Twisted
+Răsucită_Twisted
+Răsucite_Twisted
+Răsuciți_Twisted
 Ratrasă_Lonely
 Rece_Cold
 Reci_Cold
@@ -543,6 +558,10 @@ Retezați_Cut
 Retras_Lonely
 Retrase_Lonely
 Retrași_Lonely
+Ridat_Wrinkled
+Ridată_Wrinkled
+Ridate_Wrinkled
+Ridați_Wrinkled
 Român_Romanian
 Române_Romanian
 Românească_Romanian
@@ -624,10 +643,14 @@ Stâncoasă_Rocky
 Stâncoase_Rocky
 Stâncos_Rocky
 Stâncoși_Rocky
-Sterp_Barren
-Sterpă_Barren
-Sterpe_Barren
-Sterpi_Barren
+Steril_Sterile
+Sterilă_Sterile
+Sterile_Sterile
+Sterili_Sterile
+Sterp_Sterile
+Sterpă_Sterile
+Sterpe_Sterile
+Sterpi_Sterile
 Strămoșească_OfTheAncestors
 Strămoșesc_OfTheAncestors
 Strămoșești_OfTheAncestors
@@ -637,6 +660,10 @@ Străvechi_Ancient
 Strigătelor_OfTheScream
 Subțire_Thin
 Subțiri_Thin
+Sucit_Twisted
+Sucită_Twisted
+Sucite_Twisted
+Suciți_Twisted
 Sudic_Southern
 Sudică_Southern
 Sudici_Southern
