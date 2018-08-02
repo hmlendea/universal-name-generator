@@ -26,6 +26,7 @@
 .*ii .*[iorș]u
 .*ii .*ag
 .*ii .*al
+.*ii .*av
 .*ii .*che
 .*ii .*eș
 .*ii .*uzi
