@@ -1,13 +1,28 @@
+călambuc_corn
+Ciolomadă_corn
+cocenași_corn
+colibaș_corn
+cucoriță_corn
+cucuruz_corn # Transylvanian regionalism
+gârnișor_corn
 grâu_grâu
-mei
-orez
-orz
-ovăz
-porumb
-secară
-sorg
-triticală
-hrișcă
-cucuruz_porumb # Transylvanian regionalism
-tenchi_grâu # Transylvanian regionalism
-păpușoi_porumb # Regionalism
+hărană_rye
+hrișcă_buckwheat
+mălai_corn
+mălai_millet
+mei_millet
+orez_rice
+orz_barley
+ovăz_oat
+păpușă_corn
+păpușoi_corn # Regionalism
+păsat_millet
+păsrâng_millet
+porumb_corn
+salbă_rye
+secară_rye
+secărea_rye
+sorg_sorghum
+tătarcă_buckwheat
+tenchi_corn # Transylvanian regionalism
+triticală_triticale
