@@ -34,10 +34,10 @@ ciuf
 ciuhurez
 ciuș
 ciuvică
-cloșcă_găină # egg-laying female
-cloță_găină # Transylvanian regionalism for cloșcă
+cloșcă_hen # hen that lays on the eggs
+cloță_hen # Transylvanian regionalism for cloșcă
 cocor
-cocoș_găină # male
+cocoș_rooster
 cocoșar
 codalb
 codobatură
@@ -61,7 +61,7 @@ dumbrăveancă
 egretă
 erete
 fâsă
-fazan
+fazan_pheasant
 ferestraș
 filomelă
 flaming
@@ -73,11 +73,12 @@ frunzăriță
 fugaci
 furtunar
 gaie
-găină_găină
-găinușă_găină
+găină_hen
+găinușă_hen
 gaiță
 gârliță
 gâscă
+ghină_hen
 ghionoaie
 grangur
 graur
@@ -110,7 +111,7 @@ ochiuboului
 pănțăruș
 papagal
 pasăre
-păun
+păun_peacock
 pelican
 pescăraș
 pescărel
@@ -155,6 +156,7 @@ stufărică
 sturz
 țiclean
 țigănuș
+tiucă_hen
 turturică
 uligan
 uliu
