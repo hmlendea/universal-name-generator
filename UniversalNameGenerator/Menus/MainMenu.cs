@@ -13,6 +13,8 @@ namespace UniversalNameGenerator.Menus
     /// </summary>
     public class MainMenu : Menu
     {
+        const string ColumnSeparator = " | ";
+
         IGeneratorSchemaManager schemaManager;
         IGeneratorManager generator;
 
@@ -32,14 +34,51 @@ namespace UniversalNameGenerator.Menus
 
             schemas.ForEach(schema => AddCommand(schema.Id,
                                                  schema.Name,
-                                                 delegate { GenerateNames(schema, 10); }));
+                                                 delegate { GenerateNames(schema, 40); }));
         }
 
         void GenerateNames(GenerationSchema schema, int amount)
         {
             List<string> names = generator.GenerateNames(schema.Schema, amount, schema.FilterlistPath, schema.WordCasing).ToList();
 
-            names.ForEach(Console.WriteLine);
+            PrintResultsTable(names);
+        }
+
+        void PrintResultsTable(List<string> results)
+        {
+            int maxLength = results.Max(x => x.Length);
+            int cols = Console.BufferWidth / (maxLength + ColumnSeparator.Length);
+
+            if (cols > results.Count)
+            {
+                cols = results.Count;
+            }
+
+            int rows = (results.Count - 1) / cols + 1;
+
+            for (int y = 0; y < rows; y++)
+            {
+                for (int x = 0; x < cols; x++)
+                {
+                    int index = x + cols * y;
+
+                    string cellValue = string.Empty;
+
+                    if (index < results.Count)
+                    {
+                        cellValue = results[index];
+                    }
+
+                    Console.Write(cellValue.PadRight(maxLength, ' '));
+
+                    if (x < cols - 1)
+                    {
+                        Console.Write(ColumnSeparator);
+                    }
+                }
+
+                Console.WriteLine();
+            }
         }
     }
 }
