@@ -166,6 +166,7 @@ namespace UniversalNameGenerator.Menus
             ConsoleEx.WriteColoured(TitleDecorationLeft, TitleDecorationColour);
             ConsoleEx.WriteColoured(Title, TitleColour);
             ConsoleEx.WriteColoured(TitleDecorationRight, TitleDecorationColour);
+            Console.ResetColor(); // TODO: Proper colour fix
 
             Console.WriteLine();
         }
