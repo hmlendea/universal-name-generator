@@ -11,7 +11,8 @@ hrișcă_buckwheat
 mălai_corn
 mălai_millet
 mei_millet
-orez_rice
+orez_Rice
+rișcașă_Rice
 orz_barley
 ovăz_oat
 păpușă_corn

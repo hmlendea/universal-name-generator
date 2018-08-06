@@ -56,6 +56,8 @@ Caverna_Cave
 Cavernele_Cave
 Cavitatea_Cave
 Cavitățile_Cave
+Căzătura_Hole
+Căzăturile_Hole
 Cheia_Gorge
 Cheile_Gorge
 Cimitirele_Cemetery
@@ -311,8 +313,8 @@ Secțiunea_Area
 Secțiunile_Area
 Sectoarele_Region
 Sectorul_Region
-Șesul_Flat
-Șesurile_Flat
+Șesul_Lowland
+Șesurile_Lowland
 Singurătatea_Wasteland
 Singurătățile_Wasteland
 Șirul_Chain

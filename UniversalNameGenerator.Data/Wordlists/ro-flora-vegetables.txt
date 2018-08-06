@@ -3,25 +3,26 @@ anghinare
 arahidă
 ardei
 bamă
-barabulă_cartof # Transylvanian regionalism
+barabulă_Potato # Transylvanian regionalism
 bob
 bostan_dovleac
 brocoli
-burac_sfeclă
+burac_Beta
 cacalambă_kohlrabi
 calarabă_kohlrabi
 capustă_varză
 cărălabă_kohlrabi # Transylvanian regionalism
 cardon
 carfiol_conopidă
-cartof_cartof
+cartof_Potato
 castravete
 ceapă_onion
 cimbru
-colompire_cartof # Transylvanian regionalism
+colompire_Potato # Transylvanian regionalism
 conopidă_conopidă
 creson
-croampă_cartof # Transylvanian regionalism
+croampă_Potato # Transylvanian regionalism
+crumpene_Potato
 curechi_varză # Transylvanian regionalism
 dovleac
 dovlecel
@@ -42,7 +43,7 @@ morcov
 năhut_chickpeas
 nap
 năut_chickpeas
-pangea_sfeclă
+pangea_Beta
 păstârnac
 pătlăgea
 pătrunjel
@@ -50,14 +51,15 @@ pepene
 praz
 revent
 ridiche
-ripă_sfeclă
+brozbă_Beta
+ripă_Beta
 roșie
 rubarbă
 salată
 samuraslă_garlic
 scorțoneră
 seler_celery
-sfeclă_sfeclă
+sfeclă_Beta
 soia
 spanac
 sparanghel

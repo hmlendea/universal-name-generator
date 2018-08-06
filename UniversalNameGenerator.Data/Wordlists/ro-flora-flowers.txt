@@ -2,6 +2,7 @@ aglică_ciuboțică
 aglicel_ciuboțică
 aișor_ghiocel
 anemonă
+Bănuț_CommonDaisy
 begonie
 bujor
 cală
@@ -34,6 +35,7 @@ nevestică_narcisă
 nufăr
 orhidee
 panseluță
+Părăluță_CommonDaisy
 petunie
 primăvăriță_ghiocel
 primăvăruță_ghiocel

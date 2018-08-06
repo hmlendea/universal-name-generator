@@ -5,9 +5,9 @@ ananas_pineapple
 apricoasă_apricot
 avocado
 banană
-bolbotină_watermelon
-boșar_watermelon
-bostan_watermelon
+bolbotină_Watermelon
+boșar_Watermelon
+bostan_Watermelon
 caisă_apricot
 caisină_apricot
 cantaloș_melon
@@ -21,12 +21,13 @@ clementină
 coacăză_blackcurrant
 cocos
 corcodușă
-cucurbătă_watermelon
+cucurbătă_Watermelon
+cucurbetă_Watermelon
 curmală
-die_watermelon
+die_Watermelon
 drăcilă
 dudă
-duleț_watermelon
+duleț_Watermelon
 fistic
 frăguță
 gălboi_melon # Yellow
@@ -34,7 +35,7 @@ garofoană_apricot
 gorgeolană_apricot
 grepfrut_grepfruit
 gutuie
-harbuz_watermelon
+harbuz_Watermelon
 himanic_melon
 himunic_melon
 ieură_melon
@@ -42,7 +43,7 @@ Jordolină_apricot
 lămâie_Lemon
 limetă
 lubă_melon
-lubeniță_watermelon
+lubeniță_Watermelon
 măceșă_brier
 măcieșă_brier
 măgdălană_apricot
