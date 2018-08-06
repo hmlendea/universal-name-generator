@@ -152,4 +152,9 @@
     <Name>Rodah (Narivia) ships</Name>
     <Schema>{markov,4,16,rodah-ships}</Schema>
   </GenerationSchemaEntity>
+  <GenerationSchemaEntity>
+    <Id>tes-ayleid-ruins</Id>
+    <Name>Ayleid ruin names</Name>
+    <Schema>{markov,4,16,tes-ayleid-ruins}</Schema>
+  </GenerationSchemaEntity>
 </ArrayOfGenerationSchemaEntity>
