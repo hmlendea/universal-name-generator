@@ -60,7 +60,7 @@
     <Id>ro-settlements</Id>
     <Name>Romanian settlement names</Name>
     <FilterlistPath>ro-settlements-filters</FilterlistPath>
-    <Schema>{markov,4,24,ro-settlements-cities|ro-settlements-towns|ro-settlements-communes}</Schema>
+    <Schema>{markov,4,24,ro-settlements-cities|ro-settlements-towns|ro-settlements-communes|ro-settlements-cities-md|ro-settlements-communes-md|ro-settlements-towns-md|ro-settlements-villages-md}</Schema>
   </GenerationSchemaEntity>
   <GenerationSchemaEntity>
     <Id>ro-settlements-cities</Id>
