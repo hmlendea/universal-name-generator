@@ -58,6 +58,8 @@ Cavitatea_Cave
 Cavitățile_Cave
 Cheia_Gorge
 Cheile_Gorge
+Cimitirele_Cemetery
+Cimitirul_Cemetery
 Coasta_Coast
 Codrii_Forest
 Codrul_Forest
@@ -128,6 +130,8 @@ Expansiunea_Expanse
 Expansiunile_Expanse
 Faleza_Cliff
 Falezele_Cliff
+Fâneața_Hayland
+Fânețele_Hayland
 Fiordul_Fjord
 Fiordurile_Fjord
 Fisura_Ravine
@@ -170,10 +174,14 @@ Intersecțiile_Path
 Întinderile_Expanse
 Intrarea_Entrance
 Intrările_Entrance
+Izlazul_Pasture
+Izlazurile_Pasture
 Izvoarele_Spring
 Izvorul_Spring
 Jungla_Jungle
 Junglele_Jungle
+Lăcașele_Sanctuary
+Lăcașul_Sanctuary
 Lacul_Lake
 Lacuna_Ravine
 Lacunele_Ravine
@@ -237,6 +245,10 @@ Pasajele_Pass
 Pasajul_Pass
 Pașii_Pass
 Pasul_Pass
+Pășunea_Pasture
+Pășunile_Pasture
+Patrimoniile_Patrimony
+Patrimoniul_Patrimony
 Peninsula_Peninsula
 Peninsulele_Peninsula
 Peștera_Cave
@@ -336,6 +348,8 @@ Tărâmurile_Region
 Țările_Region
 Țărmul_Shore
 Țărmurile_Shore
+Terasa_Terrace
+Terasele_Terrace
 Terenul_Region
 Terenurile_Region
 Teritoriile_Region
@@ -364,6 +378,8 @@ Valurile_Wave
 Vama_Frontier
 Vârful_Summit
 Vârfurile_Summit
+Vestigiile_Vestige
+Vestigiul_Vestige
 Vizuina_Burrow
 Vizuinele_Burrow
 Vulcanii_Volcano
