@@ -5,6 +5,7 @@ adonis
 afidă
 albiliță
 albină
+bărzăun_Hornet
 bondar
 borză
 buburuză
@@ -23,7 +24,7 @@ furnică
 gălbează
 gândac
 gărgăriță
-gărgăun
+gărgăun_Hornet
 gâză
 goangă
 greiere
@@ -44,7 +45,7 @@ păianjen
 pepe
 ploșniță
 purice
-rădașcă
+rădașcă_StagBeetle
 râmă
 rățișoară
 scarab
@@ -59,6 +60,6 @@ taur
 termită
 țigărar
 trântor
-urechelniță
+urechelniță_Earwig
 viespar
-viespe
+viespe_Wasp
