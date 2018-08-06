@@ -19,6 +19,7 @@ Albuță
 Aldea
 Alecsandri
 Alecu
+Alexan
 Alexandrescu
 Almășan
 Alupoaei
@@ -223,6 +224,7 @@ Breban
 Briciu
 Brînza
 Briscan
+Brozbă
 Bruma
 Brumă
 Brumaru
@@ -280,6 +282,7 @@ Caciulă
 Căciulă
 Cacovean
 Cadiș
+Calimah
 Călin
 Călinescu
 Călugăr
@@ -447,6 +450,7 @@ Corbu
 Corda
 Corduneanu
 Corha
+Corlățeanu
 Cornea
 Corneanu
 Coroian
@@ -844,12 +848,14 @@ Jurcă
 Jurma
 Labiș
 Lăcătuș
+Lăcătușu
 Lăcustă
 Laic
 Lăpușan
 Lascăr
 Lascu
 Laslău
+Lătărețu
 Latcu
 Latiș
 Laza
@@ -989,6 +995,7 @@ Miron
 Mironescu
 Mîrza
 Mititean
+Mititiuc
 Mitran
 Mitrică
 Mițu
@@ -1147,6 +1154,7 @@ Pantea
 Pantiru
 Pantofaru
 Pap
+Papadopol
 Papară
 Parfene
 Paroș
@@ -1302,6 +1310,7 @@ Rebreanu
 Reliu
 Resmeriță
 Retegan
+Richițeanu
 Ripnu
 Riza
 Rizea
@@ -1356,8 +1365,10 @@ Sasu
 Sav
 Sava
 Savescu
+Săvescu
 Savianu
 Savu
+Săvulescu
 Scrob
 Scrobota
 Scurtu
@@ -1372,6 +1383,7 @@ Selejan
 Șerban
 Șerbănescu
 Sereiduc
+Șesan
 Sfechiș
 Sim
 Sima
@@ -1498,6 +1510,7 @@ Tismăneanu
 Titulescu
 Tivadar
 Toader
+Tocilescu
 Tocitu
 Tocut
 Todea
@@ -1660,6 +1673,7 @@ Zaiț
 Zaituc
 Zaițuc
 Zamfir
+Zamfirache
 Zamfirescu
 Zare
 Zăvoian

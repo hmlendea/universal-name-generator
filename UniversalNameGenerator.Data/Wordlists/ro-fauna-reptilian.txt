@@ -1,10 +1,13 @@
 aligator
 anacondă
-balaur
+balaur_BlotchedSnake
 bazilisc
 broască
+caiman_Caiman
 cameleon
+caret_HawksbillSeaTurtle
 crocodil
+cuculbău_melc # Transylvanian regionalism
 dinozaur
 dragon
 gavial
@@ -12,12 +15,11 @@ gușter
 iguană
 lipitoare
 melc_melc
-cuculbău_melc # Transylvanian regionalism
 năpârcă
-piton
+piton_Python
 salamandră
-șarpe
+șarpe_Snake
 șopârlă
-țestoasă
+țestoasă_Turtle
 varan
-viperă
+viperă_Viper
