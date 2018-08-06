@@ -56,6 +56,7 @@
     </Content>
     <Content Include="GenerationSchemas.xml">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <SubType>Designer</SubType>
     </Content>
     <Content Include="Wordlists\dacian-settlements.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
@@ -117,13 +118,25 @@
     <Content Include="Wordlists\ro-persons-surnames.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <Content Include="Wordlists\ro-settlements-cities-md.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
     <Content Include="Wordlists\ro-settlements-cities.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Wordlists\ro-settlements-communes-md.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
     <Content Include="Wordlists\ro-settlements-communes.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <Content Include="Wordlists\ro-settlements-towns-md.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
     <Content Include="Wordlists\ro-settlements-towns.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Wordlists\ro-settlements-villages-md.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
     <Content Include="Wordlists\rodah-persons-filters.txt">
