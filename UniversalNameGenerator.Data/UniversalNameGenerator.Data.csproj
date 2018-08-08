@@ -203,5 +203,10 @@
     </Content>
   </ItemGroup>
   <ItemGroup />
+  <ItemGroup>
+    <None Include="Wordlists\ro-settlements-villages.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
