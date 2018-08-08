@@ -51,12 +51,6 @@
 		<Schema>{markov,4,16,ro-plants}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
-		<Id>ro-settlements-random</Id>
-		<Name>Romanian settlement names generated randomly</Name>
-		<FilterlistPath>ro-settlements-filters</FilterlistPath>
-		<Schema>{randomiser,,4,24,ro-settlements-bases|ro-settlements-suffixes}</Schema>
-	</GenerationSchemaEntity>
-	<GenerationSchemaEntity>
 		<Id>ro-settlements</Id>
 		<Name>Romanian settlement names</Name>
 		<FilterlistPath>ro-settlements-filters</FilterlistPath>
