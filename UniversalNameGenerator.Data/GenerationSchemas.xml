@@ -147,6 +147,12 @@
 		<Schema>{markov,4,16,rodah-ships}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
+		<Id>rodah-persons-males</Id>
+		<Name>Rodah (Narivia) male person names</Name>
+		<FilterlistPath>rodah-persons-filters</FilterlistPath>
+		<Schema>{randomiser,,6,12,rodah-persons-males-bases|rodah-persons-males-endings}</Schema>
+	</GenerationSchemaEntity>
+	<GenerationSchemaEntity>
 		<Id>tes-ayleid-ruins</Id>
 		<Name>Ayleid ruin names</Name>
 		<Schema>{markov,4,16,tes-ayleid-ruins}</Schema>
