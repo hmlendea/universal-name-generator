@@ -246,6 +246,7 @@ Bufnea
 Buha
 Buhăescu
 Buhai
+Bujor
 Bulmez
 Bulzan
 Bulzean
@@ -726,6 +727,7 @@ Gordan
 Grădinariu
 Grădinaru
 Grasu
+Grâu
 Graur
 Grecu
 Grigoraș
@@ -741,6 +743,7 @@ Grozea
 Grozeanu
 Grozescu
 Gruia
+Gudulea
 Gușa
 Gușă
 Hădăreanu
