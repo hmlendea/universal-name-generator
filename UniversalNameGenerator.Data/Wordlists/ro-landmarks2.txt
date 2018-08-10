@@ -319,7 +319,7 @@ Cruțător_Sparing
 Cruțători_Sparing
 Cruzi_Harsh
 cu Bube_WithBoils
-cu Cicatrigi_WithScars
+cu Cicatrici_WithScars
 cu Cratere_WithCraters
 cu Cruci_WithCrosses
 cu Fantasme_WithGhost
@@ -779,6 +779,15 @@ Inundată_Flooded
 Inundate_Flooded
 Inundați_Flooded
 Invidiei_OfEnvy
+Iradiat_Irradiated
+Iradiată_Irradiated
+Iradiate_Irradiated
+Iradiați_Irradiated
+Ispitei_OfTemptation
+Ispitelor_OfTemptation
+Ispititoare_Tempting
+Ispititor_Tempting
+Ispititori_Tempting
 Iubirii_OfLove
 Izgoniților_OfTheBanished
 Izolat_Lonely
@@ -1606,6 +1615,8 @@ Temperat_Temperate
 Temperată_Temperate
 Temperate_Temperate
 Temperați_Temperate
+Tentării_OfTemptation
+Tentărilor_OfTemptation
 Terasat_Terraced
 Terasate_Terraced
 Terasați_Terraced

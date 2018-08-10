@@ -8,7 +8,7 @@
 .*a [.\p{L}]*[anoru]s
 .*a [.\p{L}]*[ar]b
 .*a [.\p{L}]*[ar]g
-.*a [.\p{L}]*[bcdglmnrstțvz]e
+.*a [.\p{L}]*[bcdglmnprsștțvz]e
 .*a [.\p{L}]*[bcghmnorștțvz]i
 .*a [.\p{L}]*[ein]d
 .*a [.\p{L}]*[iorș]u
@@ -28,8 +28,8 @@
 .*ii [.\p{L}]*[anoru]s
 .*ii [.\p{L}]*[ar]b
 .*ii [.\p{L}]*[ar]g
-.*ii [.\p{L}]*[bcdgilmnrstțvz]e
-.*ii [.\p{L}]*[bcdglmnprsștțuvz]ă
+.*ii [.\p{L}]*[bcdgilmnprsștțvz]e
+.*ii [.\p{L}]*[bcdgilmnprsștțuvz]ă
 .*ii [.\p{L}]*[ein]d
 .*ii [.\p{L}]*[iorș]u
 .*ii [.\p{L}]*[ir]m
@@ -48,7 +48,7 @@
 .*le [.\p{L}]*[anoru]s
 .*le [.\p{L}]*[ar]b
 .*le [.\p{L}]*[ar]g
-.*le [.\p{L}]*[bcdglmnprsștțuvz]ă
+.*le [.\p{L}]*[bcdgilmnprsștțuvz]ă
 .*le [.\p{L}]*[blmnorștțvz]i
 .*le [.\p{L}]*[cirv]e
 .*le [.\p{L}]*[ein]d
@@ -59,8 +59,8 @@
 .*le [.\p{L}]*eș
 .*le [.\p{L}]*uzi
 .*ul [.\p{L}]*[aâ]ți
-.*ul [.\p{L}]*[bcdgilmnrstțvz]e
-.*ul [.\p{L}]*[bcdglmnprsștțuvz]ă
+.*ul [.\p{L}]*[bcdgilmnprsștțvz]e
+.*ul [.\p{L}]*[bcdgilmnprsștțuvz]ă
 .*ul [.\p{L}]*[bcgilmnorștțvz]i
 .*ul [.\p{L}]*ce[ai] .*
 .*ul [.\p{L}]*cele .*

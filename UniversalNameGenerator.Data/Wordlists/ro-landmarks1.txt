@@ -229,6 +229,8 @@ Observatoarele_Observatory
 Observatorul_Observatory
 Oceanele_Ocean
 Oceanul_Ocean
+Ocna_Prison
+Ocnele_Prison
 Ogoarele_Field
 Ogorul_Field
 Pădurea_Forest
@@ -298,6 +300,8 @@ Sălbăticia_Wilderness
 Sălbăticiile_Wilderness
 Sălbăticiunea_Wilderness
 Sălbăticiunile_Wilderness
+Salina_Saline
+Salinele_Saline
 Sanctuarele_Sanctuary
 Sanctuarul_Sanctuary
 Șanțul_Ravine

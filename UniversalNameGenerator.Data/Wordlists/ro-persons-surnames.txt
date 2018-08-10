@@ -590,6 +590,7 @@ Drule
 Dubleșiu
 Ducă
 Dudău
+Dudric
 Duică
 Dulgheru
 Duma
@@ -710,6 +711,7 @@ Giureanu
 Giurescu
 Giurgiu
 Giurgiuveanu
+Gligor
 Gociu
 Godean
 Godeanu
@@ -825,6 +827,7 @@ Ioveanu
 Irimescu
 Isărescu
 Ispirescu
+Istoan
 Istrate
 Istrati
 Iuga
@@ -904,6 +907,7 @@ Macovciuc
 Macovei
 Macovescu
 Mădgearu
+Magdaș
 Maior
 Maiorescu
 Măjeri
@@ -988,6 +992,7 @@ Minea
 Mintău
 Minulescu
 Mînzat
+Mirălcean
 Mircea
 Mircescu
 Mirică
@@ -1251,12 +1256,14 @@ Popoviciu
 Poptean
 Porcar
 Porim
+Porumbel
 Porumbescu
 Porumboiu
 Potcovaru
 Potinteu
 Prahovean
 Prahoveanu
+Praporgescu
 Precup
 Preda
 Predoiu
