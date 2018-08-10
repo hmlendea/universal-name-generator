@@ -35,4 +35,5 @@ mușchi
 nerteră
 pristolnic
 spic
-trestie
+trestie_Phragmites
+stuf_Phragmites

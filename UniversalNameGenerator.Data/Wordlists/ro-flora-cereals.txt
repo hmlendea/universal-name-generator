@@ -1,29 +1,35 @@
-călambuc_corn
-Ciolomadă_corn
-cocenași_corn
-colibaș_corn
-cucoriță_corn
-cucuruz_corn # Transylvanian regionalism
-gârnișor_corn
-grâu_grâu
-hărană_rye
-hrișcă_buckwheat
-mălai_corn
-mălai_millet
-mei_millet
-orez_Rice
-rișcașă_Rice
-orz_barley
-ovăz_oat
-păpușă_corn
-păpușoi_corn # Regionalism
-păsat_millet
-păsrâng_millet
-porumb_corn
-salbă_rye
-secară_rye
-secărea_rye
-sorg_sorghum
-tătarcă_buckwheat
-tenchi_corn # Transylvanian regionalism
-triticală_triticale
+Alac_EinkornWheat
+Călambuc_Corn
+Ciolomadă_Corn
+Cocenaș_Corn
+Colibaș_Corn
+Cucoriță_Corn
+Cucuruz_Corn # Transylvanian regionalism
+Gârnișor_Corn
+Grâu_grâu
+Hărană_Rye
+Harșcă_Buckwheat
+Hirșcă_Buckwheat
+Hricică_Buckwheat
+Hrișcă_Buckwheat
+Mălai_Corn
+Mălai_Millet
+Mei_Millet
+Orez_Rice
+Orz_Barley
+Ovăz_oat
+Păpușă_Corn
+Păpușoi_Corn # Regionalism
+Părâng_Millet
+Păsat_Millet
+Păsrâng_Millet
+Porumb_Corn
+Rișcă_Buckwheat
+Rișcașă_Rice
+Salbă_Rye
+Secară_Rye
+Secărea_Rye
+Sorg_sorghum
+Tătarcă_Buckwheat
+Tenchi_Corn # Transylvanian regionalism
+Triticală_triticale
