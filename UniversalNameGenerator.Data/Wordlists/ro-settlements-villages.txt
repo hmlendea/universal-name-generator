@@ -1,16 +1,7 @@
-
-
-
-
-
-/
 1 Decembrie
 1 Decembrie
 23 August
 23 August
-&#91;1&#93; Măgurele
-[a]
-[a]
 Abram
 Abrămuț
 Abucea
@@ -72,7 +63,6 @@ Aita Mare
 Aita Medie
 Aita Seacă
 Aiton
-Ákosfalva
 Alămor
 Alba
 Alba
@@ -136,8 +126,8 @@ Alma
 Almăj
 Almăjel
 Almaș
+Almaș
 Almășel
-Almaș from Arad)
 Almaș-Săliște
 Almașu
 Almașu de Mijloc
@@ -149,7 +139,6 @@ Almașu Mic
 Almașu Mic de Munte
 Almașu Sec
 Alma Vii
-along with Lunca Narujei
 Alparea
 Alțâna
 Altringen
@@ -516,7 +505,7 @@ Bălești
 Bălești
 Bălești
 Bălești-Cătun
-Bâlhacu
+Bâlhaciu
 Bălilești
 Bălilești
 Bălinești
@@ -928,7 +917,6 @@ Beța
 Bețești
 Betfia
 Bethausen
-between km 47
 Beuca
 Beudiu
 Bezdead
@@ -1678,7 +1666,7 @@ Bunești
 Bunești
 Bunești
 Bungard
-Bungard - 382 inhabitants
+Bungard
 Bungețani
 Bungetu
 Bunghi
@@ -2493,7 +2481,7 @@ Ciorâca
 Cioranca
 Ciorani
 Cioranii de Jos
-Cioranii de Sus; the former is the administrative centre
+Cioranii de Sus
 Ciorari
 Ciorăști
 Ciorăști
@@ -3624,7 +3612,6 @@ Dioști
 Dipșa
 Dițești
 Ditrău
-Ditró
 Divici
 Diviciorii Mari
 Diviciorii Mici
@@ -4346,6 +4333,7 @@ Frumușița
 Fruntești
 Fruntișeni
 Frunza
+Frunzaru
 Frunzeasca
 Frunzeni
 Frunzeni
@@ -4353,7 +4341,7 @@ Fufez
 Fughiu
 Fulga
 Fulga de Jos
-Fulga de Sus; the former is the administrative centre
+Fulga de Sus
 Fulgeriș
 Fulgu
 Fumureni
@@ -4656,7 +4644,6 @@ Ghioroiu
 Ghioșani
 Ghipeș
 Ghirbom
-Ghirdoveni
 Ghireasca
 Ghireni
 Ghirișu Român
@@ -4685,6 +4672,7 @@ Gioseni
 Girișu de Criș
 Girișu Negru
 Giroc
+Girodoveni
 Girov
 Giubega
 Giuclani
@@ -4854,6 +4842,7 @@ Grădinari
 Grădinari
 Grădini
 Grădinile
+Gradiștea
 Grădiștea
 Grădiștea
 Grădiștea
@@ -4863,7 +4852,6 @@ Grădiștea
 Grădiștea
 Grădiștea de Munte
 Grădișteanca
-Gradiștea; the former is the administrative centre
 Grăjdana
 Grăjdeni
 Grajduri
@@ -5691,6 +5679,7 @@ Joița
 Jojei
 Joldești
 Joldișești
+Jolotca
 Jorăști
 Jorăști
 Josani
@@ -6025,7 +6014,6 @@ Luica
 Luieriu
 Luizi-Călugăra
 Lujerdiu
-Lukafalva
 Luminești
 Luminile
 Luminiș
@@ -6035,6 +6023,7 @@ Lumnic
 Luna
 Luna de Jos
 Luna de Sus
+Lunca
 Lunca
 Lunca
 Lunca
@@ -6092,6 +6081,7 @@ Lunca Meteșului
 Lunca Moldovei
 Lunca Mureșului
 Lunca Mureșului
+Lunca Narujei
 Luncani
 Luncani
 Luncani
@@ -6233,6 +6223,7 @@ Măgura-Toplița
 Măgurele
 Măgurele
 Măgurele
+Măgurele
 Măgureni
 Măgureni
 Măgureni
@@ -6246,6 +6237,7 @@ Măhăceni
 Măhal
 Mahmudia
 Mahriu
+Maia
 Maia
 Maia
 Maiad
@@ -6403,6 +6395,7 @@ Marcea
 Mărcești
 Mărcești
 Mărcești
+Mărculeni
 Mărculești
 Mărculești-Gară
 Mărcuș
@@ -6508,6 +6501,7 @@ Matița
 Mâtnicu Mare
 Mâtnicu Mic
 Matraca
+Mătrici
 Măureni
 Mavrodin
 Mavrodolu
@@ -6808,7 +6802,7 @@ Mogoșești
 Mogoșești
 Mogoșești-Siret
 Mogoșoaia
-Mohu - 543 inhabitants
+Mohu
 Moi
 Moiad
 Moieciu de Jos
@@ -7197,7 +7191,7 @@ Nucșoara de Sus
 Nucu
 Nufăru
 Nușeni
-Nușfalău; Boghiș
+Nușfalău
 Nuțeni
 Oancea
 Oancea
@@ -7321,7 +7315,7 @@ Olari
 Olari
 Olari
 Olari
-Olari from Arad)
+Olari
 Olarii Vechi
 Olariu
 Olcea
@@ -7944,6 +7938,7 @@ Plai
 Plai
 Plai
 Plăieșii de Jos
+Plăieșii de Sus
 Plăiești
 Plăieșu
 Plăiețu
@@ -8992,7 +8987,7 @@ Rozalvea
 Rubla
 Rucăr
 Rucăr
-Rucăreni; the former is the commune centre
+Rucăreni
 Ruda
 Ruda
 Rudari
@@ -9126,10 +9121,10 @@ Saelele
 Șaeș
 Săftica
 Sâg
+Șag
 Săgagea
 Săgeata
 Sagna
-Șag; Parța village broke off as a separate commune in 2004
 Șagu
 Sahastru
 Săhăteni
@@ -9256,6 +9251,7 @@ Sângeru
 Sângeru de Pădure
 Sâniacob
 Sâniacob
+Sâniob
 Sanislău
 Sânișor
 Sânlazăr
@@ -9487,6 +9483,7 @@ Satu Nou
 Satu Nou
 Satu Nou
 Satu Nou
+Satu Nou
 Satu Nou de Jos
 Satu Vechi
 Șauaieu
@@ -9653,7 +9650,7 @@ Segleț
 Seleuș
 Seleuș
 Seleuș
-Șelimbăr - 2859 inhabitants
+Șelimbăr
 Seliștat
 Seliște
 Seliștea
@@ -9725,6 +9722,7 @@ Sfăraș
 Sfârcea
 Sfârcea
 Sfârleanca
+Sfârnaș
 Sfințești
 Sfiștofca
 Sfoartea
@@ -9745,7 +9743,7 @@ Sici
 Șiclod
 Sicoiești
 Sicrita
-Șicula from Arad)
+Șicula
 Siculeni
 Șieu
 Șieu
@@ -9840,7 +9838,7 @@ Sipeni
 Sirețel
 Siretu
 Siretu
-Șiria from Arad)
+Șiria
 Șirioara
 Șirlău
 Șirna
@@ -10193,7 +10191,7 @@ Stignița
 Știnăpari
 Știoborăni
 Știrbăț
-Știrbești
+Știrbești
 Ștircovița
 Știubei
 Știubei
@@ -10210,7 +10208,7 @@ Stoenești
 Stoenești
 Stoenești
 Stoenești
-Stoenești; the last is the administrative centre
+Stoenești
 Stoiana
 Stoicănești
 Stoicănești
@@ -10408,9 +10406,9 @@ Sutești
 Șuțești
 Sutoru
 Șutu
+Suveica
 Șuvița
 Svinița
-Székelybere
 Tăbăcari
 Tabaci
 Tăbălăiești
@@ -10646,6 +10644,7 @@ Teliucu Superior
 Temelia
 Temeșești
 Tencănău
+Țengheler
 Țentea
 Teodorești
 Țepa
@@ -10738,6 +10737,7 @@ Tioltiur
 Tireac
 Tiream
 Tireu
+Tirimia
 Tirimioara
 Țirioi
 Tirișneag
@@ -10851,8 +10851,6 @@ Totea
 Totea de Hurezani
 Totești
 Toțești
-to the southeast of Sâniob
-to the south of Sâniob
 Totia
 Totoești
 Totoi
@@ -11110,6 +11108,7 @@ Urechești
 Urechești
 Urechești
 Urechești
+Uria
 Uric
 Uricani
 Uricari
@@ -11477,7 +11476,7 @@ Valea Nucarilor
 Valea Nucului
 Valea Oanei
 Valea Oilor
-Valea Oprii; the administrative centre is Cornu de Jos
+Valea Oprii
 Valea Orevița
 Valea Orlei
 Valea Pădurii
@@ -11633,11 +11632,13 @@ Văleni
 Văleni
 Văleni-Dâmbovița
 Vălenii
+Vălenii
 Vălenii de Mureș
 Vălenii Lăpușului
 Văleni-Podgoria
 Văleni-Stânișoara
 Vălioara
+Vălișoara
 Vălișoara
 Vălișoara
 Vălișoara
@@ -11789,7 +11790,7 @@ Verveghiu
 Veseud
 Veseud
 Veseuș
-Veștem - 1483 inhabitants
+Veștem
 Vețca
 Vețel
 Vețelu
@@ -12040,8 +12041,6 @@ Vulturu
 Vurpăr
 Vurpăr
 Vutcani
-which are located along the county road DJ 546
-with a population of 1
 Zăbalț
 Zaboloteni
 Zăbrani
@@ -12081,6 +12080,7 @@ Zănogi
 Zănou
 Zânzești
 Zăplazi
+Zăpodea
 Zăpodea
 Zăpodeni
 Zăpodia
