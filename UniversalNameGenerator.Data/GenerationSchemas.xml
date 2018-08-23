@@ -132,6 +132,12 @@
 		<Schema>{randomiser, ,4,32,latin-pronomen-females|latin-nomen|latin-cognomen-females}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
+		<Id>latin-settlements</Id>
+		<Name>Latin settlement names (all periods)</Name>
+		<FilterlistPath>latin-settlements</FilterlistPath>
+		<Schema>{markov,4,16,latin-settlements}</Schema>
+	</GenerationSchemaEntity>
+	<GenerationSchemaEntity>
 		<Id>letian-settlements</Id>
 		<Name>Letian (Narivia) settlements</Name>
 		<Schema>{markov,4,16,letian-settlements}</Schema>
