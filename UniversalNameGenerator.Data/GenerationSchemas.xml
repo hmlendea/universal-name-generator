@@ -135,7 +135,7 @@
 		<Id>latin-settlements</Id>
 		<Name>Latin settlement names (all periods)</Name>
 		<FilterlistPath>latin-settlements</FilterlistPath>
-		<Schema>{markov,4,16,latin-settlements}</Schema>
+		<Schema>{markov,4,11,latin-settlements}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
 		<Id>letian-settlements</Id>
