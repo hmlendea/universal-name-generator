@@ -34,7 +34,7 @@ namespace UniversalNameGenerator.Menus
 
             schemas.ForEach(schema => AddCommand(schema.Id,
                                                  schema.Name,
-                                                 delegate { GenerateNames(schema, 40); }));
+                                                 delegate { GenerateNames(schema, 60); }));
         }
 
         void GenerateNames(GenerationSchema schema, int amount)
