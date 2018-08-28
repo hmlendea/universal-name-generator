@@ -265,6 +265,8 @@ Plaja_Beach
 Platoul_Plateu
 Poarta_Gate
 Podișul_Plateau
+Podul_Bridge
+Podurile_Bridge
 Poiana_Glade
 Poienile_Glade
 Popasul_Pass
@@ -280,6 +282,8 @@ Punctul_Point
 Pustietatea_Wasteland
 Puțul_Pit
 Puțurile_Pit
+Răscrucea_Crossroad
+Răscrucile_Crossroad
 Râul_River
 Râurile_River
 Refugiile_Refuge

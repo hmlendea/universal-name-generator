@@ -219,6 +219,8 @@ Călugăriței_OfTheMonk
 Călugărului_OfTheMonk
 Calzi_Warm
 Cântecelor_OfSongs
+Catastrofei_OfCatastrophy
+Catastrofelor_OfCatastrophy
 Cavernoasă_Cavernous
 Cavernoase_Cavernous
 Cavernos_Cavernous
@@ -249,6 +251,8 @@ Chinuite_Tormented
 Chinuiți_Tormented
 Chinului_OfTorment
 Chinurilor_OfTorment
+Ciumei_OfThePlague
+Ciumelor_OfThePlague
 Cleioasă_Sticky
 Cleioase_Sticky
 Cleios_Sticky
@@ -300,6 +304,8 @@ Crestați_Jagged
 Creț_Curly
 Crețe_Curly
 Creți_Curly
+Crimei_OfCrime
+Crimelor_OfCrime
 Cristalin_Crystaline
 Cristalină_Crystaline
 Cristaline_Crystaline
@@ -381,6 +387,7 @@ de Mijloc_Central
 de Nisip_OfSand
 de Nord_Northern
 de Oțel_OfSteel
+de Piatră_OfStone
 de Platină_OfPlatinum
 de Plumb_OfLead
 de Răsărit_Western
@@ -394,10 +401,16 @@ Decimat_Decimated
 Decimată_Decimated
 Decimate_Decimated
 Decimați_Decimated
+Defăimat_Naught
+Defăimată_Naught
+Defăimate_Naught
+Defăimați_Naught
 Deformat_Deformed
 Deformată_Deformed
 Deformate_Deformed
 Deformați_Deformed
+Delictelor_OfDelict
+Delictului_OfDelict
 Demenței_OfDementia
 Demnității_OfDignity
 Demonic_Demonic
@@ -416,6 +429,12 @@ Deschise_Open
 Deschiși_Open
 Destinelor_OfFate
 Destinului_OfFate
+Dezastrelor_OfDisaster
+Dezastrului_OfDisaster
+Dezastruoasă_Disastrous
+Dezastruoase_Disastrous
+Dezastruos_Disastrous
+Dezastruoși_Disastrous
 Diabolic_Evil
 Diabolică_Evil
 Diabolice_Evil
@@ -473,7 +492,9 @@ Enorm_Enormous
 Enormă_Enormous
 Enorme_Enormous
 Enormi_Enormous
-Eroilor_OfTheHeroes
+Eroilor_OfTheHero
+Eroinelor_OfTheHero
+Eroului_OfTheHero
 Estic_Eastern
 Estică_Eastern
 Estice_Eastern
@@ -871,6 +892,7 @@ Măreț_Mighty
 Mărețe_Mighty
 Măreți_Mighty
 Mari_Big
+Măriei_OfMary
 Masiv_Massive
 Masivă_Massive
 Masive_Massive
@@ -955,6 +977,8 @@ Nămoloasă_Muddy
 Nămoloase_Muddy
 Nămolos_Muddy
 Nămoloși_Muddy
+Năpastei_OfBlight
+Năpastelor_OfBlight
 Năruit_Ruined
 Năruită_Ruined
 Năruite_Ruined
@@ -1092,6 +1116,8 @@ Occidentală_Western
 Occidentale_Western
 Occidentali_Western
 Odihnii_OfRest
+Ofensei_OfOffence
+Ofenselor_OfOffence
 Ofilit_Withered
 Ofilită_Withered
 Ofilite_Withered
@@ -1149,6 +1175,7 @@ Părăsit_Abandoned
 Părăsită_Abandoned
 Părăsite_Abandoned
 Părăsiți_Abandoned
+Paraziților_OfParasites
 Pasiunii_OfPassion
 Pasiunilor_OfPassion
 Pașnic_Peaceful
@@ -1256,6 +1283,8 @@ Profanat_Profaned
 Profanată_Profaned
 Profanate_Profaned
 Profanați_Profaned
+Profeților_OfTheProphet
+Profetului_OfTheProphet
 Pustie_Empty
 Pustii_Empty
 Pustiu_Empty
@@ -1595,6 +1624,8 @@ Suspicioși_Suspicious
 Suspinelor_OfSigh
 Suspinului_OfSigh
 Tăcerii_OfSilence
+Tăciunii_OfBlight
+Tăciunilor_OfBlight
 Tăcut_Quiet
 Tăcută_Quiet
 Tăcute_Quiet
@@ -1645,6 +1676,8 @@ Toxic_Toxic
 Toxică_Toxic
 Toxice_Toxic
 Toxici_Toxic
+Trădătorilor_OfTheTraitor
+Trădătorului_OfTheTraitor
 Trist_Sorrow
 Tristă_Sorrow
 Triste_Sorrow
@@ -1671,6 +1704,9 @@ Turtite_Flattened
 Turtiți_Flattened
 Ucenicilor_OfTheDisciple
 Ucenicului_OfTheDisciple
+Ucigătoare_Killer
+Ucigător_Killer
+Ucigători_Killer
 Uitat_Forgotten
 Uitată_Forgotten
 Uitate_Forgotten
