@@ -190,6 +190,7 @@ Boldijar
 Boldureanu
 Boloca
 Bolojan
+Bolojan
 Bolovăneanu
 Bolovănescu
 Bonaciu
@@ -914,6 +915,7 @@ Jora
 Judea
 Judean
 Jugaru
+Jula
 Jurcă
 Jurma
 Labiș
@@ -1697,6 +1699,7 @@ Turcanu
 Turcaș
 Turcescu
 Turcu
+Turdean
 Turian
 Țurțure
 Țuțea
