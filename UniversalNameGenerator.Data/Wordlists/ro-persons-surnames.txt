@@ -93,6 +93,7 @@ Baltagă
 Ban
 Bănceu
 Banciu
+Bancu
 Bănică
 Bănulescu
 Banuț
@@ -102,6 +103,7 @@ Barbu
 Barbulescu
 Bărceanu
 Barițiu
+Bârla
 Bârladeanu
 Bârlădeanu
 Barnuțiu
@@ -146,6 +148,7 @@ Bieșu
 Bihoreanu
 Bilescu
 Birău
+Biriș
 Bîrladeanu
 Birșan
 Bîrsan
@@ -189,7 +192,6 @@ Bolboacă
 Boldijar
 Boldureanu
 Boloca
-Bolojan
 Bolojan
 Bolovăneanu
 Bolovănescu
@@ -271,6 +273,7 @@ Bumbescu
 Bumbu
 Bunău
 Bunea
+Bungețeanu
 Burcă
 Burciu
 Buric
@@ -341,6 +344,7 @@ Căstăian
 Catana
 Cataraga
 Catargiu
+Câțescu
 Cătinean
 Cazac
 Cazacu
@@ -417,6 +421,7 @@ Cîrjan
 Cîrlova
 Cîrpar
 Cîrstea
+Cîțescu
 Ciubotaru
 Ciufudean
 Ciuhat
@@ -434,7 +439,6 @@ Cizmaru
 Clapa
 Cloanda
 Coandă
-Coca
 Coca
 Cocan
 Cocean
@@ -545,6 +549,7 @@ Cucea
 Cucereanu
 Cucicea
 Cuciureanu
+Cucoș
 Cucuieț
 Cuibuș
 Culgheru
@@ -696,6 +701,7 @@ Fogaș
 Fotache
 Frătean
 Frățilă
+Frigea
 Frumos
 Frumușanu
 Frunză
@@ -800,6 +806,7 @@ Grozescu
 Gruia
 Gudulea
 Gujel
+Gunescu
 Gușa
 Gușă
 Hadarca
@@ -911,6 +918,7 @@ Jianu
 Jilieru
 Jinga
 Jitariu
+Jitea
 Jora
 Judea
 Judean
@@ -1196,6 +1204,7 @@ Niță
 Nițulescu
 Noica
 Nuțu
+Oană
 Oancea
 Oarga
 Oatu
@@ -1306,6 +1315,7 @@ Petruțiu
 Piciu
 Picoș
 Piersic
+Pilca
 Pincu
 Pinte
 Pintea
@@ -1363,7 +1373,9 @@ Porumboiu
 Postică
 Potângă
 Potcovaru
+Poteraș
 Potinteu
+Potop
 Prahovean
 Prahoveanu
 Praporgescu
@@ -1401,6 +1413,7 @@ Răceanu
 Racheru
 Răcilă
 Racoviță
+Racu
 Rădăcanu
 Rădăuțeanu
 Rădeanu
@@ -1434,7 +1447,6 @@ Rogojan
 Roman
 Român
 Romanciuc
-Romanescu
 Romanescu
 Românescu
 Romanu
@@ -1490,6 +1502,7 @@ Săvescu
 Savianu
 Savu
 Săvulescu
+Scărlătescu
 Scrob
 Scrobota
 Scurtu
@@ -1505,6 +1518,7 @@ Selejan
 Șerbănescu
 Sereiduc
 Șesan
+Sfecheș
 Sfechiș
 Sim
 Sima
@@ -1513,6 +1527,7 @@ Similea
 Simion
 Simionescu
 Simula
+Sindile
 Sirca
 Sircă
 Sitaru
@@ -1588,7 +1603,6 @@ Sturza
 Sturzoiu
 Subțirică
 Suceveanu
-Suceveanu
 Suciu
 Surdu
 Șutu
@@ -1612,6 +1626,7 @@ Tăriceanu
 Tărîță
 Târnăvan
 Târnăvean
+Tărniceru
 Tătar
 Tătăran
 Tătăranu
@@ -1765,6 +1780,7 @@ Vereș
 Vermeșan
 Verziu
 Vesa
+Veștea
 Vianu
 Vidican
 Vidrean
