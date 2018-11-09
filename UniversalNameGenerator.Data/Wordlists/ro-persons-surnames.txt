@@ -75,6 +75,7 @@ Baicu
 Baieș
 Băieșu
 Baiu
+Băjănaru
 Bălăceanu
 Bălan
 Bălănean
@@ -221,6 +222,7 @@ Bourescu
 Bracaciu
 Brad
 Bradea
+Brădișteanu
 Brăileanu
 Brăncescu
 Brâncoveanu
@@ -319,6 +321,7 @@ Candale
 Cândea
 Cantemir
 Căpraru
+Cărăbăț
 Caraciobanu
 Caragiale
 Cărăian
@@ -536,6 +539,7 @@ Cretu
 Crețu
 Crișan
 Crișanu
+Crîșmaru
 Cristea
 Cristescu
 Cristoiu
@@ -1144,6 +1148,7 @@ Murescu
 Murgu
 Mușat
 Muscă
+Muscaș
 Mutu
 Muzicescu
 Napău
@@ -1408,6 +1413,7 @@ Purdea
 Puscaș
 Pușcaș
 Pușcașu
+Puțaru
 Putină
 Răceanu
 Racheru
@@ -1444,6 +1450,7 @@ Ripnu
 Riza
 Rizea
 Rogojan
+Rohan
 Roman
 Român
 Romanciuc
@@ -1482,6 +1489,7 @@ Sălcudeanu
 Sână
 Sânc
 Șandor
+Șandru
 Sandu
 Sandulescu
 Săndulescu
