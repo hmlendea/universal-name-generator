@@ -7,8 +7,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UniversalNameGenerator", "U
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UniversalNameGenerator.BusinessLogic", "UniversalNameGenerator.BusinessLogic\UniversalNameGenerator.BusinessLogic.csproj", "{0C403B66-CA7B-4224-BD45-DDF2D227034A}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UniversalNameGenerator.Data", "UniversalNameGenerator.Data\UniversalNameGenerator.Data.csproj", "{D306C91F-6B1C-48E2-9E55-563B308186FD}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UniversalNameGenerator.DataAccess", "UniversalNameGenerator.DataAccess\UniversalNameGenerator.DataAccess.csproj", "{6ED6C557-FFDC-4F42-9527-259A4B94B7AF}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UniversalNameGenerator.Models", "UniversalNameGenerator.Models\UniversalNameGenerator.Models.csproj", "{69850EC2-36CB-40D2-8E03-F0FEE0934544}"
@@ -29,10 +27,6 @@ Global
 		{0C403B66-CA7B-4224-BD45-DDF2D227034A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C403B66-CA7B-4224-BD45-DDF2D227034A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C403B66-CA7B-4224-BD45-DDF2D227034A}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D306C91F-6B1C-48E2-9E55-563B308186FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D306C91F-6B1C-48E2-9E55-563B308186FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D306C91F-6B1C-48E2-9E55-563B308186FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D306C91F-6B1C-48E2-9E55-563B308186FD}.Release|Any CPU.Build.0 = Release|Any CPU
 		{6ED6C557-FFDC-4F42-9527-259A4B94B7AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{6ED6C557-FFDC-4F42-9527-259A4B94B7AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6ED6C557-FFDC-4F42-9527-259A4B94B7AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
