@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using System.Linq;
 
+using NuciCLI.Menus;
+
 using UniversalNameGenerator.BusinessLogic.GenerationManagers;
 using UniversalNameGenerator.BusinessLogic.GenerationManagers.Interfaces;
 using UniversalNameGenerator.Models;
