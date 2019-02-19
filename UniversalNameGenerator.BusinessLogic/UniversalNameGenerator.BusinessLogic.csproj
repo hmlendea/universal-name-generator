@@ -1,61 +1,20 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
   <PropertyGroup>
-    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
-    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{3468438A-0187-4B1B-B6B1-AEA4B46EB9A8}</ProjectGuid>
     <OutputType>Library</OutputType>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
     <RootNamespace>UniversalNameGenerator.BusinessLogic</RootNamespace>
-    <AssemblyName>UniversalNameGenerator.BusinessLogic</AssemblyName>
-    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <ApplicationIcon />
+    <StartupObject />
   </PropertyGroup>
-  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
-    <DebugSymbols>true</DebugSymbols>
-    <DebugType>full</DebugType>
-    <Optimize>false</Optimize>
-    <OutputPath>bin\Debug</OutputPath>
-    <DefineConstants>DEBUG;</DefineConstants>
-    <ErrorReport>prompt</ErrorReport>
-    <WarningLevel>4</WarningLevel>
-    <ConsolePause>false</ConsolePause>
-  </PropertyGroup>
-  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
-    <Optimize>true</Optimize>
-    <OutputPath>bin\Release</OutputPath>
-    <ErrorReport>prompt</ErrorReport>
-    <WarningLevel>4</WarningLevel>
-    <ConsolePause>false</ConsolePause>
-  </PropertyGroup>
+
   <ItemGroup>
-    <Reference Include="System" />
+    <Folder Include="Properties\" />
   </ItemGroup>
+
   <ItemGroup>
-    <Compile Include="GenerationManagers\GenerationSchemaManager.cs" />
-    <Compile Include="GenerationManagers\GeneratorManager.cs" />
-    <Compile Include="Mapping\WordMappingExtensions.cs" />
-    <Compile Include="NameGenerators\NameGenerator.cs" />
-    <Compile Include="NameGenerators\Interfaces\INameGenerator.cs" />
-    <Compile Include="NameGenerators\Markov\MarkovNameGenerator.cs" />
-    <Compile Include="NameGenerators\Markov\MarkovModel.cs" />
-    <Compile Include="GenerationManagers\Interfaces\IGeneratorSchemaManager.cs" />
-    <Compile Include="GenerationManagers\Interfaces\IGeneratorManager.cs" />
-    <Compile Include="Mapping\GenerationSchemaMappingExtensions.cs" />
-    <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="NameGenerators\Randomiser\RandomiserNameGenerator.cs" />
+    <ProjectReference Include="..\UniversalNameGenerator.DataAccess\UniversalNameGenerator.DataAccess.csproj" />
+    <ProjectReference Include="..\UniversalNameGenerator.Models\UniversalNameGenerator.Models.csproj" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\UniversalNameGenerator.Models\UniversalNameGenerator.Models.csproj">
-      <Project>{01277AB4-A301-4F24-B35B-AE6713454565}</Project>
-      <Name>UniversalNameGenerator.Models</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\UniversalNameGenerator.DataAccess\UniversalNameGenerator.DataAccess.csproj">
-      <Project>{C2B5FFB4-AED7-450B-B9EF-41C52E25AEEE}</Project>
-      <Name>UniversalNameGenerator.DataAccess</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\UniversalNameGenerator.Infrastructure\UniversalNameGenerator.Common.csproj">
-      <Project>{93A84833-5B4B-4272-AA8A-B55D24CBEFEB}</Project>
-      <Name>UniversalNameGenerator.Common</Name>
-    </ProjectReference>
-  </ItemGroup>
-  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+
 </Project>
