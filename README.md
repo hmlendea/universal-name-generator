@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/hmlendea/universal-name-generator.svg?branch=master)](https://travis-ci.com/hmlendea/universal-name-generator)
+
 # About
 This is a simple tool that generates names based on word lists, grouped by categories and by language.
 
