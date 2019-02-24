@@ -1,5 +1,4 @@
 Adela
-Adela
 Adelina
 Adina
 Adriana
@@ -30,9 +29,11 @@ Carina
 Carla
 Carmen
 Cătălina
+Catinca
 Catița
 Clara
 Claudia
+Codrina
 Codruța
 Constanța
 Corina
@@ -101,6 +102,7 @@ Lisa
 Livia
 Loredana
 Lorena
+Lucia
 Luciana
 Lucreția
 Luiza
