@@ -154,6 +154,7 @@ Bîrladeanu
 Birșan
 Bîrsan
 Birtocean
+Biru
 Bistrian
 Bizgan
 Blaga
@@ -208,6 +209,7 @@ Borilă
 Boroi
 Borșan
 Borza
+Borzan
 Boșca
 Boșcodeală
 Boșîntă
@@ -407,6 +409,7 @@ Cioclea
 Cioculescu
 Ciolacu
 Cionca
+Ciontescu
 Ciora
 Cioran
 Ciorbă
@@ -426,6 +429,7 @@ Cîrpar
 Cîrstea
 Cîțescu
 Ciubotaru
+Ciucă
 Ciufudean
 Ciuhat
 Ciulei
@@ -451,6 +455,7 @@ Cociș
 Cocoreanu
 Cocoș
 Codarcea
+Codoban
 Codrea
 Codreanca
 Codreanu
@@ -467,6 +472,7 @@ Colta
 Coman
 Comăneci
 Comănescu
+Comiza
 Constandache
 Constănțeanu
 Constantin
@@ -729,6 +735,7 @@ Gâlcă
 Gale
 Galea
 Galoș
+Gândac
 Ganea
 Ganga
 Gârneț
@@ -767,6 +774,8 @@ Ghiu
 Ghiurea
 Gigină
 Gilăuan
+Gîndac
+Gînsari
 Gioșan
 Giurean
 Giureanu
@@ -794,6 +803,7 @@ Grasu
 Grâu
 Graur
 Grecu
+Gref
 Gribincea
 Grigoraș
 Grigoreanu
@@ -1015,6 +1025,7 @@ Marchiș
 Marcovici
 Marcu
 Marculescu
+Mărcuș
 Marga
 Margea
 Mărgelaru
@@ -1123,6 +1134,7 @@ Morariu
 Moraru
 Morcoșan
 Morgovan
+Mornea
 Morosan
 Moroșan
 Moroșanu
@@ -1133,6 +1145,7 @@ Moț
 Movilă
 Movileanu
 Mudrea
+Mugea
 Mugurescu
 Muntea
 Muntean
@@ -1609,6 +1622,7 @@ Stroe
 Stupariu
 Sturza
 Sturzoiu
+Șuba
 Subțirică
 Suceveanu
 Suciu
@@ -1654,6 +1668,7 @@ Teodor
 Teodorescu
 Teodoru
 Testemițianu
+Teșu
 Tibrea
 Țică
 Tighineanu
@@ -1727,6 +1742,7 @@ Turian
 Țurțure
 Țuțea
 Tutilescu
+Țuțuianu
 Udiștean
 Udișteanu
 Udrea
