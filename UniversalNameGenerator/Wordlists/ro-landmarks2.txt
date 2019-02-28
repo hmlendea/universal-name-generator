@@ -50,6 +50,14 @@ Afurisit_Damned
 Afurisită_Damned
 Afurisite_Damned
 Afurisiți_Damned
+Alb_White
+Albă_White
+Albastră_Blue
+Albastre_Blue
+Albaștrii_Blue
+Albastru_Blue
+Albe_White
+Albi_White
 Alungaților_OfTheBanished
 Amar_Bitter
 Amară_Bitter
@@ -218,6 +226,10 @@ Călugărilor_OfTheMonk
 Călugăriței_OfTheMonk
 Călugărului_OfTheMonk
 Calzi_Warm
+Canceroasă_Cancerous
+Canceroase_Cancerous
+Canceros_Cancerous
+Canceroși_Cancerous
 Cântecelor_OfSongs
 Catastrofei_OfCatastrophy
 Catastrofelor_OfCatastrophy
@@ -245,12 +257,20 @@ Cețoasă_Misty
 Cețoase_Misty
 Cețos_Misty
 Cețoși_Misty
+Cheală_Bald
+Chel_Bald
+Chele_Bald
+Cheli_Bald
 Chinuit_Tormented
 Chinuită_Tormented
 Chinuite_Tormented
 Chinuiți_Tormented
 Chinului_OfTorment
 Chinurilor_OfTorment
+Circular_Circular
+Circulară_Circular
+Circulare_Circular
+Circulari_Circular
 Ciumei_OfThePlague
 Ciumelor_OfThePlague
 Cleioasă_Sticky
@@ -270,6 +290,14 @@ Colosal_Colossal
 Colosală_Colossal
 Colosale_Colossal
 Colosali_Colossal
+Colțoasă_Fangy
+Colțoase_Fangy
+Colțos_Fangy
+Colțoși_Fangy
+Colțuroasă_Edgy
+Colțuroase_Edgy
+Colțuros_Edgy
+Colțuroși_Edgy
 Confuziei_OfConfusion
 Confuziilor_OfConfusion
 Coroanei_OfTheCrown
@@ -371,6 +399,7 @@ de Calciu_OfCalcium
 de Capăt_AtTheBorder
 de Căpătâi_TheFirst
 de Cenușă_OfAsh
+de Cherestea_OfTimber
 de Cotitură_Curved
 de Cupru_OfCopper
 de Est_Eastern
@@ -552,6 +581,10 @@ Fisurat_Cracked
 Fisurată_Cracked
 Fisurate_Cracked
 Fisurați_Cracked
+Flămând_Hungry
+Flămânde_Hungry
+Flămânzi_Hungry
+Flănândă_Hungry
 Focului_OfFire
 Fosilifer_WithFossils
 Fosiliferă_WithFossils
@@ -609,6 +642,7 @@ Gigantic_Gigantic
 Gigantica_Gigantic
 Gigantice_Gigantic
 Gigantici_Gigantic
+Gloriei_OfGlory
 Glorioasă_Glorious
 Glorioase_Glorious
 Glorios_Glorious
@@ -623,6 +657,7 @@ Grandios_Grand
 Grandioși_Grand
 Grănicer_AtTheBorder
 Grăniceră_AtTheBorder
+Gri_Gray
 Groazei_OfFear
 Groaznic_Fearful
 Groaznică_Fearful
@@ -734,9 +769,16 @@ Infernală_Infernal
 Infernale_Infernal
 Infernali_Infernal
 Infinitului_OfInfinity
+Înfometat_Hungry
+Înfometate_Hungry
+Înfometați_Hungry
 Înfricoșătoare_Scary
 Înfricoșător_Scary
 Înfricoșători_Scary
+Îngenuncheat_Kneeling
+Îngenuncheată_Kneeling
+Îngenuncheate_Kneeling
+Îngenuncheați_Kneeling
 Îngeresc_OfTheAngel
 Îngerești_OfTheAngel
 Îngerilor_OfTheAngel
@@ -757,6 +799,14 @@ Infinitului_OfInfinity
 Înguste_Thin
 Înguști_Thin
 Inimii_OfTheHeart
+Înlăcrimat_Tearful
+Înlăcrimată_Tearful
+Înlăcrimate_Tearful
+Înlăcrimați_Tearful
+Înrobit_Enslaved
+Înrobită_Enslaved
+Înrobite_Enslaved
+Înrobiți_Enslaved
 Însângerat_Bloody
 Însângerată_Bloody
 Însângerate_Bloody
@@ -800,6 +850,9 @@ Inundată_Flooded
 Inundate_Flooded
 Inundați_Flooded
 Invidiei_OfEnvy
+Învolburat_Whirling
+Învolburată_Whirling
+Învolburate_Whirling
 Iradiat_Irradiated
 Iradiată_Irradiated
 Iradiate_Irradiated
@@ -810,6 +863,7 @@ Ispititoare_Tempting
 Ispititor_Tempting
 Ispititori_Tempting
 Iubirii_OfLove
+Izbândei_OfVictory
 Izgoniților_OfTheBanished
 Izolat_Lonely
 Izolată_Lonely
@@ -832,6 +886,10 @@ Lată_Wide
 Late_Wide
 Lați_Wide
 Legământului_OfTheCovenant
+Lemnoasă_Woody
+Lemnoase_Woody
+Lemnos_Woody
+Lemnoși_Woody
 Liber_Free
 Liberă_Free
 Libere_Free
@@ -919,6 +977,7 @@ Mici_Small
 Mijlocie_Central
 Mijlocii_Central
 Mijlociu_Central
+Minciunii_OfLies
 Minciunilor_OfLies
 Minunat_Wonder
 Minunată_Wonder
@@ -1234,6 +1293,9 @@ Plină_Full
 Pline_Full
 Plini_Full
 Popii_Preist
+Portocalie_Orange
+Portocalii_Orange
+Portocaliu_Orange
 Poruncilor_OfCommands
 Potolit_Calm
 Potolită_Calm
@@ -1373,6 +1435,9 @@ Robust_Sturdy
 Robustă_Sturdy
 Robuste_Sturdy
 Robuști_Sturdy
+Roditoare_Fruitful
+Roditor_Fruitful
+Roditori_Fruitful
 Roial_Royal
 Roială_Royal
 Roiale_Royal
@@ -1533,6 +1598,11 @@ Soroase_Sunny
 Soros_Sunny
 Soroși_Sunny
 Sorții_OfFate
+Spân_Bald
+Spână_Bald
+Spâne_Bald
+Spâni_Bald
+Spânului_OfTheBaldMan
 Spânzuraților_OfTheHangedMan
 Spânzuratului_OfTheHangedMan
 Spart_Shattered
@@ -1796,6 +1866,7 @@ Vestică_Western
 Vestice_Western
 Viciilor_OfVice
 Viciului_OfVice
+Victoriei_OfVictory
 Vie_Alive
 Viforatic_Stormy
 Viforatică_Stormy
@@ -1813,6 +1884,10 @@ Violentă_Violent
 Violente_Violent
 Violenței_OfViolence
 Violenți_Violent
+Violet_Violet
+Violetă_Violet
+Violete_Violet
+Violeți_Violet
 Virgin_Virgin
 Virgină_Virgin
 Virgine_Virgin
