@@ -5,9 +5,9 @@
 .*a [.\p{L}]*[aeio]l
 .*a [.\p{L}]*[aeou]r
 .*a [.\p{L}]*[ai]v
+.*a [.\p{L}]*[air]g
 .*a [.\p{L}]*[anoru]s
 .*a [.\p{L}]*[ar]b
-.*a [.\p{L}]*[ar]g
 .*a [.\p{L}]*[bcdglmnprsștțvz]e
 .*a [.\p{L}]*[bcghmnorștțvz]i
 .*a [.\p{L}]*[ein]d
@@ -25,11 +25,11 @@
 .*ii [.\p{L}]*[aeio]l
 .*ii [.\p{L}]*[aeu]r
 .*ii [.\p{L}]*[ai]v
+.*ii [.\p{L}]*[air]g
 .*ii [.\p{L}]*[anoru]s
 .*ii [.\p{L}]*[ar]b
-.*ii [.\p{L}]*[ar]g
-.*ii [.\p{L}]*[bcdgilmnprsștțvz]e
 .*ii [.\p{L}]*[bcdgilmnprsștțuvz]ă
+.*ii [.\p{L}]*[bcdgilmnprsștțvz]e
 .*ii [.\p{L}]*[ein]d
 .*ii [.\p{L}]*[iorș]u
 .*ii [.\p{L}]*[ir]m
@@ -45,9 +45,9 @@
 .*le [.\p{L}]*[aeio]l
 .*le [.\p{L}]*[aeu]r
 .*le [.\p{L}]*[ai]v
+.*le [.\p{L}]*[air]g
 .*le [.\p{L}]*[anoru]s
 .*le [.\p{L}]*[ar]b
-.*le [.\p{L}]*[ar]g
 .*le [.\p{L}]*[bcdgilmnprsștțuvz]ă
 .*le [.\p{L}]*[blmnorștțvz]i
 .*le [.\p{L}]*[cirv]e
@@ -59,8 +59,8 @@
 .*le [.\p{L}]*eș
 .*le [.\p{L}]*uzi
 .*ul [.\p{L}]*[aâ]ți
-.*ul [.\p{L}]*[bcdgilmnprsștțvz]e
 .*ul [.\p{L}]*[bcdgilmnprsștțuvz]ă
+.*ul [.\p{L}]*[bcdgilmnprsștțvz]e
 .*ul [.\p{L}]*[bcgilmnorștțvz]i
 .*ul [.\p{L}]*ce[ai] .*
 .*ul [.\p{L}]*cele .*
