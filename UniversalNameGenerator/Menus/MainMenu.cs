@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
+using NuciCLI;
 using NuciCLI.Menus;
 
 using UniversalNameGenerator.BusinessLogic.GenerationManagers;
@@ -23,9 +24,9 @@ namespace UniversalNameGenerator.Menus
         /// <summary>
         /// Initializes a new instance of the <see cref="MainMenu"/> class.
         /// </summary>
-        public MainMenu()
+        public MainMenu() : base("Universal Name Generator")
         {
-            Title = "Universal Name Generator";
+            AreStatisticsEnabled = true;
 
             schemaManager = new GeneratorSchemaManager();
             generator = new GeneratorManager();
@@ -71,15 +72,15 @@ namespace UniversalNameGenerator.Menus
                         cellValue = results[index];
                     }
 
-                    Console.Write(cellValue.PadRight(maxLength, ' '));
+                    NuciConsole.Write(cellValue.PadRight(maxLength, ' '));
 
                     if (x < cols - 1)
                     {
-                        Console.Write(ColumnSeparator);
+                        NuciConsole.Write(ColumnSeparator);
                     }
                 }
 
-                Console.WriteLine();
+                NuciConsole.WriteLine();
             }
         }
     }
