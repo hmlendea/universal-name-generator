@@ -1,7 +1,7 @@
 Abisul_Chasm
 Adâncitura_Recess
 Adânciturile_Recess
-Adăpost_Shelter
+Adăpostul_Shelter
 Adăposturile_Shelter
 Aleea_Path
 Aleile_Path
@@ -360,8 +360,8 @@ Stânca_Rock
 Stâncile_Rock
 Suprafața_Area
 Suprafețele_Area
-Sălaș_Dwelling
 Sălașele_Dwelling
+Sălașul_Dwelling
 Sălbăticia_Wilderness
 Sălbăticiile_Wilderness
 Sălbăticiunea_Wilderness
