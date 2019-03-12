@@ -3,12 +3,13 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 
+using NuciExtensions;
+
 using UniversalNameGenerator.BusinessLogic.GenerationManagers.Interfaces;
 using UniversalNameGenerator.BusinessLogic.Mapping;
 using UniversalNameGenerator.BusinessLogic.NameGenerators.Interfaces;
 using UniversalNameGenerator.BusinessLogic.NameGenerators.Markov;
 using UniversalNameGenerator.BusinessLogic.NameGenerators.Randomiser;
-using UniversalNameGenerator.Common.Extensions;
 using UniversalNameGenerator.DataAccess.Repositories;
 using UniversalNameGenerator.DataAccess.Repositories.Interfaces;
 using UniversalNameGenerator.Models;
@@ -98,11 +99,11 @@ namespace UniversalNameGenerator.BusinessLogic.GenerationManagers
                         break;
 
                     case WordCasing.Title:
-                        name = name.ToTitle();
+                        name = name.ToTitleCase();
                         break;
 
                     case WordCasing.Sentence:
-                        name = name.ToSentence();
+                        name = name.ToSentanceCase();
                         break;
                 }
 

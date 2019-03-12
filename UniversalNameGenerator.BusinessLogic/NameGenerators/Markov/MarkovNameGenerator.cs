@@ -1,7 +1,8 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
 
-using UniversalNameGenerator.Common.Extensions;
+using NuciExtensions;
+
 using UniversalNameGenerator.Models;
 
 namespace UniversalNameGenerator.BusinessLogic.NameGenerators.Markov

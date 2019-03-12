@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-using UniversalNameGenerator.Common.Extensions;
+using NuciExtensions;
 
 namespace UniversalNameGenerator.BusinessLogic.NameGenerators.Markov
 {
@@ -30,7 +30,7 @@ namespace UniversalNameGenerator.BusinessLogic.NameGenerators.Markov
 
         public string Generate(string context)
         {
-            List<float> chain = chains.Get(context);
+            List<float> chain = chains.TryGetValue(context);
 
             if (chain == null)
             {
@@ -54,7 +54,7 @@ namespace UniversalNameGenerator.BusinessLogic.NameGenerators.Markov
                 {
                     string key = d.Substring(i, order);
 
-                    List<string> value = observations.Get(key);
+                    List<string> value = observations.TryGetValue(key);
 
                     if (value == null)
                     {
@@ -82,7 +82,7 @@ namespace UniversalNameGenerator.BusinessLogic.NameGenerators.Markov
             {
                 foreach (string prediction in alphabet)
                 {
-                    List<float> value = chains.Get(context);
+                    List<float> value = chains.TryGetValue(context);
 
                     if (value == null)
                     {

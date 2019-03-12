@@ -13,8 +13,11 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\UniversalNameGenerator.Common\UniversalNameGenerator.Common.csproj" />
     <ProjectReference Include="..\UniversalNameGenerator.Models\UniversalNameGenerator.Models.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="NuciExtensions" Version="1.1.1" />
   </ItemGroup>
 
 </Project>
