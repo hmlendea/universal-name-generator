@@ -1,6 +1,7 @@
 ﻿using System.Collections.Generic;
 
-using UniversalNameGenerator.Common.Extensions;
+using NuciExtensions;
+
 using UniversalNameGenerator.Models;
 
 namespace UniversalNameGenerator.BusinessLogic.NameGenerators.Randomiser
