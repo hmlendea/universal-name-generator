@@ -18,7 +18,7 @@ namespace UniversalNameGenerator.BusinessLogic.NameGenerators.Randomiser
         /// </summary>
         /// <param name="separator">Separator.</param>
         /// <param name="wordlists">Word lists.</param>
-        public RandomiserNameGenerator(string separator, List<List<Word>> wordlists)
+        public RandomiserNameGenerator(string separator, List<Wordlist> wordlists)
             : base (wordlists)
         {
             Wordlists = wordlists;
