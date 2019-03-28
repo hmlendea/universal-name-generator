@@ -61,7 +61,7 @@ namespace UniversalNameGenerator.BusinessLogic.NameGenerators.Interfaces
         /// Gets the word lists.
         /// </summary>
         /// <value>The word lists.</value>
-        List<List<Word>> Wordlists { get; }
+        List<Wordlist> Wordlists { get; }
         
         /// <summary>
         /// Generates names.

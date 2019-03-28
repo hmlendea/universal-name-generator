@@ -18,11 +18,11 @@ namespace UniversalNameGenerator.BusinessLogic.NameGenerators.Markov
         List<MarkovModel> models;
         
         public MarkovNameGenerator(List<Word> data, int order, float prior)
-            : this(new List<List<Word>> { data }, order, prior)
+            : this(new List<Wordlist> { new Wordlist(data) }, order, prior)
         {
         }
 
-        public MarkovNameGenerator(List<List<Word>> data, int order, float prior)
+        public MarkovNameGenerator(List<Wordlist> data, int order, float prior)
             : base(data)
         {
             List<Word> mergedDataLists = data.SelectMany(x => x).ToList();

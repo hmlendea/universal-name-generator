@@ -10,6 +10,7 @@ using UniversalNameGenerator.BusinessLogic.Mapping;
 using UniversalNameGenerator.BusinessLogic.NameGenerators.Interfaces;
 using UniversalNameGenerator.BusinessLogic.NameGenerators.Markov;
 using UniversalNameGenerator.BusinessLogic.NameGenerators.Randomiser;
+using UniversalNameGenerator.DataAccess;
 using UniversalNameGenerator.DataAccess.Repositories;
 using UniversalNameGenerator.DataAccess.Repositories.Interfaces;
 using UniversalNameGenerator.Models;
@@ -88,29 +89,37 @@ namespace UniversalNameGenerator.BusinessLogic.GenerationManagers
 
                 z.ForEach(x => name += x[i]);
 
-                switch(casing)
-                {
-                    case WordCasing.Lower:
-                        name = name.ToLower();
-                        break;
-
-                    case WordCasing.Upper:
-                        name = name.ToUpper();
-                        break;
-
-                    case WordCasing.Title:
-                        name = name.ToTitleCase();
-                        break;
-
-                    case WordCasing.Sentence:
-                        name = name.ToSentanceCase();
-                        break;
-                }
-
+                name = GetNameWithCasing(name, casing);
                 names.Add(name);
             }
 
             return names;
+        }
+
+        string GetNameWithCasing(string name, WordCasing casing)
+        {
+            string newName = name;
+
+            switch(casing)
+            {
+                case WordCasing.Lower:
+                    newName = name.ToLower();
+                    break;
+
+                case WordCasing.Upper:
+                    newName = name.ToUpper();
+                    break;
+
+                case WordCasing.Title:
+                    newName = name.ToTitleCase();
+                    break;
+
+                case WordCasing.Sentence:
+                    newName = name.ToSentanceCase();
+                    break;
+            }
+
+            return newName;
         }
 
         /// <summary>
@@ -147,17 +156,7 @@ namespace UniversalNameGenerator.BusinessLogic.GenerationManagers
             int maxLength = int.Parse(split[3]);
             List<string> wordlistKeys = split[4].Split('|').ToList();
 
-            List<List<Word>> wordlists = new List<List<Word>>();
-
-            foreach (string wordlistId in wordlistKeys)
-            {
-                string filePath = Path.Combine("Wordlists", wordlistId + ".txt");
-
-                IWordRepository wordRepository = new WordRepository(filePath);
-                List<Word> wordlist = wordRepository.GetAll().ToDomainModels().ToList();
-
-                wordlists.Add(wordlist);
-            }
+            List<Wordlist> wordlists = GetWordLists(wordlistKeys);
 
             INameGenerator generator;
 
@@ -185,17 +184,7 @@ namespace UniversalNameGenerator.BusinessLogic.GenerationManagers
             int maxLength = int.Parse(split[2]);
             List<string> wordlistKeys = split[3].Split('|').ToList();
 
-            List<List<Word>> wordlists = new List<List<Word>>();
-
-            foreach (string wordlistId in wordlistKeys)
-            {
-                string filePath = Path.Combine("Wordlists", wordlistId + ".txt");
-
-                IWordRepository wordRepository = new WordRepository(filePath);
-                List<Word> wordlist = wordRepository.GetAll().ToDomainModels().ToList();
-
-                wordlists.Add(wordlist);
-            }
+            List<Wordlist> wordlists = GetWordLists(wordlistKeys);
 
             INameGenerator generator;
 
@@ -215,6 +204,25 @@ namespace UniversalNameGenerator.BusinessLogic.GenerationManagers
             }
 
             return generator.Generate(amount);
+        }
+
+        List<Wordlist> GetWordLists(List<string> wordlistKeys)
+        {
+            List<Wordlist> wordlists = new List<Wordlist>();
+
+            foreach (string wordlistId in wordlistKeys)
+            {
+                string filePath = Path.Combine(ApplicationPaths.WordlistsDirectory, $"{wordlistId}.txt");
+                
+                IWordRepository wordRepository = new WordRepository(filePath);
+
+                IEnumerable<Word> words = wordRepository.GetAll().ToDomainModels();
+                Wordlist wordlist = new Wordlist(words);
+
+                wordlists.Add(wordlist);
+            }
+
+            return wordlists;
         }
     }
 }

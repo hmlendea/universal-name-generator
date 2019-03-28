@@ -60,7 +60,7 @@ namespace UniversalNameGenerator.BusinessLogic.NameGenerators
         /// <value>The used words.</value>
         public List<string> GeneratedWords { get; protected set; }
 
-        public List<List<Word>> Wordlists { get; protected set; }
+        public List<Wordlist> Wordlists { get; protected set; }
 
         protected readonly Random random;
 
@@ -68,7 +68,7 @@ namespace UniversalNameGenerator.BusinessLogic.NameGenerators
         /// Initializes a new instance of the <see cref="NameGenerator"/> class.
         /// </summary>
         /// <param name="wordlists">Word lists.</param>
-        protected NameGenerator(List<List<Word>> wordlists)
+        protected NameGenerator(List<Wordlist> wordlists)
         {
             MinNameLength = 5;
             MaxNameLength = 10;
