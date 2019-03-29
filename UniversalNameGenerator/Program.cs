@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Text;
 
+using NuciCLI.Menus;
+
 using UniversalNameGenerator.Menus;
 
 namespace UniversalNameGenerator
@@ -34,9 +36,7 @@ namespace UniversalNameGenerator
         public static void Main(string[] args)
         {
             Console.OutputEncoding = Encoding.UTF8;
-
-            MainMenu mainMenu = new MainMenu();
-            mainMenu.Run();
+            MenuManager.Instance.OpenMenu<MainMenu>();
         }
     }
 }
