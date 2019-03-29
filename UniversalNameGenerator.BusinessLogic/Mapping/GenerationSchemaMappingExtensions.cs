@@ -24,6 +24,7 @@ namespace UniversalNameGenerator.BusinessLogic.Mapping
             {
                 Id = generationSchemaEntity.Id,
                 Name = generationSchemaEntity.Name,
+                Category = generationSchemaEntity.Category,
                 Schema = generationSchemaEntity.Schema,
                 FilterlistPath = generationSchemaEntity.FilterlistPath,
                 WordCasing = (WordCasing)Enum.Parse(typeof(WordCasing), generationSchemaEntity.WordCasing),
@@ -43,6 +44,7 @@ namespace UniversalNameGenerator.BusinessLogic.Mapping
             {
                 Id = generationSchema.Id,
                 Name = generationSchema.Name,
+                Category = generationSchema.Category,
                 Schema = generationSchema.Schema,
                 FilterlistPath = generationSchema.FilterlistPath,
                 WordCasing = generationSchema.WordCasing.ToString()

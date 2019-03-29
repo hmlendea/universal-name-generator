@@ -17,6 +17,12 @@ namespace UniversalNameGenerator.DataAccess.DataObjects
         public string Name { get; set; }
 
         /// <summary>
+        /// Gets or sets the category.
+        /// </summary>
+        /// <value>The category.</value>
+        public string Category { get; set; }
+
+        /// <summary>
         /// Gets or sets the generation schema.
         /// </summary>
         /// <value>The generation schema.</value>

@@ -4,6 +4,7 @@ using System.Linq;
 
 using NuciCLI;
 using NuciCLI.Menus;
+using NuciExtensions;
 
 using UniversalNameGenerator.BusinessLogic.GenerationManagers;
 using UniversalNameGenerator.BusinessLogic.GenerationManagers.Interfaces;
@@ -16,10 +17,7 @@ namespace UniversalNameGenerator.Menus
     /// </summary>
     public class MainMenu : Menu
     {
-        const string ColumnSeparator = " | ";
-
         IGeneratorSchemaManager schemaManager;
-        IGeneratorManager generator;
 
         /// <summary>
         /// Initializes a new instance of the <see cref="MainMenu"/> class.
@@ -29,58 +27,21 @@ namespace UniversalNameGenerator.Menus
             AreStatisticsEnabled = true;
 
             schemaManager = new GeneratorSchemaManager();
-            generator = new GeneratorManager();
 
-            List<GenerationSchema> schemas = schemaManager.GetAll()
-                                                          .OrderBy(s => s.Id)
-                                                          .ToList();
-
-            schemas.ForEach(schema => AddCommand(schema.Id,
-                                                 schema.Name,
-                                                 delegate { GenerateNames(schema, 60); }));
-        }
-
-        void GenerateNames(GenerationSchema schema, int amount)
-        {
-            List<string> names = generator.GenerateNames(schema.Schema, amount, schema.FilterlistPath, schema.WordCasing).ToList();
-
-            PrintResultsTable(names);
-        }
-
-        void PrintResultsTable(List<string> results)
-        {
-            int maxLength = results.Max(x => x.Length);
-            int cols = Console.BufferWidth / (maxLength + ColumnSeparator.Length);
-
-            if (cols > results.Count)
+            IEnumerable<string> categories = schemaManager
+                .GetAll()
+                .Select(x => x.Category)
+                .Distinct()
+                .Where(x => !string.IsNullOrWhiteSpace(x))
+                .OrderBy(x => x);
+            
+            foreach (string category in categories)
             {
-                cols = results.Count;
-            }
-
-            int rows = (results.Count - 1) / cols + 1;
-
-            for (int y = 0; y < rows; y++)
-            {
-                for (int x = 0; x < cols; x++)
-                {
-                    int index = x + cols * y;
-
-                    string cellValue = string.Empty;
-
-                    if (index < results.Count)
-                    {
-                        cellValue = results[index];
-                    }
-
-                    NuciConsole.Write(cellValue.PadRight(maxLength, ' '));
-
-                    if (x < cols - 1)
-                    {
-                        NuciConsole.Write(ColumnSeparator);
-                    }
-                }
-
-                NuciConsole.WriteLine();
+                Action action = delegate { MenuManager.Instance.OpenMenu<CategoryMenu>(category); };
+                string id = $"{category.ToLowerSnakeCase().Replace('_', '-')}-names";
+                string description = $"Generate {category} names";
+                
+                AddCommand(id, description, action);
             }
         }
     }
