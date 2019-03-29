@@ -26,6 +26,12 @@ namespace UniversalNameGenerator.Models
         public string Name { get; set; }
 
         /// <summary>
+        /// Gets or sets the category.
+        /// </summary>
+        /// <value>The category.</value>
+        public string Category { get; set; }
+
+        /// <summary>
         /// Gets or sets the generation schema.
         /// </summary>
         /// <value>The generation schema.</value>
@@ -45,12 +51,6 @@ namespace UniversalNameGenerator.Models
             WordCasing = WordCasing.Sentence;
         }
 
-        /// <summary>
-        /// Determines whether the specified <see cref="GenerationSchema"/> is equal to the current <see cref="GenerationSchema"/>.
-        /// </summary>
-        /// <param name="other">The <see cref="GenerationSchema"/> to compare with the current <see cref="GenerationSchema"/>.</param>
-        /// <returns><c>true</c> if the specified <see cref=GenerationSchema"/> is equal to the current
-        /// <see cref="GenerationSchema"/>; otherwise, <c>false</c>.</returns>
         public bool Equals(GenerationSchema other)
         {
             if (ReferenceEquals(null, other))
