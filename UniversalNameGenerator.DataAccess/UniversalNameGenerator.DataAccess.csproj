@@ -17,6 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <PackageReference Include="NuciDAL" Version="1.0.0" />
     <PackageReference Include="NuciExtensions" Version="1.2.1" />
   </ItemGroup>
 
