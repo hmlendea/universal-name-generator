@@ -1,15 +1,10 @@
-﻿using NuciExtensions;
+﻿using NuciDAL.DataObjects;
+using NuciExtensions;
 
 namespace UniversalNameGenerator.DataAccess.DataObjects
 {
-    public class GenerationSchemaEntity
+    public class GenerationSchemaEntity : EntityBase
     {
-        /// <summary>
-        /// Gets or sets the identifier.
-        /// </summary>
-        /// <value>The identifier.</value>
-        public string Id { get; set; }
-
         /// <summary>
         /// Gets or sets the name.
         /// </summary>
