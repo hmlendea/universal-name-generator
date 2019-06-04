@@ -190,4 +190,18 @@
 		<Category>Ayleid</Category>
 		<Schema>{markov,4,16,tes-ayleid-ruins}</Schema>
 	</GenerationSchemaEntity>
+	<GenerationSchemaEntity>
+		<Id>hu-persons-male</Id>
+		<Name>Hungarian male persons</Name>
+		<Category>Hungarian</Category>
+		<FilterlistPath>uh-persons-filters</FilterlistPath>
+		<Schema>{randomiser, ,4,32,hu-persons-males|hu-persons-surnames}</Schema>
+	</GenerationSchemaEntity>
+	<GenerationSchemaEntity>
+		<Id>hu-persons-female</Id>
+		<Name>Hungarian female persons</Name>
+		<Category>Hungarian</Category>
+		<FilterlistPath>hu-persons-filters</FilterlistPath>
+		<Schema>{randomiser, ,4,32,hu-persons-females|hu-persons-surnames}</Schema>
+	</GenerationSchemaEntity>
 </ArrayOfGenerationSchemaEntity>
