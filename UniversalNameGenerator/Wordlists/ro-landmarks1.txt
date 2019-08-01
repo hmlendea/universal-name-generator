@@ -38,6 +38,8 @@ Bolta_Arch
 Boltele_Arch
 Braniștea_ForestReserve
 Braniștile_ForestReserve
+Breșa_Ravine
+Breșele_Ravine
 Buricul_Pit
 Căile_Path
 Căldarea_Vulcan
@@ -215,8 +217,8 @@ Limanul_Shore
 Litoralul_Shore
 Livada_Forest
 Livezile_Forest
-Locaș_Dwelling
 Locașele_Dwelling
+Locașul_Dwelling
 Locul_Place
 Locurile_Place
 Luminișul_Clearing
@@ -308,6 +310,8 @@ Punctul_Point
 Pustietatea_Wasteland
 Puțul_Pit
 Puțurile_Pit
+Râpa_Ravine
+Râpele_Ravine
 Răsadnița_Shelter
 Răsadnițele_Shelter
 Răscrucea_Crossroad
@@ -376,6 +380,7 @@ Stepele_Steppe
 Strâmtoarea_Strait
 Strâmtorile_Strait
 Strunga_Ravine
+Strungile_Ravine
 Suprafața_Area
 Suprafețele_Area
 Tabăra_Camp
@@ -426,6 +431,8 @@ Vârful_Summit
 Vârfurile_Summit
 Vestigiile_Vestige
 Vestigiul_Vestige
+Viroaga_Ravine
+Viroagele_Ravine
 Vizuina_Burrow
 Vizuinele_Burrow
 Vulcanii_Volcano
