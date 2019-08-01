@@ -7,6 +7,7 @@ barabulă_Potato # Transylvanian regionalism
 bob
 bostan_dovleac
 brocoli
+brozbă_Beta
 burac_Beta
 cacalambă_kohlrabi
 calarabă_kohlrabi
@@ -51,7 +52,6 @@ pepene
 praz
 revent
 ridiche
-brozbă_Beta
 ripă_Beta
 roșie
 rubarbă

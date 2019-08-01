@@ -1,4 +1,6 @@
-.*a [.\p{L}]*Vii
+.*a [.\p{L}]*[aâ]ți
+.*a [.\p{L}]*[aâilnprsu]t
+.*a [.\p{L}]*[aâior]n
 .*a [.\p{L}]*[aeins]c
 .*a [.\p{L}]*[aeio]l
 .*a [.\p{L}]*[aeou]r
@@ -6,9 +8,6 @@
 .*a [.\p{L}]*[air]g
 .*a [.\p{L}]*[anoru]s
 .*a [.\p{L}]*[ar]b
-.*a [.\p{L}]*[aâ]ți
-.*a [.\p{L}]*[aâilnprsu]t
-.*a [.\p{L}]*[aâior]n
 .*a [.\p{L}]*[bcdglmnprsștțvz]e
 .*a [.\p{L}]*[bcghmnorștțvz]i
 .*a [.\p{L}]*[ein]d
@@ -20,6 +19,9 @@
 .*a [.\p{L}]*eș
 .*a [.\p{L}]*lb
 .*a [.\p{L}]*stii
+.*a [.\p{L}]*Vii
+.*ii [.\p{L}]*[aâilnprsu]t
+.*ii [.\p{L}]*[aâior]n
 .*ii [.\p{L}]*[aeins]c
 .*ii [.\p{L}]*[aeio]l
 .*ii [.\p{L}]*[aeu]r
@@ -27,8 +29,6 @@
 .*ii [.\p{L}]*[air]g
 .*ii [.\p{L}]*[anoru]s
 .*ii [.\p{L}]*[ar]b
-.*ii [.\p{L}]*[aâilnprsu]t
-.*ii [.\p{L}]*[aâior]n
 .*ii [.\p{L}]*[bcdgilmnprsștțuvz]ă
 .*ii [.\p{L}]*[bcdgilmnprsștțvz]e
 .*ii [.\p{L}]*[ein]d
@@ -40,6 +40,9 @@
 .*ii [.\p{L}]*eș
 .*ii [.\p{L}]*lb
 .*ii [.\p{L}]*uzi
+.*le [.\p{L}]*[aâ]ți
+.*le [.\p{L}]*[aâilnprsu]t
+.*le [.\p{L}]*[aâior]n
 .*le [.\p{L}]*[aeins]c
 .*le [.\p{L}]*[aeio]l
 .*le [.\p{L}]*[aeu]r
@@ -47,9 +50,6 @@
 .*le [.\p{L}]*[air]g
 .*le [.\p{L}]*[anoru]s
 .*le [.\p{L}]*[ar]b
-.*le [.\p{L}]*[aâ]ți
-.*le [.\p{L}]*[aâilnprsu]t
-.*le [.\p{L}]*[aâior]n
 .*le [.\p{L}]*[bcdgilmnprsștțuvz]ă
 .*le [.\p{L}]*[blmnorștțvz]i
 .*le [.\p{L}]*[cirv]e
