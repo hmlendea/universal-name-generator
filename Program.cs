@@ -36,7 +36,9 @@ namespace UniversalNameGenerator
         public static void Main(string[] args)
         {
             Console.OutputEncoding = Encoding.UTF8;
-            MenuManager.Instance.OpenMenu<MainMenu>();
+
+            MenuManager.Instance.AreStatisticsEnabled = true;
+            MenuManager.Instance.Start<MainMenu>();
         }
     }
 }
