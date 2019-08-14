@@ -26,8 +26,6 @@ namespace UniversalNameGenerator.Menus
         /// </summary>
         public CategoryMenu(string category) : base($"{category} name generators")
         {
-            AreStatisticsEnabled = true;
-
             schemaManager = new GeneratorSchemaManager();
             generator = new GeneratorManager();
 
