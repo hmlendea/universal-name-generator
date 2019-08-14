@@ -13,11 +13,8 @@
   <ItemGroup>
     <PackageReference Include="NuciCLI" Version="1.2.0" />
     <PackageReference Include="NuciCLI.Menus" Version="1.2.3" />
+    <PackageReference Include="NuciDAL" Version="1.0.0" />
     <PackageReference Include="NuciExtensions" Version="1.2.2" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <ProjectReference Include="..\UniversalNameGenerator.BusinessLogic\UniversalNameGenerator.BusinessLogic.csproj" />
   </ItemGroup>
 
   <ItemGroup>
