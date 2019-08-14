@@ -1,8 +1,4 @@
-﻿using System.Collections.Generic;
-using System.Linq;
-
-using NuciDAL.IO;
-using NuciDAL.Repositories;
+﻿using NuciDAL.Repositories;
 
 using UniversalNameGenerator.DataAccess.DataObjects;
 using UniversalNameGenerator.DataAccess.Repositories.Interfaces;
