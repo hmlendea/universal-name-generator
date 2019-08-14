@@ -3,7 +3,6 @@
 using UniversalNameGenerator.DataAccess.Repositories;
 using UniversalNameGenerator.DataAccess.Repositories.Interfaces;
 using UniversalNameGenerator.Models;
-using UniversalNameGenerator.Service.GenerationManagers;
 using UniversalNameGenerator.Service.Mapping;
 
 namespace UniversalNameGenerator.Service.GenerationManagers

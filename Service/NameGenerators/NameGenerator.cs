@@ -4,7 +4,6 @@ using System.Linq;
 using System.Text.RegularExpressions;
 
 using UniversalNameGenerator.Models;
-using UniversalNameGenerator.Service.NameGenerators;
 
 namespace UniversalNameGenerator.Service.NameGenerators
 {
