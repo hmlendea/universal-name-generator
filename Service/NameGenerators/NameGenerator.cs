@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text.RegularExpressions;
 
-using UniversalNameGenerator.BusinessLogic.NameGenerators.Interfaces;
 using UniversalNameGenerator.Models;
+using UniversalNameGenerator.Service.NameGenerators;
 
-namespace UniversalNameGenerator.BusinessLogic.NameGenerators
+namespace UniversalNameGenerator.Service.NameGenerators
 {
     public abstract class NameGenerator : INameGenerator
     {

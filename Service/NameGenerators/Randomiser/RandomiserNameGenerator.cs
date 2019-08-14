@@ -4,7 +4,7 @@ using NuciExtensions;
 
 using UniversalNameGenerator.Models;
 
-namespace UniversalNameGenerator.BusinessLogic.NameGenerators.Randomiser
+namespace UniversalNameGenerator.Service.NameGenerators.Randomiser
 {
     /// <summary>
     /// Random name generator that mixes words from different lists

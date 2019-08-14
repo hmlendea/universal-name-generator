@@ -5,7 +5,7 @@ using NuciExtensions;
 
 using UniversalNameGenerator.Models;
 
-namespace UniversalNameGenerator.BusinessLogic.NameGenerators.Markov
+namespace UniversalNameGenerator.Service.NameGenerators.Markov
 {
     public class MarkovNameGenerator : NameGenerator
     {
