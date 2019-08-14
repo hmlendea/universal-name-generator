@@ -24,8 +24,6 @@ namespace UniversalNameGenerator.Menus
         /// </summary>
         public MainMenu() : base("Universal Name Generator")
         {
-            AreStatisticsEnabled = true;
-
             schemaManager = new GeneratorSchemaManager();
 
             IEnumerable<string> categories = schemaManager
