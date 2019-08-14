@@ -3,9 +3,11 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 
+using NuciDAL.Repositories;
 using NuciExtensions;
 
 using UniversalNameGenerator.DataAccess;
+using UniversalNameGenerator.DataAccess.DataObjects;
 using UniversalNameGenerator.DataAccess.Repositories;
 using UniversalNameGenerator.DataAccess.Repositories.Interfaces;
 using UniversalNameGenerator.Models;
@@ -15,17 +17,21 @@ using UniversalNameGenerator.Service.NameGenerators;
 using UniversalNameGenerator.Service.NameGenerators.Markov;
 using UniversalNameGenerator.Service.NameGenerators.Randomiser;
 
-namespace UniversalNameGenerator.Service.GenerationManagers
+namespace UniversalNameGenerator.Service
 {
-    public class GeneratorManager : IGeneratorManager
+    public class NameGeneratorService : INameGeneratorService
     {
         Random random;
 
         Dictionary<string, INameGenerator> generators;
 
-        public GeneratorManager()
+        readonly IRepository<GenerationSchemaEntity> schemaRepository;
+
+        public NameGeneratorService()
         {
             generators = new Dictionary<string, INameGenerator>();
+
+            this.schemaRepository = new XmlRepository<GenerationSchemaEntity>("GenerationSchemas.xml");
         }
 
         public IEnumerable<string> GenerateNames(string schema, int amount, string filterlist, WordCasing casing)
@@ -93,6 +99,11 @@ namespace UniversalNameGenerator.Service.GenerationManagers
             }
 
             return names;
+        }
+
+        public IEnumerable<GenerationSchema> GetSchemas()
+        {
+            return schemaRepository.GetAll().ToDomainModels();
         }
 
         string GetNameWithCasing(string name, WordCasing casing)

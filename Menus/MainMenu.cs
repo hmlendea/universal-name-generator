@@ -5,7 +5,7 @@ using System.Linq;
 using NuciCLI.Menus;
 using NuciExtensions;
 
-using UniversalNameGenerator.Service.GenerationManagers;
+using UniversalNameGenerator.Service;
 
 namespace UniversalNameGenerator.Menus
 {
@@ -14,17 +14,17 @@ namespace UniversalNameGenerator.Menus
     /// </summary>
     public class MainMenu : Menu
     {
-        IGeneratorSchemaManager schemaManager;
+        readonly INameGeneratorService nameGenerator;
 
         /// <summary>
         /// Initializes a new instance of the <see cref="MainMenu"/> class.
         /// </summary>
         public MainMenu() : base("Universal Name Generator")
         {
-            schemaManager = new GeneratorSchemaManager();
+            nameGenerator = new NameGeneratorService();
 
-            IEnumerable<string> categories = schemaManager
-                .GetAll()
+            IEnumerable<string> categories = nameGenerator
+                .GetSchemas()
                 .Select(x => x.Category)
                 .Distinct()
                 .Where(x => !string.IsNullOrWhiteSpace(x))

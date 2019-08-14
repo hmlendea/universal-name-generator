@@ -6,7 +6,7 @@ using NuciCLI;
 using NuciCLI.Menus;
 
 using UniversalNameGenerator.Models;
-using UniversalNameGenerator.Service.GenerationManagers;
+using UniversalNameGenerator.Service;
 
 namespace UniversalNameGenerator.Menus
 {
@@ -17,19 +17,17 @@ namespace UniversalNameGenerator.Menus
     {
         const string ColumnSeparator = " | ";
 
-        IGeneratorSchemaManager schemaManager;
-        IGeneratorManager generator;
+        readonly INameGeneratorService nameGenerator;
 
         /// <summary>
         /// Initializes a new instance of the <see cref="MainMenu"/> class.
         /// </summary>
         public CategoryMenu(string category) : base($"{category} name generators")
         {
-            schemaManager = new GeneratorSchemaManager();
-            generator = new GeneratorManager();
+            nameGenerator = new NameGeneratorService();
 
-            IEnumerable<GenerationSchema> schemas = schemaManager
-                .GetAll()
+            IEnumerable<GenerationSchema> schemas = nameGenerator
+                .GetSchemas()
                 .Where(s => s.Category == category)
                 .OrderBy(s => s.Id);
 
@@ -42,7 +40,7 @@ namespace UniversalNameGenerator.Menus
 
         void GenerateNames(GenerationSchema schema, int amount)
         {
-            List<string> names = generator.GenerateNames(schema.Schema, amount, schema.FilterlistPath, schema.WordCasing).ToList();
+            List<string> names = nameGenerator.GenerateNames(schema.Schema, amount, schema.FilterlistPath, schema.WordCasing).ToList();
 
             PrintResultsTable(names);
         }
