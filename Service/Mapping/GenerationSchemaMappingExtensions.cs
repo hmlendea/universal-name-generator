@@ -6,7 +6,7 @@ using UniversalNameGenerator.DataAccess.DataObjects;
 using UniversalNameGenerator.Models;
 using UniversalNameGenerator.Models.Enumerations;
 
-namespace UniversalNameGenerator.BusinessLogic.Mapping
+namespace UniversalNameGenerator.Service.Mapping
 {
     /// <summary>
     /// Generation schema mapping extensions for converting between entities and domain models.
