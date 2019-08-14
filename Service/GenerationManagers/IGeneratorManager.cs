@@ -2,7 +2,7 @@
 
 using UniversalNameGenerator.Models.Enumerations;
 
-namespace UniversalNameGenerator.BusinessLogic.GenerationManagers.Interfaces
+namespace UniversalNameGenerator.Service.GenerationManagers
 {
     public interface IGeneratorManager
     {

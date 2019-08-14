@@ -1,12 +1,12 @@
 ﻿using System.Collections.Generic;
 
-using UniversalNameGenerator.BusinessLogic.GenerationManagers.Interfaces;
-using UniversalNameGenerator.BusinessLogic.Mapping;
 using UniversalNameGenerator.DataAccess.Repositories;
 using UniversalNameGenerator.DataAccess.Repositories.Interfaces;
 using UniversalNameGenerator.Models;
+using UniversalNameGenerator.Service.GenerationManagers;
+using UniversalNameGenerator.Service.Mapping;
 
-namespace UniversalNameGenerator.BusinessLogic.GenerationManagers
+namespace UniversalNameGenerator.Service.GenerationManagers
 {
     /// <summary>
     /// Category controller.

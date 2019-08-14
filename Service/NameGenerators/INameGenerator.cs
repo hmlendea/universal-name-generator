@@ -2,7 +2,7 @@
 
 using UniversalNameGenerator.Models;
 
-namespace UniversalNameGenerator.BusinessLogic.NameGenerators.Interfaces
+namespace UniversalNameGenerator.Service.NameGenerators
 {
     /// <summary>
     /// Name Generator interface.

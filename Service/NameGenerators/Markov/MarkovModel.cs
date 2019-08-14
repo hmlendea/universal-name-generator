@@ -4,7 +4,7 @@ using System.Linq;
 
 using NuciExtensions;
 
-namespace UniversalNameGenerator.BusinessLogic.NameGenerators.Markov
+namespace UniversalNameGenerator.Service.NameGenerators.Markov
 {
     public class MarkovModel
     {

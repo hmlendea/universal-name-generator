@@ -5,9 +5,8 @@ using System.Linq;
 using NuciCLI;
 using NuciCLI.Menus;
 
-using UniversalNameGenerator.BusinessLogic.GenerationManagers;
-using UniversalNameGenerator.BusinessLogic.GenerationManagers.Interfaces;
 using UniversalNameGenerator.Models;
+using UniversalNameGenerator.Service.GenerationManagers;
 
 namespace UniversalNameGenerator.Menus
 {
