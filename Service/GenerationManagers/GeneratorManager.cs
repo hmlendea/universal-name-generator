@@ -5,18 +5,18 @@ using System.Linq;
 
 using NuciExtensions;
 
-using UniversalNameGenerator.BusinessLogic.GenerationManagers.Interfaces;
-using UniversalNameGenerator.BusinessLogic.Mapping;
-using UniversalNameGenerator.BusinessLogic.NameGenerators.Interfaces;
-using UniversalNameGenerator.BusinessLogic.NameGenerators.Markov;
-using UniversalNameGenerator.BusinessLogic.NameGenerators.Randomiser;
 using UniversalNameGenerator.DataAccess;
 using UniversalNameGenerator.DataAccess.Repositories;
 using UniversalNameGenerator.DataAccess.Repositories.Interfaces;
 using UniversalNameGenerator.Models;
 using UniversalNameGenerator.Models.Enumerations;
+using UniversalNameGenerator.Service.GenerationManagers;
+using UniversalNameGenerator.Service.Mapping;
+using UniversalNameGenerator.Service.NameGenerators;
+using UniversalNameGenerator.Service.NameGenerators.Markov;
+using UniversalNameGenerator.Service.NameGenerators.Randomiser;
 
-namespace UniversalNameGenerator.BusinessLogic.GenerationManagers
+namespace UniversalNameGenerator.Service.GenerationManagers
 {
     public class GeneratorManager : IGeneratorManager
     {
