@@ -16,6 +16,10 @@ Abrupt_Steep
 Abruptă_Steep
 Abrupte_Steep
 Abrupți_Steep
+Absurd_Absurd
+Absurdă_Absurd
+Absurde_Absurd
+Absurzi_Absurd
 Abundent_Rich
 Abundentă_Rich
 Abundente_Rich
@@ -174,6 +178,10 @@ Bifurcate_Forked
 Bifurcați_Forked
 Binelui_OfGood
 Biruinței_OfVictory
+Bizar_Bizarre
+Bizară_Bizarre
+Bizare_Bizarre
+Bizari_Bizarre
 Blând_Mild
 Blândă_Mild
 Blânde_Mild
@@ -277,6 +285,12 @@ Cântători_Singing
 Cântecelor_OfSongs
 Cântecelor_OfTheSong
 Cântecului_OfTheSong
+Capriciilor_OfCaprice
+Capricioasă_Capricious
+Capricioase_Capricious
+Capricios_Capricious
+Capricioși_Capricious
+Capriciului_OfCaprice
 Carnagiilor_OfCarnage
 Carnagiului_OfCarnage
 Câștigului_OfWin
@@ -289,12 +303,26 @@ Cavernos_Cavernous
 Cavernoși_Cavernous
 cea Aleasă_TheChosen
 cea Arsă_TheBurnt
+cea Lungă_The Long
+cea Mare_TheGreat
+cea Mică_TheLEsser
 cea Moartă_TheDead
 cei Aleși_TheChosen
+cei Lungi_TheLong
+cei Mari_TheGreat
+cei Mici_TheLesser
 cel Ales_TheChosen
 cel Ars_TheBurnt
+cel Lung_TheLong
+cel Mare_TheGreat
+cel Mic_TheLesser
 cel Mort_TheDead
 cele Alese_TheChosen
+cele Arse_TheBurnt
+cele Lungi_TheLong
+cele Mari_TheGreat
+cele Mici_TheLesser
+cele Moarte_TheDead
 Celest_Celestial
 Celestă_Celestial
 Celești_Celestial
@@ -362,6 +390,10 @@ Condamnaților_OfTheDamned
 Condamnatului_OfTheDamned
 Confuziei_OfConfusion
 Confuziilor_OfConfusion
+Contaminat_Contaminated
+Contaminată_Contaminated
+Contaminate_Contaminated
+Contaminați_Contaminated
 Coroanei_OfTheCrown
 Coroziv_Corrosive
 Corozivă_Corrosive
@@ -423,7 +455,9 @@ Cruțătoare_Sparing
 Cruțător_Sparing
 Cruțători_Sparing
 Cruzi_Harsh
+cu Aburi_WithSteam
 cu Bube_WithBoils
+cu Ceață_WithMist
 cu Cicatrici_WithScars
 cu Crăpături_WithCracks
 cu Cratere_WithCraters
@@ -431,13 +465,17 @@ cu Cruci_WithCrosses
 cu Fantasme_WithGhost
 cu Fantome_WithGhost
 cu Fosile_WithFossils
+cu Întreruperi_WithInterruptions
 cu Noroc_WithLuck
 cu Pietre_WithRocks
 cu Podoabe_WithOrnaments
 cu Țepi_WithSpikes
 cu Terase_WithTerraces
+cu Toxine_WithToxins
 cu Valuri_Wavy
+cu Vapori_WithVapours
 cu Zâne_WithFairies
+cu Zimți_WithGrains
 Culcat_Lying
 Culcată_Lying
 Culcate_Lying
@@ -486,6 +524,7 @@ de Fier_OfIron
 de Fildeș_OfIvory
 de Foc_OfFire
 de Frontieră_AtTheBorder
+de Graniță_AtTheBorder
 de Hotar_AtTheBorder
 de Început_AtTheBorder
 de Jos_Lower
@@ -553,6 +592,10 @@ Dezastruoasă_Disastrous
 Dezastruoase_Disastrous
 Dezastruos_Disastrous
 Dezastruoși_Disastrous
+Dezgropat_Unburied
+Dezgropată_Unburied
+Dezgropate_Unburied
+Dezgropați_Unburied
 Diabolic_Evil
 Diabolică_Evil
 Diabolice_Evil
@@ -565,8 +608,15 @@ Diform_Deformed
 Diformă_Deformed
 Diforme_Deformed
 Diformi_Deformed
+din Centru_FromTheCenter
+din Est_FromTheEast
 din Față_FromTheFront
+din Jos_FromDown
+din Nord_FromTheNorth
 din Spate_FromTheBack
+din Sun_FromTheSouth
+din Sus_FromUp
+din Vest_FromTheWest
 Discordiei_OfDiscord
 Dispărut_Disappeared
 Dispărută_Disappeared
@@ -669,9 +719,12 @@ fără Capăt_Endless
 fără Fund_Bottomless
 fără Lege_Lawless
 fără Limite_Limitless
+fără Margini_Endless
+fără Sens_Nonsensical
 fără Sfârșit_Endless
 fără Soare_Sunless
 fără Suflet_Soulless
+fără Umbre_Shadowless
 fără Viață_Lifeless
 fără Vlagă_Limplye
 Ferit_Lonely
@@ -808,6 +861,12 @@ Haotic_Chaotic
 Haotică_Chaotic
 Haotice_Chaotic
 Haotici_Chaotic
+Hazardelor_OfHazard
+Hazardului_OfHazard
+Himeric_Chimeric
+Himerică_Chimeric
+Himerice_Chimeric
+Himerici_Chimeric
 Hipnotizant_Hypnotising
 Hipnotizantă_Hypnotising
 Hipnotizante_Hypnotising
@@ -823,6 +882,10 @@ Imanși_Immense
 Îmbelșugată_Rich
 Îmbelșugate_Rich
 Îmbelșugați_Rich
+Îmblânzit_Tamed
+Îmblânzită_Tamed
+Îmblânzite_Tamed
+Îmblânziți_Tamed
 Imens_Immense
 Imensă_Immense
 Imense_Immense
@@ -853,9 +916,19 @@ Important_Important
 Importantă_Important
 Importante_Important
 Importanți_Important
+Imposibil_Impossible
+Imposibilă_Impossible
+Imposibile_Impossible
+Imposibili_Impossible
+Imposibilului_OfTheImpossible
+Împrăștiat_Spreaded
+Împrăștiată_Spreaded
+Împrăștiate_Spreaded
+Împrăștiați_Spreaded
 Impunătoare_Imposing
 Impunător_Imposing
 Impunători_Imposing
+în Carantină_Quarantined
 în Doliu_Mourning
 Înăbușit_Smoldering
 Înăbușită_Smoldering
@@ -909,6 +982,14 @@ Incoruptibili_Incorruptible
 Încruntată_Frowning
 Încruntate_Frowning
 Încruntați_Frowning
+Îndărătnic_Stubborn
+Îndărătnică_Stubborn
+Îndărătnice_Stubborn
+Îndărătnici_Stubborn
+Îndârjit_Hardened
+Îndârjită_Hardened
+Îndârjite_Hardened
+Îndârjiți_Hardened
 Îndepărtat_Far
 Îndepărtată_Far
 Îndepărtate_Far
@@ -967,6 +1048,10 @@ Infinitului_OfInfinity
 Îngrămădită_Crowded
 Îngrămădite_Crowded
 Îngrămădiți_Crowded
+Îngropat_Buried
+Îngropată_Buried
+Îngropate_Buried
+Îngropați_Buried
 Îngrozitoare_Fearful
 Îngrozitor_Fearful
 Îngrozitori_Fearful
@@ -1002,6 +1087,10 @@ Inimii_OfTheHeart
 Înspăimântoare_Fearful
 Înspăimântor_Fearful
 Înspăimântori_Fearful
+Intact_Intact
+Intactă_Intact
+Intacte_Intact
+Intacți_Intact
 Înțeleaptă_Wise
 Înțelepciunii_OfWisdon
 Înțelept_Wise
@@ -1018,6 +1107,10 @@ Interziși_Forbidden
 Întinsă_Stretched
 Întinse_Stretched
 Întinși_Stretched
+Intoxicant_Intoxicating
+Intoxicantă_Intoxicating
+Intoxicante_Intoxicating
+Intoxicanți_Intoxicating
 Intoxicat_Intoxicated
 Intoxicată_Intoxicated
 Intoxicate_Intoxicated
@@ -1111,6 +1204,7 @@ Lipitorii_OfTheLeech
 Lipitorilor_OfTheLeech
 lui Dumnezeu_OfTheGod
 lui Satan_OfTheDevil
+lui Vodă_OfTheVoivode
 lui Zamolxe_OfTheGod
 Luminii_Light
 Luminilor_Light
@@ -1120,6 +1214,7 @@ Luminos_Light
 Luminoși_Light
 Măcelelor_OfSlaughter
 Măcelului_OfSlaughter
+Magiei_OfMagic
 Magnific_Magnificent
 Magnifică_Magnificent
 Magnifice_Magnificent
@@ -1293,6 +1388,10 @@ Năuciți_Stunned
 Năucitoare_Stunning
 Năucitor_Stunning
 Năucitori_Stunning
+Năvalnic_Stormy
+Năvalnică_Stormy
+Năvalnice_Stormy
+Năvalnici_Stormy
 Neagră_Black
 Neatins_Virgin
 Neatinsă_Virgin
@@ -1368,6 +1467,10 @@ Neînsemnat_Insignificant
 Neînsemnată_Insignificant
 Neînsemnate_Insignificant
 Neînsemnați_Insignificant
+Neîntrerupt_Uninterrupted
+Neîntreruptă_Uninterrupted
+Neîntrerupte_Uninterrupted
+Neîntrerupți_Uninterrupted
 Neînvins_Unbeaten
 Neînvinsă_Unbeaten
 Neînvinse_Unbeaten
@@ -1380,6 +1483,14 @@ Nemaipomenit_Unbeliveable
 Nemaipomenită_Unbeliveable
 Nemaipomenite_Unbeliveable
 Nemaipomeniți_Unbeliveable
+Nemărginit_Endless
+Nemărginită_Endless
+Nemărginite_Endless
+Nemărginiți_Endless
+Nemăsurat_Measureless
+Nemăsurată_Measureless
+Nemăsurate_Measureless
+Nemăsurați_Measureless
 Nemiloasă_Harsh
 Nemiloase_Harsh
 Nemilos_Harsh
@@ -1391,12 +1502,20 @@ Nenorocit_Wretched
 Nenorocită_Wretched
 Nenorocite_Wretched
 Nenorociți_Wretched
+Neobișnuit_Unusual
+Neobișnuită_Unusual
+Neobișnuite_Unusual
+Neobișnuiți_Unusual
 Neprielnic_Unfavourable
 Neprielnică_Unfavourable
 Neprielnice_Unfavourable
 Neprielnici_Unfavourable
 Neputinței_OfHelplessness
 Nesăbuinței_OfTheFolly
+Nestăpânit_Unrestrained
+Nestăpânită_Unrestrained
+Nestăpânite_Unrestrained
+Nestăpâniți_Unrestrained
 Nestematelor_OfJewels
 Nestingherit_Unimpeded
 Nestingherită_Unimpeded
@@ -1570,6 +1689,7 @@ Perseverenței_OfPerseverance
 Persistent_Persistent
 Persistentă_Persistent
 Persistente_Persistent
+Persistenței_OfPersistence
 Persistenți_Persistent
 Pierderii_OfLoss
 Pierderilor_OfLoss
@@ -1613,6 +1733,10 @@ Plin_Full
 Plină_Full
 Pline_Full
 Plini_Full
+Poluat_Polluted
+Poluată_Polluted
+Poluate_Polluted
+Poluați_Polluted
 Popii_Preist
 Portocalie_Orange
 Portocalii_Orange
@@ -1863,6 +1987,9 @@ Sărați_Salty
 Sârguinței_OfDiligence
 Sărutului_OfTheKiss
 Sceptrului_OfTheSceptre
+Schimbătoare_Changing
+Schimbător_Changing
+Schimbători_Changing
 Scobit_Hollowed
 Scobită_Hollowed
 Scobite_Hollowed
@@ -2201,6 +2328,10 @@ Uluitor_Amazing
 Uluitori_Amazing
 Umbrei_Shadowy
 Umbrelor_Shadowy
+Umbrit_Shadowed
+Umbrită_Shadowed
+Umbrite_Shadowed
+Umbriți_Shadowed
 Umbroasă_Shadowy
 Umbroase_Shadowy
 Umbros_Shadowy
@@ -2240,11 +2371,19 @@ Vamal_AtTheBorder
 Vamală_AtTheBorder
 Vameș_AtTheBorder
 Vameșă_AtTheBorder
+Vântoasă_Windy
+Vântoase_Windy
+Vântos_Windy
+Vântoși_Windy
 Vânturilor_Windy
 Vânturoasă_Windy
 Vânturoase_Widy
 Vânturos_Windy
 Vânturoși_Windy
+Vaporoasă_Vaporous
+Vaporoase_Vaporous
+Vaporos_Vaporous
+Vaporoși_Vaporous
 Vârstnic_Elder
 Vârstnică_Elder
 Vârstnice_Elder
@@ -2292,12 +2431,20 @@ Viforatică_Stormy
 Viforatice_Stormy
 Viforatici_Stormy
 Viforelor_OfTheStorm
+Viforoasă_Stormy
+Viforoase_Stormy
+Viforos_Stormy
+Viforoși_Stormy
 Viforului_OfTheStorm
 Viguroasă_Vigourous
 Viguroase_Vigourous
 Viguros_Vigourous
 Viguroși_Vigourous
 Vii_Alive
+Vijelioasă_Stormy
+Vijelioase_Stormy
+Vijelios_Stormy
+Vijelioși_Stormy
 Vindecării_OfHealing
 Vindecătoare_Healing
 Vindecător_Healing
@@ -2365,6 +2512,10 @@ Zbârcit_Wrinkled
 Zbârcită_Wrinkled
 Zbârcite_Wrinkled
 Zbârciți_Wrinkled
+Zbuciumat_Agitated
+Zbuciumată_Agitated
+Zbuciumate_Agitated
+Zbuciumați_Agitated
 Zdravăn_Sturdy
 Zdravănă_Sturdy
 Zdravene_Sturdy
