@@ -85,6 +85,8 @@ Colina_Hill
 Colinele_Hill
 Coloana_Pillar
 Coloanele_Pillar
+Comoara_Treasure
+Comorile_Treasure
 Complexele_Station
 Complexul_Station
 Confluența_Confluence
