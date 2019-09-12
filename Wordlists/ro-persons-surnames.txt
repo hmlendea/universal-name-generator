@@ -31,11 +31,13 @@ Aluței
 Amânar
 Ambrozie
 Amironesei
+Anania
 Andone
 Andreescu
 Andreica
 Andreșan
 Andronache
+Andru
 Anghel
 Anghelache
 Anghelescu
@@ -74,6 +76,7 @@ Băban
 Babeș
 Babu
 Baciu
+Băciuț
 Bâcleșanu
 Bacovia
 Bădălău
@@ -101,6 +104,7 @@ Balc
 Bălcescu
 Bâldean
 Balea
+Balga
 Balint
 Balițiu
 Băloiu
@@ -116,16 +120,20 @@ Bănilă
 Bănulescu
 Banuț
 Bar
+Bărăitaru
 Bărar
+Bărăscu
 Barbu
 Barbulescu
 Bărceanu
+Bârdea
 Barițiu
 Bârla
 Bârladeanu
 Bârlădeanu
 Barnuțiu
 Bărnuțiu
+Baron
 Bârsan
 Bârzan
 Bărzoi
@@ -160,6 +168,7 @@ Berce
 Bercean
 Berceanu
 Berciu
+Berdilă
 Berea
 Berescu
 Berinde
@@ -183,6 +192,7 @@ Bîrsan
 Birtocean
 Biru
 Bistrian
+Bistrițeanu
 Bizgan
 Blaga
 Blaj
@@ -190,8 +200,10 @@ Blăjan
 Blăjean
 Blandiana
 Bledea
+Blejnar
 Bleoju
 Blerinca
+Blic
 Blidar
 Blidaru
 Boariu
@@ -226,9 +238,12 @@ Boicu
 Boiculese
 Boieru
 Bolboacă
+Bolcaș
 Boldijar
 Boldureanu
+Bolintineanu
 Boloca
+Bologa
 Bolojan
 Bolovăneanu
 Bolovănescu
@@ -282,6 +297,8 @@ Bratuva
 Breana
 Breban
 Brega
+Breharu
+Bria
 Briciu
 Brînza
 Briscan
@@ -312,10 +329,13 @@ Bugnariu
 Buha
 Buhăescu
 Buhai
+Buică
 Bujdea
 Bujor
 Bulboaca
+Bulgeac
 Bulmez
+Buluță
 Bulzan
 Bulzean
 Bulzescu
@@ -415,6 +435,7 @@ Cataraga
 Cataramă
 Catargiu
 Câțescu
+Cătina
 Cătinean
 Cazac
 Cazacu
@@ -451,6 +472,7 @@ Chiorean
 Chiriac
 Chirică
 Chirilă
+Chiru
 Chișe
 Chițu
 Chițureanu
@@ -486,6 +508,7 @@ Ciontescu
 Ciora
 Cioran
 Ciorbă
+Ciordaș
 Ciorei
 Ciorhan
 Ciorican
@@ -508,6 +531,7 @@ Ciuca
 Ciucă
 Ciucu
 Ciufudean
+Ciuhandu
 Ciuhat
 Ciulei
 Ciumpiliac
@@ -549,6 +573,7 @@ Cojocariu
 Cojocaru
 Cojocean
 Colac
+Colan
 Colceriu
 Colta
 Coman
@@ -584,6 +609,7 @@ Corlăteanu
 Corlățeanu
 Cornea
 Corneanu
+Cornilescu
 Coroian
 Coroiu
 Coșarcă
@@ -637,6 +663,7 @@ Crețu
 Crișan
 Crișanu
 Crîșmaru
+Criste
 Cristea
 Cristescu
 Cristoiu
@@ -672,6 +699,7 @@ Dâlca
 Dâlcă
 Damian
 Danciu
+Daneș
 Dărăban
 Darida
 Dârjan
@@ -688,6 +716,7 @@ Dejeu
 Delean
 Deleanu
 Deliorga
+Demetrescu
 Demian
 Densușianu
 Diacon
@@ -745,6 +774,7 @@ Dragomir
 Dragomirescu
 Dragomiroiu
 Dragu
+Drăgulin
 Dregan
 Driha
 Drimba
@@ -757,9 +787,11 @@ Dubleșiu
 Duca
 Ducă
 Ducai
+Dudaș
 Dudău
 Dudric
 Duică
+Dulfu
 Dulgheru
 Duma
 Dumbravă
@@ -767,15 +799,18 @@ Duminică
 Dumitrache
 Dumitraș
 Dumitrescu
+Dumitriu
 Dumitru
 Durgău
 Dușa
 Duță
+Duțescu
 Duțulescu
 Eliade
 Eminescu
 Enache
 Encean
+Enchiridionu
 Ene
 Enea
 Enescu
@@ -820,6 +855,7 @@ Floare
 Flore
 Florea
 Florescu
+Florian
 Florinescu
 Floriștean
 Florișteanu
@@ -856,10 +892,13 @@ Gâlcă
 Gale
 Galea
 Galoș
+Gan
 Gândac
 Ganea
 Ganga
+Gârbovan
 Gârjoabă
+Gârleanu
 Gârneț
 Gașpar
 Gâșteanu
@@ -891,6 +930,7 @@ Ghercă
 Gherea
 Gherescu
 Gherman
+Ghibu
 Ghică
 Ghidirim
 Ghilescu
@@ -990,10 +1030,13 @@ Hațieganu
 Herăscu
 Herea
 Herescu
+Herineanu
 Herța
 Herțeg
 Hodișan
 Hodrea
+Hogaș
+Hojbota
 Holban
 Hopârțean
 Horincar
@@ -1029,6 +1072,7 @@ Iederan
 Ielcean
 Ienășoiu
 Ieniciu
+Ieșan
 Ifrim
 Iftimia
 Iga
@@ -1071,6 +1115,7 @@ Ioveanu
 Ioviță
 Irimescu
 Isărescu
+Ispas
 Ispirescu
 Istoan
 Istrate
@@ -1093,6 +1138,7 @@ Jilieru
 Jinga
 Jitariu
 Jitea
+Joandrea
 Jora
 Josan
 Juc
@@ -1110,6 +1156,7 @@ Lăcustă
 Laic
 Lala
 Lang
+Lăpădean
 Lăpușan
 Larion
 Lascăr
@@ -1129,6 +1176,7 @@ Lemnaru
 Lenga
 Leonte
 Leordean
+Lepădatu
 Lesenciuc
 Leu
 Leucuța
@@ -1140,6 +1188,7 @@ Lincu
 Lipa
 Lipan
 Litescu
+Lițiu
 Loghiade
 Loghin
 Loteanu
@@ -1147,8 +1196,10 @@ Lovinescu
 Lozbă
 Luca
 Lucescu
+Ludoșan
 Ludușan
 Luncan
+Luncașu
 Lung
 Lungu
 Lup
@@ -1163,6 +1214,7 @@ Lupșa
 Lupșe
 Lupu
 Lupul
+Mac
 Macari
 Macaru
 Macaveiu
@@ -1179,6 +1231,7 @@ Maior
 Maiorescu
 Majaru
 Măjeri
+Mălăiești
 Malarciuc
 Mălin
 Mălureanu
@@ -1230,8 +1283,11 @@ Mateș
 Mateuț
 Maxim
 Mazilescu
+Mazilu
+Meciu
 Medan
 Medrea
+Megheșan
 Melencu
 Melinescu
 Melnic
@@ -1245,6 +1301,8 @@ Merișescu
 Merlușcă
 Mermeze
 Meseșan
+Meteș
+Mețianu
 Mic
 Micle
 Miclea
@@ -1259,7 +1317,9 @@ Mihăilă
 Mihăilescu
 Mihaili
 Mihalache
+Mihalachi
 Mihalcea
+Mihălcescu
 Mihale
 Mihali
 Mihele
@@ -1366,6 +1426,7 @@ Muscă
 Muscaș
 Mutu
 Muzicescu
+Naghiu
 Napău
 Nașca
 Nastai
@@ -1406,6 +1467,7 @@ Nemes
 Nemeș
 Nemoianu
 Nemțeanu
+Nenciulescu
 Neșa
 Nestor
 Nica
@@ -1440,6 +1502,7 @@ Obreja
 Octavian
 Ofițeru
 Olar
+Olariu
 Olaru
 Oleinic
 Olenici
@@ -1451,6 +1514,7 @@ Olteanu
 Onaciu
 Oncescu
 Oncioiu
+Onea
 Onicescu
 Onișor
 Onița
@@ -1461,6 +1525,7 @@ Onogea
 Oprea
 Oprescu
 Opriș
+Oprișa
 Oproiu
 Orădean
 Orădeanu
@@ -1487,6 +1552,7 @@ Pălărie
 Palega
 Paleologu
 Paler
+Pamfile
 Pamfilie
 Pană
 Panainte
@@ -1499,6 +1565,8 @@ Pantiru
 Pantofaru
 Pânzariu
 Pap
+Papacostea
+Papadat
 Papadopol
 Papară
 Papu
@@ -1516,6 +1584,7 @@ Pasca
 Pască
 Pascal
 Pascalău
+Paschia
 Pascu
 Pășcuțiu
 Pâslaru
@@ -1526,6 +1595,7 @@ Patalău
 Pătcaș
 Pătrășcanu
 Pătrașcu
+Patrichi
 Patriciu
 Patroc
 Patron
@@ -1555,6 +1625,7 @@ Petrencu
 Petrescu
 Petric
 Petriceicu
+Petrovici
 Petru
 Petruș
 Petrușel
@@ -1689,6 +1760,7 @@ Răducă
 Răducan
 Răducanu
 Răducioiu
+Răduleanu
 Rădulescu
 Răduț
 Răduţă
@@ -1743,6 +1815,7 @@ Rusescu
 Rusu
 Sabău
 Saca
+Sadoveanu
 Safta
 Saftoiu
 Săftoiu
@@ -1764,6 +1837,7 @@ Sâncrăian
 Sandu
 Sandulescu
 Săndulescu
+Sane
 Șanta
 Săpuneanu
 Sărac
@@ -1782,6 +1856,7 @@ Săvescu
 Savianu
 Savu
 Săvulescu
+Sbârcea
 Scărlătescu
 Scrob
 Scrobota
@@ -1813,7 +1888,9 @@ Similea
 Simion
 Simionescu
 Simon
+Simu
 Simula
+Sin
 Sindile
 Sîngeorzan
 Sirca
@@ -1840,9 +1917,11 @@ Someșanu
 Soponea
 Soporan
 Sora
+Șora
 Sorescu
 Sorlea
 Șotropa
+Șpan
 Spătăcean
 Spătaru
 Speretoiu
@@ -1857,6 +1936,7 @@ Stăncel
 Stâncel
 Stanciu
 Stancu
+Stănculescu
 Stanea
 Stănescu
 Stanese
@@ -1873,6 +1953,7 @@ Stavilă
 Ștefănoiu
 Ștefănucă
 Ștefu
+Ștegănescu
 Stegaru
 Stegerean
 Stejerean
@@ -1894,6 +1975,7 @@ Stoicescu
 Stoicoiu
 Stoienescu
 Stoleru
+Stolnici
 Stolojan
 Storescu
 Strachinescu
@@ -1936,6 +2018,7 @@ Târlea
 Târnăvan
 Târnăvean
 Tărniceru
+Tăslăuanu
 Tătar
 Tătăran
 Tătăranu
@@ -1943,6 +2026,7 @@ Tătărean
 Tătăreanu
 Tătărescu
 Tătărușanu
+Taușan
 Tăutu
 Tavițian
 Tecău
@@ -1961,6 +2045,7 @@ Teodoru
 Terheș
 Testemițianu
 Teșu
+Theodorian
 Tibrea
 Țică
 Tighineanu
@@ -1987,6 +2072,7 @@ Tivadar
 Toader
 Tocilescu
 Tocitu
+Tocoian
 Tocut
 Todea
 Todoran
@@ -2091,6 +2177,7 @@ Vaina
 Vâlceanu
 Vâlcov
 Vălean
+Valeca
 Valentin
 Vancea
 Vanciu
@@ -2136,7 +2223,9 @@ Viziru
 Vladimirescu
 Vladu
 Vlăducu
+Vlăduțescu
 Vlah
+Vlahuță
 Vlaicu
 Vlăsceanu
 Vlascu
