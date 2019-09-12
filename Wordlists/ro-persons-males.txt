@@ -71,6 +71,7 @@ Enache
 Eremia
 Eugen
 Eugeniu
+Eusebiu
 Fabian
 Felician
 Felix
@@ -112,6 +113,7 @@ Iorghu
 Iorgu
 Iosif
 Irinel
+Irineu
 Iulian
 Iuliu
 Iurie
@@ -142,6 +144,7 @@ Marcu
 Marian
 Marin
 Marinache
+Marinel
 Marius
 Matei
 Maximilian
@@ -207,6 +210,7 @@ Stelian
 Stroe
 Tache
 Teodor
+Theodor
 Tiberiu
 Timotei
 Titu
