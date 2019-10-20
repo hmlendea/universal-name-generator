@@ -7,6 +7,20 @@
 		<Schema>{randomiser,,4,24,asian-settlements-bases|asian-settlements-suffixes}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
+		<Id>de-persons-male</Id>
+		<Name>German male persons</Name>
+		<Category>German</Category>
+		<FilterlistPath>de-persons-filters</FilterlistPath>
+		<Schema>{randomiser, ,4,32,de-persons-male|de-persons-surname}</Schema>
+	</GenerationSchemaEntity>
+	<GenerationSchemaEntity>
+		<Id>de-persons-female</Id>
+		<Name>German female persons</Name>
+		<Category>German</Category>
+		<FilterlistPath>de-persons-filters</FilterlistPath>
+		<Schema>{randomiser, ,4,32,de-persons-female|de-persons-surname}</Schema>
+	</GenerationSchemaEntity>
+	<GenerationSchemaEntity>
 		<Id>it-persons-male</Id>
 		<Name>Italian male persons</Name>
 		<Category>Italian</Category>
