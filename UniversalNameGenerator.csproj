@@ -27,6 +27,10 @@
     <None Update="Wordlists\dacian-settlements-filters.txt"><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
     <None Update="Wordlists\dacian-settlements-suffixes.txt"><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
     <None Update="Wordlists\dacian-settlements.txt"><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
+    <None Update="Wordlists\de-persons-female.txt"><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
+    <None Update="Wordlists\de-persons-filters.txt"><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
+    <None Update="Wordlists\de-persons-male.txt"><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
+    <None Update="Wordlists\de-persons-surname.txt"><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
     <None Update="Wordlists\it-persons-females.txt"><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
     <None Update="Wordlists\it-persons-males.txt"><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
     <None Update="Wordlists\it-persons-surnames.txt"><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
