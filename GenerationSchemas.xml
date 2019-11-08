@@ -7,6 +7,18 @@
 		<Schema>{randomiser,,4,24,asian-settlements-bases|asian-settlements-suffixes}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
+		<Id>it-persons-male</Id>
+		<Name>Italian male persons</Name>
+		<Category>Italian</Category>
+		<Schema>{randomiser, ,4,32,it-persons-males|it-persons-surnames}</Schema>
+	</GenerationSchemaEntity>
+	<GenerationSchemaEntity>
+		<Id>it-persons-female</Id>
+		<Name>Italian female persons</Name>
+		<Category>Italian</Category>
+		<Schema>{randomiser, ,4,32,it-persons-females|it-persons-surnames}</Schema>
+	</GenerationSchemaEntity>
+	<GenerationSchemaEntity>
 		<Id>ro-colours</Id>
 		<Name>Romanian colours names</Name>
 		<Schema>{markov,4,16,ro-colours}</Schema>
