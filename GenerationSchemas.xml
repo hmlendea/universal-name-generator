@@ -115,6 +115,18 @@
 		<Schema>{randomiser, ,4,32,ro-landmarks1|ro-landmarks2}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
+		<Id>ru-persons-female</Id>
+		<Name>Russian female persons</Name>
+		<Category>Russian</Category>
+		<Schema>{randomiser, ,4,32,ru-persons-female|ru-persons-surnames}</Schema>
+	</GenerationSchemaEntity>
+	<GenerationSchemaEntity>
+		<Id>ru-persons-male</Id>
+		<Name>Russian male persons</Name>
+		<Category>Russian</Category>
+		<Schema>{randomiser, ,4,32,ru-persons-male|ru-persons-surnames}</Schema>
+	</GenerationSchemaEntity>
+	<GenerationSchemaEntity>
 		<Id>dacian-settlements</Id>
 		<Name>Dacian settlement names (Procedurally generated)</Name>
 		<Category>Dacian</Category>
