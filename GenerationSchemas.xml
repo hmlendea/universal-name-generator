@@ -193,6 +193,42 @@
 		<Schema>{randomiser,,6,12,rodah-persons-males-bases|rodah-persons-males-endings}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
+		<Id>tes-argonian-persons-female</Id>
+		<Name>Argonian male persons</Name>
+		<Category>Argonian</Category>
+		<Schema>{randomiser, ,4,32,tes-argonian-persons-male-hyphenated}</Schema>
+	</GenerationSchemaEntity>
+	<GenerationSchemaEntity>
+		<Id>tes-argonian-persons-male</Id>
+		<Name>Argonian male persons</Name>
+		<Category>Argonian</Category>
+		<Schema>{randomiser, ,4,32,tes-argonian-persons-male-hyphenated}</Schema>
+	</GenerationSchemaEntity>
+	<GenerationSchemaEntity>
+		<Id>tes-argonian-persons-female-singleword</Id>
+		<Name>Argonian male persons (single-word)</Name>
+		<Category>Argonian</Category>
+		<Schema>{randomiser, ,4,32,tes-argonian-persons-male-singleword}</Schema>
+	</GenerationSchemaEntity>
+	<GenerationSchemaEntity>
+		<Id>tes-argonian-persons-male-singleword</Id>
+		<Name>Argonian male persons (single-word)</Name>
+		<Category>Argonian</Category>
+		<Schema>{randomiser, ,4,32,tes-argonian-persons-male-singleword}</Schema>
+	</GenerationSchemaEntity>
+	<GenerationSchemaEntity>
+		<Id>tes-argonian-persons-female-tamrielic</Id>
+		<Name>Argonian male persons (tamrielic)</Name>
+		<Category>Argonian</Category>
+		<Schema>{randomiser, ,4,32,tes-argonian-persons-male-tamrielic}</Schema>
+	</GenerationSchemaEntity>
+	<GenerationSchemaEntity>
+		<Id>tes-argonian-persons-male-tamrielic</Id>
+		<Name>Argonian male persons (tamrielic)</Name>
+		<Category>Argonian</Category>
+		<Schema>{randomiser, ,4,32,tes-argonian-persons-male-tamrielic}</Schema>
+	</GenerationSchemaEntity>
+	<GenerationSchemaEntity>
 		<Id>tes-ayleid-ruins</Id>
 		<Name>Ayleid ruin names</Name>
 		<Category>Ayleid</Category>
