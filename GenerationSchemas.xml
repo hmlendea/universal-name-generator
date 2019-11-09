@@ -69,6 +69,18 @@
 		<Schema>{randomiser, ,4,32,es-persons-female|es-persons-surnames}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
+		<Id>hi-persons-male</Id>
+		<Name>Hindi male persons</Name>
+		<Category>Hindi</Category>
+		<Schema>{randomiser, ,4,32,hi-persons-male|hi-persons-surnames}</Schema>
+	</GenerationSchemaEntity>
+	<GenerationSchemaEntity>
+		<Id>hi-persons-female</Id>
+		<Name>Hindi female persons</Name>
+		<Category>Hindi</Category>
+		<Schema>{randomiser, ,4,32,hi-persons-female|hi-persons-surnames}</Schema>
+	</GenerationSchemaEntity>
+	<GenerationSchemaEntity>
 		<Id>it-persons-male</Id>
 		<Name>Italian male persons</Name>
 		<Category>Italian</Category>
