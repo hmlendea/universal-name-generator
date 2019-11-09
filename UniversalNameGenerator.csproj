@@ -84,6 +84,9 @@
     <None Update="Wordlists\tes-ayleid-ruins.txt"><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
     <None Update="Wordlists\tes-khajiit-persons-female.txt"><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
     <None Update="Wordlists\tes-khajiit-persons-male.txt"><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
+    <None Update="Wordlists\tes-orc-persons-female.txt"><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
+    <None Update="Wordlists\tes-orc-persons-male.txt"><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
+    <None Update="Wordlists\tes-orc-persons-surnames.txt"><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
     <None Update="Wordlists\thracian-persons-female.txt"><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
     <None Update="Wordlists\thracian-persons-male.txt"><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
     <None Update="Wordlists\thracian-settlements.txt"><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
