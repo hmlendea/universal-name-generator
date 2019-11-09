@@ -1,6 +1,18 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ArrayOfGenerationSchemaEntity xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<GenerationSchemaEntity>
+		<Id>ar-persons-male</Id>
+		<Name>Arabic male persons</Name>
+		<Category>Arabic</Category>
+		<Schema>{randomiser, ,4,32,ar-persons-male|ar-persons-surnames}</Schema>
+	</GenerationSchemaEntity>
+	<GenerationSchemaEntity>
+		<Id>ar-persons-female</Id>
+		<Name>Arabic female persons</Name>
+		<Category>Arabic</Category>
+		<Schema>{randomiser, ,4,32,ar-persons-female|ar-persons-surnames}</Schema>
+	</GenerationSchemaEntity>
+	<GenerationSchemaEntity>
 		<Id>asian-settlements</Id>
 		<Name>Asian settlement names</Name>
 		<Category>Asian</Category>
