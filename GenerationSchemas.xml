@@ -513,6 +513,18 @@
 		<Schema>{randomiser, ,4,32,tes-khajiit-persons-male}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
+		<Id>tes-orc-persons-female</Id>
+		<Name>Orc male persons</Name>
+		<Category>Orc</Category>
+		<Schema>{randomiser, ,4,32,tes-orc-persons-female} gra-{randomiser, ,4,32,tes-orc-persons-surnames}</Schema>
+	</GenerationSchemaEntity>
+	<GenerationSchemaEntity>
+		<Id>tes-orc-persons-male</Id>
+		<Name>Orc male persons</Name>
+		<Category>Orc</Category>
+		<Schema>{randomiser, ,4,32,tes-orc-persons-male} gro-{randomiser, ,4,32,tes-orc-persons-surnames}</Schema>
+	</GenerationSchemaEntity>
+	<GenerationSchemaEntity>
 		<Id>hu-persons-male</Id>
 		<Name>Hungarian male persons</Name>
 		<Category>Hungarian</Category>
