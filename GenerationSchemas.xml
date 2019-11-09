@@ -57,6 +57,18 @@
 		<Schema>{randomiser, ,4,32,it-persons-females|it-persons-surnames}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
+		<Id>jp-persons-male</Id>
+		<Name>Japanese male persons</Name>
+		<Category>Japanese</Category>
+		<Schema>{randomiser, ,4,32,jp-persons-male|jp-persons-surnames}</Schema>
+	</GenerationSchemaEntity>
+	<GenerationSchemaEntity>
+		<Id>jp-persons-female</Id>
+		<Name>Japanese female persons</Name>
+		<Category>Japanese</Category>
+		<Schema>{randomiser, ,4,32,jp-persons-female|jp-persons-surnames}</Schema>
+	</GenerationSchemaEntity>
+	<GenerationSchemaEntity>
 		<Id>pl-persons-female</Id>
 		<Name>Polish female persons</Name>
 		<Category>Polish</Category>
