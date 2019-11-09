@@ -7,6 +7,18 @@
 		<Schema>{randomiser,,4,24,asian-settlements-bases|asian-settlements-suffixes}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
+		<Id>cn-persons-male</Id>
+		<Name>Chinese male persons</Name>
+		<Category>Chinese</Category>
+		<Schema>{randomiser, ,4,32,cn-persons-male|cn-persons-surnames}</Schema>
+	</GenerationSchemaEntity>
+	<GenerationSchemaEntity>
+		<Id>cn-persons-female</Id>
+		<Name>Chinese female persons</Name>
+		<Category>Chinese</Category>
+		<Schema>{randomiser, ,4,32,cn-persons-female|cn-persons-surnames}</Schema>
+	</GenerationSchemaEntity>
+	<GenerationSchemaEntity>
 		<Id>de-persons-male</Id>
 		<Name>German male persons</Name>
 		<Category>German</Category>
