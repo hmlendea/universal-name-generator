@@ -117,6 +117,18 @@
 		<Schema>{randomiser, ,4,32,pl-persons-male|pl-persons-surnames}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
+		<Id>pt-persons-female</Id>
+		<Name>Portuguese female persons</Name>
+		<Category>Portuguese</Category>
+		<Schema>{randomiser, ,4,32,pt-persons-female|pt-persons-surnames}</Schema>
+	</GenerationSchemaEntity>
+	<GenerationSchemaEntity>
+		<Id>pt-persons-male</Id>
+		<Name>Portuguese male persons</Name>
+		<Category>Portuguese</Category>
+		<Schema>{randomiser, ,4,32,pt-persons-male|pt-persons-surnames}</Schema>
+	</GenerationSchemaEntity>
+	<GenerationSchemaEntity>
 		<Id>ro-colours</Id>
 		<Name>Romanian colours names</Name>
 		<Schema>{markov,4,16,ro-colours}</Schema>
