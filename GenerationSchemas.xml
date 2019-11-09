@@ -196,7 +196,7 @@
 		<Id>tes-argonian-persons-female</Id>
 		<Name>Argonian male persons</Name>
 		<Category>Argonian</Category>
-		<Schema>{randomiser, ,4,32,tes-argonian-persons-male-hyphenated}</Schema>
+		<Schema>{randomiser, ,4,32,tes-argonian-persons-female-hyphenated}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
 		<Id>tes-argonian-persons-male</Id>
@@ -208,7 +208,7 @@
 		<Id>tes-argonian-persons-female-singleword</Id>
 		<Name>Argonian male persons (single-word)</Name>
 		<Category>Argonian</Category>
-		<Schema>{randomiser, ,4,32,tes-argonian-persons-male-singleword}</Schema>
+		<Schema>{randomiser, ,4,32,tes-argonian-persons-female-singleword}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
 		<Id>tes-argonian-persons-male-singleword</Id>
@@ -220,7 +220,7 @@
 		<Id>tes-argonian-persons-female-tamrielic</Id>
 		<Name>Argonian male persons (tamrielic)</Name>
 		<Category>Argonian</Category>
-		<Schema>{randomiser, ,4,32,tes-argonian-persons-male-tamrielic}</Schema>
+		<Schema>{randomiser, ,4,32,tes-argonian-persons-female-tamrielic}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
 		<Id>tes-argonian-persons-male-tamrielic</Id>
@@ -233,6 +233,18 @@
 		<Name>Ayleid ruin names</Name>
 		<Category>Ayleid</Category>
 		<Schema>{markov,4,16,tes-ayleid-ruins}</Schema>
+	</GenerationSchemaEntity>
+	<GenerationSchemaEntity>
+		<Id>tes-khajiit-persons-female</Id>
+		<Name>Khajiit male persons</Name>
+		<Category>Khajiit</Category>
+		<Schema>{randomiser, ,4,32,tes-khajiit-persons-female}</Schema>
+	</GenerationSchemaEntity>
+	<GenerationSchemaEntity>
+		<Id>tes-khajiit-persons-male</Id>
+		<Name>Khajiit male persons</Name>
+		<Category>Khajiit</Category>
+		<Schema>{randomiser, ,4,32,tes-khajiit-persons-male}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
 		<Id>hu-persons-male</Id>
