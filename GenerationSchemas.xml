@@ -69,6 +69,18 @@
 		<Schema>{randomiser, ,4,32,es-persons-female|es-persons-surnames}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
+		<Id>fr-persons-female</Id>
+		<Name>French female persons</Name>
+		<Category>French</Category>
+		<Schema>{randomiser, ,4,32,fr-persons-female|fr-persons-surnames}</Schema>
+	</GenerationSchemaEntity>
+	<GenerationSchemaEntity>
+		<Id>fr-persons-male</Id>
+		<Name>French male persons</Name>
+		<Category>French</Category>
+		<Schema>{randomiser, ,4,32,fr-persons-male|fr-persons-surnames}</Schema>
+	</GenerationSchemaEntity>
+	<GenerationSchemaEntity>
 		<Id>hi-persons-male</Id>
 		<Name>Hindi male persons</Name>
 		<Category>Hindi</Category>
