@@ -21,6 +21,18 @@
 		<Schema>{randomiser, ,4,32,de-persons-female|de-persons-surname}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
+		<Id>es-persons-male</Id>
+		<Name>Spanish male persons</Name>
+		<Category>Spanish</Category>
+		<Schema>{randomiser, ,4,32,es-persons-male|es-persons-surnames}</Schema>
+	</GenerationSchemaEntity>
+	<GenerationSchemaEntity>
+		<Id>es-persons-female</Id>
+		<Name>Spanish female persons</Name>
+		<Category>Spanish</Category>
+		<Schema>{randomiser, ,4,32,es-persons-female|es-persons-surnames}</Schema>
+	</GenerationSchemaEntity>
+	<GenerationSchemaEntity>
 		<Id>it-persons-male</Id>
 		<Name>Italian male persons</Name>
 		<Category>Italian</Category>
