@@ -33,6 +33,18 @@
 		<Schema>{randomiser, ,4,32,de-persons-female|de-persons-surname}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
+		<Id>en-persons-male</Id>
+		<Name>English male persons</Name>
+		<Category>English</Category>
+		<Schema>{randomiser, ,4,32,en-persons-male|en-persons-surnames}</Schema>
+	</GenerationSchemaEntity>
+	<GenerationSchemaEntity>
+		<Id>en-persons-female</Id>
+		<Name>English female persons</Name>
+		<Category>English</Category>
+		<Schema>{randomiser, ,4,32,en-persons-female|en-persons-surnames}</Schema>
+	</GenerationSchemaEntity>
+	<GenerationSchemaEntity>
 		<Id>es-persons-male</Id>
 		<Name>Spanish male persons</Name>
 		<Category>Spanish</Category>
