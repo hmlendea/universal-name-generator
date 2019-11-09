@@ -356,6 +356,49 @@
 		<Schema>{randomiser, ,4,32,som-persons-male|som-persons-surnames}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
+		<Id>starcraft-protoss-persons-female-khalai</Id>
+		<Name>Khalai Protoss male persons</Name>
+		<Category>Protoss</Category>
+		<Schema>{randomiser, ,4,32,starcraft-protoss-persons-female-khalai}</Schema>
+	</GenerationSchemaEntity>
+	<GenerationSchemaEntity>
+		<Id>starcraft-protoss-persons-male-khalai</Id>
+		<Name>Khalai Protoss male persons</Name>
+		<Category>Protoss</Category>
+		<Schema>{randomiser, ,4,32,starcraft-protoss-persons-male-khalai}</Schema>
+	</GenerationSchemaEntity>
+	<GenerationSchemaEntity>
+		<Id>starcraft-protoss-persons-female-nerazim</Id>
+		<Name>Nerazim Protoss male persons</Name>
+		<Category>Protoss</Category>
+		<Schema>{randomiser, ,4,32,starcraft-protoss-persons-female-nerazim}</Schema>
+	</GenerationSchemaEntity>
+	<GenerationSchemaEntity>
+		<Id>starcraft-protoss-persons-male-nerazim</Id>
+		<Name>Nerazim Protoss male persons</Name>
+		<Category>Protoss</Category>
+		<Schema>{randomiser, ,4,32,starcraft-protoss-persons-male-nerazim}</Schema>
+	</GenerationSchemaEntity>
+	<GenerationSchemaEntity>
+		<Id>starcraft-protoss-persons-female-taldarim</Id>
+		<Name>Tal'darim Protoss male persons</Name>
+		<Category>Protoss</Category>
+		<Schema>{randomiser, ,4,32,starcraft-protoss-persons-female-taldarim}</Schema>
+	</GenerationSchemaEntity>
+	<GenerationSchemaEntity>
+		<Id>starcraft-protoss-persons-male-taldarim</Id>
+		<Name>Tal'darim Protoss male persons</Name>
+		<Category>Protoss</Category>
+		<Schema>{randomiser, ,4,32,starcraft-protoss-persons-male-taldarim}</Schema>
+	</GenerationSchemaEntity>
+	<GenerationSchemaEntity>
+		<Id>dacian-settlements</Id>
+		<Name>Dacian settlement names (Procedurally generated)</Name>
+		<Category>Dacian</Category>
+		<FilterlistPath>dacian-settlements-filters</FilterlistPath>
+		<Schema>{markov,4,20,dacian-settlements}</Schema>
+	</GenerationSchemaEntity>
+	<GenerationSchemaEntity>
 		<Id>swe-persons-female</Id>
 		<Name>Swedish female persons</Name>
 		<Category>Swedish</Category>
@@ -378,13 +421,6 @@
 		<Name>Turkish male persons</Name>
 		<Category>Turkish</Category>
 		<Schema>{randomiser, ,4,32,tur-persons-male|tur-persons-surnames}</Schema>
-	</GenerationSchemaEntity>
-	<GenerationSchemaEntity>
-		<Id>dacian-settlements</Id>
-		<Name>Dacian settlement names (Procedurally generated)</Name>
-		<Category>Dacian</Category>
-		<FilterlistPath>dacian-settlements-filters</FilterlistPath>
-		<Schema>{markov,4,20,dacian-settlements}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
 		<Id>dacian-settlements-real</Id>
