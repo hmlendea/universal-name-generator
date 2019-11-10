@@ -33,6 +33,18 @@
 		<Schema>{randomiser, ,4,32,it-persons-females|it-persons-surnames}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
+		<Id>pl-persons-female</Id>
+		<Name>Polish female persons</Name>
+		<Category>Polish</Category>
+		<Schema>{randomiser, ,4,32,pl-persons-female|pl-persons-surnames}</Schema>
+	</GenerationSchemaEntity>
+	<GenerationSchemaEntity>
+		<Id>pl-persons-male</Id>
+		<Name>Polish male persons</Name>
+		<Category>Polish</Category>
+		<Schema>{randomiser, ,4,32,pl-persons-male|pl-persons-surnames}</Schema>
+	</GenerationSchemaEntity>
+	<GenerationSchemaEntity>
 		<Id>ro-colours</Id>
 		<Name>Romanian colours names</Name>
 		<Schema>{markov,4,16,ro-colours}</Schema>
