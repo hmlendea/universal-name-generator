@@ -459,9 +459,21 @@
 		<Schema>{randomiser,,6,12,rodah-persons-males-bases|rodah-persons-males-endings}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
+		<Id>tes-altmer-persons-female</Id>
+		<Name>Altmer male persons</Name>
+		<Category>Elder Scrolls</Category>
+		<Schema>{randomiser, ,4,32,tes-altmer-persons-female|tes-altmer-persons-surnames}</Schema>
+	</GenerationSchemaEntity>
+	<GenerationSchemaEntity>
+		<Id>tes-altmer-persons-male</Id>
+		<Name>Altmer male persons</Name>
+		<Category>Elder Scrolls</Category>
+		<Schema>{randomiser, ,4,32,tes-altmer-persons-male|tes-altmer-persons-surnames}</Schema>
+	</GenerationSchemaEntity>
+	<GenerationSchemaEntity>
 		<Id>tes-argonian-persons-female</Id>
 		<Name>Argonian male persons</Name>
-		<Category>Argonian</Category>
+		<Category>Elder Scrolls</Category>
 		<Schema>{randomiser, ,4,32,tes-argonian-persons-female-hyphenated}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
@@ -473,55 +485,55 @@
 	<GenerationSchemaEntity>
 		<Id>tes-argonian-persons-female-singleword</Id>
 		<Name>Argonian male persons (single-word)</Name>
-		<Category>Argonian</Category>
+		<Category>Elder Scrolls</Category>
 		<Schema>{randomiser, ,4,32,tes-argonian-persons-female-singleword}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
 		<Id>tes-argonian-persons-male-singleword</Id>
 		<Name>Argonian male persons (single-word)</Name>
-		<Category>Argonian</Category>
+		<Category>Elder Scrolls</Category>
 		<Schema>{randomiser, ,4,32,tes-argonian-persons-male-singleword}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
 		<Id>tes-argonian-persons-female-tamrielic</Id>
 		<Name>Argonian male persons (tamrielic)</Name>
-		<Category>Argonian</Category>
+		<Category>Elder Scrolls</Category>
 		<Schema>{randomiser, ,4,32,tes-argonian-persons-female-tamrielic}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
 		<Id>tes-argonian-persons-male-tamrielic</Id>
 		<Name>Argonian male persons (tamrielic)</Name>
-		<Category>Argonian</Category>
+		<Category>Elder Scrolls</Category>
 		<Schema>{randomiser, ,4,32,tes-argonian-persons-male-tamrielic}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
 		<Id>tes-ayleid-ruins</Id>
 		<Name>Ayleid ruin names</Name>
-		<Category>Ayleid</Category>
+		<Category>Elder Scrolls</Category>
 		<Schema>{markov,4,16,tes-ayleid-ruins}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
 		<Id>tes-khajiit-persons-female</Id>
 		<Name>Khajiit male persons</Name>
-		<Category>Khajiit</Category>
+		<Category>Elder Scrolls</Category>
 		<Schema>{randomiser, ,4,32,tes-khajiit-persons-female}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
 		<Id>tes-khajiit-persons-male</Id>
 		<Name>Khajiit male persons</Name>
-		<Category>Khajiit</Category>
+		<Category>Elder Scrolls</Category>
 		<Schema>{randomiser, ,4,32,tes-khajiit-persons-male}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
 		<Id>tes-orc-persons-female</Id>
 		<Name>Orc male persons</Name>
-		<Category>Orc</Category>
+		<Category>Elder Scrolls</Category>
 		<Schema>{randomiser, ,4,32,tes-orc-persons-female} gra-{randomiser, ,4,32,tes-orc-persons-surnames}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
 		<Id>tes-orc-persons-male</Id>
 		<Name>Orc male persons</Name>
-		<Category>Orc</Category>
+		<Category>Elder Scrolls</Category>
 		<Schema>{randomiser, ,4,32,tes-orc-persons-male} gro-{randomiser, ,4,32,tes-orc-persons-surnames}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
