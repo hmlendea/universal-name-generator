@@ -33,7 +33,8 @@ Bożewicki
 Brabantski
 Brośniowski
 Bukowski
-Bułajewski,Celejewski
+Bułajewski
+Celejewski
 Celejowski
 Celgowski
 Celigowski
@@ -259,7 +260,7 @@ Nożowski
 Nurzyński
 Obelt
 Okolski
-Okólski z Okoła
+Okólski
 Ołdak
 Ołdakowski
 Olęcki
