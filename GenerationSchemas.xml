@@ -273,6 +273,18 @@
 		<Schema>{randomiser, ,4,32,ru-persons-male|ru-persons-surnames}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
+		<Id>som-persons-female</Id>
+		<Name>Somali female persons</Name>
+		<Category>Somali</Category>
+		<Schema>{randomiser, ,4,32,som-persons-female|som-persons-surnames}</Schema>
+	</GenerationSchemaEntity>
+	<GenerationSchemaEntity>
+		<Id>som-persons-male</Id>
+		<Name>Somali male persons</Name>
+		<Category>Somali</Category>
+		<Schema>{randomiser, ,4,32,som-persons-male|som-persons-surnames}</Schema>
+	</GenerationSchemaEntity>
+	<GenerationSchemaEntity>
 		<Id>swe-persons-female</Id>
 		<Name>Swedish female persons</Name>
 		<Category>Swedish</Category>
