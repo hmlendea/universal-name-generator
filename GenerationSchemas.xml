@@ -273,6 +273,18 @@
 		<Schema>{randomiser, ,4,32,ru-persons-male|ru-persons-surnames}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
+		<Id>tur-persons-female</Id>
+		<Name>Turkish female persons</Name>
+		<Category>Turkish</Category>
+		<Schema>{randomiser, ,4,32,tur-persons-female|tur-persons-surnames}</Schema>
+	</GenerationSchemaEntity>
+	<GenerationSchemaEntity>
+		<Id>tur-persons-male</Id>
+		<Name>Turkish male persons</Name>
+		<Category>Turkish</Category>
+		<Schema>{randomiser, ,4,32,tur-persons-male|tur-persons-surnames}</Schema>
+	</GenerationSchemaEntity>
+	<GenerationSchemaEntity>
 		<Id>dacian-settlements</Id>
 		<Name>Dacian settlement names (Procedurally generated)</Name>
 		<Category>Dacian</Category>
