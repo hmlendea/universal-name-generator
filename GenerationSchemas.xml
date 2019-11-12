@@ -81,6 +81,18 @@
 		<Schema>{randomiser, ,4,32,fr-persons-male|fr-persons-surnames}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
+		<Id>gre-persons-female</Id>
+		<Name>Greek female persons</Name>
+		<Category>Greek</Category>
+		<Schema>{randomiser, ,4,32,gre-persons-female|gre-persons-surnames}</Schema>
+	</GenerationSchemaEntity>
+	<GenerationSchemaEntity>
+		<Id>gre-persons-male</Id>
+		<Name>Greek male persons</Name>
+		<Category>Greek</Category>
+		<Schema>{randomiser, ,4,32,gre-persons-male|gre-persons-surnames}</Schema>
+	</GenerationSchemaEntity>
+	<GenerationSchemaEntity>
 		<Id>hi-persons-male</Id>
 		<Name>Hindi male persons</Name>
 		<Category>Hindi</Category>
