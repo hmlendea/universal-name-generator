@@ -31,6 +31,18 @@
 		<Schema>{randomiser, ,4,32,cn-persons-female|cn-persons-surnames}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
+		<Id>cym-persons-female</Id>
+		<Name>Welsh female persons</Name>
+		<Category>Welsh</Category>
+		<Schema>{randomiser, ,4,32,cym-persons-female|cym-persons-surnames}</Schema>
+	</GenerationSchemaEntity>
+	<GenerationSchemaEntity>
+		<Id>cym-persons-male</Id>
+		<Name>Welsh male persons</Name>
+		<Category>Welsh</Category>
+		<Schema>{randomiser, ,4,32,cym-persons-male|cym-persons-surnames}</Schema>
+	</GenerationSchemaEntity>
+	<GenerationSchemaEntity>
 		<Id>de-persons-male</Id>
 		<Name>German male persons</Name>
 		<Category>German</Category>
