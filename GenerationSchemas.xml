@@ -129,6 +129,18 @@
 		<Schema>{randomiser, ,4,32,jp-persons-female|jp-persons-surnames}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
+		<Id>nld-persons-female</Id>
+		<Name>Dutch female persons</Name>
+		<Category>Dutch</Category>
+		<Schema>{randomiser, ,4,32,nld-persons-female|nld-persons-surnames}</Schema>
+	</GenerationSchemaEntity>
+	<GenerationSchemaEntity>
+		<Id>nld-persons-male</Id>
+		<Name>Dutch male persons</Name>
+		<Category>Dutch</Category>
+		<Schema>{randomiser, ,4,32,nld-persons-male|nld-persons-surnames}</Schema>
+	</GenerationSchemaEntity>
+	<GenerationSchemaEntity>
 		<Id>pl-persons-female</Id>
 		<Name>Polish female persons</Name>
 		<Category>Polish</Category>
