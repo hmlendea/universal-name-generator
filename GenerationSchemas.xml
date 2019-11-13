@@ -81,6 +81,18 @@
 		<Schema>{randomiser, ,4,32,fr-persons-male|fr-persons-surnames}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
+		<Id>gle-persons-female</Id>
+		<Name>Irish female persons</Name>
+		<Category>Irish</Category>
+		<Schema>{randomiser, ,4,32,gle-persons-female|gle-persons-surnames}</Schema>
+	</GenerationSchemaEntity>
+	<GenerationSchemaEntity>
+		<Id>gle-persons-male</Id>
+		<Name>Irish male persons</Name>
+		<Category>Irish</Category>
+		<Schema>{randomiser, ,4,32,gle-persons-male|gle-persons-surnames}</Schema>
+	</GenerationSchemaEntity>
+	<GenerationSchemaEntity>
 		<Id>gre-persons-female</Id>
 		<Name>Greek female persons</Name>
 		<Category>Greek</Category>
