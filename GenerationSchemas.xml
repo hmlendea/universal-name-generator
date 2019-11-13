@@ -153,6 +153,18 @@
 		<Schema>{randomiser, ,4,32,jp-persons-female|jp-persons-surnames}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
+		<Id>mri-persons-female</Id>
+		<Name>Maori female persons</Name>
+		<Category>Maori</Category>
+		<Schema>{randomiser, ,4,32,mri-persons-female|mri-persons-surnames}</Schema>
+	</GenerationSchemaEntity>
+	<GenerationSchemaEntity>
+		<Id>mri-persons-male</Id>
+		<Name>Maori male persons</Name>
+		<Category>Maori</Category>
+		<Schema>{randomiser, ,4,32,mri-persons-male|mri-persons-surnames}</Schema>
+	</GenerationSchemaEntity>
+	<GenerationSchemaEntity>
 		<Id>nld-persons-female</Id>
 		<Name>Dutch female persons</Name>
 		<Category>Dutch</Category>
