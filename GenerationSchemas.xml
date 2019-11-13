@@ -117,6 +117,18 @@
 		<Schema>{randomiser, ,4,32,hi-persons-female|hi-persons-surnames}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
+		<Id>ind-persons-female</Id>
+		<Name>Indonesian female persons</Name>
+		<Category>Indonesian</Category>
+		<Schema>{randomiser, ,4,32,ind-persons-female|ind-persons-surnames}</Schema>
+	</GenerationSchemaEntity>
+	<GenerationSchemaEntity>
+		<Id>ind-persons-male</Id>
+		<Name>Indonesian male persons</Name>
+		<Category>Indonesian</Category>
+		<Schema>{randomiser, ,4,32,ind-persons-male|ind-persons-surnames}</Schema>
+	</GenerationSchemaEntity>
+	<GenerationSchemaEntity>
 		<Id>it-persons-male</Id>
 		<Name>Italian male persons</Name>
 		<Category>Italian</Category>
