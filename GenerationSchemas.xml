@@ -93,6 +93,18 @@
 		<Schema>{randomiser, ,4,32,gre-persons-male|gre-persons-surnames}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
+		<Id>hau-persons-female</Id>
+		<Name>Hausa female persons</Name>
+		<Category>Hausa</Category>
+		<Schema>{randomiser, ,4,32,hau-persons-female|hau-persons-surnames}</Schema>
+	</GenerationSchemaEntity>
+	<GenerationSchemaEntity>
+		<Id>hau-persons-male</Id>
+		<Name>Hausa male persons</Name>
+		<Category>Hausa</Category>
+		<Schema>{randomiser, ,4,32,hau-persons-male|hau-persons-surnames}</Schema>
+	</GenerationSchemaEntity>
+	<GenerationSchemaEntity>
 		<Id>hi-persons-male</Id>
 		<Name>Hindi male persons</Name>
 		<Category>Hindi</Category>
