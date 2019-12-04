@@ -1,8 +1,8 @@
-
 Adela
 Adelina
 Adina
 Adriana
+Afrodita
 Agneta
 Alexandra
 Alina
@@ -31,9 +31,9 @@ Camelia
 Carina
 Carla
 Carmen
-Cătălina
 Catinca
 Catița
+Cătălina
 Clara
 Claudia
 Codrina
@@ -50,8 +50,8 @@ Daliana
 Dalina
 Dana
 Daniela
-Dănuța
 Daria
+Dănuța
 Delia
 Denisa
 Diana
@@ -113,7 +113,6 @@ Luciana
 Lucreția
 Luiza
 Luminița
-Mădălina
 Magda
 Magdalena
 Maia
@@ -128,10 +127,11 @@ Marilena
 Marina
 Marinela
 Marioara
-Mărioara
 Marișca
-Măriuca
 Marta
+Mădălina
+Mărioara
+Măriuca
 Melania
 Melisa
 Mihaela
@@ -184,9 +184,9 @@ Simona
 Sofia
 Sonia
 Sorina
+Stela
 Ștefana
 Ștefania
-Stela
 Tamara
 Tatiana
 Teodora
@@ -197,5 +197,6 @@ Veronica
 Victoria
 Viorica
 Voichița
+Zamfira
 Zeina
 Zoia
