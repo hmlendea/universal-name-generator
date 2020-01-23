@@ -550,4 +550,10 @@
 		<FilterlistPath>hu-persons-filters</FilterlistPath>
 		<Schema>{randomiser, ,4,32,hu-persons-females|hu-persons-surnames}</Schema>
 	</GenerationSchemaEntity>
+	<GenerationSchemaEntity>
+		<Id>ypp-ships</Id>
+		<Name>Yohoho! Puzzle Pirates ships</Name>
+		<Category>Yohoho! Puzzle Pirates</Category>
+		<Schema>{randomiser, ,4,32,ypp-ships-adjectives|ypp-ships-fishes}</Schema>
+	</GenerationSchemaEntity>
 </ArrayOfGenerationSchemaEntity>
