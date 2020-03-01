@@ -62,6 +62,7 @@ Dragoș
 Dumitru
 Eduard
 Eftimie
+Elian
 Eliodor
 Emanuel
 Emanuil
@@ -221,6 +222,7 @@ Traian
 Tudor
 Vadim
 Valentin
+Valer
 Valerian
 Valeriu
 Vasile
