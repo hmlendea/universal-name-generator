@@ -356,39 +356,39 @@
 		<Schema>{randomiser, ,4,32,som-persons-male|som-persons-surnames}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
-		<Id>starcraft-protoss-persons-female-khalai</Id>
+		<Id>protoss-persons-female-khalai</Id>
 		<Name>Khalai Protoss male persons</Name>
-		<Category>Protoss</Category>
+		<Category>StarCraft</Category>
 		<Schema>{randomiser, ,4,32,starcraft-protoss-persons-female-khalai}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
-		<Id>starcraft-protoss-persons-male-khalai</Id>
+		<Id>protoss-persons-male-khalai</Id>
 		<Name>Khalai Protoss male persons</Name>
-		<Category>Protoss</Category>
+		<Category>StarCraft</Category>
 		<Schema>{randomiser, ,4,32,starcraft-protoss-persons-male-khalai}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
-		<Id>starcraft-protoss-persons-female-nerazim</Id>
+		<Id>protoss-persons-female-nerazim</Id>
 		<Name>Nerazim Protoss male persons</Name>
-		<Category>Protoss</Category>
+		<Category>StarCraft</Category>
 		<Schema>{randomiser, ,4,32,starcraft-protoss-persons-female-nerazim}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
-		<Id>starcraft-protoss-persons-male-nerazim</Id>
+		<Id>protoss-persons-male-nerazim</Id>
 		<Name>Nerazim Protoss male persons</Name>
-		<Category>Protoss</Category>
+		<Category>StarCraft</Category>
 		<Schema>{randomiser, ,4,32,starcraft-protoss-persons-male-nerazim}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
-		<Id>starcraft-protoss-persons-female-taldarim</Id>
+		<Id>protoss-persons-female-taldarim</Id>
 		<Name>Tal'darim Protoss male persons</Name>
-		<Category>Protoss</Category>
+		<Category>StarCraft</Category>
 		<Schema>{randomiser, ,4,32,starcraft-protoss-persons-female-taldarim}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
-		<Id>starcraft-protoss-persons-male-taldarim</Id>
+		<Id>protoss-persons-male-taldarim</Id>
 		<Name>Tal'darim Protoss male persons</Name>
-		<Category>Protoss</Category>
+		<Category>StarCraft</Category>
 		<Schema>{randomiser, ,4,32,starcraft-protoss-persons-male-taldarim}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
