@@ -29,6 +29,7 @@ Alupoaiei
 Aluței
 Amânar
 Amariei
+Amariței
 Ambrozie
 Amironesei
 Anania
@@ -64,6 +65,7 @@ Ardeleanu
 Arghezi
 Arghir
 Argintaru
+Arimia
 Armășelu
 Armașu
 Aslan
@@ -117,6 +119,7 @@ Balint
 Balițiu
 Băloiu
 Balomirean
+Balș
 Baltag
 Baltagă
 Ban
@@ -183,6 +186,7 @@ Berceanu
 Berciu
 Berdilă
 Berea
+Berecleanu
 Berenghi
 Berescu
 Berinde
@@ -270,6 +274,7 @@ Bondăraș
 Bondor
 Bonea
 Bonta
+Borca
 Bordea
 Bordean
 Borha
@@ -325,6 +330,7 @@ Briciu
 Brînza
 Brînzeu
 Briscan
+Broșteanu
 Brozbă
 Brujan
 Bruma
@@ -371,6 +377,7 @@ Bunău
 Bunea
 Bunge
 Bungețeanu
+Buravic
 Burcă
 Burciu
 Buric
@@ -437,11 +444,13 @@ Cantemir
 Capet
 Capră
 Căpraru
+Căpșună
 Cărăbăț
 Caraciobanu
 Carafoi
 Caragiale
 Cărăian
+Caraiman
 Caraion
 Cărămidaru
 Caramitru
@@ -517,6 +526,7 @@ Chiuariu
 Chivu
 Chivulescu
 Cibotaru
+Cicâldău
 Cicu
 Cifor
 Cîmpan
@@ -592,6 +602,7 @@ Cleopa
 Clinci
 Cloanda
 Coandă
+Coarnă
 Cobe
 Coca
 Cocan
@@ -617,6 +628,7 @@ Cojocean
 Colac
 Colan
 Colceriu
+Coldea
 Colta
 Coman
 Comăneci
@@ -736,6 +748,7 @@ Cumpănas
 Cumpănașu
 Cupcea
 Curagău
+Curcubeu
 Curculescu
 Curea
 Curelaru
@@ -747,11 +760,13 @@ Dâlca
 Dâlcă
 Damian
 Danciu
+Daneliuc
 Daneș
 Dărăban
 Darida
 Dârjan
 Dârlău
+Dărvășan
 Dascăl
 Dăscălescu
 Dascălu
@@ -802,6 +817,7 @@ Dobrița
 Dobriță
 Dobrogeanu
 Dobrotă
+Dobrovicescu
 Doga
 Dogaru
 Doinea
@@ -846,6 +862,7 @@ Dudaș
 Dudău
 Dudric
 Duică
+Duicu
 Dulfu
 Dulgheru
 Duma
@@ -879,10 +896,12 @@ Făgădău
 Faiciuc
 Fânaru
 Fărăgău
+Fărâmă
 Farcaș
 Fărcaș
 Fărcășanu
 Farcașianu
+Fărîmă
 Fâșie
 Faur
 Fecioru
@@ -979,6 +998,8 @@ Geamănă
 Geantă
 Geoana
 Georgescu
+Georgiu
+Ghejan
 Ghena
 Ghencean
 Ghenghe
@@ -1009,6 +1030,7 @@ Ghitu
 Ghiu
 Ghiurco
 Ghiurea
+Ghizdeanu
 Gican
 Gigină
 Gilăuan
@@ -1032,6 +1054,7 @@ Godeanu
 Godiac
 Goga
 Gogean
+Goger
 Goia
 Goian
 Goie
@@ -1274,6 +1297,7 @@ Lipa
 Lipan
 Litescu
 Lițiu
+Livescu
 Loghiade
 Loghin
 Loteanu
@@ -1322,11 +1346,13 @@ Malarciuc
 Mălin
 Mălinaș
 Mălureanu
+Măluțan
 Mamot
 Man
 Mănăstire
 Manda
 Mândâcanu
+Mandanac
 Măndiță
 Mândru
 Mândruleanu
@@ -1361,6 +1387,7 @@ Mărincaș
 Marinescu
 Marișca
 Măriuț
+Mărmureanu
 Martinescu
 Marton
 Mârza
@@ -1384,6 +1411,7 @@ Megheșan
 Mehedinți
 Meiroșu
 Melencu
+Melian
 Melinescu
 Melnic
 Melniciuc
@@ -1431,6 +1459,7 @@ Mihuța
 Mija
 Milcu
 Milea
+Milenceanu
 Milescu
 Militaru
 Mincu
@@ -1575,6 +1604,7 @@ Nestor
 Nica
 Nichițescu
 Nicoară
+Nicodin
 Nicolae
 Nicolăescu
 Nicolaie
@@ -1620,6 +1650,7 @@ Ologu
 Olos
 Oltean
 Olteanu
+Onac
 Onaciu
 Oncescu
 Oncioiu
@@ -1633,6 +1664,7 @@ Onofrei
 Onogea
 Oprea
 Oprescu
+Oprina
 Opriș
 Oprișa
 Oproiu
@@ -1644,6 +1676,8 @@ Oros
 Oroșanu
 Orz
 Orza
+Osaci
+Oțel
 Păcățian
 Paciurea
 Păcurar
@@ -1789,6 +1823,7 @@ Platon
 Pleșa
 Pleșu
 Pletea
+Plier
 Ploieșteanu
 Plotuna
 Plugaru
@@ -1830,6 +1865,7 @@ Potcovaru
 Poteraș
 Potinteu
 Potop
+Potoran
 Potrajcu
 Prahovean
 Prahoveanu
@@ -1864,6 +1900,7 @@ Puia
 Puiu
 Pupăză
 Purcar
+Purcărescu
 Purdea
 Purge
 Puscaș
@@ -1903,6 +1940,7 @@ Rarău
 Rasica
 Raț
 Rațiu
+Rățoi
 Răuț
 Rebengiuc
 Rebreanu
@@ -1943,6 +1981,7 @@ Runcan
 Rurac
 Rus
 Rusescu
+Rusnac
 Rusu
 Sabău
 Saca
@@ -1998,6 +2037,7 @@ Scrobota
 Scurtu
 Scurtuț
 Scutaru
+Scutea
 Sebeștean
 Sebestin
 Secelean
@@ -2008,6 +2048,7 @@ Selejan
 Șendrea
 Șerban
 Șerbănescu
+Șerbu
 Șerbușcă
 Șercan
 Sereiduc
@@ -2134,6 +2175,7 @@ Suciu
 Sudan
 Surdu
 Surugiu
+Șușman
 Șutu
 Tabără
 Tabarcea
@@ -2216,6 +2258,7 @@ Tirpe
 Tișe
 Tismăneanu
 Țițeica
+Titieni
 Titulescu
 Tivadar
 Toader
@@ -2261,6 +2304,7 @@ Trombițaș
 Trufan
 Truică
 Truță
+Tucă
 Tuchilatu
 Țucudean
 Tudor
@@ -2298,6 +2342,7 @@ Udrea
 Udriște
 Uifălean
 Uifăleanu
+Ulici
 Ungur
 Ungureanu
 Ungurescu
@@ -2364,6 +2409,7 @@ Veștea
 Vianu
 Vidican
 Vidrean
+Vienescu
 Vieru
 Vija
 Vijulie
@@ -2381,6 +2427,8 @@ Vladimirescu
 Vladu
 Vlăduceanu
 Vlăducu
+Vlăduleanu
+Vlăduț
 Vlăduțescu
 Vlah
 Vlahuță
