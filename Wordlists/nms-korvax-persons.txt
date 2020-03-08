@@ -16,6 +16,7 @@ Hat
 Hodimirn
 Iaetsky
 Irnozavol
+Keytar
 Lidaniatie
 Lomar
 Mays
@@ -39,6 +40,7 @@ Telasha
 Tiiakh
 Tovo
 Ugurustop
+Uktya
 Uzlov
 Vickievel
 Viybori
