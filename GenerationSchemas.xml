@@ -201,6 +201,30 @@
 		<Schema>{randomiser, ,4,32,nld-persons-male|nld-persons-surnames}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
+		<Id>nms-gek-persons</Id>
+		<Name>No Man's Sky Gek persons</Name>
+		<Category>No Man's Sky</Category>
+		<Schema>{randomiser,,4,32,nms-gek-persons}</Schema>
+	</GenerationSchemaEntity>
+	<GenerationSchemaEntity>
+		<Id>nms-korvax-persons</Id>
+		<Name>No Man's Sky Korvax persons</Name>
+		<Category>No Man's Sky</Category>
+		<Schema>{randomiser,,4,32,nms-korvax-persons}</Schema>
+	</GenerationSchemaEntity>
+	<GenerationSchemaEntity>
+		<Id>nms-traveller-persons</Id>
+		<Name>No Man's Sky Traveller persons</Name>
+		<Category>No Man's Sky</Category>
+		<Schema>{randomiser,,4,32,nms-traveller-persons}</Schema>
+	</GenerationSchemaEntity>
+	<GenerationSchemaEntity>
+		<Id>nms-vykeen-persons</Id>
+		<Name>No Man's Sky Vy'keen persons</Name>
+		<Category>No Man's Sky</Category>
+		<Schema>{randomiser,,4,32,nms-vyleen-persons}</Schema>
+	</GenerationSchemaEntity>
+	<GenerationSchemaEntity>
 		<Id>pl-persons-female</Id>
 		<Name>Polish female persons</Name>
 		<Category>Polish</Category>
