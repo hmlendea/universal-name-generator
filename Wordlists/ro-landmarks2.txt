@@ -524,6 +524,7 @@ de Fier_OfIron
 de Fildeș_OfIvory
 de Foc_OfFire
 de Frontieră_AtTheBorder
+de Gheață_OfIce
 de Graniță_AtTheBorder
 de Hotar_AtTheBorder
 de Început_AtTheBorder
