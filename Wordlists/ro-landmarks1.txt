@@ -102,6 +102,8 @@ Crestele_Ridge
 Creștetul_Summit
 Crevasa_Crevasse
 Crevasele_Crevasse
+Crusta_Crust
+Crustele_Crust
 Culmea_Summit
 Culmile_Summit
 Culoarele_Valley
