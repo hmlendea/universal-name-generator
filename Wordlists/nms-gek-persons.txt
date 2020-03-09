@@ -1,3 +1,4 @@
+Bare
 Buhlaus
 Cocesskur
 Dikorretli
@@ -7,10 +8,13 @@ Histne
 Imuse
 Inding
 Kus
+Leftaln
 Lel
+Nesep
 Obssolvel
 Ojen
 Okningd
+Pelinniso
 Popipol
 Rarkun
 Redenthank
@@ -19,6 +23,7 @@ Retar
 Ribajaroar
 Rumiddela
 Teyru
+Tuysvalag
 Uce
 Uks
 Yohte
