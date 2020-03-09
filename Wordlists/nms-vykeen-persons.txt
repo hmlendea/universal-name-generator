@@ -23,6 +23,7 @@ Oglia
 Onya
 Orruorep
 Orteb
+Osh
 Qidonogor
 Sanc
 Suk
@@ -32,5 +33,6 @@ Ulengc
 Untaoya
 Wahngend
 Xagqoidek
+Yaw
 Yorxung
 Zengbash
