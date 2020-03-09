@@ -305,7 +305,7 @@
 		<Name>Romanian mineral names</Name>
 		<Category>Romanian</Category>
 		<FilterlistPath>ro-minerals-filters</FilterlistPath>
-		<Schema>{markov,4,20,ro-minerals}</Schema>
+		<Schema>{markov,4,16,ro-minerals}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
 		<Id>ro-plants</Id>
