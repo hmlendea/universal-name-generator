@@ -241,6 +241,8 @@ Brutală_Brutal
 Brutale_Brutal
 Brutali_Brutal
 Brute_Rough
+Brutei_OfTheBrute
+Brutelor_OfTheBrute
 Bruți_Rough
 Buclat_Curly
 Buclată_Curly
@@ -538,6 +540,10 @@ de Lut_OfClay
 de Margine_AtTheBorder
 de Metal_OfMetal
 de Mijloc_Central
+de mult uitat_LongForgotten
+de mult uitată_LongForgotten
+de mult uitate_LongForgotten
+de mult uitați_LongForgotten
 de Nisip_OfSand
 de Nord_Northern
 de Oțel_OfSteel
@@ -1229,6 +1235,7 @@ Magnific_Magnificent
 Magnifică_Magnificent
 Magnifice_Magnificent
 Magnifici_Magnificent
+Maicii Domnului_OfVirginMary
 Maiestuoasă_Majestic
 Maiestuoși_Majestic
 Majestic_Majestic
@@ -1391,6 +1398,10 @@ Nămolos_Muddy
 Nămoloși_Muddy
 Năpastei_OfBlight
 Năpastelor_OfBlight
+Năprasnic_Terrible
+Năprasnică_Terrible
+Năprasnice_Terrible
+Năprasnici_Terrible
 Năruit_Ruined
 Năruită_Ruined
 Năruite_Ruined
@@ -1562,6 +1573,8 @@ Nobiliare_OfTheNoble
 Nobiliari_OfTheNoble
 Nobililor_OfTheNoble
 Noi_New
+Nopții_OfTheNight
+Nopților_OfTheNight
 Nordic_Nordic
 Nordică_Nordic
 Nordice_Nordic
@@ -2057,6 +2070,7 @@ Sfărmată_Shattered
 Sfărmate_Shattered
 Sfărmați_Shattered
 Sfinte_Holy
+Sfintei Mării_OfGod
 Sfinți_Holy
 Sihastră_Lonely
 Sihastre_Lonely
@@ -2446,6 +2460,7 @@ Viciilor_OfVice
 Viciului_OfVice
 Victoriei_OfVictory
 Vie_Alive
+Vieții_OfLife
 Viforatic_Stormy
 Viforatică_Stormy
 Viforatice_Stormy

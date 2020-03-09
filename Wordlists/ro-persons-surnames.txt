@@ -46,6 +46,7 @@ Anghelache
 Anghelescu
 Angheluța
 Angheluță
+Anisie
 Anițaș
 Aniței
 Antohie
@@ -139,6 +140,7 @@ Bărar
 Bărăscu
 Barbu
 Barbulescu
+Bărbuță
 Bărceanu
 Bărdășan
 Bârdea
@@ -170,6 +172,7 @@ Bejenar
 Bejenariu
 Beldean
 Belea
+Belean
 Beleanu
 Beleiu
 Belu
@@ -178,6 +181,7 @@ Bendea
 Bendeac
 Bengescu
 Bentoiu
+Berar
 Berbec
 Berbecu
 Berce
@@ -201,6 +205,7 @@ Bighiu
 Bihoreanu
 Bilăuș
 Bilescu
+Bindea
 Biolan
 Birău
 Birda
@@ -324,6 +329,7 @@ Breana
 Breban
 Brega
 Breharu
+Brehoi
 Brezeanu
 Bria
 Briciu
@@ -488,6 +494,7 @@ Cazimir
 Ceaușescu
 Cebotari
 Cec
+Cehan
 Celan
 Cenan
 Ceoban
@@ -503,6 +510,7 @@ Cernea
 Cetină
 Chelaru
 Chelu
+Cherteș
 Chesăuan
 Chețan
 Chiaburu
@@ -514,6 +522,7 @@ Chioran
 Chiorean
 Chira
 Chiriac
+Chirica
 Chirică
 Chirilă
 Chiru
@@ -630,6 +639,8 @@ Colan
 Colceriu
 Coldea
 Colta
+Colta
+Columban
 Coman
 Comăneci
 Comănescu
@@ -1168,6 +1179,7 @@ Iancu
 Ianculescu
 Iaru
 Ichim
+Ichim
 Iederan
 Ielcean
 Ienășoiu
@@ -1592,6 +1604,7 @@ Negru
 Negruț
 Negruțiu
 Negulescu
+Negulescu
 Negură
 Nemes
 Nemeș
@@ -1655,6 +1668,7 @@ Onaciu
 Oncescu
 Oncioiu
 Onea
+Onea
 Onicescu
 Onișor
 Onița
@@ -1677,6 +1691,7 @@ Oroșanu
 Orz
 Orza
 Osaci
+Oșan
 Oțel
 Păcățian
 Paciurea
@@ -1699,6 +1714,7 @@ Palega
 Paleologu
 Paler
 Paliga
+Pălimaru
 Pamfile
 Pamfilie
 Pană
@@ -1944,6 +1960,7 @@ Rățoi
 Răuț
 Rebengiuc
 Rebreanu
+Rebrișorean
 Reliu
 Reniță
 Resmeriță
@@ -2031,6 +2048,7 @@ Savonea
 Savu
 Săvulescu
 Sbârcea
+Scărlătescu
 Scărlătescu
 Scrob
 Scrobota
@@ -2192,6 +2210,7 @@ Tănase
 Tănăsescu
 Tănăsie
 Țânț
+Tanțău
 Țapu
 Târâlă
 Țăran
@@ -2230,11 +2249,13 @@ Tenișan
 Teocan
 Teodor
 Teodorescu
+Teodoriu
 Teodoru
 Terheș
 Testemițianu
 Teșu
 Theodorian
+Tibrea
 Tibrea
 Țică
 Țigănuș
@@ -2388,6 +2409,7 @@ Văran
 Varga
 Variu
 Varta
+Vârtosu
 Vârtosu
 Vasilache
 Vasile
