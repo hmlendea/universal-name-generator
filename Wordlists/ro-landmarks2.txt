@@ -462,10 +462,14 @@ cu Cicatrici_WithScars
 cu Crăpături_WithCracks
 cu Cratere_WithCraters
 cu Cruci_WithCrosses
+cu Deșeuri_WithTrash
 cu Fantasme_WithGhost
 cu Fantome_WithGhost
 cu Fosile_WithFossils
+cu Gunoaie_WithTrash
 cu Întreruperi_WithInterruptions
+cu Mizerie_WithDirt
+cu Moloz_WithRubble
 cu Noroc_WithLuck
 cu Pietre_WithRocks
 cu Podoabe_WithOrnaments
@@ -526,6 +530,7 @@ de Foc_OfFire
 de Frontieră_AtTheBorder
 de Gheață_OfIce
 de Graniță_AtTheBorder
+de Gunoi_OfTrash
 de Hotar_AtTheBorder
 de Început_AtTheBorder
 de Jos_Lower
@@ -1363,6 +1368,10 @@ Morților_OfTheDead
 Mortului_OfTheDead
 Moșilor_OfTheElder
 Moșului_OfTheElder
+Murdar_Dirty
+Murdară_Dirty
+Murdare_Dirty
+Murdari_Dirty
 Murg_DarkColoured
 Murgă_DarkColoured
 Murge_DarkColoured
@@ -2106,6 +2115,12 @@ Spulberat_Shattered
 Spulberată_Shattered
 Spulberate_Shattered
 Spulberați_Shattered
+Spurcăciunii_OfFilth
+Spurcăciunilor_OfFilth
+Spurcat_Filthy
+Spurcată_Filty
+Spurcate_Filthy
+Spurcați_Filthy
 Stafiei_OfTheGhost
 Stafiilor_OfTheGhost
 Stâncoasă_Rocky
