@@ -263,7 +263,7 @@
 		<Id>ro-flora</Id>
 		<Category>Romanian</Category>
 		<Name>Romanian flora species names</Name>
-		<Schema>{markov,4,16,ro-plants|ro-fruits|ro-flora-cereals|ro-flora-fungi|ro-flora-herbs|ro-flora-trees|ro-flora-fruits|ro-flora-vegetables|ro-flora-medicinal|ro-flora-flowers}</Schema>
+		<Schema>{markov,4,14,ro-plants|ro-fruits|ro-flora-cereals|ro-flora-fungi|ro-flora-herbs|ro-flora-trees|ro-flora-fruits|ro-flora-vegetables|ro-flora-medicinal|ro-flora-flowers|ro-flora-weeds}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
 		<Id>ro-flora-trees</Id>

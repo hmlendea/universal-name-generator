@@ -109,6 +109,7 @@
     <None Update="Wordlists\ro-flora-medicinal.txt"><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
     <None Update="Wordlists\ro-flora-trees.txt"><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
     <None Update="Wordlists\ro-flora-vegetables.txt"><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
+    <None Update="Wordlists\ro-flora-weeds.txt"><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
     <None Update="Wordlists\ro-fruits.txt"><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
     <None Update="Wordlists\ro-landmarks-filters.txt"><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
     <None Update="Wordlists\ro-landmarks1.txt"><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
