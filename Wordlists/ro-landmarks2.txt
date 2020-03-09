@@ -1208,6 +1208,10 @@ Lipicios_Sticky
 Lipicioși_Sticky
 Lipitorii_OfTheLeech
 Lipitorilor_OfTheLeech
+lovit de Vânt_Windswept
+lovită de Vânt_Windswept
+lovite de Vânt_Windswept
+loviți de Vânt_Windswept
 lui Dumnezeu_OfTheGod
 lui Satan_OfTheDevil
 lui Vodă_OfTheVoivode
