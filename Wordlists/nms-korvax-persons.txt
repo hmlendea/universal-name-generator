@@ -1,8 +1,14 @@
 Aibo
 Aloarkad
+Nayurty
 Asovet
 Avn
 Bashtark
+Tii
+Aishen
+Zehnoslu
+Sozavo
+Fitsiis
 Bul
 Buturom
 Domly
@@ -25,6 +31,7 @@ Halistreno
 Hat
 Hinogdan
 Hodimirn
+Hovishev
 Iaetsky
 Inskyv
 Irnozavol
@@ -44,6 +51,7 @@ Napay
 Neob
 Niyevoi
 Oarmanty
+Oetommuna
 Ols
 Otman
 Otsk
@@ -78,3 +86,8 @@ Yuby
 Yurbata
 Zavolgari
 Zehc
+Sudel
+Nevestv
+Yukhneu
+Rekhast
+Egtyabrsak
