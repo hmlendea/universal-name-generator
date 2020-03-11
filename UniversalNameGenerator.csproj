@@ -86,6 +86,7 @@
     <None Update="Wordlists\nld-persons-surnames.txt"><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
     <None Update="Wordlists\nms-gek-persons.txt"><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
     <None Update="Wordlists\nms-korvax-persons.txt"><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
+    <None Update="Wordlists\nms-planets.txt"><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
     <None Update="Wordlists\nms-traveller-persons.txt"><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
     <None Update="Wordlists\nms-vykeen-persons.txt"><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
     <None Update="Wordlists\pl-persons-female.txt"><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
