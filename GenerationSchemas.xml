@@ -213,6 +213,12 @@
 		<Schema>{randomiser,,4,32,nms-korvax-persons}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
+		<Id>nms-planets</Id>
+		<Name>No Man's Sky planets</Name>
+		<Category>No Man's Sky</Category>
+		<Schema>{randomiser,,4,32,nms-planets}</Schema>
+	</GenerationSchemaEntity>
+	<GenerationSchemaEntity>
 		<Id>nms-traveller-persons</Id>
 		<Name>No Man's Sky Traveller persons</Name>
 		<Category>No Man's Sky</Category>
