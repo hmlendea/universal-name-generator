@@ -1018,6 +1018,10 @@ Incoruptibili_Incorruptible
 Îndurerată_Pained
 Îndurerate_Pained
 Îndurerați_Pained
+Infectat_Infected
+Infectată_Infected
+Infectați_Infected
+Infectate_Infected
 Inferioare_Inferior
 Inferior_Inferior
 Inferiori_Inferior
