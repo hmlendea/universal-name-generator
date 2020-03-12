@@ -58,6 +58,8 @@ Canionul_Canion
 Cantoanele_Region
 Cantonul_Region
 Capul_Summit
+Carantina_Quarantine
+Carantinele_Quarantine
 Cărarea_Path
 Cărările_Path
 Cariera_Quarry
