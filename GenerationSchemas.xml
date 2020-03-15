@@ -247,7 +247,7 @@
 		<Id>ro-fauna</Id>
 		<Name>Romanian fauna species names</Name>
 		<Category>Romanian</Category>
-		<Schema>{markov,4,16,ro-fauna-amphibins|ro-fauna-animals|ro-fauna-birds|ro-fauna-fishes|ro-fauna-insects|ro-fauna-reptilian}</Schema>
+		<Schema>{markov,4,16,ro-fauna-amphibians|ro-fauna-animals|ro-fauna-birds|ro-fauna-fishes|ro-fauna-insects|ro-fauna-reptilian}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
 		<Id>ro-fauna-amphibians</Id>
