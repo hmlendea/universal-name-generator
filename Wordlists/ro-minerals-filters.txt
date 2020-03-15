@@ -1,10 +1,11 @@
 .*([dflnorst])\1.*
-.*[äéköqwy].*
 .*[Cc]ha.*
 .*[Rr]ieb.*
 ([a-z][a-z])\1
+[äékö]
 [Hh]eul
 [Kk]
+[kqwy]
 cht
 eave
 ehl
