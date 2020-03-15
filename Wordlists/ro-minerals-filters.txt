@@ -5,8 +5,10 @@
 ([a-z][a-z])\1
 [Hh]eul
 [Kk]
+cht
 eave
 ehl
+jaroslav
 ngs
 oul
 th
