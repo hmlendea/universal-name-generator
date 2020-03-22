@@ -2,6 +2,7 @@ Albricci
 Antonelli
 Badoglio
 Balletti
+Bardi
 Bello
 Bianchi
 Bianconelli
@@ -39,6 +40,7 @@ Marchetti
 Marcuzzi
 Marino
 Mazzitelli
+Medici
 Moretti
 Mussolini
 Olivieri
@@ -58,4 +60,5 @@ Saletta
 Scaletta
 Soprano
 Valeri
+Vecchione
 Virini
