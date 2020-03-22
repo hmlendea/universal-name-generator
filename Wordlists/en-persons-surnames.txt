@@ -1,5 +1,6 @@
 Abbott
 Adams
+Adler
 Alexander
 Allen
 Allenby
@@ -90,6 +91,7 @@ Channing
 Chapman
 Charlesworth
 Chase
+Childan
 Church
 Clancy
 Clark
@@ -103,12 +105,14 @@ Collins
 Colt
 Compton
 Conley
+Connell
 Connor
 Conrad
 Conroy
 Cook
 Cooper
 Cox
+Crain
 Crosby
 Cross
 Crouch
@@ -119,6 +123,7 @@ Cursham
 Curtis
 Daniels
 Darling
+Darwin
 Davies
 Decker
 DeStefano
@@ -165,6 +170,7 @@ Franklin
 Fredericks
 Freeman
 French
+Frink
 Fry
 Funk
 Futterman
@@ -182,8 +188,10 @@ Gilbert
 Gilligan
 Glass
 Glover
+Goddard
 Goldberg
 Goldstein
+Goodenough
 Goodman
 Goodwin
 Gorman
@@ -210,6 +218,7 @@ Harrington
 Harris
 Hart
 Harvey
+Hawking
 Hawkins
 Haygarth
 Hazelton
@@ -230,6 +239,7 @@ Houghton
 Houston
 Howard
 Howell
+Hubble
 Hudson
 Hughes
 Humphry
@@ -254,6 +264,7 @@ Kearns
 Keeler
 Kellerman
 Kelly
+Kelvin
 Kennedy
 Kenway
 King
@@ -295,6 +306,7 @@ MacInnis
 MacKenzie
 MacNevin
 Madigan
+Mallory
 Maloney
 Marsh
 Marshall
@@ -339,6 +351,7 @@ Myers
 Nash
 Nathanson
 Newman
+Newton
 Nicholas
 Nichols
 Nicholson
@@ -364,6 +377,7 @@ Pearson
 Peckham
 Pemberton
 Penebscott
+Penrose
 Perkins
 Perry
 Pershing
@@ -403,6 +417,8 @@ Robbins
 Roberts
 Robertson
 Robinson
+Rockefeller
+Rockwell
 Rollins
 Rolston
 Ross
@@ -411,7 +427,9 @@ Rowley
 Roykirk
 Russell
 Ryan
+Sagan
 Salinger
+Sampson
 Samuels
 Sanders
 Sandford
@@ -509,6 +527,8 @@ Wentworth
 West
 Weyland
 Wheeler
+Whipple
+Whitcroft
 White
 Whitfield
 Whitley
@@ -522,6 +542,7 @@ Wilson
 Winters
 Wood
 Woodard
+Woodward
 Worley
 Wright
 Yardley
