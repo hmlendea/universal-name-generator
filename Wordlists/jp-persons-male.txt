@@ -1,9 +1,12 @@
 Anaho
+Daisuke
 Haru
+Hidehisa
 Hikaru
 Hironari
 Hiroshi
 Hiroto
+Hiroyuki
 Jiro
 Junichi
 Keisuke
@@ -15,7 +18,9 @@ Mimatsuhiko
 Minato
 Mitsue
 Nekuhiko
+Nobosuke
 Norinaga
+Noriyuke
 Ren
 Rikuto
 Ryuto
@@ -23,9 +28,11 @@ Saburo
 Shota
 Sota
 Takeru
+Takeshi
 Takumi
 Tatsuki
 Teruhito
+Toru
 Tsubasa
 Yoshi
 Yoshida

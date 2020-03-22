@@ -13,6 +13,7 @@ Ishii
 Ishikawa
 Ito
 Kato
+Kido
 Kimura
 Kobayashi
 Matsumoto
@@ -28,6 +29,7 @@ no Mikoto
 Ogawa
 Okada
 Okamoto
+Okamura
 Ota
 Otomo
 Saito
@@ -38,9 +40,11 @@ Shimizu
 Suijin
 Sumeramikoto
 Suzuki
+Tagomi
 Takahashi
 Takaya
 Tanaka
+Tsuji
 Watanabe
 Yamada
 Yamaguchi
@@ -49,3 +53,4 @@ Yamashita
 Yamato
 Yamazaki
 Yoshida
+Yutani
