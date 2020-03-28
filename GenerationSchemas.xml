@@ -1,16 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ArrayOfGenerationSchemaEntity xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<GenerationSchemaEntity>
-		<Id>ar-persons-male</Id>
+		<Id>ara-persons-male</Id>
 		<Name>Arabic male persons</Name>
 		<Category>Arabic</Category>
-		<Schema>{randomiser, ,4,32,ar-persons-male|ar-persons-surnames}</Schema>
+		<Schema>{randomiser, ,4,32,ara-persons-male|ara-persons-surnames}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
-		<Id>ar-persons-female</Id>
+		<Id>ara-persons-female</Id>
 		<Name>Arabic female persons</Name>
 		<Category>Arabic</Category>
-		<Schema>{randomiser, ,4,32,ar-persons-female|ar-persons-surnames}</Schema>
+		<Schema>{randomiser, ,4,32,ara-persons-female|ara-persons-surnames}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
 		<Id>asian-settlements</Id>
@@ -19,16 +19,16 @@
 		<Schema>{randomiser,,4,24,asian-settlements-bases|asian-settlements-suffixes}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
-		<Id>cn-persons-male</Id>
+		<Id>chin-persons-male</Id>
 		<Name>Chinese male persons</Name>
 		<Category>Chinese</Category>
-		<Schema>{randomiser, ,4,32,cn-persons-male|cn-persons-surnames}</Schema>
+		<Schema>{randomiser, ,4,32,chin-persons-male|chin-persons-surnames}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
-		<Id>cn-persons-female</Id>
+		<Id>chin-persons-female</Id>
 		<Name>Chinese female persons</Name>
 		<Category>Chinese</Category>
-		<Schema>{randomiser, ,4,32,cn-persons-female|cn-persons-surnames}</Schema>
+		<Schema>{randomiser, ,4,32,chin-persons-female|chin-persons-surnames}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
 		<Id>cym-persons-female</Id>
@@ -43,54 +43,54 @@
 		<Schema>{randomiser, ,4,32,cym-persons-male|cym-persons-surnames}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
-		<Id>de-persons-male</Id>
+		<Id>deu-persons-male</Id>
 		<Name>German male persons</Name>
 		<Category>German</Category>
-		<FilterlistPath>de-persons-filters</FilterlistPath>
-		<Schema>{randomiser, ,4,32,de-persons-male|de-persons-surname}</Schema>
+		<FilterlistPath>deu-persons-filters</FilterlistPath>
+		<Schema>{randomiser, ,4,32,deu-persons-male|deu-persons-surname}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
-		<Id>de-persons-female</Id>
+		<Id>deu-persons-female</Id>
 		<Name>German female persons</Name>
 		<Category>German</Category>
-		<FilterlistPath>de-persons-filters</FilterlistPath>
-		<Schema>{randomiser, ,4,32,de-persons-female|de-persons-surname}</Schema>
+		<FilterlistPath>deu-persons-filters</FilterlistPath>
+		<Schema>{randomiser, ,4,32,deu-persons-female|deu-persons-surname}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
-		<Id>en-persons-male</Id>
+		<Id>eng-persons-male</Id>
 		<Name>English male persons</Name>
 		<Category>English</Category>
-		<Schema>{randomiser, ,4,32,en-persons-male|en-persons-surnames}</Schema>
+		<Schema>{randomiser, ,4,32,eng-persons-male|eng-persons-surnames}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
-		<Id>en-persons-female</Id>
+		<Id>eng-persons-female</Id>
 		<Name>English female persons</Name>
 		<Category>English</Category>
-		<Schema>{randomiser, ,4,32,en-persons-female|en-persons-surnames}</Schema>
+		<Schema>{randomiser, ,4,32,eng-persons-female|eng-persons-surnames}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
-		<Id>es-persons-male</Id>
+		<Id>spanish-persons-male</Id>
 		<Name>Spanish male persons</Name>
 		<Category>Spanish</Category>
-		<Schema>{randomiser, ,4,32,es-persons-male|es-persons-surnames}</Schema>
+		<Schema>{randomiser, ,4,32,spanish-persons-male|spanish-persons-surnames}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
-		<Id>es-persons-female</Id>
+		<Id>spanish-persons-female</Id>
 		<Name>Spanish female persons</Name>
 		<Category>Spanish</Category>
-		<Schema>{randomiser, ,4,32,es-persons-female|es-persons-surnames}</Schema>
+		<Schema>{randomiser, ,4,32,spanish-persons-female|spanish-persons-surnames}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
-		<Id>fr-persons-female</Id>
+		<Id>fra-persons-female</Id>
 		<Name>French female persons</Name>
 		<Category>French</Category>
-		<Schema>{randomiser, ,4,32,fr-persons-female|fr-persons-surnames}</Schema>
+		<Schema>{randomiser, ,4,32,fra-persons-female|fra-persons-surnames}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
-		<Id>fr-persons-male</Id>
+		<Id>fra-persons-male</Id>
 		<Name>French male persons</Name>
 		<Category>French</Category>
-		<Schema>{randomiser, ,4,32,fr-persons-male|fr-persons-surnames}</Schema>
+		<Schema>{randomiser, ,4,32,fra-persons-male|fra-persons-surnames}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
 		<Id>gle-persons-female</Id>
@@ -129,16 +129,16 @@
 		<Schema>{randomiser, ,4,32,hau-persons-male|hau-persons-surnames}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
-		<Id>hi-persons-male</Id>
+		<Id>hin-persons-male</Id>
 		<Name>Hindi male persons</Name>
 		<Category>Hindi</Category>
-		<Schema>{randomiser, ,4,32,hi-persons-male|hi-persons-surnames}</Schema>
+		<Schema>{randomiser, ,4,32,hin-persons-male|hin-persons-surnames}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
-		<Id>hi-persons-female</Id>
+		<Id>hin-persons-female</Id>
 		<Name>Hindi female persons</Name>
 		<Category>Hindi</Category>
-		<Schema>{randomiser, ,4,32,hi-persons-female|hi-persons-surnames}</Schema>
+		<Schema>{randomiser, ,4,32,hin-persons-female|hin-persons-surnames}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
 		<Id>ind-persons-female</Id>
@@ -153,28 +153,28 @@
 		<Schema>{randomiser, ,4,32,ind-persons-male|ind-persons-surnames}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
-		<Id>it-persons-male</Id>
+		<Id>ita-persons-male</Id>
 		<Name>Italian male persons</Name>
 		<Category>Italian</Category>
-		<Schema>{randomiser, ,4,32,it-persons-males|it-persons-surnames}</Schema>
+		<Schema>{randomiser, ,4,32,ita-persons-male|ita-persons-surnames}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
-		<Id>it-persons-female</Id>
+		<Id>ita-persons-female</Id>
 		<Name>Italian female persons</Name>
 		<Category>Italian</Category>
-		<Schema>{randomiser, ,4,32,it-persons-females|it-persons-surnames}</Schema>
+		<Schema>{randomiser, ,4,32,ita-persons-female|ita-persons-surnames}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
-		<Id>jp-persons-male</Id>
+		<Id>jpn-persons-male</Id>
 		<Name>Japanese male persons</Name>
 		<Category>Japanese</Category>
-		<Schema>{randomiser, ,4,32,jp-persons-male|jp-persons-surnames}</Schema>
+		<Schema>{randomiser, ,4,32,jpn-persons-male|jpn-persons-surnames}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
-		<Id>jp-persons-female</Id>
+		<Id>jpn-persons-female</Id>
 		<Name>Japanese female persons</Name>
 		<Category>Japanese</Category>
-		<Schema>{randomiser, ,4,32,jp-persons-female|jp-persons-surnames}</Schema>
+		<Schema>{randomiser, ,4,32,jpn-persons-female|jpn-persons-surnames}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
 		<Id>mri-persons-female</Id>
@@ -225,162 +225,162 @@
 		<Schema>{randomiser,,4,32,nms-traveller-persons}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
-		<Id>nms-vykeen-persons</Id>
+		<Id>nms-vykeeng-persons</Id>
 		<Name>No Man's Sky Vy'keen persons</Name>
 		<Category>No Man's Sky</Category>
-		<Schema>{randomiser,,4,32,nms-vyleen-persons}</Schema>
+		<Schema>{randomiser,,4,32,nms-vyleeng-persons}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
-		<Id>pl-persons-female</Id>
+		<Id>pol-persons-female</Id>
 		<Name>Polish female persons</Name>
 		<Category>Polish</Category>
-		<Schema>{randomiser, ,4,32,pl-persons-female|pl-persons-surnames}</Schema>
+		<Schema>{randomiser, ,4,32,pol-persons-female|pol-persons-surnames}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
-		<Id>pl-persons-male</Id>
+		<Id>pol-persons-male</Id>
 		<Name>Polish male persons</Name>
 		<Category>Polish</Category>
-		<Schema>{randomiser, ,4,32,pl-persons-male|pl-persons-surnames}</Schema>
+		<Schema>{randomiser, ,4,32,pol-persons-male|pol-persons-surnames}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
-		<Id>pt-persons-female</Id>
+		<Id>por-persons-female</Id>
 		<Name>Portuguese female persons</Name>
 		<Category>Portuguese</Category>
-		<Schema>{randomiser, ,4,32,pt-persons-female|pt-persons-surnames}</Schema>
+		<Schema>{randomiser, ,4,32,por-persons-female|por-persons-surnames}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
-		<Id>pt-persons-male</Id>
+		<Id>por-persons-male</Id>
 		<Name>Portuguese male persons</Name>
 		<Category>Portuguese</Category>
-		<Schema>{randomiser, ,4,32,pt-persons-male|pt-persons-surnames}</Schema>
+		<Schema>{randomiser, ,4,32,por-persons-male|por-persons-surnames}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
-		<Id>ro-colours</Id>
+		<Id>ron-colours</Id>
 		<Name>Romanian colours names</Name>
-		<Schema>{markov,4,16,ro-colours}</Schema>
+		<Schema>{markov,4,16,ron-colours}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
-		<Id>ro-flora</Id>
+		<Id>ron-flora</Id>
 		<Category>Romanian</Category>
 		<Name>Romanian flora species names</Name>
-		<FilterlistPath>ro-flora-filters</FilterlistPath>
-		<Schema>{markov,4,14,ro-plants|ro-fruits|ro-flora-cereals|ro-flora-fungi|ro-flora-herbs|ro-flora-trees|ro-flora-fruits|ro-flora-vegetables|ro-flora-medicinal|ro-flora-flowers|ro-flora-weeds}</Schema>
+		<FilterlistPath>ron-flora-filters</FilterlistPath>
+		<Schema>{markov,4,14,ron-plants|ron-fruits|ron-flora-cereals|ron-flora-fungi|ron-flora-herbs|ron-flora-trees|ron-flora-fruits|ron-flora-vegetables|ron-flora-medicinal|ron-flora-flowers|ron-flora-weeds}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
-		<Id>ro-flora-trees</Id>
+		<Id>ron-flora-trees</Id>
 		<Name>Romanian tree species names</Name>
 		<Category>Romanian</Category>
-		<FilterlistPath>ro-flora-filters</FilterlistPath>
-		<Schema>{markov,4,16,ro-flora-trees}</Schema>
+		<FilterlistPath>ron-flora-filters</FilterlistPath>
+		<Schema>{markov,4,16,ron-flora-trees}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
-		<Id>ro-fauna</Id>
+		<Id>ron-fauna</Id>
 		<Name>Romanian fauna species names</Name>
 		<Category>Romanian</Category>
-		<Schema>{markov,4,16,ro-fauna-amphibians|ro-fauna-animals|ro-fauna-birds|ro-fauna-fishes|ro-fauna-insects|ro-fauna-reptilian}</Schema>
+		<Schema>{markov,4,16,ron-fauna-amphibians|ron-fauna-animals|ron-fauna-birds|ron-fauna-fishes|ron-fauna-insects|ron-fauna-reptilian}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
-		<Id>ro-fauna-amphibians</Id>
+		<Id>ron-fauna-amphibians</Id>
 		<Name>Romanian amphibian species names</Name>
 		<Category>Romanian</Category>
-		<Schema>{markov,4,16,ro-fauna-amphibians}</Schema>
+		<Schema>{markov,4,16,ron-fauna-amphibians}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
-		<Id>ro-fauna-birds</Id>
+		<Id>ron-fauna-birds</Id>
 		<Name>Romanian bird species names</Name>
 		<Category>Romanian</Category>
-		<Schema>{markov,4,16,ro-fauna-birds}</Schema>
+		<Schema>{markov,4,16,ron-fauna-birds}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
-		<Id>ro-fauna-fishes</Id>
+		<Id>ron-fauna-fishes</Id>
 		<Name>Romanian fish species names</Name>
-		<Schema>{markov,4,16,ro-fauna-fishes}</Schema>
+		<Schema>{markov,4,16,ron-fauna-fishes}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
-		<Id>ro-fauna-insects</Id>
+		<Id>ron-fauna-insects</Id>
 		<Name>Romanian insect species names</Name>
 		<Category>Romanian</Category>
-		<Schema>{markov,4,16,ro-fauna-insects}</Schema>
+		<Schema>{markov,4,16,ron-fauna-insects}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
-		<Id>ro-fruits</Id>
+		<Id>ron-fruits</Id>
 		<Name>Romanian fruit species names</Name>
 		<Category>Romanian</Category>
-		<Schema>{markov,4,16,ro-flora-fruits}</Schema>
+		<Schema>{markov,4,16,ron-flora-fruits}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
-		<Id>ro-minerals</Id>
+		<Id>ron-minerals</Id>
 		<Name>Romanian mineral names</Name>
 		<Category>Romanian</Category>
-		<FilterlistPath>ro-minerals-filters</FilterlistPath>
-		<Schema>{markov,4,16,ro-minerals}</Schema>
+		<FilterlistPath>ron-minerals-filters</FilterlistPath>
+		<Schema>{markov,4,16,ron-minerals}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
-		<Id>ro-plants</Id>
+		<Id>ron-plants</Id>
 		<Name>Romanian plant names</Name>
 		<Category>Romanian</Category>
-		<Schema>{markov,4,16,ro-plants}</Schema>
+		<Schema>{markov,4,16,ron-plants}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
-		<Id>ro-settlements</Id>
+		<Id>ron-settlements</Id>
 		<Name>Romanian settlement names</Name>
 		<Category>Romanian</Category>
-		<FilterlistPath>ro-settlements-filters</FilterlistPath>
-		<Schema>{markov,4,24,ro-settlements-cities|ro-settlements-towns|ro-settlements-communes|ro-settlements-cities-md|ro-settlements-communes-md|ro-settlements-towns-md|ro-settlements-villages|ro-settlements-villages-md}</Schema>
+		<FilterlistPath>ron-settlements-filters</FilterlistPath>
+		<Schema>{markov,4,24,ron-settlements-cities|ron-settlements-towns|ron-settlements-communes|ron-settlements-cities-md|ron-settlements-communes-md|ron-settlements-towns-md|ron-settlements-villages|ron-settlements-villages-md}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
-		<Id>ro-settlements-cities</Id>
+		<Id>ron-settlements-cities</Id>
 		<Name>Romanian city names</Name>
 		<Category>Romanian</Category>
-		<FilterlistPath>ro-settlements-filters</FilterlistPath>
-		<Schema>{markov,4,24,ro-settlements-cities}</Schema>
+		<FilterlistPath>ron-settlements-filters</FilterlistPath>
+		<Schema>{markov,4,24,ron-settlements-cities}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
-		<Id>ro-settlements-communes</Id>
+		<Id>ron-settlements-communes</Id>
 		<Name>Romanian commune names</Name>
 		<Category>Romanian</Category>
-		<FilterlistPath>ro-settlements-filters</FilterlistPath>
-		<Schema>{markov,4,24,ro-settlements-communes}</Schema>
+		<FilterlistPath>ron-settlements-filters</FilterlistPath>
+		<Schema>{markov,4,24,ron-settlements-communes}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
-		<Id>ro-settlements-towns</Id>
+		<Id>ron-settlements-towns</Id>
 		<Name>Romanian town names</Name>
 		<Category>Romanian</Category>
-		<FilterlistPath>ro-settlements-filters</FilterlistPath>
-		<Schema>{markov,4,24,ro-settlements-towns}</Schema>
+		<FilterlistPath>ron-settlements-filters</FilterlistPath>
+		<Schema>{markov,4,24,ron-settlements-towns}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
-		<Id>ro-persons-male</Id>
+		<Id>ron-persons-male</Id>
 		<Name>Romanian male persons</Name>
 		<Category>Romanian</Category>
-		<FilterlistPath>ro-persons-filters</FilterlistPath>
-		<Schema>{randomiser, ,4,32,ro-persons-males|ro-persons-surnames}</Schema>
+		<FilterlistPath>ron-persons-filters</FilterlistPath>
+		<Schema>{randomiser, ,4,32,ron-persons-male|ron-persons-surnames}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
-		<Id>ro-persons-female</Id>
+		<Id>ron-persons-female</Id>
 		<Name>Romanian female persons</Name>
 		<Category>Romanian</Category>
-		<FilterlistPath>ro-persons-filters</FilterlistPath>
-		<Schema>{randomiser, ,4,32,ro-persons-females|ro-persons-surnames}</Schema>
+		<FilterlistPath>ron-persons-filters</FilterlistPath>
+		<Schema>{randomiser, ,4,32,ron-persons-female|ron-persons-surnames}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
-		<Id>ro-landmarks</Id>
+		<Id>ron-landmarks</Id>
 		<Name>Romanian landmark names</Name>
 		<Category>Romanian</Category>
-		<FilterlistPath>ro-landmarks-filters</FilterlistPath>
-		<Schema>{randomiser, ,4,32,ro-landmarks1|ro-landmarks2}</Schema>
+		<FilterlistPath>ron-landmarks-filters</FilterlistPath>
+		<Schema>{randomiser, ,4,32,ron-landmarks1|ron-landmarks2}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
-		<Id>ru-persons-female</Id>
+		<Id>rus-persons-female</Id>
 		<Name>Russian female persons</Name>
 		<Category>Russian</Category>
-		<Schema>{randomiser, ,4,32,ru-persons-female|ru-persons-surnames}</Schema>
+		<Schema>{randomiser, ,4,32,rus-persons-female|rus-persons-surnames}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
-		<Id>ru-persons-male</Id>
+		<Id>rus-persons-male</Id>
 		<Name>Russian male persons</Name>
 		<Category>Russian</Category>
-		<Schema>{randomiser, ,4,32,ru-persons-male|ru-persons-surnames}</Schema>
+		<Schema>{randomiser, ,4,32,rus-persons-male|rus-persons-surnames}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
 		<Id>som-persons-female</Id>
@@ -431,11 +431,11 @@
 		<Schema>{randomiser, ,4,32,starcraft-protoss-persons-male-taldarim}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
-		<Id>dacian-settlements</Id>
+		<Id>xdc-settlements</Id>
 		<Name>Dacian settlement names (Procedurally generated)</Name>
 		<Category>Dacian</Category>
-		<FilterlistPath>dacian-settlements-filters</FilterlistPath>
-		<Schema>{markov,4,20,dacian-settlements}</Schema>
+		<FilterlistPath>xdc-settlements-filters</FilterlistPath>
+		<Schema>{markov,4,20,xdc-settlements}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
 		<Id>swe-persons-female</Id>
@@ -462,50 +462,50 @@
 		<Schema>{randomiser, ,4,32,tur-persons-male|tur-persons-surnames}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
-		<Id>dacian-settlements-real</Id>
+		<Id>xdc-settlements-real</Id>
 		<Name>Dacian settlement names (Real)</Name>
 		<Category>Dacian</Category>
-		<FilterlistPath>dacian-settlements-filters</FilterlistPath>
-		<Schema>{randomiser,,4,24,dacian-settlements-bases|dacian-settlements-suffixes}</Schema>
+		<FilterlistPath>xdc-settlements-filters</FilterlistPath>
+		<Schema>{randomiser,,4,24,xdc-settlements-bases|xdc-settlements-suffixes}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
-		<Id>dacian-persons-male</Id>
+		<Id>xdc-persons-male</Id>
 		<Name>Dacian male persons (Procedurally generated)</Name>
 		<Category>Dacian</Category>
-		<Schema>{markov,4,16,dacian-persons-males}</Schema>
+		<Schema>{markov,4,16,xdc-persons-male}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
-		<Id>dacian-persons-male-real</Id>
+		<Id>xdc-persons-male-real</Id>
 		<Name>Dacian male persons</Name>
 		<Category>Dacian</Category>
-		<Schema>{randomiser,,4,16,dacian-persons-males}</Schema>
+		<Schema>{randomiser,,4,16,xdc-persons-male}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
-		<Id>dacian-persons-female-real</Id>
+		<Id>xdc-persons-female-real</Id>
 		<Name>Dacian female persons (Real)</Name>
 		<Category>Dacian</Category>
-		<Schema>{randomiser,,4,16,dacian-persons-females}</Schema>
+		<Schema>{randomiser,,4,16,xdc-persons-female}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
-		<Id>latin-persons-male</Id>
+		<Id>lat-persons-male</Id>
 		<Name>Latin (Republican) male persons</Name>
 		<Category>Latin</Category>
-		<FilterlistPath>latin-persons-filters</FilterlistPath>
-		<Schema>{randomiser, ,4,32,latin-pronomen-males|latin-nomen|latin-cognomen-males}</Schema>
+		<FilterlistPath>lat-persons-filters</FilterlistPath>
+		<Schema>{randomiser, ,4,32,lat-pronomen-male|lat-nomen|lat-cognomen-male}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
-		<Id>latin-persons-female</Id>
+		<Id>lat-persons-female</Id>
 		<Name>Latin (Republican) female persons</Name>
 		<Category>Latin</Category>
-		<FilterlistPath>latin-persons-filters</FilterlistPath>
-		<Schema>{randomiser, ,4,32,latin-pronomen-females|latin-nomen|latin-cognomen-females}</Schema>
+		<FilterlistPath>lat-persons-filters</FilterlistPath>
+		<Schema>{randomiser, ,4,32,lat-pronomen-female|lat-nomen|lat-cognomen-female}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
-		<Id>latin-settlements</Id>
+		<Id>lat-settlements</Id>
 		<Name>Latin settlement names (all periods)</Name>
 		<Category>Latin</Category>
-		<FilterlistPath>latin-settlements</FilterlistPath>
-		<Schema>{markov,4,11,latin-settlements}</Schema>
+		<FilterlistPath>lat-settlements</FilterlistPath>
+		<Schema>{markov,4,11,lat-settlements}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
 		<Id>letian-settlements</Id>
@@ -526,11 +526,11 @@
 		<Schema>{markov,4,16,rodah-ships}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
-		<Id>rodah-persons-males</Id>
+		<Id>rodah-persons-male</Id>
 		<Name>Rodah (Narivia) male person names</Name>
 		<Category>Rodah</Category>
 		<FilterlistPath>rodah-persons-filters</FilterlistPath>
-		<Schema>{randomiser,,6,12,rodah-persons-males-bases|rodah-persons-males-endings}</Schema>
+		<Schema>{randomiser,,6,12,rodah-persons-male-bases|rodah-persons-male-endings}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
 		<Id>tes-altmer-persons-female</Id>
@@ -587,16 +587,16 @@
 		<Schema>{markov,4,16,tes-ayleid-ruins}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
-		<Id>tes-khajiit-persons-female</Id>
+		<Id>tes-khajiita-persons-female</Id>
 		<Name>Khajiit male persons</Name>
 		<Category>Elder Scrolls</Category>
-		<Schema>{randomiser, ,4,32,tes-khajiit-persons-female}</Schema>
+		<Schema>{randomiser, ,4,32,tes-khajiita-persons-female}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
-		<Id>tes-khajiit-persons-male</Id>
+		<Id>tes-khajiita-persons-male</Id>
 		<Name>Khajiit male persons</Name>
 		<Category>Elder Scrolls</Category>
-		<Schema>{randomiser, ,4,32,tes-khajiit-persons-male}</Schema>
+		<Schema>{randomiser, ,4,32,tes-khajiita-persons-male}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
 		<Id>tes-orc-persons-female</Id>
@@ -608,21 +608,21 @@
 		<Id>tes-orc-persons-male</Id>
 		<Name>Orc male persons</Name>
 		<Category>Elder Scrolls</Category>
-		<Schema>{randomiser, ,4,32,tes-orc-persons-male} gro-{randomiser, ,4,32,tes-orc-persons-surnames}</Schema>
+		<Schema>{randomiser, ,4,32,tes-orc-persons-male} gron-{randomiser, ,4,32,tes-orc-persons-surnames}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
-		<Id>hu-persons-male</Id>
+		<Id>hun-persons-male</Id>
 		<Name>Hungarian male persons</Name>
 		<Category>Hungarian</Category>
 		<FilterlistPath>uh-persons-filters</FilterlistPath>
-		<Schema>{randomiser, ,4,32,hu-persons-males|hu-persons-surnames}</Schema>
+		<Schema>{randomiser, ,4,32,hun-persons-males|hun-persons-surnames}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
-		<Id>hu-persons-female</Id>
+		<Id>hun-persons-female</Id>
 		<Name>Hungarian female persons</Name>
 		<Category>Hungarian</Category>
-		<FilterlistPath>hu-persons-filters</FilterlistPath>
-		<Schema>{randomiser, ,4,32,hu-persons-females|hu-persons-surnames}</Schema>
+		<FilterlistPath>hun-persons-filters</FilterlistPath>
+		<Schema>{randomiser, ,4,32,hun-persons-females|hun-persons-surnames}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
 		<Id>ypp-ships</Id>
