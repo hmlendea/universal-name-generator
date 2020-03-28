@@ -83,9 +83,12 @@ Klopfer
 Koppe
 Kreutz
 Krüger
+Kruspe
 Kube
 Lammers
+Landers
 Lauterbacher
+Lindemann
 Loeper
 Lorenz
 Lörner
@@ -118,6 +121,7 @@ Reinefarth
 Reiss
 Ribbentrop
 Richter
+Riedel
 Rommel
 Rösener
 Saubeerzweig
