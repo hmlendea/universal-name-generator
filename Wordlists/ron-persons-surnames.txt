@@ -280,6 +280,7 @@ Boieru
 Boilă
 Bolboacă
 Bolcaș
+Boldei
 Boldijar
 Boldureanu
 Bolintineanu
@@ -626,6 +627,7 @@ Cîrlig
 Cîrlova
 Cîrpar
 Cîrstea
+Cismaru
 Citescu
 Cîțescu
 Cîțu
@@ -717,6 +719,7 @@ Corbean
 Corbeanu
 Corbu
 Corda
+Cordea
 Corduneanu
 Corha
 Corlan
@@ -900,6 +903,7 @@ Dolgan
 Dolha
 Dombrea
 Donceanu
+Dondea
 Donici
 Dorneanu
 Doroftei
@@ -925,6 +929,7 @@ Dregan
 Dretcanu
 Driha
 Drimba
+Drimenț
 Drob
 Drobot
 Druc
@@ -1095,6 +1100,7 @@ Ghercă
 Gherea
 Gherescu
 Gherman
+Ghibanu
 Ghibu
 Ghică
 Ghidirim
@@ -1230,6 +1236,7 @@ Holban
 Homicianu
 Hopârțean
 Horincar
+Hornai
 Hosu
 Hotar
 Hotea
@@ -1346,6 +1353,7 @@ Jinga
 Jitariu
 Jitea
 Joandrea
+Joctici
 Jora
 Josan
 Juc
@@ -1356,6 +1364,7 @@ Jugaru
 Jula
 Juravlea
 Jurcă
+Jurcan
 Jurec
 Jurju
 Jurma
@@ -1794,6 +1803,7 @@ Oprișa
 Oproiu
 Orădean
 Orădeanu
+Oranici
 Orășanu
 Ordean
 Oros
@@ -1890,6 +1900,7 @@ Peciu
 Pelea
 Peneac
 Perciun
+Perieanu
 Perșu
 Pescar
 Pescariu
@@ -2215,6 +2226,7 @@ Sindile
 Sîngeorzan
 Sirca
 Sircă
+Sîrghe
 Sitaru
 Slavic
 Slavici
@@ -2379,6 +2391,7 @@ Teleucă
 Țene
 Tenie
 Tenișan
+Țenț
 Teocan
 Teodor
 Teodorescu
@@ -2665,6 +2678,7 @@ Zirbo
 Zisu
 Zleghiu
 Zoană
+Zorlescu
 Zota
 Zugrăvescu
 Zugravu
