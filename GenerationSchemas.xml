@@ -396,7 +396,7 @@
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
 		<Id>protoss-persons-female-khalai</Id>
-		<Name>Khalai Protoss male persons</Name>
+		<Name>Khalai Protoss female persons</Name>
 		<Category>StarCraft</Category>
 		<Schema>{randomiser, ,4,32,starcraft-protoss-persons-female-khalai}</Schema>
 	</GenerationSchemaEntity>
@@ -408,7 +408,7 @@
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
 		<Id>protoss-persons-female-nerazim</Id>
-		<Name>Nerazim Protoss male persons</Name>
+		<Name>Nerazim Protoss female persons</Name>
 		<Category>StarCraft</Category>
 		<Schema>{randomiser, ,4,32,starcraft-protoss-persons-female-nerazim}</Schema>
 	</GenerationSchemaEntity>
@@ -420,7 +420,7 @@
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
 		<Id>protoss-persons-female-taldarim</Id>
-		<Name>Tal'darim Protoss male persons</Name>
+		<Name>Tal'darim Protoss female persons</Name>
 		<Category>StarCraft</Category>
 		<Schema>{randomiser, ,4,32,starcraft-protoss-persons-female-taldarim}</Schema>
 	</GenerationSchemaEntity>
@@ -429,6 +429,18 @@
 		<Name>Tal'darim Protoss male persons</Name>
 		<Category>StarCraft</Category>
 		<Schema>{randomiser, ,4,32,starcraft-protoss-persons-male-taldarim}</Schema>
+	</GenerationSchemaEntity>
+	<GenerationSchemaEntity>
+		<Id>zerg-persons-female</Id>
+		<Name>Zerg female persons</Name>
+		<Category>StarCraft</Category>
+		<Schema>{randomiser, ,4,32,starcraft-zerg-persons-female}</Schema>
+	</GenerationSchemaEntity>
+	<GenerationSchemaEntity>
+		<Id>zerg-persons-male</Id>
+		<Name>Zerg male persons</Name>
+		<Category>StarCraft</Category>
+		<Schema>{randomiser, ,4,32,starcraft-zerg-persons-male}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
 		<Id>xdc-settlements</Id>
