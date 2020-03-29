@@ -587,6 +587,18 @@
 		<Schema>{markov,4,16,tes-ayleid-ruins}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
+		<Id>tes-dremora-persons-female</Id>
+		<Name>Dremora female persons</Name>
+		<Category>Elder Scrolls</Category>
+		<Schema>{randomiser, ,4,32,tes-dremora-persons-female|tes-dremora-persons-surnames}</Schema>
+	</GenerationSchemaEntity>
+	<GenerationSchemaEntity>
+		<Id>tes-dremora-persons-male</Id>
+		<Name>Dremora male persons</Name>
+		<Category>Elder Scrolls</Category>
+		<Schema>{randomiser, ,4,32,tes-dremora-persons-male|tes-dremora-persons-surnames}</Schema>
+	</GenerationSchemaEntity>
+	<GenerationSchemaEntity>
 		<Id>tes-khajiita-persons-female</Id>
 		<Name>Khajiit male persons</Name>
 		<Category>Elder Scrolls</Category>
