@@ -176,6 +176,7 @@ Beian
 Bejan
 Bejenar
 Bejenariu
+Bejenaru
 Beldean
 Belea
 Belean
@@ -491,6 +492,7 @@ Caragiale
 Cărăian
 Caraiman
 Caraion
+Cărămidă
 Cărămidaru
 Caramitru
 Cărare
@@ -594,6 +596,7 @@ Ciobotea
 Cioca
 Ciocan
 Ciocanu
+Ciochir
 Cioci
 Cioclea
 Cioculescu
@@ -647,6 +650,7 @@ Ciurcă
 Ciurea
 Ciuta
 Ciutac
+Ciutu
 Cizmaru
 Clapa
 Cleopa
@@ -781,6 +785,7 @@ Crîșmaru
 Criste
 Cristea
 Cristescu
+Cristinel
 Cristoiu
 Cristurean
 Crivăț
@@ -806,6 +811,7 @@ Cumpănas
 Cumpănașu
 Cupcea
 Curagău
+Curcă
 Curcubeu
 Curculescu
 Curea
@@ -844,6 +850,7 @@ Deliorga
 Demetrescu
 Demian
 Densușianu
+Dersidan
 Despescu
 Diacon
 Diaconescu
@@ -1070,6 +1077,7 @@ Geantă
 Geoana
 Georgescu
 Georgiu
+Gerea
 Ghejan
 Ghena
 Ghencean
@@ -1094,6 +1102,7 @@ Ghilescu
 Ghilezan
 Ghimpu
 Ghinea
+Ghinescu
 Ghiocel
 Ghișa
 Ghiță
@@ -1103,6 +1112,7 @@ Ghitu
 Ghiu
 Ghiurco
 Ghiurea
+Ghizdavu
 Ghizdeanu
 Gican
 Gigină
@@ -1179,6 +1189,7 @@ Hadârcă
 Hădărean
 Hădăreanu
 Hagi
+Hagiescu
 Hăidăuțu
 Haiduc
 Haiducescu
@@ -1216,6 +1227,7 @@ Hodrea
 Hogaș
 Hojbota
 Holban
+Homicianu
 Hopârțean
 Horincar
 Hosu
@@ -1383,6 +1395,7 @@ Leucuța
 Licu
 Lificiu
 Liiceanu
+Lincan
 Lincar
 Lincu
 Lipa
@@ -1398,6 +1411,7 @@ Lovinescu
 Lozbă
 Luca
 Lucescu
+Luchian
 Ludoșan
 Ludușan
 Luncan
@@ -1441,6 +1455,7 @@ Mălin
 Mălinaș
 Mălureanu
 Măluțan
+Mamciuc
 Mamot
 Man
 Mănăstire
@@ -1532,6 +1547,7 @@ Micu
 Micula
 Miculiciu
 Micuț
+Miftode
 Mihacea
 Mihăescu
 Mihai
@@ -1691,6 +1707,7 @@ Negreanu
 Negrescu
 Negri
 Negrilă
+Negritu
 Negru
 Negruț
 Negruțiu
@@ -2164,6 +2181,7 @@ Sebeștean
 Sebestin
 Secelean
 Seceleanu
+Secrieru
 Șeicaru
 Selavărdeanu
 Selejan
@@ -2200,6 +2218,7 @@ Sircă
 Sitaru
 Slavic
 Slavici
+Smecicaș
 Smochină
 Snegur
 Soare
@@ -2353,6 +2372,7 @@ Teclu
 Țecu
 Tecuceanu
 Țeculescu
+Tegian
 Telcean
 Telcian
 Teleucă
@@ -2380,6 +2400,7 @@ Timoce
 Timofte
 Tincescu
 Tincu
+Țineghe
 Tion
 Țiplea
 Tirculescu
@@ -2423,6 +2444,7 @@ Tontoroiu
 Topârceanu
 Țopescu
 Topîrceanu
+Topor
 Trahanache
 Traistă
 Trâmbițaș
@@ -2563,6 +2585,7 @@ Vinț
 Vintilă
 Vintiloiu
 Vintiloju
+Vîrban
 Vișan
 Vișinescu
 Vișniec
@@ -2617,6 +2640,7 @@ Zăhărescu
 Zaharia
 Zaharie
 Zahiu
+Zainea
 Zaiț
 Zaițuc
 Zamfir
