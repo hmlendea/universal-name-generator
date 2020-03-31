@@ -8,7 +8,9 @@ Butakov
 Butlerov
 Chebyshev
 Cherenkov
+Degtyaryov
 Demidov
+Dezhnyov
 Dragomirov
 Dudnik
 Fedorov
@@ -76,9 +78,11 @@ Stakhanov
 Starobinsky
 Statnik
 Stoletov
+Stoyanovich
 Stukov
 Sunyaev
 Svergun
+Timofeyevich
 Titov
 Tsiolkovsky
 Tupolev
