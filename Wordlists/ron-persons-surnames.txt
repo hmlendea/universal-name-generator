@@ -73,6 +73,7 @@ Arimia
 Armășelu
 Armașu
 Artene
+Arteni
 Aslan
 Atanasiu
 Augustin
@@ -95,6 +96,7 @@ Bâcleșanu
 Bacovia
 Bădălău
 Badale
+Bădău
 Badea
 Bădeliță
 Bădescu
@@ -145,6 +147,7 @@ Bărăitaru
 Bărar
 Bărăscu
 Barbu
+Bărbuceanu
 Barbulescu
 Bărbuță
 Bărceanu
@@ -564,6 +567,7 @@ Chirică
 Chirilă
 Chiriteș
 Chirnogea
+Chirolise
 Chiru
 Chișe
 Chițac
@@ -782,6 +786,7 @@ Cremeneanu
 Creț
 Cretu
 Crețu
+Crețulescu
 Crișan
 Crișanu
 Crîșmaru
@@ -853,6 +858,7 @@ Deliorga
 Demetrescu
 Demian
 Densușianu
+Derechiei
 Dersidan
 Despescu
 Diacon
@@ -1100,6 +1106,7 @@ Ghercă
 Gherea
 Gherescu
 Gherman
+Ghib
 Ghibanu
 Ghibu
 Ghică
@@ -1157,6 +1164,7 @@ Gonța
 Gorân
 Gordan
 Gore
+Gorea
 Gorîn
 Grădinariu
 Grădinaru
@@ -1336,6 +1344,7 @@ Iuhaș
 Iurașcu
 Iureș
 Ivan
+Ivanciuc
 Ivănescu
 Ivanțoc
 Ivașcu
@@ -1351,6 +1360,7 @@ Jichici
 Jilieru
 Jinga
 Jitariu
+Jitaru
 Jitea
 Joandrea
 Joctici
@@ -1878,6 +1888,7 @@ Pascu
 Pașcu
 Pășcuțiu
 Pâslaru
+Pasolea
 Pastiu
 Paștiu
 Păstor
@@ -1962,6 +1973,7 @@ Plahotniuc
 Plămădeală
 Platon
 Pleșa
+Pleșca
 Pleșu
 Pletea
 Plier
@@ -2182,6 +2194,7 @@ Savu
 Săvulescu
 Sbârcea
 Scărlătescu
+Scripcaru
 Scrob
 Scrobota
 Scurtu
@@ -2319,6 +2332,7 @@ Storescu
 Strachinescu
 Strâmbeanu
 Stratan
+Streleț
 Strețea
 Stribei
 Striblea
@@ -2327,6 +2341,7 @@ Stupariu
 Sturza
 Sturzoiu
 Șuba
+Subțirelu
 Subțirică
 Suceveanu
 Suciu
