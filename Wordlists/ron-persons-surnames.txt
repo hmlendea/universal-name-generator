@@ -131,6 +131,7 @@ Balomirean
 Balș
 Baltag
 Baltagă
+Băltărețu
 Ban
 Banais
 Bănceu
@@ -971,6 +972,7 @@ Eminescu
 Enache
 Encean
 Enchiridionu
+Enciu
 Ene
 Enea
 Enescu
@@ -1078,6 +1080,7 @@ Gatu
 Gavril
 Gavrilă
 Gavrilescu
+Gavriliu
 Gavriliu
 Gavriloae
 Gavriloaie
@@ -1894,6 +1897,7 @@ Paștiu
 Păstor
 Patalău
 Pătcaș
+Pâtea
 Pătrășcanu
 Pătrașcu
 Patrichi
@@ -1904,6 +1908,7 @@ Pătru
 Păulescu
 Păun
 Păunescu
+Pavăl
 Păvălucă
 Pavel
 Pavelescu
@@ -2493,6 +2498,7 @@ Trufan
 Truică
 Truță
 Tucă
+Tucă
 Tuchilatu
 Țucudean
 Tudor
@@ -2580,6 +2586,7 @@ Varga
 Variu
 Varta
 Vârtosu
+Vârvărei
 Vasilache
 Vasile
 Vasilescu
