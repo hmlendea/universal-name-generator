@@ -736,6 +736,7 @@ fără Sens_Nonsensical
 fără Sfârșit_Endless
 fără Soare_Sunless
 fără Suflet_Soulless
+fără Tihnă_WithoutPeace
 fără Umbre_Shadowless
 fără Viață_Lifeless
 fără Vlagă_Limplye
@@ -1020,8 +1021,8 @@ Incoruptibili_Incorruptible
 Îndurerați_Pained
 Infectat_Infected
 Infectată_Infected
-Infectați_Infected
 Infectate_Infected
+Infectați_Infected
 Inferioare_Inferior
 Inferior_Inferior
 Inferiori_Inferior
