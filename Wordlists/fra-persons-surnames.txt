@@ -41,6 +41,7 @@ Lebouef
 Leclerc
 Leroy
 Louise
+Macron
 Martin
 Montagne
 Moreau
@@ -52,6 +53,7 @@ Petain
 Rémy
 Renard
 Roy
+Sorain
 Tremblay
 Tréville
 Villeneuve
