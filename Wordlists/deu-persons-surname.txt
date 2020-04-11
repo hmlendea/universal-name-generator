@@ -1,4 +1,5 @@
 Alpers
+Altmaier
 Amann
 Andbert
 Bach
@@ -57,9 +58,10 @@ Hanke
 Harster
 Hausser
 Heiden
+Heil
 Heisenberg
 Heissmeyer
-HeissmeyerHenlein
+Henlein
 Heusmann
 Heydrich
 Hilderbrandt
@@ -73,6 +75,7 @@ Jeckeln
 Jüttner
 Kaltenbrunner
 Kammler
+Karrenbauer
 Katzmann
 Keller
 Kepler
@@ -80,12 +83,15 @@ Keppler
 Klein
 Kleinheisterkamp
 Klemm
+Klöckner
 Klopfer
 Koppe
+Kramp
 Kreutz
 Krüger
 Kruspe
 Kube
+Lambrecht
 Lammers
 Landers
 Lauterbacher
@@ -93,6 +99,9 @@ Lindemann
 Loeper
 Lorenz
 Lörner
+Maas
+Merkel
+Meuthen
 Meyer
 Möbius
 Moder
@@ -132,6 +141,7 @@ Schäfer
 Scharfe
 Schaub
 Scheid
+Scheuer
 Schimana
 Schimper
 Schmidt
@@ -140,11 +150,15 @@ Scholz
 Schreck
 Schubert
 Schulz
+Schulze
 Schwarz
 Schwarzenegger
+Seehofer
+Spahn
 Sporrenberg
 Stein
 Steiner
+Steinmeier
 Strasse
 Streckenbach
 Stroop
