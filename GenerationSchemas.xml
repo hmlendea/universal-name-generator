@@ -395,16 +395,16 @@
 		<Schema>{randomiser, ,4,32,spa-persons-female|spa-persons-surnames}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
-		<Id>serbian-persons-male</Id>
-		<Name>Serbian male persons</Name>
-		<Category>Serbian</Category>
-		<Schema>{randomiser, ,4,32,srp-persons-male|srp-persons-surnames}</Schema>
+		<Id>serbocroatian-persons-male</Id>
+		<Name>Serbo-Croatian male persons</Name>
+		<Category>Serbo-Croatian</Category>
+		<Schema>{randomiser, ,4,32,hbs-persons-male|hbs-persons-surnames}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
-		<Id>serbian-persons-female</Id>
-		<Name>Serbian female persons</Name>
-		<Category>Serbian</Category>
-		<Schema>{randomiser, ,4,32,srp-persons-female|srp-persons-surnames}</Schema>
+		<Id>serbocroatian-persons-female</Id>
+		<Name>Serbo-Croatian female persons</Name>
+		<Category>Serbo-Croatian</Category>
+		<Schema>{randomiser, ,4,32,hbs-persons-female|hbs-persons-surnames}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
 		<Id>protoss-persons-female-khalai</Id>
