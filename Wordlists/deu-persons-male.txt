@@ -9,6 +9,7 @@ Bruno
 Christpoh
 Conrad
 Dieter
+Eberhardt
 Eggert
 Emil
 Erhard
@@ -16,6 +17,7 @@ Erich
 Ernst
 Erwin
 Felix
+Frank
 Franz
 Friedrich
 Fritz
@@ -27,6 +29,7 @@ Gottlob
 Günther
 Gustav
 Hans
+Heiko
 Heinrich
 Heinz
 Helmuth
@@ -37,6 +40,7 @@ Horst
 Hravn
 Hugo
 Jakob
+Jens
 Joachim
 Johann
 Jörg
@@ -56,6 +60,7 @@ Martin
 Matthias
 Max
 Moritz
+Olaf
 Oliver
 Oswald
 Otto

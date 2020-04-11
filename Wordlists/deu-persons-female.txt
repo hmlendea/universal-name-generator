@@ -1,9 +1,11 @@
 Adelaide
 Andrea
+Angela
 Angelika
 Anita
 Anja
 Anna
+Annegret
 Annike
 Bettina
 Birgit
@@ -14,6 +16,8 @@ Elsa
 Emma
 Erika
 Eva
+Franziska
+Gauland
 Gertrude
 Gisela
 Gretchen
@@ -50,5 +54,6 @@ Silvia
 Stefanie
 Tina
 Ursula
+Weidel
 Wibke
 Wilhelmina
