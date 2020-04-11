@@ -69,18 +69,6 @@
 		<Schema>{randomiser, ,4,32,eng-persons-female|eng-persons-surnames}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
-		<Id>spanish-persons-male</Id>
-		<Name>Spanish male persons</Name>
-		<Category>Spanish</Category>
-		<Schema>{randomiser, ,4,32,spanish-persons-male|spanish-persons-surnames}</Schema>
-	</GenerationSchemaEntity>
-	<GenerationSchemaEntity>
-		<Id>spanish-persons-female</Id>
-		<Name>Spanish female persons</Name>
-		<Category>Spanish</Category>
-		<Schema>{randomiser, ,4,32,spanish-persons-female|spanish-persons-surnames}</Schema>
-	</GenerationSchemaEntity>
-	<GenerationSchemaEntity>
 		<Id>fra-persons-female</Id>
 		<Name>French female persons</Name>
 		<Category>French</Category>
@@ -393,6 +381,30 @@
 		<Name>Somali male persons</Name>
 		<Category>Somali</Category>
 		<Schema>{randomiser, ,4,32,som-persons-male|som-persons-surnames}</Schema>
+	</GenerationSchemaEntity>
+	<GenerationSchemaEntity>
+		<Id>spanish-persons-male</Id>
+		<Name>Spanish male persons</Name>
+		<Category>Spanish</Category>
+		<Schema>{randomiser, ,4,32,spa-persons-male|spa-persons-surnames}</Schema>
+	</GenerationSchemaEntity>
+	<GenerationSchemaEntity>
+		<Id>spanish-persons-female</Id>
+		<Name>Spanish female persons</Name>
+		<Category>Spanish</Category>
+		<Schema>{randomiser, ,4,32,spa-persons-female|spa-persons-surnames}</Schema>
+	</GenerationSchemaEntity>
+	<GenerationSchemaEntity>
+		<Id>serbian-persons-male</Id>
+		<Name>Serbian male persons</Name>
+		<Category>Serbian</Category>
+		<Schema>{randomiser, ,4,32,srp-persons-male|srp-persons-surnames}</Schema>
+	</GenerationSchemaEntity>
+	<GenerationSchemaEntity>
+		<Id>serbian-persons-female</Id>
+		<Name>Serbian female persons</Name>
+		<Category>Serbian</Category>
+		<Schema>{randomiser, ,4,32,srp-persons-female|srp-persons-surnames}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
 		<Id>protoss-persons-female-khalai</Id>
