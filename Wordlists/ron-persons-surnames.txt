@@ -237,6 +237,7 @@ Bivolaru
 Bizgan
 Bizu
 Blaga
+Blăguțiu
 Blaj
 Blăjan
 Blăjean
@@ -607,6 +608,7 @@ Cioci
 Cioclea
 Cioculescu
 Ciolacu
+Ciolomic
 Cionca
 Ciontescu
 Ciora
@@ -691,6 +693,7 @@ Colac
 Colan
 Colceriu
 Coldea
+Coliban
 Colta
 Columban
 Coman
@@ -728,6 +731,7 @@ Cordea
 Corduneanu
 Corha
 Corlan
+Corlățean
 Corlățean
 Corlăteanu
 Corlățeanu
@@ -1018,6 +1022,7 @@ Firu
 Flămând
 Flișto
 Floare
+Flonta
 Flore
 Florea
 Florescu
@@ -1309,6 +1314,7 @@ Ilionescu
 Ilisei
 Inășel
 Inculeț
+Indrei
 Indrie
 Indrieș
 Inovan
@@ -2199,6 +2205,7 @@ Savu
 Săvulescu
 Sbârcea
 Scărlătescu
+Schipor
 Scripcaru
 Scrob
 Scrobota
@@ -2248,6 +2255,7 @@ Sîrghe
 Sitaru
 Slavic
 Slavici
+Smarandache
 Smecicaș
 Smochină
 Snegur
@@ -2343,6 +2351,7 @@ Stribei
 Striblea
 Stroe
 Stupariu
+Stupiuc
 Sturza
 Sturzoiu
 Șuba
@@ -2426,6 +2435,7 @@ Tibrea
 Țigănuș
 Tighineanu
 Tilea
+Timiș
 Timiș
 Timișoreanu
 Timoc
@@ -2578,6 +2588,7 @@ Vălean
 Valeca
 Valentin
 Vancea
+Văncică
 Vanciu
 Vancu
 Vântu
