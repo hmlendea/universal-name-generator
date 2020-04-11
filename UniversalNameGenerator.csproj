@@ -49,6 +49,9 @@
     <None Update="Wordlists\hau-persons-female.txt"><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
     <None Update="Wordlists\hau-persons-male.txt"><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
     <None Update="Wordlists\hau-persons-surnames.txt"><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
+    <None Update="Wordlists\hbs-persons-female.txt"><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
+    <None Update="Wordlists\hbs-persons-male.txt"><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
+    <None Update="Wordlists\hbs-persons-surnames.txt"><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
     <None Update="Wordlists\hin-persons-female.txt"><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
     <None Update="Wordlists\hin-persons-male.txt"><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
     <None Update="Wordlists\hin-persons-surnames.txt"><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
@@ -139,9 +142,6 @@
     <None Update="Wordlists\spa-persons-female.txt"><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
     <None Update="Wordlists\spa-persons-male.txt"><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
     <None Update="Wordlists\spa-persons-surnames.txt"><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
-    <None Update="Wordlists\srp-persons-female.txt"><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
-    <None Update="Wordlists\srp-persons-male.txt"><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
-    <None Update="Wordlists\srp-persons-surnames.txt"><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
     <None Update="Wordlists\starcraft-protoss-persons-female-khalai.txt"><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
     <None Update="Wordlists\starcraft-protoss-persons-female-nerazim.txt"><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
     <None Update="Wordlists\starcraft-protoss-persons-female-taldarim.txt"><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
