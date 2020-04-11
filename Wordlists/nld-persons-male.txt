@@ -1,8 +1,6 @@
 Aad
 Aart
-Ab
 Abraham
-Ad
 Adam
 Adem
 Adolf
@@ -35,6 +33,7 @@ Arjen
 Arno
 Arnold
 Arnoldus
+Arnoud
 Arnoud
 Arnout
 Arthur
@@ -196,6 +195,7 @@ Lambrecht
 Lammert
 Lars
 Laurens
+Leendert
 Leendert
 Leonardus
 Leopold
