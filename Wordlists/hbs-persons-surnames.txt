@@ -5,6 +5,7 @@ Bogdanović
 Bojanić
 Bojović
 Bončić
+Bošković
 Brašovan
 Bulatović
 Đelmaš
@@ -22,7 +23,6 @@ Ivanović
 Jakšić
 Janković
 Jevrić
-Josic
 Josić
 Jovanović
 Katerinić
@@ -37,8 +37,11 @@ Mijatović
 Minić
 Mirković
 Mitrofanović
+Mohorovičić
 Načić
 Pajčin
+Prelog
+Primorac
 Radević
 Radovanović
 Raspopović
@@ -46,10 +49,12 @@ Roksandić
 Sekulić
 Šestić
 Soldatović
+Soljačić
 Šterić
 Stijović
 Stojanović
 Stojković
+Supek
 Tapavica
 Ubavkić
 Velimirović

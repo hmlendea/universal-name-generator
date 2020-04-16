@@ -13,6 +13,7 @@ Berger
 Bergmeister
 Best
 Bittrich
+Boas
 Bohle
 Bomhard
 Bouhler
@@ -35,6 +36,7 @@ Eberstein
 Ebner
 Eggeling
 Eicke
+Einstein
 Erhard
 Fegelein
 Fiehler
@@ -42,6 +44,7 @@ Fischer
 Fitzthum
 Forster
 Frank
+Freud
 Freyberg
 Friedrichs
 Gebhardt
@@ -85,6 +88,7 @@ Kleinheisterkamp
 Klemm
 Klöckner
 Klopfer
+Kopernikus
 Koppe
 Kramp
 Kreutz
