@@ -1,4 +1,5 @@
 ﻿Aleksandar
+Andrija
 Bogdan
 Bora
 Danilo
@@ -10,13 +11,16 @@ Hristofor
 Ilija
 Ivan
 Janko
+Josip
 Jovan
 Konstantin
 Lovro
+Marin
 Matija
 Mihailo
 Milan
 Miodrag
+Miroslav
 Mladen
 Momčilo
 Nikola
@@ -25,9 +29,11 @@ Petar
 Predrag
 Ratislav
 Risto
+Ruđer
 Simeon
 Sreten
 Svetozar
 Uroš
+Vladimir
 Vojin
 Zoran

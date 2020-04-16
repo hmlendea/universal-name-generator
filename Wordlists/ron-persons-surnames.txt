@@ -21,6 +21,7 @@ Albuță
 Aldea
 Alecsandri
 Alecu
+Alevra
 Alexan
 Alexandrescu
 Alice
@@ -732,7 +733,6 @@ Corduneanu
 Corha
 Corlan
 Corlățean
-Corlățean
 Corlăteanu
 Corlățeanu
 Cornea
@@ -780,6 +780,7 @@ Crăciunaș
 Crăciunean
 Crăciunoiu
 Crainic
+Crăiniceanu
 Craioveanu
 Crămar
 Cramba
@@ -817,6 +818,7 @@ Cuciuroschi
 Cucoș
 Cucuieț
 Cuibuș
+Culcer
 Culgheru
 Culianu
 Culiță
@@ -1085,7 +1087,6 @@ Gatu
 Gavril
 Gavrilă
 Gavrilescu
-Gavriliu
 Gavriliu
 Gavriloae
 Gavriloaie
@@ -1673,6 +1674,7 @@ Moroșanu
 Moșanu
 Moscaliuc
 Moscovici
+Moșoiu
 Moț
 Motrescu
 Movilă
@@ -2112,6 +2114,7 @@ Raț
 Rațiu
 Rățoi
 Răuț
+Razu
 Rebengiuc
 Rebreanu
 Rebrișorean
@@ -2436,7 +2439,6 @@ Tibrea
 Tighineanu
 Tilea
 Timiș
-Timiș
 Timișoreanu
 Timoc
 Timoce
@@ -2507,7 +2509,6 @@ Trombițaș
 Trufan
 Truică
 Truță
-Tucă
 Tucă
 Tuchilatu
 Țucudean
@@ -2582,6 +2583,7 @@ Văduvă
 Vaida
 Văileanu
 Vaina
+Văitoianu
 Vâlceanu
 Vâlcov
 Vălean
