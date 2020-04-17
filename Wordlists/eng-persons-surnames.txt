@@ -113,6 +113,7 @@ Cook
 Cooper
 Cox
 Crain
+Crick
 Crosby
 Cross
 Crouch
@@ -146,6 +147,7 @@ Emerson
 England
 Ericson
 Evans
+Fairbairn
 Faraday
 Farnsworth
 Farrell
@@ -500,6 +502,7 @@ Tanner
 Taylor
 Terrell
 Thompson
+Thomson
 Thornton
 Tipton
 Townsend
@@ -532,6 +535,7 @@ Wentworth
 West
 Weyland
 Wheeler
+Whewell
 Whipple
 Whitcroft
 White

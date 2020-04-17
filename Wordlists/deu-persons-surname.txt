@@ -16,6 +16,7 @@ Bittrich
 Boas
 Bohle
 Bomhard
+Born
 Bouhler
 Braemer
 Brandt
@@ -38,6 +39,7 @@ Eggeling
 Eicke
 Einstein
 Erhard
+Euler
 Fegelein
 Fiehler
 Fischer
@@ -65,6 +67,7 @@ Heil
 Heisenberg
 Heissmeyer
 Henlein
+Herschel
 Heusmann
 Heydrich
 Hilderbrandt
@@ -178,6 +181,7 @@ von Halkett
 von Helldorf
 von Herff
 von Hotzendorf
+von Liebig
 von Neurath
 von Woyrsch
 von Wrangel

@@ -15,6 +15,7 @@ Costa
 D'Agostino
 D'Alessandro
 D'Antoni
+Dandolo
 de Luca
 de Rosa
 de Sciglio
@@ -29,6 +30,7 @@ di Savoia
 Dulbecco
 Fabbrini
 Fazio
+Fermi
 Ferrari
 Galilei
 Gallo
@@ -39,9 +41,11 @@ Giordano
 Lombardi
 Mambretti
 Mancini
+Manciolino
 Marchetti
 Marcuzzi
 Marino
+Marozzo
 Mazzitelli
 Medici
 Moretti
@@ -66,4 +70,5 @@ Scalia
 Soprano
 Valeri
 Vecchione
+Viggiani
 Virini
