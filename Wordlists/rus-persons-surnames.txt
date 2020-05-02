@@ -34,6 +34,7 @@ Kovalevskaya
 Kozhedub
 Krasnopolsky
 Krutov
+Kryuchkov
 Kurchatov
 Kuzin
 Kuznetsov
@@ -92,6 +93,8 @@ Ulanov
 Vasiliev
 Vavilov
 Volkov
+Yanayev
+Yeltsin
 Yerzov
 Zhirov
 Zhivenkov
