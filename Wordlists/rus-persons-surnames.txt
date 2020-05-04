@@ -2,6 +2,7 @@ Alexseyev
 Alferov
 Antonov
 Basov
+Belousov
 Botkin
 Brusilov
 Butakov
@@ -51,6 +52,7 @@ Markov
 Mendeleev
 Metchnikoff
 Mil
+Mishustin
 Mozhaysky
 Nevsky
 Novoselov
@@ -74,6 +76,7 @@ Semyonov
 Shatalov
 Shestakov
 Skobelev
+Sobyanin
 Sorokin
 Stakhanov
 Starobinsky
@@ -83,6 +86,7 @@ Stoyanovich
 Stukov
 Sunyaev
 Svergun
+Taraskin
 Timofeyevich
 Titov
 Tsiolkovsky
