@@ -1,4 +1,5 @@
 Abrudan
+Achimaș
 Aciubotariței
 Adam
 Adamache
@@ -77,6 +78,7 @@ Artene
 Arteni
 Aslan
 Atanasiu
+Atodiresei
 Augustin
 Avadanei
 Avalonu
@@ -391,6 +393,7 @@ Bucur
 Bucurean
 Bucureanu
 Bucurescu
+Budai
 Budău
 Budeanu
 Budescu
@@ -454,7 +457,6 @@ Butnariu
 Butnaru
 Butuc
 Buz
-Buză
 Buză
 Buzărnescu
 Buzaș
@@ -520,6 +522,7 @@ Cârlan
 Cârlig
 Cârlova
 Cârmu
+Cârpanu
 Cărpar
 Cârpar
 Cârstea
@@ -565,6 +568,7 @@ Cheța
 Chețan
 Chiaburu
 Chiciudean
+Chicu
 Chifan
 Chindea
 Chindriș
@@ -660,6 +664,7 @@ Ciulei
 Ciumpiliac
 Ciungan
 Ciungu
+Ciunterei
 Ciupei
 Ciupit
 Ciupitu
@@ -879,6 +884,7 @@ Dersidan
 Despescu
 Diacon
 Diaconescu
+Diaconiuc
 Diaconu
 Dică
 Dicescu
@@ -1001,6 +1007,7 @@ Faiciuc
 Fânaru
 Fărăgău
 Fărâmă
+Faraon
 Farcaș
 Fărcaș
 Fărcășanu
@@ -1185,6 +1192,7 @@ Gordan
 Gore
 Gorea
 Gorîn
+Gotișan
 Grădinariu
 Grădinaru
 Grama
@@ -1651,6 +1659,7 @@ Mițulescu
 Mituța
 Miu
 Miulescu
+Mizgai
 Mizgan
 Mizil
 Mladin
@@ -1684,6 +1693,7 @@ Mornea
 Morosan
 Moroșan
 Moroșanu
+Morun
 Moșanu
 Moscaliuc
 Moscovici
@@ -1859,6 +1869,7 @@ Pădurariu
 Păduraru
 Pădurean
 Pădureanu
+Paicu
 Pălăcean
 Palade
 Palalogoș
@@ -1973,6 +1984,7 @@ Pincu
 Pinte
 Pintea
 Pinteru
+Pinti
 Pintican
 Pintilie
 Pînzariu
@@ -2189,6 +2201,7 @@ Sălăgeanu
 Sălăjean
 Sălăjeanu
 Salanța
+Șalaru
 Sălcudean
 Sălcudeanu
 Șamșodan
@@ -2285,6 +2298,7 @@ Sociu
 Socol
 Sofron
 Șoim
+Șoit
 Solomon
 Solovastru
 Solzaru
@@ -2365,6 +2379,7 @@ Stolnici
 Stolojan
 Storescu
 Strachinescu
+Străjan
 Strâmbeanu
 Stratan
 Streleț
@@ -2391,6 +2406,7 @@ Tabără
 Tabarcea
 Tăbleț
 Țâbuleac
+Tabultoc
 Tăbușcă
 Taciuc
 Talpău
@@ -2466,6 +2482,7 @@ Tincescu
 Tincu
 Țineghe
 Tion
+Tiplea
 Țiplea
 Tirculescu
 Țiriac
@@ -2606,7 +2623,6 @@ Vaina
 Văitoianu
 Vâlceanu
 Vâlcov
-Vâlcov
 Vălean
 Valeca
 Valentin
@@ -2642,6 +2658,7 @@ Vesa
 Veștea
 Vianu
 Vicaș
+Vicol
 Vidican
 Vidrean
 Vienescu
