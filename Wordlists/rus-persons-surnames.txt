@@ -4,6 +4,7 @@ Antonov
 Basov
 Belousov
 Botkin
+Briukanov
 Brusilov
 Butakov
 Butlerov
@@ -20,6 +21,7 @@ Geim
 Grishina
 Gryaznov
 Holevo
+Ignatenko
 Ivannikov
 Ivanov
 Kamensky
@@ -31,6 +33,7 @@ Kolosov
 Komarov
 Kornilov
 Korolev
+Kosyakin
 Kovalevskaya
 Kozhedub
 Krasnopolsky
@@ -62,6 +65,7 @@ Ostrovsky
 Pavlov
 Perelman
 Petrenko
+Pikalov
 Pirogov
 Polachev
 Popov
@@ -75,6 +79,7 @@ Sayanovich
 Semyonov
 Shatalov
 Shestakov
+Shulepov
 Skobelev
 Sobyanin
 Sorokin
