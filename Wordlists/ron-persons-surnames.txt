@@ -178,6 +178,7 @@ Băsărăbescu
 Băsescu
 Baștovoi
 Bâtă
+Bâte
 Bătrân
 Bătrânac
 Bedelean
@@ -1055,6 +1056,7 @@ Focșeanu
 Fodor
 Fogaș
 Fosa
+Fota
 Fotache
 Frătean
 Frățilă
@@ -1069,6 +1071,7 @@ Fulga
 Fulgeanu
 Funar
 Furcă
+Furcoiu
 Furtună
 Fusu
 Gabor
@@ -1430,6 +1433,7 @@ Laza
 Lazăr
 Lazea
 Lăzureanu
+Leahu
 Leancă
 Lechințan
 Lefter
@@ -1932,6 +1936,7 @@ Păstor
 Patalău
 Pătcaș
 Pâtea
+Pătrășcan
 Pătrășcanu
 Pătrașcu
 Patrichi
@@ -1951,6 +1956,7 @@ Pelea
 Peneac
 Perciun
 Perieanu
+Perijoc
 Perșu
 Pescar
 Pescariu
