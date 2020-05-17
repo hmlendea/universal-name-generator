@@ -10,12 +10,14 @@ Baur
 Becker
 Berchtold
 Berger
+Bergius
 Bergmeister
 Best
 Bittrich
 Boas
 Bohle
 Bomhard
+Bonhoeffer
 Born
 Bouhler
 Braemer
@@ -26,6 +28,7 @@ Brenner
 Brill
 Brinkmann
 Buch
+Buchner
 Bürckel
 Daluege
 Demelhubeer
@@ -36,6 +39,7 @@ Dreyer
 Eberstein
 Ebner
 Eggeling
+Ehrlich
 Eicke
 Einstein
 Erhard
@@ -58,6 +62,7 @@ Grasser
 Grawitz
 Greifelt
 Greiser
+Haber
 Haeckel
 Hanke
 Harster
@@ -158,14 +163,18 @@ Schreck
 Schubert
 Schulz
 Schulze
+Schünemann
 Schwarz
 Schwarzenegger
 Seehofer
+Selten
 Spahn
 Sporrenberg
 Stein
 Steiner
+Steinhaus
 Steinmeier
+Stern
 Strasse
 Streckenbach
 Stroop
@@ -190,6 +199,7 @@ Wächtler
 Wagner
 Weber
 Wegener
+Weisert
 Weiss
 Weitzel
 Wendler
