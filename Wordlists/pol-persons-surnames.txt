@@ -190,6 +190,7 @@ Krzewski
 Krzowski
 Krzyczykowski
 Krzyszczykowski
+Kubacki
 Kubeł
 Kujawski
 Kurosz
@@ -413,6 +414,7 @@ Węgrzynowicz
 Wierciński
 Wisimirski
 Witanowski
+Włostowic
 Wojaczyński
 Wojatyński
 Wojcicki
