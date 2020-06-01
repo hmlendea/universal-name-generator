@@ -13,7 +13,6 @@ Cristian
 Daniele
 Domenico
 Enrico
-Enrico
 Eugenio
 Fabio
 Fabrizio
@@ -39,6 +38,7 @@ Matteo
 Michele
 Niccolò
 Nicola
+Paolo
 Paulo
 Pietro
 Renato
