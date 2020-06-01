@@ -80,6 +80,7 @@ Aslan
 Atanasiu
 Atodiresei
 Augustin
+Aurescu
 Avadanei
 Avalonu
 Averescu
@@ -437,6 +438,7 @@ Burileanu
 Burja
 Burlaca
 Burlacu
+Burleanu
 Burnea
 Burnei
 Bursaşiu
@@ -451,6 +453,7 @@ Buta
 Butacu
 Butan
 Butaru
+Butcovan
 Bute
 Butean
 Butescu
@@ -854,6 +857,7 @@ Daicoviciu
 Dâlca
 Dâlcă
 Damian
+Danalachi
 Dancă
 Danciu
 Daneliuc
@@ -1186,7 +1190,7 @@ Goie
 Goje
 Goldiș
 Golea
-Goliescu
+Golescu
 Goma
 Gongone
 Gonța
@@ -1550,6 +1554,7 @@ Marinca
 Marincaș
 Mărincaș
 Marinescu
+Marinoiu
 Marișca
 Măriuț
 Mărmureanu
@@ -1652,6 +1657,7 @@ Mișină
 Mitariu
 Mititean
 Mititiuc
+Mițoi
 Mitra
 Mitrache
 Mitran
@@ -1702,6 +1708,7 @@ Moșanu
 Moscaliuc
 Moscovici
 Moșoiu
+Moșteanu
 Moț
 Motrescu
 Movilă
@@ -1838,6 +1845,7 @@ Oncioiu
 Onea
 Onicescu
 Oniga
+Onilă
 Onișor
 Onița
 Onițiu
@@ -1982,6 +1990,7 @@ Petrușel
 Petruț
 Petruțiu
 Piciu
+Pîclea
 Picoș
 Pieleanu
 Piersic
@@ -2196,6 +2205,7 @@ Rusnac
 Rusu
 Sabău
 Saca
+Sacerdoțeanu
 Sadoveanu
 Safta
 Saftoiu
@@ -2536,6 +2546,7 @@ Topor
 Trahanache
 Traistă
 Trâmbițaș
+Trandafir
 Trandafirescu
 Trașcă
 Trif
