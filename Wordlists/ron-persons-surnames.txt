@@ -54,6 +54,7 @@ Angheluță
 Anisie
 Anițaș
 Aniței
+Antohi
 Antohie
 Antonescu
 Anușca
@@ -535,6 +536,7 @@ Carțiș
 Căstăian
 Cașu
 Catana
+Catanici
 Cataraga
 Cataramă
 Catargiu
@@ -1107,6 +1109,7 @@ Gașpar
 Gâșteanu
 Gâștescu
 Gatu
+Găvozdea
 Gavril
 Gavrilă
 Gavrilescu
@@ -1827,6 +1830,7 @@ Obreja
 Octavian
 Odobleja
 Ofițeru
+Ogoranu
 Olar
 Olărescu
 Olariu
