@@ -11,10 +11,12 @@ Boccaccio
 Bofini
 Cadorna
 Calvino
+Cappelletti
 Cappello
 Cassata
 Cavalli
 Cavoretto
+Colonna
 Conti
 Corsini
 Costa
@@ -46,6 +48,7 @@ Garibaldi
 Giordano
 Giovanni
 Guccione
+Lanzoni
 Lombardi
 Mambretti
 Mancini
@@ -64,6 +67,7 @@ Olivieri
 Pacini
 Paganini
 Pallavicino
+Pallottino
 Peruzzi
 Pezzaglia
 Piaggio
