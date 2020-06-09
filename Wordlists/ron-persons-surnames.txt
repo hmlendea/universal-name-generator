@@ -54,6 +54,7 @@ Angheluță
 Anisie
 Anițaș
 Aniței
+Antimiu
 Antohi
 Antohie
 Antonescu
@@ -65,6 +66,7 @@ Apostolescu
 Apostoliceanu
 Apostu
 Aprodu
+Arăboaei
 Arădeanu
 Arăpașu
 Ardelean
@@ -501,6 +503,7 @@ Cândea
 Canta
 Cantaragiu
 Cantemir
+Cănuci
 Capet
 Capră
 Căpraru
@@ -654,6 +657,7 @@ Cîrlova
 Cîrpar
 Cîrstea
 Cismaru
+Cistelecan
 Citescu
 Cîțescu
 Cîțu
@@ -1503,6 +1507,7 @@ Macinic
 Macovciuc
 Macovei
 Macovescu
+Macrea
 Mădgearu
 Maftuleac
 Magdaș
@@ -2189,6 +2194,7 @@ Romanciuc
 Romanescu
 Românescu
 Romanu
+Romașcanu
 Roșca
 Rosoga
 Roșu
@@ -2301,6 +2307,7 @@ Simon
 Simu
 Simula
 Sin
+Sînă
 Sindile
 Sîngeorzan
 Sirca
@@ -2479,6 +2486,7 @@ Teleucă
 Țene
 Tenie
 Tenișan
+Teniță
 Țenț
 Teocan
 Teodor
@@ -2583,6 +2591,7 @@ Tufaru
 Tulbure
 Tulea
 Tunea
+Tunegaru
 Tuns
 Tunsu
 Țurcă

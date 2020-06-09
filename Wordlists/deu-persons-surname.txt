@@ -1,3 +1,4 @@
+Ackner
 Alpers
 Altmaier
 Amann
@@ -67,6 +68,7 @@ Haeckel
 Hanke
 Harster
 Hausser
+Heer
 Heiden
 Heil
 Heisenberg
@@ -100,6 +102,7 @@ Kopernikus
 Koppe
 Kramp
 Kreutz
+Kronsteiner
 Krüger
 Kruspe
 Kube
@@ -156,6 +159,7 @@ Scheid
 Scheuer
 Schimana
 Schimper
+Schleyer
 Schmidt
 Schneider
 Scholz
