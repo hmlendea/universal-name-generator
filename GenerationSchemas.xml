@@ -117,6 +117,18 @@
 		<Schema>{randomiser, ,4,32,hau-persons-male|hau-persons-surnames}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
+		<Id>hawaiian-persons-female</Id>
+		<Name>Hawaiian female persons</Name>
+		<Category>Hawaiian</Category>
+		<Schema>{randomiser, ,4,32,haw-persons-female|haw-persons-surnames}</Schema>
+	</GenerationSchemaEntity>
+	<GenerationSchemaEntity>
+		<Id>hawaiian-persons-male</Id>
+		<Name>Hawaiian male persons</Name>
+		<Category>Hawaiian</Category>
+		<Schema>{randomiser, ,4,32,haw-persons-male|haw-persons-surnames}</Schema>
+	</GenerationSchemaEntity>
+	<GenerationSchemaEntity>
 		<Id>hin-persons-male</Id>
 		<Name>Hindi male persons</Name>
 		<Category>Hindi</Category>

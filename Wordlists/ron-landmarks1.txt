@@ -93,6 +93,8 @@ Complexele_Station
 Complexul_Station
 Confluența_Confluence
 Confluențele_Confluence
+Cotul_Bend
+Coturile_Bend
 Crăpătura_Crevasse
 Crăpăturile_Crevasse
 Craterele_Crater
@@ -182,6 +184,8 @@ Gropile_Pit
 Grota_Cave
 Grotele_Cave
 Gura_Entrance
+Holul_Hallway
+Holurile_Hallway
 Hotarele_Frontier
 Hotarul_Frontier
 Hruba_Cave
@@ -429,6 +433,8 @@ Tufișul_Bush
 Tufișurile_Bush
 Tundra_Tundra
 Tundrele_Tundra
+Tunelul_Tunnel
+Tunelurile_Tunnel
 Turbăria_Swamp
 Turbăriile_Swamp
 Ulița_Road
