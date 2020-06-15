@@ -91,6 +91,7 @@ Avram
 Avramescu
 Bab
 Baba
+Băbălău
 Băban
 Babeș
 Babu
@@ -145,6 +146,7 @@ Bănceu
 Banciu
 Bănciulescu
 Bancu
+Banea
 Băneș
 Bănescu
 Bănică
@@ -205,6 +207,7 @@ Bengescu
 Bentoiu
 Berar
 Berbec
+Berbece
 Berbecu
 Berce
 Bercean
@@ -306,6 +309,7 @@ Bolojan
 Bolovăneanu
 Bolovănescu
 Bonaciu
+Boncea
 Bondar
 Bondăraș
 Bondor
@@ -426,6 +430,7 @@ Bulzan
 Bulzean
 Bulzescu
 Bumbar
+Bumbea
 Bumbescu
 Bumbu
 Bunău
@@ -1155,12 +1160,14 @@ Ghilezan
 Ghimpu
 Ghinea
 Ghinescu
+Ghinet
 Ghiocel
 Ghișa
 Ghiță
 Ghițea
 Ghitera
 Ghitu
+Ghițulică
 Ghiu
 Ghiurco
 Ghiurea
@@ -1259,6 +1266,7 @@ Hâncu
 Handru
 Haneș
 Hănescu
+Hanga
 Hănganu
 Hangea
 Hapa
@@ -1295,6 +1303,7 @@ Hristea
 Hrițcu
 Hudea
 Huidu
+Huja
 Hule
 Hulea
 Hulpe
@@ -1376,6 +1385,7 @@ Ioviță
 Irimescu
 Isailă
 Isărescu
+Isovici
 Ispas
 Ispirescu
 Istoan
@@ -1530,6 +1540,7 @@ Mândâcanu
 Mandachi
 Mandanac
 Măndiță
+Mandric
 Mândru
 Mândruleanu
 Manea
@@ -1608,6 +1619,7 @@ Meseșan
 Meteș
 Mețianu
 Mic
+Miclăuș
 Micle
 Miclea
 Micu
@@ -1688,7 +1700,9 @@ Moceanu
 Moculeanu
 Moculescu
 Modoi
+Modrescu
 Moga
+Moglan
 Mohanea
 Mohicanu
 Moianu
@@ -2429,6 +2443,7 @@ Sudan
 Surdu
 Surugiu
 Șușman
+Șuteu
 Șutu
 Tabără
 Tabarcea
@@ -2494,6 +2509,7 @@ Teodorescu
 Teodoriu
 Teodoru
 Terheș
+Terpe
 Testemițianu
 Teșu
 Theodorian
@@ -2604,6 +2620,7 @@ Turdean
 Tureac
 Turian
 Turlan
+Turnagiu
 Țurțure
 Țuțea
 Tutilescu
@@ -2765,6 +2782,7 @@ Zamfir
 Zamfirache
 Zamfirescu
 Zanfir
+Zapodeanu
 Zare
 Zarif
 Zăvoian
