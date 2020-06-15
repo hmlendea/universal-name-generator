@@ -45,6 +45,7 @@ Billings
 Billingsley
 Birch
 Bixby
+Blackburn
 Blackwood
 Blair
 Blake
@@ -113,6 +114,7 @@ Cook
 Cooper
 Cox
 Crain
+Crick
 Crosby
 Cross
 Crouch
@@ -146,6 +148,8 @@ Emerson
 England
 Ericson
 Evans
+Fairbairn
+Faraday
 Farnsworth
 Farrell
 Fawcett
@@ -372,6 +376,7 @@ Palmer
 Parker
 Parson
 Patterson
+Pauling
 Paxton
 Payne
 Peacock
@@ -428,6 +433,7 @@ Roswell
 Rowley
 Roykirk
 Russell
+Rutherford
 Ryan
 Sagan
 Salinger
@@ -497,6 +503,7 @@ Tanner
 Taylor
 Terrell
 Thompson
+Thomson
 Thornton
 Tipton
 Townsend
@@ -529,6 +536,7 @@ Wentworth
 West
 Weyland
 Wheeler
+Whewell
 Whipple
 Whitcroft
 White

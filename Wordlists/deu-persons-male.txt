@@ -43,6 +43,7 @@ Jakob
 Jens
 Joachim
 Johann
+Johannes
 Jörg
 Josef
 Jürgen
@@ -60,6 +61,7 @@ Martin
 Matthias
 Max
 Moritz
+Nikolaus
 Olaf
 Oliver
 Oswald
@@ -71,6 +73,7 @@ Rolf
 Rudolf
 Sepp
 Sigismund
+Sigmund
 Stefan
 Theodor
 Thomas

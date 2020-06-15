@@ -1,5 +1,7 @@
 Alejandro
 Alfonso
+Álvaro
+Ángel
 Carlos
 Diego
 Eduardo
@@ -14,6 +16,7 @@ Gerardo
 Guillermo
 Hernándo
 Ignacio
+Jaime
 Javier
 Jesús
 Joaquin
@@ -27,13 +30,20 @@ Lorenzo
 Luis
 Manuel
 Marcelo
+Mario
+Matías
 Miguel
+Miquel
+Néstor
+Óscar
 Pablo
+Paco
 Pedro
 Raimundo
 Ramón
 Ricardo
 Roberto
+Rodrigo
 Salvadore
 Santiago
 Sergio

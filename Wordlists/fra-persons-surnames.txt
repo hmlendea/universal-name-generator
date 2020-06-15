@@ -6,12 +6,14 @@ Bouchard
 Bourbon
 Clemenceau
 Cousteau
+Curie
 de Castelnau
-De Gaulle
+de Gaulle
 de Montaignac
 de Suffren
 Deveraux
 Deville
+Dirac
 Dubois
 Duchaine
 DuGalle
@@ -43,10 +45,12 @@ Leroy
 Louise
 Macron
 Martin
+Mitterrand
 Montagne
 Moreau
 Morin
 Paquette
+Pasteur
 Pelletier
 Péllissier
 Petain
