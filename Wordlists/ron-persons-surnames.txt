@@ -1025,7 +1025,7 @@ Amihălăchioae
 Amihălăchioaei
 Amihălăchioaie
 Amihălăchioaiei
-Amikhalakioaie
+Amihălăcioaie
 Amironesei
 Amișculesei
 Amiteteloae
@@ -1958,7 +1958,6 @@ Arvinte
 Arvunescu
 Arzan
 Arzoiu
-Aș
 Asache
 Asachi
 Asafte
@@ -2294,8 +2293,6 @@ Azoicăi
 Azoiței
 Azoiții
 Azulufei
-Bă
-Bâ
 Bab
 Baba
 Babă
@@ -2443,8 +2440,6 @@ Băcneanu
 Băcoi
 Bâcoi
 Baconschi
-Baconski
-Baconsky
 Bacor
 Bacoș
 Bacoșcă
@@ -4407,7 +4402,6 @@ Beznea
 Bezneanu
 Bezneanul
 Beznilă
-Bî
 Bia
 Biaca
 Biaciu
@@ -6558,8 +6552,6 @@ Buzești
 Buzgure
 Buzilă
 Buzoianu
-Că
-Câ
 Caba
 Cabai
 Cabalău
@@ -8803,7 +8795,6 @@ Christea
 Christescu
 Christodorescu
 Christu
-Cî
 Ciabârdan
 Ciac
 Ciaca
@@ -11762,8 +11753,6 @@ Cusin
 Cuțov
 Cuțui
 Cuza
-Dă
-Dâ
 Dâba
 Dabâca
 Dăbăcan
@@ -12133,7 +12122,6 @@ Dașcău
 Dașchevici
 Dăsculțu
 Dașioveanu
-Daskălu
 Dașoveanu
 Dașu
 Dat
@@ -12391,7 +12379,6 @@ Dezi
 Dezmirean
 Dezmireanu
 Dezrobitu
-Dî
 Dia
 Diac
 Diacăn
@@ -14268,13 +14255,11 @@ Ersegean
 Erșescu
 Erșova
 Erușencu
-Eș
 Eșan
 Eșanu
 Esinencu
 Eșiu
 Eșu
-Eț
 Ețcu
 Etculescu
 Etegan
@@ -14294,15 +14279,12 @@ Evi
 Evinoiu
 Evlampie
 Evu
-Exacustodian
 Exare
 Exarhu
 Ezaru
 Ezeanu
 Ezechil
 Ezer
-Fă
-Fâ
 Fabian
 Fabricantu
 Fabriș
@@ -14480,7 +14462,6 @@ Farfară
 Farfulea
 Fărîmă
 Fariseu
-Farkaș
 Fârlea
 Farmatu
 Fărmuși
@@ -14526,8 +14507,8 @@ Fătușanu
 Fău
 Faur
 Făurescu
+Fazacaș
 Fazăcaș
-Fazakaș
 Fazecaș
 Feca
 Fecar
@@ -14725,7 +14706,6 @@ Fetițariu
 Fetoiu
 Feurdean
 Feurdeanu
-Fî
 Fialcovschi
 Fianu
 Fiaș
@@ -15575,8 +15555,6 @@ Fuștei
 Fustoș
 Fusu
 Fuțui
-Gă
-Gâ
 Gâb
 Găbălean
 Găban
@@ -16778,7 +16756,6 @@ Ghihaniș
 Ghihor
 Ghijan
 Ghijdaru
-Ghika
 Ghilă
 Ghilac
 Ghilan
@@ -17089,7 +17066,6 @@ Ghizică
 Ghizilă
 Ghizu
 Ghizuroiu
-Gî
 Giabă
 Giacă
 Giamănu
@@ -17968,7 +17944,6 @@ Gozar
 Gozariu
 Gozman
 Goznete
-Gozsdu
 Grăban
 Grad
 Grada
@@ -18500,8 +18475,6 @@ Guzgan
 Guzganu
 Guzu
 Guzumaș
-Hă
-Hâ
 Haba
 Habageriu
 Hăbălău
@@ -19151,7 +19124,6 @@ Hetriuc
 Heușu
 Heveș
 Heveși
-Hî
 Hîcea
 Hiceag
 Hîciu
@@ -20502,7 +20474,6 @@ Iluțan
 Iluțiu
 Iluțoaei
 Ilzeș
-Îm
 Imbăruș
 Imbărușiu
 Imbrea
@@ -20521,7 +20492,6 @@ Impău
 Împușcătoiu
 Împușcatu
 Imrea
-În
 Inache
 Înaltu
 Inășel
@@ -20865,7 +20835,6 @@ Irodia
 Irodică
 Irofte
 Irofti
-Iș
 Isa
 Isac
 Isăceanu
@@ -20979,7 +20948,6 @@ Isvercian
 Isvoran
 Isvoranu
 Isvoreanu
-Iț
 Ițariu
 Ițcuș
 Ițelea
@@ -21135,8 +21103,6 @@ Ivorciuc
 Ivu
 Ivuț
 Izbașa
-Jă
-Jâ
 Jaba
 Jabenițan
 Jâbu
@@ -21157,7 +21123,6 @@ Jaglău
 Jaiculescu
 Jâjâe
 Jâjâie
-Jakotă
 Jâlă
 Jalaboc
 Jalabocu
@@ -21299,7 +21264,6 @@ Jetea
 Jeverdan
 Jgheban
 Jgumă
-Jî
 Jian
 Jianu
 Jiberian
@@ -21718,11 +21682,6 @@ Juverdianu
 Juvete
 Juvină
 Juvuleanu
-Kiazim
-Kirițescu
-Kogălniceanu
-Lă
-Lâ
 Labă
 Lăbău
 Labeș
@@ -21789,7 +21748,6 @@ Lăeșu
 Lăețu
 Lăgojan
 Lahovaru
-Lahovary
 Laic
 Laichici
 Laicu
@@ -22294,7 +22252,6 @@ Lexgean
 Lezău
 Lezeriuc
 Lezeu
-Lî
 Lia
 Liahu
 Libăr
@@ -22933,8 +22890,6 @@ Luțu
 Luțuc
 Lutuțovici
 M
-Mă
-Mâ
 Mabirescu
 Mac
 Maca
@@ -23907,7 +23862,6 @@ Măriuț
 Măriuța
 Măriuță
 Măriuței
-Mărkuș
 Marmandiu
 Mărmureanu
 Marnea
@@ -23997,7 +23951,6 @@ Marușcă
 Mărușcă
 Mărușeac
 Măruși
-Marușka
 Mărușter
 Mărușteri
 Măruț
@@ -24590,7 +24543,6 @@ Meștereagă
 Meșterelu
 Meșteru
 Meșteșug
-Meszaroș
 Metanie
 Metea
 Metehău
@@ -24625,7 +24577,6 @@ Mezinca
 Mezincescu
 Mezinescu
 Mezinu
-Mî
 Mia
 Miatovici
 Mic
@@ -24916,7 +24867,6 @@ Mijache
 Mijea
 Mijloianu
 Mijoiu
-Mikloș
 Mila
 Milă
 Milaciu
@@ -26353,8 +26303,6 @@ Muzgoci
 Muzicaș
 Muzicescu
 Muzurcă
-Nă
-Nâ
 Naca
 Nace
 Nacea
@@ -28094,7 +28042,6 @@ Orzață
 Orzea
 Orzescu
 Orzoi
-Oș
 Osăceanu
 Osaci
 Oșan
@@ -28137,7 +28084,6 @@ Ostriceanu
 Ostrovanu
 Ostrovari
 Ostroveanu
-Oț
 Oțăl
 Oțăleanu
 Oțan
@@ -28199,8 +28145,6 @@ Ozon
 Ozoreanu
 Ozuna
 Ozunu
-Pă
-Pâ
 Paca
 Păcal
 Păcală
@@ -28928,7 +28872,6 @@ Pascali
 Pascalidi
 Pașcalu
 Păscăluță
-Pascaly
 Pașcan
 Pășcan
 Pășcăneanu
@@ -29783,7 +29726,6 @@ Petuca
 Peun
 Peună
 Peveliu
-Pî
 Piacovschi
 Piarsică
 Piascovschi
@@ -31488,8 +31430,6 @@ Pușcoiu
 Puțaru
 Putină
 Puțuri
-Ră
-Râ
 Rababoc
 Răbăcel
 Răbâlcă
@@ -32161,7 +32101,6 @@ Reznovanu
 Rezoreanu
 Rezuc
 Rezuș
-Rî
 Rîb
 Ribă
 Rîbu
@@ -32775,10 +32714,6 @@ Ruz
 Ruzișca
 Ruzoi
 Ruzoiu
-Să
-Sâ
-Șa
-Șă
 Saba
 Șabac
 Sabadac
@@ -33440,7 +33375,6 @@ Sburlea
 Sburlenghe
 Sburliș
 Sburliși
-Șc
 Scacioc
 Scăeru
 Scăeșteanu
@@ -33672,13 +33606,13 @@ Scutaru
 Scutea
 Scutelnic
 Scutelnicu
+Scutnic
 Scutu
 Scuturașu
 Scuturdean
 Scuturici
 Scuturiciu
 Scuturoiu
-Șd
 Șderu
 Șdira
 Șdirea
@@ -33687,7 +33621,6 @@ Sdrabău
 Șdreală
 Sdrobici
 Sdrobiș
-Șe
 Șeandrea
 Șearpe
 Seba
@@ -34043,7 +33976,6 @@ Sevestrean
 Sevestreanu
 Sevianu
 Seviciu
-Șf
 Șfabu
 Sfadu
 Șfagău
@@ -34117,7 +34049,6 @@ Sfrenț
 Sfrenți
 Sfrija
 Sfrijan
-Șg
 Sgâian
 Sgaibă
 Sgâncă
@@ -34141,8 +34072,6 @@ Sgorcea
 Sgripcea
 Sgubea
 Sgură
-Sî
-Și
 Șiadbei
 Siara
 Sibian
@@ -34438,7 +34367,6 @@ Siniavschi
 Sîniecobean
 Siniștean
 Sinițaru
-Șinka
 Sînmărghițan
 Sînmihăian
 Sinoi
@@ -34569,8 +34497,6 @@ Siulea
 Sivriu
 Sivu
 Sivulcă
-Skutnik
-Șl
 Slăbescu
 Slabu
 Slăbuțu
@@ -34643,7 +34569,6 @@ Slura
 Slușanchi
 Slusar
 Slutu
-Șm
 Smăchină
 Smad
 Smadici
@@ -34696,7 +34621,6 @@ Smolii
 Smotescu
 Smuc
 Smunchin
-Șn
 Șnabel
 Șnaider
 Șneapotă
@@ -34705,7 +34629,6 @@ Snegur
 Snigur
 Snop
 Snopu
-Șo
 Șoacă
 Soacaci
 Soaee
@@ -34932,7 +34855,6 @@ Soneriu
 Șonguru
 Sonia
 Sonică
-Șonka
 Șonlea
 Sonohat
 Șontea
@@ -35079,7 +35001,6 @@ Sovejanu
 Șovre
 Șovrea
 Șovu
-Șp
 Șpac
 Spaciu
 Spădaru
@@ -35219,9 +35140,7 @@ Spulber
 Spulbere
 Spumă
 Spuză
-Șr
 Șrof
-Șt
 Stăcescu
 Stache
 Stachie
@@ -35764,7 +35683,6 @@ Stoie
 Stoiean
 Stoienescu
 Stoienică
-Stoika
 Stoilă
 Stoilescu
 Stoinea
@@ -36018,7 +35936,6 @@ Sturzea
 Sturzi
 Sturzoiu
 Sturzu
-Șu
 Șuar
 Suărășan
 Șuba
@@ -36321,7 +36238,6 @@ Suvergel
 Șuvoială
 Suzeanu
 Suzoianu
-Șv
 Șvab
 Șvaia
 Svâncu
@@ -36332,11 +36248,6 @@ Sveică
 Șveica
 Șveț
 Svobodescu
-Tă
-Tâ
-Ța
-Ță
-Țâ
 Tabac
 Tăbăcar
 Tăbăcariu
@@ -36928,7 +36839,6 @@ Tăzlăoanu
 Tăzlăuanu
 Tcaci
 Tcaciuc
-Țe
 Teacă
 Teaci
 Teacoe
@@ -37266,9 +37176,6 @@ Theohori
 Theophanu
 Thoma
 Thomescu
-Tî
-Ți
-Țî
 Tia
 Tianu
 Țiba
@@ -37672,7 +37579,6 @@ Tiron
 Tironeac
 Tirpe
 Tîrpe
-Tîrpescuzsw
 Tîrș
 Tîrșa
 Tîrși
@@ -37781,7 +37687,6 @@ Tivu
 Țizler
 Tizmote
 Tizu
-Țo
 Toabeș
 Toabeși
 Toacă
@@ -38508,7 +38413,6 @@ Truția
 Truțiu
 Truțoiu
 Truțulescu
-Țu
 Țubluc
 Țubrea
 Tubucanu
@@ -38911,7 +38815,6 @@ Tuzan
 Tuzeș
 Tuzla
 Tuzlaru
-Țv
 Țvic
 Tzara
 Uancea
@@ -39207,7 +39110,6 @@ Urzică
 Urzicana
 Urzicaru
 Urziceanu
-Uș
 Ușăînchisă
 Uscatu
 Uscoiu
@@ -39222,7 +39124,6 @@ Usturoi
 Ușurel
 Ușurelu
 Ușvat
-Uț
 Uța
 Uță
 Uțan
@@ -39244,8 +39145,6 @@ Uzună
 Uzuneanu
 Uzunia
 Uzuru
-Vă
-Vâ
 Vâc
 Văcălie
 Văcar
@@ -39979,7 +39878,6 @@ Vezniu
 Vezniuc
 Vezoc
 Vezure
-Vî
 Vianu
 Viarbă
 Viașiu
@@ -40727,8 +40625,6 @@ Vutcovici
 Vuțu
 Vuzitaș
 Xenopol
-Ză
-Zâ
 Zabaleche
 Zabalovici
 Zăbălțan
@@ -41218,7 +41114,6 @@ Zgură
 Zgurcea
 Zgurea
 Zgureanu
-Zî
 Zibileanu
 Zibilianu
 Zica
