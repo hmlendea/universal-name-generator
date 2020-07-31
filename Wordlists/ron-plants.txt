@@ -13,7 +13,6 @@ brozbă
 brumundai
 bumbac
 buruiană
-cactus
 cânepă
 caralabă
 chipere
@@ -23,17 +22,13 @@ ferigă
 ficus
 filodendron
 floare
-frunză
-gălbenea
-gardenie
-gasterie
-iasomie
-ilest_drojdie # Transylvanian regionalism
-liană
-librizdă
-mușchi
-nerteră
-pristolnic
-spic
-stuf_Phragmites
-trestie_Phragmites
+Gasterie
+Iasomie
+Ilest_drojdie # Transylvanian regionalism
+Liană
+Librizdă
+Mușchi
+Nerteră
+Spic
+Stuf_Phragmites
+Trestie_Phragmites
