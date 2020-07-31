@@ -5,7 +5,7 @@ aglică_ciuboțică
 aglicel_ciuboțică
 Agurijoară
 Ai
-aișor_ghiocel
+Aișor_Ghiocel
 Albăstrea_Cornflower
 Albăstrică_Cornflower
 Albăstriță_Cornflower
@@ -122,8 +122,8 @@ Clematită
 Clocoțel
 Clocotici
 Clopoțel_Cornflower
-clopoțel_ghiocel
-clopoțel_lăcrimioară
+Clopoțel_Ghiocel
+Clopoțel_Lăcrimioară
 Coadă
 cocoară_Narcissus
 Cocoșel
@@ -219,7 +219,7 @@ Gerberă_Gerbera
 Gherghină
 Ghimber
 Ghioc_Cornflower
-Ghiocel_ghiocel
+Ghiocel_Ghiocel
 Ginseng
 gladiolă
 Glodurariță
@@ -361,7 +361,7 @@ Os
 Otrățel
 Paciuli
 Păducherniță
-Pălămidă
+Pălămidă_AcanthusLongifolius
 Pălărie
 Pană
 Pansea
@@ -413,10 +413,10 @@ Potiraș
 Prescuriță
 Priboi
 Pribolnic
-primăvăriță_ghiocel
-primăvăruță_ghiocel
+Primăvăriță_Ghiocel
+Primăvăruță_Ghiocel
 Primulă
-Pristolnic
+Pristolnic_AbutilonTheophrasti
 Puciognă
 Pufuleț
 Pufuliță
@@ -557,12 +557,12 @@ Târtan
 Tătăiș
 Tătăneasă
 Tătarnică
-Teișor
+Teișor_AbutilonTheophrasti
 Țepoșică
 Tilișcă
 Țintaură
-tontoroșel_ghiocel
-toporaș
+Tontoroșel_Ghiocel
+Toporaș
 Torțel
 Tradescanția
 Traistă
