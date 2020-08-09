@@ -2143,7 +2143,15 @@ Spurcăciunilor_OfFilth
 Spurcat_Filthy
 Spurcată_Filty
 Spurcate_Filthy
+Trainic_Lasting
+Trainici_Lasting
+Trainice_Lasting
+Trainică_Lasting
+Refacerii_OfRecovery
 Spurcați_Filthy
+Stacojie_Crimson
+Stacojii_Crimson
+Stacojiu_Crimson
 Stafiei_OfTheGhost
 Stafiilor_OfTheGhost
 Stâncoasă_Rocky
