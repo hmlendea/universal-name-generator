@@ -987,6 +987,7 @@ Amăriucăi
 Amăriuța
 Amăriuță
 Amăriuțe
+Amariuței
 Amăriuței
 Amăriuți
 Amărtișoaiei
@@ -2073,6 +2074,7 @@ Așteilean
 Aștelean
 Așteleanu
 Aștilean
+Astileanu
 Aștileanu
 Astratine
 Astroi
@@ -11704,6 +11706,7 @@ Creț
 Cretu
 Crețu
 Crețulescu
+Crihan
 Crișan
 Crișanu
 Crisbășan
@@ -11750,6 +11753,7 @@ Curelaru
 Curlea
 Curpan
 Cusin
+Cutieru
 Cuțov
 Cuțui
 Cuza
@@ -15665,6 +15669,7 @@ Găgianu
 Gagii
 Gâgiu
 Gagniuc
+Gagu
 Gâgu
 Gaia
 Găian
@@ -16280,6 +16285,7 @@ Geornoiu
 Georșoiu
 Geosanu
 Geovanovici
+Gera
 Geran
 Gercan
 Gere
@@ -23162,6 +23168,7 @@ Maidaniuc
 Maidanuc
 Maier
 Măieran
+Maierean
 Măierean
 Măiereanu
 Maierescu
@@ -25838,6 +25845,7 @@ Morțun
 Mortură
 Moru
 Moruga
+Morugă
 Moruianu
 Moruju
 Morun
@@ -27106,6 +27114,7 @@ Niculițel
 Niculiți
 Niculiu
 Niculoiu
+Niculușcă
 Niculuț
 Niculuță
 Nicuriuc
@@ -28947,6 +28956,7 @@ Pasparugă
 Pașparugă
 Păstae
 Paște
+Pastea
 Păștean
 Pastia
 Paștia
@@ -30067,6 +30077,7 @@ Pîș
 Pisaltu
 Pișalțu
 Pisargeac
+Pisaroglu
 Pisăru
 Pișău
 Pisc
@@ -37817,6 +37828,7 @@ Todosiu
 Todoșoi
 Toduț
 Toduță
+Toea
 Tofâlceanu
 Tofăleanu
 Tofan
@@ -38760,6 +38772,7 @@ Tuștean
 Țuștiu
 Țuț
 Tuță
+Țuța
 Țuță
 Tuțac
 Țuțea
@@ -40222,6 +40235,7 @@ Vituș
 Vitușinschi
 Viu
 Viuleț
+Vîvu
 Vizante
 Vizanti
 Vizaru
@@ -40810,6 +40824,7 @@ Zăpan
 Zapareniuc
 Zăpâroiu
 Zăpârțan
+Zapca
 Zăpcioroiu
 Zăpciroiu
 Zăpîrțan
