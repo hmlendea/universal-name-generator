@@ -4881,6 +4881,7 @@ Serio
 Serpe
 Serpico
 Serra
+Serrano
 Serrata
 Serratore
 Serritella
