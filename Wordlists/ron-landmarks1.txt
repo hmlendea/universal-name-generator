@@ -445,6 +445,7 @@ Trecerea_Path
 Trecerile_Path
 Tufăria_Scrub
 Tufăriile_Scrub
+Tufele_Bushe
 Tufișul_Bush
 Tufișurile_Bush
 Tundra_Tundra
