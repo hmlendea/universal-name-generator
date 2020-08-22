@@ -2,9 +2,8 @@
 .*[Cc]ha.*
 .*[Rr]ieb.*
 ([a-z][a-z])\1
-[äékö]
+[Käékökwy]
 [Hh]eul
-[Kk]
 [kqwy]
 cht
 eave
