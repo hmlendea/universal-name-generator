@@ -2,8 +2,8 @@
 .*[Cc]ha.*
 .*[Rr]ieb.*
 ([a-z][a-z])\1
-[Käékökwy]
 [Hh]eul
+[KWYäéköwy]
 [kqwy]
 cht
 eave
@@ -11,4 +11,5 @@ ehl
 jaroslav
 ngs
 oul
+schreib
 th
