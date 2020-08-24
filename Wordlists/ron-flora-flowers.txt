@@ -20,7 +20,7 @@ Amarant
 Amărătăciune
 Amăreală
 Amarilis
-Amăruță
+Amăruță_AcroptilonRepens
 anemonă
 Angelică
 Angelină
@@ -77,6 +77,7 @@ Cactus
 Cafeluță
 cală
 Căldărușă
+Calm_AcorusCalamus
 Calomfir
 Călțun
 Călțunaș
@@ -99,6 +100,7 @@ Cătușă
 Cătușnică
 Ceapă
 Ceasornic
+Cenușar_AilanthusAltissima
 cerceluș_lăcrimioară
 Cerențel
 Chenaf
@@ -128,7 +130,7 @@ Clopoțel_Ghiocel
 Clopoțel_Lăcrimioară
 Coadă
 cocoară_Narcissus
-Cocoșel
+Cocoșel_AdonisVernalis
 Colțișor
 Colțun
 Condur
@@ -145,6 +147,8 @@ Crețușcă
 crin_crin
 Crizantemă_Chrysanthemum
 Cruce
+Cucurbețea_Aconitum
+Cucurbețică_Aconitum
 Cucuruz
 Cucută
 Cuișoriță
@@ -153,6 +157,7 @@ Cupă
 Curcubeu
 Curechi
 Cuscrișor
+Dalac_Aconitum
 Dalie
 Darie
 Dediță
@@ -228,6 +233,7 @@ gladiolă
 Glodurariță
 Golicică
 Greghetin
+Gubănaș_AjugaGenevensis
 Gură
 Gușă
 Hamei
@@ -262,6 +268,8 @@ Lăsnicior
 Latir
 Laur
 Lavandă
+Lavrentină_AjugaGenevensis
+Lepădătoare_Aconitum
 Leurdă
 Levănțică
 Liliac
@@ -283,7 +291,7 @@ Lupoaie
 lușcă_Narcissus
 Mac
 Măcriș
-Mălură
+Mălură_AgrostemmaGithago
 Mălurici
 Mamă
 Mână
@@ -332,13 +340,15 @@ Muștar
 Mutătoare
 Mutulică
 Năfurică
+Năgară_AgrostemmaGithago
 Nalbă
 Năprasnic
 narcis_Narcissus
 narcisă_Narcissus
 Nard
 Năsturel
-Neghină
+Neghină_AgrostemmaGithago
+Negreață_AgrostemmaGithago
 Negrușcă
 Nemțișor
 Nenufar
@@ -347,14 +357,15 @@ Niprală
 Nopal
 Nopticoasă
 nufăr
-Obligeană
+Obligeană_AcorusCalamus
 Ochelariță
 Ochi
 Ochișor
 Odagaci
 Odolean
 Oiță
-Omag
+Omag_Aconitum
+Omeag_Aconitum
 Onagru
 Opintic
 Opoponax
@@ -363,9 +374,12 @@ Orăstică
 Oreșniță
 orhidee
 Os
+Oțetar_AilanthusAltissima
 Otrățel
 Paciuli
 Păducherniță
+Păiș_AiraCaespilosa
+Păiuș_AiraCaespilosa
 Pălămidă_AcanthusLongifolius
 Pălărie
 Pană
@@ -380,6 +394,7 @@ Paranasie
 Parpian
 Pasifloră
 Păștiță
+Păsulică_Aconitum
 Pătlagină
 Pătrunjel
 Pejmă
@@ -396,12 +411,15 @@ Pietru
 Pintenaș
 Pintenoagă
 Piperuță
+Pipiriguță_AiraCaespilosa
 Plăcintă
 Plămânărea
 Plămânărică
+Pleavă_AgrostemmaGithago
 Plescaiță
 Plesnitoare
 Plevaiță_Plevaiță
+Plevilă_AgrostemmaGithago
 Pleviță_Plevaiță
 Plisc
 Pliscariță
@@ -464,7 +482,7 @@ Rujă
 Rujalină
 Rumeioară
 Rumeneală
-Ruscuță
+Ruscuță_AdonisAestivalis
 Rușine
 Rușuliță
 Rutișor
@@ -491,6 +509,7 @@ Scaiete
 Scăiuș
 Scamonee
 Scânteioară
+Scânteiță_AdonisVernalis
 Scânteiuță
 Scară
 Scârțâitoare
@@ -527,8 +546,12 @@ Sorbestrea
 Sovârvariță
 Spălăcioasă
 Spanac
+Spânț_AdonisVernalis
 Spânz
 Sparcetă
+Speribană_AcorusCalamus
+Spetează_AcorusCalamus
+Spetejoară_AcorusCalamus
 Spinuță
 Splină
 Splinuță
@@ -549,7 +572,7 @@ suflețel_lăcrimioară
 Sugătoare
 Sugel
 Sulfină
-Suliman
+Suliman_AjugaGenevensis
 Sulițică
 Sunătoare
 Surguci
@@ -560,6 +583,7 @@ Talpă
 Tămâioară
 Tămâiță
 Tapoșnic
+Târsoacă_AiraCaespilosa
 Târtan
 Țâță
 Tătăiș
@@ -571,6 +595,7 @@ Teișor_AbutilonTheophrasti
 Țepoșică
 Tilișcă
 Țintaură
+Toaie_Aconitum
 Tontoroșel_Ghiocel
 Toporaș
 Torțel
@@ -619,9 +644,9 @@ Vervenă
 Vetrice
 Vinariță
 Vindecea
-Vineriță
+Vineriță_AjugaGenevensis
 vinețea_Cornflower
-vinețică_Cornflower
+Vinețică_AjugaGenevensis
 Vioară
 violă_viorea
 violetă_viorea
@@ -643,6 +668,7 @@ Zburătoare
 Zerdiceaf
 zglăvoc_Cornflower
 Zgrăbunțică
+Zizanie_AgrostemmaGithago
 Zmeoaică
 Zmeoaie
 Zorea
