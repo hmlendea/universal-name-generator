@@ -3,11 +3,11 @@
 .*[Rr]ieb.*
 ([a-z][a-z])\1
 [Hh]eul
-[KWYäéköwy]
-[kqwy]
+[KWYäéköqwy]
 cht
 eave
 ehl
+getche
 jaroslav
 ngs
 oul
