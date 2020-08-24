@@ -4,8 +4,10 @@ acacia
 alun
 anin_arin
 arbore
+Arceriu_AcerPlatanoides
 arin_anin
-arțar
+Arțar_AcerPlatanoides
+Ațar_AcerPlatanoides
 bananier
 betula
 betulă_mesteacăn
@@ -30,8 +32,12 @@ fag
 frasin
 gârniță
 ginco_Ginkgo
+Glădici_AcerTataricum
+Gladiș_AcerTataricum
 gorun
 gutui
+Harțar_AcerPlatanoides
+Harțariu_AcerPlatanoides
 ienupăr_CommonJuniper
 jneapăn_CreepingPine
 jugastru
@@ -57,6 +63,7 @@ păr
 piersic
 pin_Pine
 pistacia
+Platan_AcerPlatanoides
 plop
 Porob_AlbiesAlba
 portocal
@@ -72,6 +79,8 @@ tisă
 țuga_Hemlock
 tuie_NorthernWhiteCedar
 ulm
+Velniș_AcerPlatanoides
+Verigar_AcerTataricum
 vișin
 zadă_Larch
 zâmbru_SwissPine
