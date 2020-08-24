@@ -277,6 +277,7 @@
 		<Id>ron-fauna</Id>
 		<Name>Romanian fauna species names</Name>
 		<Category>Romanian</Category>
+		<FilterlistPath>ron-flora-filters</FilterlistPath>
 		<Schema>{markov,4,16,ron-fauna-amphibians|ron-fauna-animals|ron-fauna-birds|ron-fauna-fishes|ron-fauna-insects|ron-fauna-reptilian}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
