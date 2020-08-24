@@ -8,6 +8,7 @@ Deil
 Dikorretli
 Eimari
 Ekiel
+Esum
 Gesnivas
 Glads
 Histne
@@ -17,6 +18,7 @@ Ivaerre
 Jali
 Joh
 Kotn
+Krepp
 Kus
 Leftaln
 Lel
@@ -49,6 +51,7 @@ Rumiddela
 Snesinf
 Takitumin
 Teyru
+Tokeint
 Toninaktma
 Tuysvalag
 Uce
@@ -56,5 +59,6 @@ Uisuunni
 Uks
 Usfil
 Ustreol
+Vujoundu
 Yohte
 Yoismanu
