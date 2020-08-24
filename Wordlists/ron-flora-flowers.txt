@@ -84,6 +84,7 @@ Camelie
 Camelină
 Campanulă
 Cană
+Cănăcea_AchilleaCartilaginexa
 Canale
 Cânepioară
 Căprișor
@@ -113,6 +114,7 @@ Cioroi
 ciuboțică_ciuboțică
 Ciuciure
 Ciucuraș
+Ciucurel_AchilleaCartilaginexa
 Ciucușoară
 Ciuin
 Ciulin
@@ -146,6 +148,7 @@ Cruce
 Cucuruz
 Cucută
 Cuișoriță
+Cununiță_Plevaiță
 Cupă
 Curcubeu
 Curechi
@@ -235,7 +238,7 @@ Hortensie
 Hrană
 Iarbă
 Iberis
-Imortelă
+Imortelă_Plevaiță
 Împărăteasă
 In
 Încheietoare
@@ -299,7 +302,9 @@ Măselariță
 Mătăcină
 Mătrăgună
 Mătreață
+Matrună_AcanthusLongifolius
 Mătură
+Măturică_Plevaiță
 măturice_Cornflower
 Mazăre
 Măzăriche
@@ -379,6 +384,7 @@ Pătlagină
 Pătrunjel
 Pejmă
 Pelargonie
+Pelin_Plevaiță
 Pelinuță
 Perișor
 petunie
@@ -395,7 +401,8 @@ Plămânărea
 Plămânărică
 Plescaiță
 Plesnitoare
-Plevaiță
+Plevaiță_Plevaiță
+Pleviță_Plevaiță
 Plisc
 Pliscariță
 Ploșnițoasă
@@ -532,6 +539,7 @@ Steliță
 Steluță
 Ștevie
 Știr
+Strănutătoare_AchilleaCartilaginexa
 streliție
 Strigoaie
 Strună
@@ -557,6 +565,8 @@ Târtan
 Tătăiș
 Tătăneasă
 Tătarnică
+Tavnică_Plevaiță
+Tavniță_Plevaiță
 Teișor_AbutilonTheophrasti
 Țepoșică
 Tilișcă

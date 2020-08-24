@@ -7,7 +7,6 @@ Bambă_AbelmoschusEsculentus
 Bamie_AbelmoschusEsculentus
 Bamnă_AbelmoschusEsculentus
 Bamne_AbelmoschusEsculentus
-Ocra_AbelmoschusEsculentus
 barabulă_Potato # Transylvanian regionalism
 bob
 bostan_dovleac
@@ -33,11 +32,13 @@ curechi_varză # Transylvanian regionalism
 dovleac
 dovlecel
 fasole
-ghimbir_ginger
+Ghimber_Ginger
+Ghimbir_Ginger
 gulă_kohlrabi
 gulie_kohlrabi
 hașmă
 hrean_horseradish
+Imbir_Ginger
 lăptucă
 leuștean
 linte
@@ -49,6 +50,7 @@ morcov
 năhut_chickpeas
 nap
 năut_chickpeas
+Ocra_AbelmoschusEsculentus
 pangea_Beta
 păstârnac
 pătlăgea
