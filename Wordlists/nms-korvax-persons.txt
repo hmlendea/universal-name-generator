@@ -13,6 +13,7 @@ Domly
 Dostvu
 Dozhensk
 Dozhneva
+Dusehch
 Egodarn
 Egtyabrsak
 Ehandalm
@@ -22,6 +23,7 @@ Erafimsk
 Erepastr
 Etimaiuts
 Evdar
+Evichuso
 Fitsiis
 Flo
 Fremikh
@@ -45,10 +47,14 @@ Ivdelaye
 Keytar
 Kinelov
 Kiro
+Kohlomo
 Kre
 Lanud
+Lektr
 Lidaniatie
+Lipkinjha
 Lomar
+Lotnoye
 Mays
 Miblemyac
 Mosukyviu
@@ -67,6 +73,7 @@ Otman
 Otsk
 Ousove
 Ovkepyati
+Oznachits
 Pasha
 Ratkariia
 Ratsevskoi
@@ -78,6 +85,7 @@ Ritkala
 Rokovro
 Rotovoro
 Sergiy
+Slozh
 Sozavo
 Sudel
 Sukhnekam
@@ -96,6 +104,7 @@ Uzlov
 Venno
 Vickievel
 Viybori
+Voroit
 Vustvu
 Yebrazd
 Yiktyars
@@ -105,7 +114,6 @@ Yuby
 Yukhneu
 Yurbata
 Zavolgari
-Evichuso
 Zehc
 Zehnoslu
 Zeyv
