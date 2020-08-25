@@ -5,7 +5,8 @@ alun
 anin_arin
 arbore
 Arceriu_AcerPlatanoides
-arin_anin
+Arin_Alnus
+Arinde_Alnus
 Arțar_AcerPlatanoides
 Ațar_AcerPlatanoides
 bananier
