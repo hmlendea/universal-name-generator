@@ -31,7 +31,8 @@ Arșinic
 Asfodelă
 Aster
 Atârnătoare
-Avrămeasă
+Avrămeasă_AjugaLaxmanni
+Avrămească_AjugaLaxmanni
 Bălbisă
 Bălușcă
 Bănică
@@ -61,6 +62,7 @@ Brie
 Brioală
 Broască
 Brumărea
+Brumărie_AlchemillaVulgaris
 Brustan
 Brusture
 Buberic
@@ -96,6 +98,7 @@ Cărbune
 Cârciumăreasă
 Cardama
 Cârmâz
+Cârstănească_AjugaLaxmanni
 Cătușă
 Cătușnică
 Ceapă
@@ -142,9 +145,10 @@ Cosițel
 Crăiță
 Creastă
 Crestățea
-Crețișoară
+Crețișoară_AlchemillaVulgaris
 Crețușcă
 crin_crin
+Cristeneasă_AjugaLaxmanni
 Crizantemă_Chrysanthemum
 Cruce
 Cucurbețea_Aconitum
@@ -228,6 +232,7 @@ Gherghină
 Ghimber
 Ghioc_Cornflower
 Ghiocel_Ghiocel
+Ghiulbersin_AlbiziaJulibrissin
 Ginseng
 gladiolă
 Glodurariță
@@ -270,11 +275,11 @@ Laur
 Lavandă
 Lavrentină_AjugaGenevensis
 Lepădătoare_Aconitum
-Leurdă
 Levănțică
 Liliac
 Limbă
 Limbariță
+Limbăriță_AlismaPlantago
 Linariță
 Lingurea
 Lipan
@@ -341,7 +346,7 @@ Mutătoare
 Mutulică
 Năfurică
 Năgară_AgrostemmaGithago
-Nalbă
+Nalbă_AlthaeaRosea
 Năprasnic
 narcis_Narcissus
 narcisă_Narcissus
@@ -478,8 +483,9 @@ Rotoțele
 Rotunjoare
 Rouă
 Ruin
-Rujă
-Rujalină
+Rujă_AlthaeaRosea
+Rujalină_AlthaeaRosea
+Rujulină_AlthaeaRosea
 Rumeioară
 Rumeneală
 Ruscuță_AdonisAestivalis
@@ -581,7 +587,7 @@ Tăietoare
 Tâlhărea
 Talpă
 Tămâioară
-Tămâiță
+Tămâiță_AjugaReptans
 Tapoșnic
 Târsoacă_AiraCaespilosa
 Târtan
@@ -644,7 +650,8 @@ Vervenă
 Vetrice
 Vinariță
 Vindecea
-Vineriță_AjugaGenevensis
+Vineriță_AjugaReptans
+Vineț_AjugaReptans
 vinețea_Cornflower
 Vinețică_AjugaGenevensis
 Vioară
