@@ -2,6 +2,7 @@ Abladanar
 Abuzaman
 Agadurad
 Agazuladab
+Ajnazed
 Akatrosag
 Aligazavul
 Ardatakud
@@ -29,6 +30,8 @@ Entegramad
 Erdakelamun
 Etregar
 Etrokoridad
+Ezgarthol
+Felguldir
 Ferkonikur
 Foldurekar
 Fordabal
@@ -43,6 +46,7 @@ Grakonavul
 Gulagan
 Guldukar
 Gurdagamad
+Hesoiam
 Hundikatag
 Ikabadol
 Includak
@@ -93,6 +97,7 @@ Trogamorijal
 Tulagabaz
 Ulazaribar
 Urdanekal
+Uzumimv
 Valukezad
 Volgakadar
 Vurdekal
