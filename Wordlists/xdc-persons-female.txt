@@ -2,7 +2,7 @@ Dokia
 Duccidava
 Meda
 Rescuturme_Rescuturme
-Reskuturme_Rescuturme # Alternative name for Rescuturme
+Reskuturme_Rescuturme
 Ziais_Zia
 Zia_Zia
 Zina
