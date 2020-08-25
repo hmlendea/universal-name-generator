@@ -8,16 +8,21 @@ Argeș
 Bacău
 Baia
 Baia Mare
+Băilești
+Bârlad
 Beiuș
 Bistrița
 Blaj
 Brad
-Brașov
 Brăila
+Brașov
 București
-Bârlad
-Băilești
 Calafat
+Călărași
+Câmpia Turzii
+Câmpina
+Câmpulung
+Câmpulung Moldovenesc
 Caracal
 Caransebeș
 Carei
@@ -29,22 +34,17 @@ Constanța
 Craiova
 Curtea
 Curtea de Argeș
-Câmpia Turzii
-Câmpina
-Câmpulung
-Câmpulung Moldovenesc
-Călărași
 Dej
 Deva
 Dorna
 Dorohoi
+Drăgășani
 Drobeta
 Drobeta-Turnu Severin
-Drăgășani
-Fetești
-Focșani
 Făgăraș
 Fălticeni
+Fetești
+Focșani
 Galați
 Gheorghe
 Gheorgheni
@@ -57,6 +57,7 @@ Iași
 Iulia
 Lugoj
 Lupeni
+Măgurele
 Mangalia
 Mare
 Marghita
@@ -69,7 +70,6 @@ Moinești
 Moreni
 Motru
 Mureș
-Măgurele
 Napoca
 Neamț
 Odorhei
@@ -84,15 +84,16 @@ Piatra
 Piatra Neamț
 Pitești
 Ploiești
+Rădăuți
+Râmnic
+Râmnicu Sărat
+Râmnicu Vâlcea
 Reghin
 Reșița
 Roman
 Roșiori
 Roșiorii de Vede
-Râmnic
-Râmnicu Sărat
-Râmnicu Vâlcea
-Rădăuți
+Săcele
 Salonta
 Satu
 Satu Mare
@@ -105,10 +106,15 @@ Sighet
 Sighetu Marmației
 Sighișoara
 Silvania
+Șimleu
 Slatina
 Slobozia
 Suceava
-Săcele
+Târgoviște
+Târgu
+Târgu Mureș
+Târgu Secuiesc
+Târnăveni
 Tecuci
 Timișoara
 Toplița
@@ -116,15 +122,9 @@ Tulcea
 Turda
 Turnu
 Turnu Măgurele
-Târgoviște
-Târgu
-Târgu Mureș
-Târgu Secuiesc
-Târnăveni
 Urziceni
+Vâlcea
 Vaslui
 Vatra Dornei
 Vulcan
-Vâlcea
 Zalău
-Șimleu
