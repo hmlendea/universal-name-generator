@@ -7,14 +7,14 @@ Cosingis
 Dentusucu_Dentusykos
 Dentusykos_Dentusykos
 Dentysykos_Dentusykos
-Eptesuchis_Eptesykos # Alternative name for Eptesykos
+Eptesuchis_Eptesykos
 Eptesykos_Eptesykos
 Gepaepyris # Thracian princess, daughter of Cotys III (the sapaean one)
 Maisira
 Mania
 Meda
 Mokasokos
-Pythodorida_Pythodoris # Alternative name for Pythodoris
+Pythodorida_Pythodoris
 Pythodoris_Pythodoris # Thracian princess, daughter of Cotys III (the sapaean one)
 Reptatercos
 
