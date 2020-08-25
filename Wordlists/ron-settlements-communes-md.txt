@@ -13,7 +13,6 @@ Băcioi
 Badicul Moldovenesc
 Bahmut
 Baimaclia
-Baimaclia
 Balasinești
 Bălbănești
 Bălcăuți
@@ -37,7 +36,6 @@ Bucuria
 Buda
 Budești
 Bulboaca
-Bulboaca
 Burlăceni
 Burlacu
 Căbăiești
@@ -55,7 +53,6 @@ Câșlița-Prut
 Cenac
 Cernoleuca
 Cetănești_Pervomaiscoe
-Chetrosu
 Chetrosu
 Chioselia
 Chioselia Mare
@@ -82,7 +79,6 @@ Condrița
 Copanca
 Corbu
 Corjeuți
-Corjova
 Corjova
 Coșcalia
 Coșernița

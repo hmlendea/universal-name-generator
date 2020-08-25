@@ -13,7 +13,15 @@ Baia
 Baia de Aramă
 Baia de Arieș
 Baia Sprie
+Băicoi
+Băile Govora
+Băile Herculane
+Băile Olănești
+Băile Tușnad
+Bălan
+Bălcești
 Balș
+Băneasa
 Baraolt
 Bechet
 Berbești
@@ -24,8 +32,8 @@ Boldești
 Boldești-Scăeni
 Bolintin
 Bolintin-Vale
-Borsec
 Borșa
+Borsec
 Borșteni
 Bragadiru
 Breaza
@@ -36,53 +44,47 @@ Buftea
 Buhuși
 Bumbești
 Bumbești-Jiu
-Buziaș
 Bușteni
-Băicoi
-Băile Govora
-Băile Herculane
-Băile Olănești
-Băile Tușnad
-Bălan
-Bălcești
-Băneasa
+Buziaș
 Cajvana
+Călan
+Călimănești
+Câmpeni
+Cărbunești
 Cavnic
+Căzănești
 Cehu
 Cehu Silvaniei
 Cernavodă
-Chitila
 Chișineu
 Chișineu Criș
+Chitila
 Ciacova
 Cisnădie
-Comarnic
 Comănești
+Comarnic
 Copșa
 Copșa Mică
 Corabia
 Costești
 Covasna
+Criș
 Cristuru
 Cristuru Secuiesc
-Criș
 Cugir
 Curtici
-Câmpeni
-Călan
-Călimănești
-Cărbunești
-Căzănești
+Dăbuleni
 Darabani
+Dărmănești
 Deta
 Dolhasca
-Dragomirești
 Drăgănești
 Drăgănești-Olt
+Dragomirești
 Dumbrăveni
-Dăbuleni
-Dărmănești
 Eforie
+Făget
+Făurei
 Fieni
 Fierbinți
 Fierbinți-Târg
@@ -90,26 +92,28 @@ Filiași
 Flămânzi
 Frasin
 Fundulea
-Făget
-Făurei
+Găești
+Gătaia
 Geoagiu
 Ghimbav
 Govora
-Găești
-Gătaia
+Hârlău
+Hârșova
 Hațeg
 Herculane
 Horezu
 Huedin
 Humor
-Hârlău
-Hârșova
 Ianca
 Iernut
 Ineu
+Însurăței
+Întorsura
+Întorsura Buzăului
 Isaccea
 Jimbolia
 Jiu
+Lăpuș
 Lehilu
 Lehilu Gară
 Leordeni
@@ -117,7 +121,10 @@ Lipova
 Liteni
 Livada
 Luduș
-Lăpuș
+Măcin
+Măgherăuș
+Măgurele
+Mărășești
 Miercurea Nirajului
 Miercurea Sibiului
 Mihăilești
@@ -128,10 +135,9 @@ Moldova Nouă
 Mureș
 Murfatlar
 Murgeni
-Măcin
-Măgherăuș
-Măgurele
-Mărășești
+Nădlac
+Năsăud
+Năvodari
 Negrești
 Negrești-Oaș
 Negru Vodă
@@ -139,9 +145,6 @@ Nehoiu
 Niraj
 Novaci
 Nucet
-Nădlac
-Năsăud
-Năvodari
 Oaș
 Ocna
 Ocna Mureș
@@ -153,7 +156,9 @@ Oravița
 Otopeni
 Ovidiu
 Panciu
+Pâncota
 Pantelimon
+Pătârlagele
 Pecica
 Petrila
 Piatra
@@ -166,25 +171,16 @@ Popești-Leordeni
 Potcoava
 Predeal
 Pucioasa
-Pâncota
-Pătârlagele
+Răcari
+Râșnov
 Recaș
 Rovinari
 Rupea
-Râșnov
-Răcari
+Săcueni
 Salcea
-Scornicești
-Scăeni
-Sebiș
-Segarcea
-Seini
-Simeria
-Siret
-Slănic
-Slănic Moldova
-Solca
-Sulina
+Săliște
+Săliștea
+Săliștea de Sus
 Sângeorgiu
 Sângeorgiu de Pădure
 Sângeroz
@@ -192,12 +188,35 @@ Sângeroz-Băi
 Sânnicolau
 Sânnicolau Mare
 Sântana
-Săcueni
-Săliște
-Săliștea
-Săliștea de Sus
 Sărmașu
 Săveni
+Scăeni
+Scornicești
+Sebiș
+Segarcea
+Seini
+Simeria
+Șimleu Silvaniei
+Siret
+Slănic
+Slănic Moldova
+Solca
+Șomcuta
+Șomcuta Mare
+Ștefănești
+Ștei
+Sulina
+Tălmaciu
+Țandărei
+Târgu
+Târgu bujor
+Târgu Cărbunești
+Târgu Lăpuș
+Târgu Neamț
+Târgu Ocna
+Tășnad
+Tăuți
+Tăuții-Măgherăuș
 Techirghiol
 Teiuș
 Tismana
@@ -205,20 +224,14 @@ Titu
 Topoloveni
 Turceni
 Tușnad
-Târgu
-Târgu bujor
-Târgu Cărbunești
-Târgu Lăpuș
-Târgu Neamț
-Târgu Ocna
-Tălmaciu
-Tăuți
-Tăuții-Măgherăuș
-Tășnad
 Ulmeni
 Ungheni
 Uricani
 Valea lui Mihai
+Văleni
+Vălenii de Munte
+Vânju
+Vânju Mare
 Vașcău
 Vicovu
 Vicovu de Sus
@@ -227,19 +240,6 @@ Videle
 Vișeu de Sus
 Vlăhița
 Voluntari
-Vânju
-Vânju Mare
-Văleni
-Vălenii de Munte
+Zărnești
 Zimnicea
 Zlatna
-Zărnești
-Însurăței
-Întorsura
-Întorsura Buzăului
-Șimleu Silvaniei
-Șomcuta
-Șomcuta Mare
-Ștefănești
-Ștei
-Țandărei
