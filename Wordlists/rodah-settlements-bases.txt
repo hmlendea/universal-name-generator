@@ -1,8 +1,11 @@
 Bah
+Bul
+Bur 
 Dah
 Dan
 Din
 Don
+Dor 
 Dov
 Dun
 Dur
@@ -55,3 +58,4 @@ Yol
 Zel
 Zol
 Zor
+Zul
