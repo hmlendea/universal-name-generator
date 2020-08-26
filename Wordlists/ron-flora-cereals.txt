@@ -1,7 +1,9 @@
 Alac_EinkornWheat
+Călăboc_Corn
 Călambuc_Corn
 Ciolomadă_Corn
 Cocenaș_Corn
+Cocenași_Corn
 Colibaș_Corn
 Cucoriță_Corn
 Cucuruz_Corn # Transylvanian regionalism
@@ -15,6 +17,7 @@ Hrișcă_Buckwheat
 Mălai_Corn
 Mălai_Millet
 Mei_Millet
+Misir_Corn
 Orez_Rice
 Orz_Barley
 Ovăz_oat
