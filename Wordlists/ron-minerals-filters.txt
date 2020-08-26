@@ -2,14 +2,14 @@
 .*[Cc]ha.*
 .*[Rr]ieb.*
 ([a-z][a-z])\1
-[äékö]
 [Hh]eul
-[Kk]
-[kqwy]
+[KWYäéköqwy]
 cht
 eave
 ehl
+getche
 jaroslav
 ngs
 oul
+schreib
 th

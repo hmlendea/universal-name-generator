@@ -1,5 +1,7 @@
 bat
+bel
 bri
+d
 dal
 dei
 dh
@@ -7,8 +9,10 @@ dhi
 din
 don
 dri
+dun
 dur
 far
+gad
 gas
 gat
 git
@@ -27,6 +31,9 @@ thi
 thin
 thol
 thron
+van
+vihn
+vol
 zad
 zim
-d
+zum

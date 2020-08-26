@@ -9,11 +9,8 @@ bighiroancă
 bigură
 boambă
 bobâlcă
-brozbă
 brumundai
 bumbac
-buruiană
-cactus
 cânepă
 caralabă
 chipere
@@ -22,18 +19,14 @@ drojdie_drojdie
 ferigă
 ficus
 filodendron
-floare
-frunză
-gălbenea
-gardenie
-gasterie
-iasomie
-ilest_drojdie # Transylvanian regionalism
-liană
-librizdă
-mușchi
-nerteră
-pristolnic
-spic
-stuf_Phragmites
-trestie_Phragmites
+Gasterie
+Iasomie
+Ilest_drojdie # Transylvanian regionalism
+Liană
+Librizdă
+Mierliță_AlsineVera
+Mușchi
+Nerteră
+Spic
+Stuf_Phragmites
+Trestie_Phragmites
