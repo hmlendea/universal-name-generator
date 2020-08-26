@@ -1,8 +1,15 @@
+Ai_AlliumSativum
+Aiuț_AlliumUrsinum
+Aliu_AlliumUrsinum
 andivă
 anghinare
 arahidă
 ardei
-bamă
+Bamă_AbelmoschusEsculentus
+Bambă_AbelmoschusEsculentus
+Bamie_AbelmoschusEsculentus
+Bamnă_AbelmoschusEsculentus
+Bamne_AbelmoschusEsculentus
 barabulă_Potato # Transylvanian regionalism
 bob
 bostan_dovleac
@@ -18,6 +25,7 @@ carfiol_conopidă
 cartof_Potato
 castravete
 ceapă_onion
+Cepșoară_AlliumFistulosum
 cimbru
 colompire_Potato # Transylvanian regionalism
 conopidă_conopidă
@@ -27,13 +35,20 @@ crumpene_Potato
 curechi_varză # Transylvanian regionalism
 dovleac
 dovlecel
+Eșalot_AlliumAscalonicum
 fasole
-ghimbir_ginger
+Ghimber_Ginger
+Ghimbir_Ginger
 gulă_kohlrabi
 gulie_kohlrabi
-hașmă
+Hașmă_AlliumAscalonicum
+Horceag_AlliumPorrum
 hrean_horseradish
+Imbir_Ginger
 lăptucă
+Leoardă_AlliumUrsinum
+Leordă_AlliumUrsinum
+Leurdă_AlliumUrsinum
 leuștean
 linte
 lobodă
@@ -44,19 +59,23 @@ morcov
 năhut_chickpeas
 nap
 năut_chickpeas
+Ocra_AbelmoschusEsculentus
 pangea_Beta
 păstârnac
 pătlăgea
 pătrunjel
 pepene
-praz
+Poroaică_AlliumPorrum
+Poroi_AlliumPorrum
+Praz_AlliumPorrum
+Pur_AlliumPorrum
 revent
 ridiche
 ripă_Beta
 roșie
 rubarbă
 salată
-samuraslă_garlic
+Samuraslă_AlliumVineale
 scorțoneră
 seler_celery
 sfeclă_Beta
@@ -69,7 +88,7 @@ tarhon
 țelină_celery
 tomată_roșie
 tormac_horseradish
-usturoi_garlic
+Usturoi_AlliumSativum
 vânătă
 varză_varză
 vinete

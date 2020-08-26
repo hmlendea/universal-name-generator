@@ -1,30 +1,30 @@
-﻿Acidaua_Acidava # Alternate name for Acidava
+﻿Acidaua_Acidava
 Acidava_Acidava # Enoșești, Romania
-Acidava_Sacidava # Alternate name for Sacidava
+Acidava_Sacidava
 Acmonia_Acmonia # Between Marga and Zăvoi, Romania
-Ad Mutriam_Amutria # Alternate name for Amutria
-Ad Mutrium_Amutria # Alternate name for Amutria
-Admutrium_Amutria # Alternate name for Amutria
-Aeadaba_Aiadava # Alternate name for Aiadava
-Aedabe_Aedava # Alternate name for Aedava
-Aedadeba_Aedava # Alternate name for Aedava
+Ad Mutriam_Amutria
+Ad Mutrium_Amutria
+Admutrium_Amutria
+Aeadaba_Aiadava
+Aedabe_Aedava
+Aedadeba_Aedava
 Aedava_Aedava # On the Danubian road between Augustae and Variana.
-Aedeba_Aedava # Alternate name for Aedava
-Aedeva_Aedava # Alternate name for Aedava
-Aiadaba_Aiadava # Alternate name for Aiadava
+Aedeba_Aedava
+Aedeva_Aedava
+Aiadaba_Aiadava
 Aiadava_Aiadava # Bela Palanka, Serbia
-Aigis_Aiziz # Alternate name for Aiziz
-Aigizidava_Aiziz # Alternate name for Aiziz
-Aixim_Aiziz # Alternate name for Aiziz
-Aixis_Aiziz # Alternate name for Aiziz
+Aigis_Aiziz
+Aigizidava_Aiziz
+Aixim_Aiziz
+Aixis_Aiziz
 Aizis_Aizis # Fârliug, Romania
-Aizizi_Aizis # Alternate name for Aizis
-Akmonia_Acmonia # Alternate name for Acmonia
-Alzisis_Aiziz # Alternate name for Aiziz
+Aizizi_Aizis
+Akmonia_Acmonia
+Alzisis_Aiziz
 Amutria_Amutria # Romania
-Amutrion_Amutria # Alternate name for Amutria
-Apoulon_Apulon # Alternate name for Apulon
-Apula_Apulon # Alternate name for Apulon
+Amutrion_Amutria
+Apoulon_Apulon
+Apula_Apulon
 Apulon_Apulon # Piatra Craivii, Romania
 Arcidaua_Argidava
 Arcidava_Argidava
@@ -36,8 +36,8 @@ Argedava_Argedava
 Argedava_Argidava
 Argidava_Argidava
 Arkobadara_Arcobara # Alternate name for Arcobadara
-Azisis_Aiziz # Alternate name for Aiziz
-Azizis_Aiziz # Alternate name for Aiziz
+Azisis_Aiziz
+Azizis_Aiziz
 Bregedaba
 Buricodava
 Buridava_Buridava
@@ -52,7 +52,7 @@ Desudaba
 Docidava
 Eumolpias_Pulpudeva
 Genucla_Genucla # Ancient fortress of the getae, on the riverbank of the Danube or on an island on the river. Mentioned by Dio Cassius in his "Historia Romana", book 51 ch. 26
-Genuklo_Genucla # Alternate name for Genucla. Mentioned on the Sinaia lead plates
+Genuklo_Genucla. Mentioned on the Sinaia lead plates
 Germidava_Germidava
 Gildoba_Gildova
 Gildova_Gildova
@@ -79,13 +79,13 @@ Petrodava
 Piroboridava
 Pulpudeva_Pulpudeva
 Quemedava # An ancient dacian city in Dardania, mentioned by Procopius
-Racidiva_Recidava # Alternate name for Recidava
+Racidiva_Recidava
 Ramidava_Ramidava
 Recidava_Recidava
-Recidiva_Recidava # Alternate name for Recidava
+Recidiva_Recidava
 Rhamidaua_Ramidava
 Rusidava
-Sacidaba_Sacidava # Alternate name for Sacidava
+Sacidaba_Sacidava
 Sacidava_Sacidava # A dacian town between Cedonia and Apulon
 Sacidava_SacidavaMoesia # A dacian town in Moesia Inferior, today's Dunăreni, Constanța, Romania.
 Sagadava_SacidavaMoesia # Alternate name for Sacidava (Moesia)
@@ -107,7 +107,7 @@ Suvidava_Sucidava
 Sykidaba
 Tamasidaua_Tamasidava
 Tamasidava_Tamasidava
-Thermidaua_Thermidava # Alternate name for Thermidava
+Thermidaua_Thermidava
 Thermidava_Thermidava # An ancient dacian town in Illyria, mentioned by Ptolemy, as an inland town of Dalmatia. It could be located near modern Scodra
 Utidaua_Utidava
 Utidava_Utidava
@@ -124,8 +124,7 @@ Zisnedeva_Zisnedeva
 Zisnudeba
 Zisnudeba_Zisnedeva
 Zisnudeva_Zisnedeva
-Zizis_Aiziz # Alternate name for Aiziz
+Zizis_Aiziz
 Zucidaua
 Zurobara # Dacian town in today's Banat, nu tje Timiș river, north of Sarmizegetusa Regia, and south of Ziridava. Attested by Ptolemy in "Geographia" (III; 8; 4)
 Zusidava
-

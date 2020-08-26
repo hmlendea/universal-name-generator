@@ -14,6 +14,10 @@ Arhipelagul_Archipelago
 Arhipelagurile_Arhipelago
 Aria_Area
 Ariile_Area
+Arsătura_Burn
+Arsăturile_Burn
+Arsura_Burn
+Arsurile_Burn
 Așezământul_Settlement
 Așezămintele_Settlement
 Așezarea_Settlement
@@ -170,6 +174,8 @@ Fundătura_Blockage
 Fundătura_Path
 Fundăturile_Blockage
 Fundăturile_Path
+Gârla_Backwater
+Gârlele_Backwater
 Gâtul_Gorge
 Ghețarii_Iceberg
 Ghețarul_Iceberg
@@ -281,6 +287,10 @@ Pământul_Region
 Pământurile_Region
 Paragina_Wasteland
 Paraginile_Wasteland
+Pârâiașele_Stream
+Pârâiașul_Stream
+Pârâul_Stream
+Pârâurile_Stream
 Parcela_Lot
 Parcelele_Lot
 Parcul Național_NationalPark
@@ -316,6 +326,8 @@ Popasurile_Pass
 Porțile_Gate
 Posada_Pass
 Posadele_Pass
+Potopul_Flood
+Potopurile_Flood
 Prăpastia_Chasm
 Prăpăstiile_Chasm
 Provincia_Region
@@ -336,6 +348,8 @@ Refugiile_Refuge
 Refugiul_Regufe
 Regiunea_Region
 Regiunile_Region
+Revărsarea_Overflow
+Revărsările_Overflow
 Rezervația_Reservation
 Rezervațiile_Reservation
 Ridicătura_Hill
@@ -399,6 +413,8 @@ Strunga_Ravine
 Strungile_Ravine
 Suprafața_Area
 Suprafețele_Area
+Șuvoi_Stream
+Șuvourile_Stream
 Tabăra_Camp
 Taberele_Camp
 Tăietura_Slit
@@ -429,6 +445,7 @@ Trecerea_Path
 Trecerile_Path
 Tufăria_Scrub
 Tufăriile_Scrub
+Tufele_Bushe
 Tufișul_Bush
 Tufișurile_Bush
 Tundra_Tundra
@@ -443,6 +460,12 @@ Vadul_Ford
 Văgăuna_Pit
 Văgăunele_Pit
 Văile_Valley
+Vălcea_Valley
+Vâlcea_Valley
+Vălcele_Valley
+Vâlcele_Valley
+Vălcica_Valley
+Vâlcica_Valley
 Valea_Valley
 Valul_Wave
 Valurile_Wave
