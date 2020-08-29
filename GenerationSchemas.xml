@@ -13,6 +13,18 @@
 		<Schema>{randomiser, ,4,32,ara-persons-female|ara-persons-surnames}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
+		<Id>asgarnian-persons-female</Id>
+		<Name>Asgarnian female persons</Name>
+		<Category>RuneScape</Category>
+		<Schema>{randomiser, ,4,32,runescape-asgarnian-persons-female|runescape-asgarnian-persons-surname}</Schema>
+	</GenerationSchemaEntity>
+	<GenerationSchemaEntity>
+		<Id>asgarnian-persons-male</Id>
+		<Name>Asgarnian male persons</Name>
+		<Category>RuneScape</Category>
+		<Schema>{randomiser, ,4,32,runescape-asgarnian-persons-male|runescape-asgarnian-persons-surname}</Schema>
+	</GenerationSchemaEntity>
+	<GenerationSchemaEntity>
 		<Id>asian-settlements</Id>
 		<Name>Asian settlement names</Name>
 		<Category>Asian</Category>
@@ -175,6 +187,18 @@
 		<Name>Japanese female persons</Name>
 		<Category>Japanese</Category>
 		<Schema>{randomiser, ,4,32,jpn-persons-female|jpn-persons-surnames}</Schema>
+	</GenerationSchemaEntity>
+	<GenerationSchemaEntity>
+		<Id>misthalin-persons-female</Id>
+		<Name>Misthalin female persons</Name>
+		<Category>RuneScape</Category>
+		<Schema>{randomiser, ,4,32,runescape-misthalin-persons-female|runescape-misthalin-persons-surname}</Schema>
+	</GenerationSchemaEntity>
+	<GenerationSchemaEntity>
+		<Id>misthalin-persons-male</Id>
+		<Name>Misthalin male persons</Name>
+		<Category>RuneScape</Category>
+		<Schema>{randomiser, ,4,32,runescape-misthalin-persons-male|runescape-misthalin-persons-surname}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
 		<Id>mri-persons-female</Id>
@@ -522,6 +546,18 @@
 		<Name>Dacian female persons (Real)</Name>
 		<Category>Dacian</Category>
 		<Schema>{randomiser,,4,16,xdc-persons-female}</Schema>
+	</GenerationSchemaEntity>
+	<GenerationSchemaEntity>
+		<Id>kharidian-persons-female</Id>
+		<Name>Kharidian female persons</Name>
+		<Category>RuneScape</Category>
+		<Schema>{randomiser, ,4,32,runescape-kharidian-persons-female|runescape-kharidian-persons-surname}</Schema>
+	</GenerationSchemaEntity>
+	<GenerationSchemaEntity>
+		<Id>kharidian-persons-male</Id>
+		<Name>Kharidian male persons</Name>
+		<Category>RuneScape</Category>
+		<Schema>{randomiser, ,4,32,runescape-kharidian-persons-male|runescape-kharidian-persons-surname}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
 		<Id>lat-persons-male</Id>
