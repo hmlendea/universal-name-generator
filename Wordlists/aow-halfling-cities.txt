@@ -15,6 +15,7 @@ Fairfields
 Gem
 Green Meadow
 Halvors
+Hamplet
 Hard Thistle
 Highdale
 Hillbery
@@ -33,6 +34,7 @@ Markis
 Merrifield
 Midshire
 Millbridge
+New Heartwood
 Northdale
 Rillieen
 Rosewood
@@ -40,7 +42,6 @@ Shadbush
 Shepherd Falls
 Sparrowdale
 Thorsbud
-Hamplet
 Tronthill
 Tuliptown
 Weilow
