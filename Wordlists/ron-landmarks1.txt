@@ -7,6 +7,8 @@ Aleea_Path
 Aleile_Path
 Altarele_Altar
 Altarul_Altar
+Apa_Water
+Apele_Water
 Arcada_Arch
 Arcadele_Arch
 Arcul_Arch
