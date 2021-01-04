@@ -166,6 +166,10 @@ Bântuit_Haunted
 Bântuită_Haunted
 Bântuite_Haunted
 Bântuiți_Haunted
+Bățoasă_Stiff
+Bățoase_Stiff
+Bățos_Stiff
+Bățoși_Stiff
 Bătrân_Elder
 Bătrână_Elder
 Bătrâne_Elder
@@ -299,6 +303,10 @@ Capricioase_Capricious
 Capricios_Capricious
 Capricioși_Capricious
 Capriciului_OfCaprice
+Carantinat_Quarantined
+Carantinată_Quarantined
+Carantinate_Quarantined
+Carantinați_Quarantined
 Carnagiilor_OfCarnage
 Carnagiului_OfCarnage
 Câștigului_OfWin
@@ -519,6 +527,9 @@ Curbat_Curved
 Curbată_Curved
 Curbate_Curved
 Curbați_Curved
+Curgătoare_Flowing
+Curgător_Flowing
+Curgători_Flowing
 Cutremurătoare_Terrible
 Cutremurător_Terrible
 Cutremurători_Terrible
@@ -2478,6 +2489,10 @@ Umbroasă_Shadowy
 Umbroase_Shadowy
 Umbros_Shadowy
 Umbroși_Shadowy
+Umed_Wet
+Umedă_Wet
+Umede_Wet
+Umezi_Wet
 Umflat_Bloated
 Umflată_Bloated
 Umflate_Bloated
