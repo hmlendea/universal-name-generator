@@ -16,6 +16,7 @@ Nikael
 Ony
 Osip
 Pvotr
+Redikk
 Sascha
 Valodny
 Vladik

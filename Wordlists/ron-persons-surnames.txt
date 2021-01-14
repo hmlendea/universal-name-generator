@@ -1270,6 +1270,7 @@ Andrușcă
 Andrușceac
 Andrușeac
 Andrusevici
+Andrușoi
 Andruț
 Andruța
 Andruță
@@ -13610,6 +13611,7 @@ Druțiu
 Druțu
 Dubălariu
 Dubălaru
+Duban
 Dubangiu
 Dubar
 Dubaș
@@ -20475,6 +20477,7 @@ Iluc
 Ilucă
 Ilușcă
 Iluț
+Iluța
 Iluță
 Iluțan
 Iluțiu
@@ -24800,6 +24803,7 @@ Mihălescu
 Mihălescul
 Mihali
 Mihalia
+Mihălică
 Mihaliuc
 Mihalț
 Mihălțan
@@ -26860,6 +26864,7 @@ Nemeșan
 Nemescu
 Nemeșniciuc
 Nemeșu
+Nemeznic
 Nemoeanu
 Nemoianu
 Nemțan
@@ -29468,6 +29473,7 @@ Perpegel
 Perpela
 Perpelea
 Perpelici
+Persa
 Perșa
 Perșă
 Perșe
@@ -31429,6 +31435,7 @@ Puiu
 Pulpă
 Pupăză
 Purcar
+Purcărea
 Purcărescu
 Purcărete
 Purdea
@@ -31776,6 +31783,7 @@ Râpanu
 Râpaș
 Răpășan
 Rapcea
+Răpciuc
 Râpeanu
 Rapeci
 Rapeteanu
@@ -34351,7 +34359,7 @@ Sindea
 Sîndean
 Șindelaru
 Sindică
-Sindile
+Șindile
 Sindreștean
 Sîndreștean
 Șindrilă
@@ -34502,6 +34510,7 @@ Sitea
 Șiteanu
 Siteavu
 Șiu
+Șiugariu
 Șiuinea
 Siulea
 Șiulean
@@ -37260,6 +37269,7 @@ Ticu
 Țicuș
 Ticușan
 Tidian
+Țidor
 Țidulă
 Țieranu
 Țif
@@ -37430,6 +37440,7 @@ Tincău
 Țincău
 Tincescu
 Tincu
+Țincu
 Țîncu
 Tincul
 Tinculescu
@@ -38446,6 +38457,7 @@ Tuchilatu
 Țuchiu
 Țuclea
 Tucmeanu
+Țucmeanu
 Țucra
 Țucu
 Țucudean
