@@ -6484,6 +6484,7 @@ Bujor
 Bulacu
 Bulai
 Bulboaca
+Bulearca
 Bulgari
 Bulgeac
 Bulmez
@@ -19290,6 +19291,7 @@ Hoadrea
 Hoagă
 Hoaghea
 Hoaghia
+Hoajă
 Hoampă
 Hoanaș
 Hoancă
@@ -25258,6 +25260,7 @@ Mitcan
 Mitea
 Miteanu
 Miteiu
+Mitel
 Mițelea
 Mițescu
 Mithiu
@@ -30931,6 +30934,7 @@ Postan
 Poștărița
 Poștariu
 Postârnac
+Postaru
 Poștaru
 Poștaș
 Poștașu
@@ -38517,6 +38521,7 @@ Tudoșoiu
 Tudovoiu
 Tuducan
 Tuduce
+Tuducea
 Tuduciuc
 Tudur
 Tudurache
