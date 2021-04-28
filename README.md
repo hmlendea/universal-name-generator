@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/hmlendea/universal-name-generator.svg?branch=master)](https://travis-ci.com/hmlendea/universal-name-generator)
+[![Build Status](https://github.com/hmlendea/universal-name-generator/actions/workflows/dotnet.yml/badge.svg)](https://github.com/hmlendea/universal-name-generator/actions/workflows/dotnet.yml)
 
 # About
 This is a simple tool that generates names based on word lists, grouped by categories and by language.
