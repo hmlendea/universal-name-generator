@@ -885,6 +885,7 @@ Carnaghi
 Carnevale
 Carnicelli
 Caro
+Carollo
 Carone
 Caronia
 Carosella
@@ -5304,6 +5305,7 @@ Turchi
 Turco
 Turi
 Turiano
+Turissi
 Turo
 Turri
 Turrisi

@@ -1650,6 +1650,7 @@ Arănuși
 Arapalea
 Arăpașu
 Arapu
+Arariței
 Arăteanu
 Araveicei
 Arăzan
@@ -6484,6 +6485,7 @@ Bujor
 Bulacu
 Bulai
 Bulboaca
+Bulearca
 Bulgari
 Bulgeac
 Bulmez
@@ -19290,6 +19292,7 @@ Hoadrea
 Hoagă
 Hoaghea
 Hoaghia
+Hoajă
 Hoampă
 Hoanaș
 Hoancă
@@ -25258,6 +25261,7 @@ Mitcan
 Mitea
 Miteanu
 Miteiu
+Mitel
 Mițelea
 Mițescu
 Mithiu
@@ -30931,6 +30935,7 @@ Postan
 Poștărița
 Poștariu
 Postârnac
+Postaru
 Poștaru
 Poștaș
 Poștașu
@@ -38517,6 +38522,7 @@ Tudoșoiu
 Tudovoiu
 Tuducan
 Tuduce
+Tuducea
 Tuduciuc
 Tudur
 Tudurache
@@ -38905,6 +38911,7 @@ Uioreanu
 Uiudean
 Uiuiu
 Uivărășan
+Uivaroșan
 Uivăroșan
 Ujeniuc
 Ujică
