@@ -4244,6 +4244,7 @@ Berevoianu
 Berezan
 Bereznicu
 Berezovschi
+Berg
 Berghe
 Berghea
 Berghean
@@ -6429,6 +6430,7 @@ Breharu
 Brehoi
 Brenduș
 Brezeanu
+Brezoianu
 Bria
 Briciu
 Brînza
@@ -6452,6 +6454,7 @@ Buciuceanu
 Buciuman
 Buciumeanu
 Bucovală
+Bucoveanu
 Bucșa
 Bucșă
 Bucșoiu
@@ -8655,6 +8658,7 @@ Chiș
 Chisă
 Chișă
 Chișac
+Chisălău
 Chisălescu
 Chisăliță
 Chișan
@@ -8932,6 +8936,7 @@ Cilacu
 Cilan
 Cîlb
 Cîlcioiu
+Cileacu
 Cilianu
 Cilibeanu
 Cilibia
@@ -11704,6 +11709,7 @@ Crăngașu
 Cravă
 Cravcescu
 Creangă
+Crecan
 Cremeneanu
 Creț
 Cretu
@@ -11720,6 +11726,7 @@ Cristescu
 Cristinel
 Cristoiu
 Cristurean
+Criț
 Crivăț
 Crivei
 Croitor
@@ -32910,6 +32917,7 @@ Sălan
 Sălănoiu
 Salanța
 Salanță
+Sălanță
 Salanți
 Salanțiu
 Sălanțiu
