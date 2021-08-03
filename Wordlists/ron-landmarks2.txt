@@ -321,7 +321,7 @@ cea Aleasă_TheChosen
 cea Arsă_TheBurnt
 cea Lungă_The Long
 cea Mare_TheGreat
-cea Mică_TheLEsser
+cea Mică_TheLesser
 cea Moartă_TheDead
 cei Aleși_TheChosen
 cei Lungi_TheLong
