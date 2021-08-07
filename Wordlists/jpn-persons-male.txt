@@ -4,6 +4,7 @@ Haru
 Hidehisa
 Hikaru
 Hironari
+Hiroo
 Hiroshi
 Hiroto
 Hiroyuki
@@ -25,8 +26,11 @@ Ren
 Rikuto
 Ryuto
 Saburo
+Sake
 Shota
+Soichi
 Sota
+Suzuki
 Takeru
 Takeshi
 Takumi
@@ -38,6 +42,7 @@ Tsubasa
 Yoshi
 Yoshida
 Yoshinobu
+Yoshio
 Yuma
 Yushin
 Yuuto

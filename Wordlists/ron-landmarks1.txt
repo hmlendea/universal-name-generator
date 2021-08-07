@@ -20,6 +20,8 @@ Arsătura_Burn
 Arsăturile_Burn
 Arsura_Burn
 Arsurile_Burn
+Ascunzișul_Hiding
+Ascunzișurile_Hiding
 Așezământul_Settlement
 Așezămintele_Settlement
 Așezarea_Settlement
@@ -82,6 +84,8 @@ Cazanele_Cauldron
 Cazanul_Cauldron
 Căzătura_Hole
 Căzăturile_Hole
+Cercul_Circle
+Cercurile_Circle
 Cheia_Gorge
 Cheile_Gorge
 Cimitirele_Cemetery
@@ -273,6 +277,8 @@ Muntele_Mountain
 Munții_Mountain
 Nisipul_Sand
 Nisipurile_Sand
+Obeliscul_Obelisk
+Obeliscurile_Obelisk
 Observatoarele_Observatory
 Observatorul_Observatory
 Oceanele_Ocean
@@ -472,6 +478,7 @@ Valea_Valley
 Valul_Wave
 Valurile_Wave
 Vama_Frontier
+Vamele_Frontier
 Vârful_Summit
 Vârfurile_Summit
 Vestigiile_Vestige

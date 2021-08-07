@@ -316,6 +316,7 @@ Nakatani
 Nakatomi
 Nakayama
 Nakazawa
+Nakuchi
 Namba
 Nii
 Nishi
@@ -335,7 +336,7 @@ Noguchi
 Nomura
 Nonaka
 Noya
-Oba
+Ōba
 Obara
 Obi
 Oda
@@ -373,6 +374,7 @@ Omura
 Onaga
 Onishi
 Ono
+Onoda
 Orio
 Osada
 Osaki
@@ -562,6 +564,7 @@ Yasuda
 Yasui
 Yasutake
 Yogi
+Yokoi
 Yokota
 Yokoyama
 Yonamine
