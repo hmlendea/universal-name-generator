@@ -1009,6 +1009,10 @@ Inamici_Enemy
 Încântător_Pleasing
 Încântători_Pleasing
 Încercărilor_OfTrials
+Încercuit_Encircled
+Încercuită_Encircled
+Încercuite_Encircled
+Încercuiți_Encircled
 Încețoșat_Misty
 Încețoșată_Misty
 Încețoșate_Misty
@@ -1053,6 +1057,10 @@ Incoruptibili_Incorruptible
 Îndepărtată_Far
 Îndepărtate_Far
 Îndepărtați_Far
+Îndiguit_Dammed
+Îndiguită_Dammed
+Îndiguite_Dammed
+Îndiguiți_Dammed
 Îndoit_Bent
 Îndoită_Bent
 Îndoite_Bent
@@ -1276,6 +1284,10 @@ Liberi_Free
 Libertății_OfFreedom
 Limpede_Clear
 Limpezi_Clear
+Liniar_Liniar
+Liniară_Liniar
+Liniare_Liniar
+Liniari_Liniar
 Liniștii_OfCalm
 Liniștit_Calm
 Liniștită_Calm
@@ -1795,6 +1807,10 @@ Pelerinilor_OfThePilgrim
 Pelerinului_OfThePilgrim
 Perdiției_OfPerdition
 Perdițiilor_OfPerdition
+Perforat_Perforated
+Perforată_Perforated
+Perforate_Perforated
+Perforați_Perforated
 Periculoasă_Dangerous
 Periculoase_Dangerous
 Periculos_Dangerous
@@ -2666,6 +2682,9 @@ Vrăjmași_Enemy
 Vredniciei_OfWorth
 Zâmbetelor_OfSmile
 Zâmbetului_OfSmile
+Zâmbitoare_Smiling
+Zâmbitor_Smiling
+Zâmbitori_Smiling
 Zânei_OfTheFairy
 Zânelor_OfTheFairy
 Zbârcit_Wrinkled
