@@ -288,7 +288,7 @@
 		<Category>Romanian</Category>
 		<Name>Romanian flora species names</Name>
 		<FilterlistPath>ron-flora-filters</FilterlistPath>
-		<Schema>{markov,4,14,ron-plants|ron-fruits|ron-flora-cereals|ron-flora-fungi|ron-flora-herbs|ron-flora-trees|ron-flora-fruits|ron-flora-vegetables|ron-flora-medicinal|ron-flora-flowers|ron-flora-weeds}</Schema>
+		<Schema>{markov,4,14,ron-plants|ron-fruits|ron-flora-cereals|ron-flora-fungi|ron-flora-herbs|ron-flora-shrubs|ron-flora-trees|ron-flora-fruits|ron-flora-vegetables|ron-flora-medicinal|ron-flora-flowers|ron-flora-weeds}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
 		<Id>ron-flora-trees</Id>
