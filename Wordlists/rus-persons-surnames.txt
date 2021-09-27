@@ -58,6 +58,7 @@ Galkin
 Garin
 Geim
 Genrich
+Glukhovsky
 Gorbachev
 Grishina
 Gryaznov
@@ -96,6 +97,7 @@ Kuznetsov
 Landau
 Larionov
 Laskin
+Lavrov
 Lazarev
 Levin
 Levitsky
@@ -187,6 +189,7 @@ Timofeyevich
 Titov
 Tsiolkovsky
 Tsygankov
+Tulyakov
 Tupolev
 Turgenev
 Tvardovsky
@@ -199,6 +202,7 @@ Volkov
 Yanayev
 Yeltsin
 Yerzov
+Zhabotinsky
 Zhirov
 Zhivenkov
 Zhukov
