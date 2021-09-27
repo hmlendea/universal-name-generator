@@ -14035,6 +14035,7 @@ Ecovoiu
 Edeleanu
 Edereș
 Edițoiu
+Edroiu
 Edu
 Eduțanu
 Efremescu
@@ -18572,6 +18573,7 @@ Hailă
 Haimana
 Haină
 Hainagiu
+Hăinală
 Hainăroșie
 Hăinaru
 Hăineală
@@ -21839,6 +21841,7 @@ Lăpăduțoniu
 Lapăș
 Lapca
 Lapoș
+Lăpoșan
 Lapoși
 Lapoviță
 Lăptaru

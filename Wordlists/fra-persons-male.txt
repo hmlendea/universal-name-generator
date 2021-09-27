@@ -19,9 +19,12 @@ Hugo
 Jacques
 Jamie
 Jean
+Jean-Charles
 Jean-Francois
 Jean-Marie
 Jean-Paul
+Jean-Rémi
+Jérôme
 Joseph
 Louis
 Louis-René
@@ -39,6 +42,7 @@ Philippe
 Pierre
 Pierre-Charles
 Raymond
+Rémi
 René
 Robert
 Sébastien

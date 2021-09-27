@@ -533,6 +533,7 @@ Fourquet
 Fousseret
 Fraisse
 France
+François
 Fremont
 Frère
 Fresnel
@@ -972,7 +973,9 @@ Reverdin
 Riboulet
 Ricard
 Richard
+Richebon
 Richet
+Rifaux
 Rigal
 Ringuet
 Ripert
@@ -1109,6 +1112,7 @@ Vigouroux
 Villeneuve
 Vincent
 Vizard
+Vuillaume
 Wathelet
 Yacine
 Zagre
