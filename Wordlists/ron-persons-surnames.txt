@@ -3981,6 +3981,7 @@ Belean
 Beleanu
 Beleaua
 Beleca
+Belecciu
 Beleciu
 Belega
 Belehuz
@@ -5400,6 +5401,7 @@ Bodrângă
 Bodrea
 Bodrenciu
 Bodrog
+Bodrogean
 Bodrogi
 Bodron
 Bodrug
@@ -13774,6 +13776,7 @@ Dulceanu
 Dulcescu
 Dulcianu
 Dulciu
+Dulcu
 Duldurescu
 Dulea
 Duleanț
@@ -20129,6 +20132,7 @@ Iane
 Ianica
 Ianicec
 Ianici
+Ianișevschi
 Ianițcaia
 Ianole
 Ianoș
@@ -24027,6 +24031,7 @@ Mătăcuță
 Mățăgău
 Matahală
 Matală
+Mățan
 Mătanie
 Mățăoanu
 Mataragiu
@@ -28282,6 +28287,7 @@ Paici
 Paicu
 Paidiu
 Paier
+Paina
 Păiș
 Păișan
 Păișanu
@@ -28786,6 +28792,7 @@ Parnacu
 Parnău
 Parnea
 Parnia
+Parnica
 Parnică
 Pârnog
 Părnuș
@@ -30167,6 +30174,7 @@ Pîțan
 Pitar
 Pitarcă
 Pitariu
+Pităroiu
 Pitaru
 Pițaru
 Pitcu
@@ -33926,6 +33934,7 @@ Seratin
 Șercan
 Șercău
 Serceniuc
+Serciu
 Șerdan
 Serdaru
 Șerdean
@@ -34021,6 +34030,7 @@ Sfadu
 Șfaițer
 Sfântu
 Sfârâială
+Sfărăilă
 Sfărășan
 Sfârghie
 Sfârghiu
@@ -37470,6 +37480,7 @@ Tineche
 Tineghe
 Țineghe
 Tinei
+Țingău
 Tinică
 Tiniche
 Tinichez

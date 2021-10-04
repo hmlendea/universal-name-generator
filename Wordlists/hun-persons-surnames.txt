@@ -42,6 +42,7 @@ Beregfy
 Berényi
 Beres
 Berkes
+Bilibok
 Biro
 Birtalan
 Bodnár
@@ -83,11 +84,13 @@ Dömötör
 Draskovich
 Draskovics
 Draskovits
+Egyed
 Elek
 Élő
 Eötvös
 Eperjesi
 Erdei
+Erdelyi
 Erdős
 Erőss
 Fabinyi
@@ -115,6 +118,7 @@ Galambos
 Garaba
 Garai
 Gárdonyi
+Gáspár
 Geőcze
 Gergely
 Gindl
@@ -206,6 +210,7 @@ Kurucz
 Lajtha
 Lakatos
 Lehár
+Lengyel
 Lengyel
 Lévai
 Ligeti
