@@ -8,7 +8,8 @@ Daniel
 Dominic
 Dominique
 Emmanuel
-Francois
+François
+François-Marie
 Gaston
 Georges
 Gerard
@@ -19,10 +20,14 @@ Hugo
 Jacques
 Jamie
 Jean
-Jean-Francois
+Jean-Charles
+Jean-François
 Jean-Marie
 Jean-Paul
+Jean-Rémi
+Jérôme
 Joseph
+Leon
 Louis
 Louis-René
 Luc
@@ -39,6 +44,7 @@ Philippe
 Pierre
 Pierre-Charles
 Raymond
+Rémi
 René
 Robert
 Sébastien

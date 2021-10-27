@@ -26,6 +26,7 @@ de la Vega
 de Vargas
 Diaz
 Dominguez
+Escribano
 Esguerra
 Esteve
 Fernández
@@ -36,7 +37,7 @@ Gandía
 Garcia
 Gaztambide
 Gomez
-Gonzalez
+González
 Guerrero
 Hernández
 Herrán

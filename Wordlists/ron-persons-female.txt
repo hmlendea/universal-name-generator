@@ -54,6 +54,7 @@ Dana
 Daniela
 Dănuța
 Daria
+Dariana
 Delia
 Denisa
 Diana
@@ -120,6 +121,7 @@ Mădălina
 Magda
 Magdalena
 Maia
+Mălina
 Manuela
 Mara
 Marcela
@@ -162,6 +164,7 @@ Olguța
 Olimpia
 Olivia
 Otilia
+Ozana
 Patricia
 Paula
 Persida
@@ -196,6 +199,7 @@ Sorina
 Stela
 Steliana
 Tamara
+Tanța
 Tatiana
 Teodora
 Valentina

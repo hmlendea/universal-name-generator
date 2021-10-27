@@ -7,12 +7,14 @@ Charlotte
 Chloe
 Clara
 Clarisse
+Claudine
 Clémence
 Daphne
 Eleonore
 Elina
 Elise
 Fanny
+Françoise
 Helena
 Inés
 Isabella
@@ -36,6 +38,6 @@ Pauline
 Selma
 Sophie
 Suzanne
-Veronique
+Véronique
 Viviane
 Yasmine

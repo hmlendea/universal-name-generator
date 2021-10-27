@@ -17,6 +17,7 @@ Allais
 Allard
 Allemand
 Alméras
+Amoudruz
 Ancel
 Ange
 Antier
@@ -26,6 +27,7 @@ Arceneaux
 Ardisson
 Ardouin
 Armand
+Arouet
 Arsenault
 Arseneau
 Arseneault
@@ -305,6 +307,8 @@ Christophe
 Chuquet
 Clair
 Clemenceau
+Clemmons
+Clémont
 Clerc
 Clérico
 Clérisseau
@@ -446,7 +450,9 @@ Dimont
 Dion
 Dirac
 Doisneau
+Donnay
 Donnet
+Dony
 Dormoy
 Doucet
 Doucett
@@ -485,6 +491,7 @@ Durant
 Durbin
 Durel
 Duret
+Dury
 Dussault
 Dutertre
 Dutoit
@@ -533,12 +540,14 @@ Fourquet
 Fousseret
 Fraisse
 France
+François
 Fremont
 Frère
 Fresnel
 Friesen
 Froment
 Frossard
+Fyon
 Gachet
 Gagne
 Gagneux
@@ -623,6 +632,7 @@ Guilbert
 Guillaume
 Guillaumont
 Guilloux
+Guilmard
 Guyon
 Hachette
 Haillet
@@ -839,6 +849,7 @@ Michaux
 Micheaux
 Miellet
 Mignard
+Mignot
 Milhaud
 Millet
 Miot
@@ -880,6 +891,7 @@ Noir
 Noirot
 Nouel
 Ollier
+Oriane
 Ouvrard
 Ozanne
 Paquet
@@ -972,7 +984,9 @@ Reverdin
 Riboulet
 Ricard
 Richard
+Richebon
 Richet
+Rifaux
 Rigal
 Ringuet
 Ripert
@@ -1109,6 +1123,7 @@ Vigouroux
 Villeneuve
 Vincent
 Vizard
+Vuillaume
 Wathelet
 Yacine
 Zagre

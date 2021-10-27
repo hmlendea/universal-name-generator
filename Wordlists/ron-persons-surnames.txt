@@ -3981,6 +3981,7 @@ Belean
 Beleanu
 Beleaua
 Beleca
+Belecciu
 Beleciu
 Belega
 Belehuz
@@ -4244,6 +4245,7 @@ Berevoianu
 Berezan
 Bereznicu
 Berezovschi
+Berg
 Berghe
 Berghea
 Berghean
@@ -4861,6 +4863,7 @@ Bitang
 Bîtcă
 Bîtculescu
 Bîte
+Bitea
 Bîtea
 Bitere
 Bîtfoi
@@ -5399,6 +5402,7 @@ Bodrângă
 Bodrea
 Bodrenciu
 Bodrog
+Bodrogean
 Bodrogi
 Bodron
 Bodrug
@@ -6429,6 +6433,7 @@ Breharu
 Brehoi
 Brenduș
 Brezeanu
+Brezoianu
 Bria
 Briciu
 Brînza
@@ -6452,6 +6457,7 @@ Buciuceanu
 Buciuman
 Buciumeanu
 Bucovală
+Bucoveanu
 Bucșa
 Bucșă
 Bucșoiu
@@ -6520,6 +6526,7 @@ Burleanu
 Burnea
 Burnei
 Bursașiu
+Burtănete
 Burtea
 Buruiană
 Buruleanu
@@ -7122,6 +7129,7 @@ Căpușan
 Căpușe
 Căpușneac
 Căpuștă
+Căpută
 Căpuzaru
 Capverde
 Câra
@@ -8655,6 +8663,7 @@ Chiș
 Chisă
 Chișă
 Chișac
+Chisălău
 Chisălescu
 Chisăliță
 Chișan
@@ -8932,6 +8941,7 @@ Cilacu
 Cilan
 Cîlb
 Cîlcioiu
+Cileacu
 Cilianu
 Cilibeanu
 Cilibia
@@ -11704,6 +11714,7 @@ Crăngașu
 Cravă
 Cravcescu
 Creangă
+Crecan
 Cremeneanu
 Creț
 Cretu
@@ -11720,6 +11731,7 @@ Cristescu
 Cristinel
 Cristoiu
 Cristurean
+Criț
 Crivăț
 Crivei
 Croitor
@@ -13766,6 +13778,7 @@ Dulceanu
 Dulcescu
 Dulcianu
 Dulciu
+Dulcu
 Duldurescu
 Dulea
 Duleanț
@@ -14027,6 +14040,7 @@ Ecovoiu
 Edeleanu
 Edereș
 Edițoiu
+Edroiu
 Edu
 Eduțanu
 Efremescu
@@ -17509,6 +17523,7 @@ Gliguță
 Glîmboceanu
 Glinschi
 Glința
+Glință
 Gliogor
 Glișa
 Gliță
@@ -18563,6 +18578,7 @@ Hailă
 Haimana
 Haină
 Hainagiu
+Hăinală
 Hainăroșie
 Hăinaru
 Hăineală
@@ -20118,6 +20134,7 @@ Iane
 Ianica
 Ianicec
 Ianici
+Ianișevschi
 Ianițcaia
 Ianole
 Ianoș
@@ -21830,6 +21847,7 @@ Lăpăduțoniu
 Lapăș
 Lapca
 Lapoș
+Lăpoșan
 Lapoși
 Lapoviță
 Lăptaru
@@ -23847,6 +23865,7 @@ Marinoiu
 Marinovici
 Marinschi
 Marinuc
+Marinuța
 Marioara
 Mărioara
 Marionoaea
@@ -24014,6 +24033,7 @@ Mătăcuță
 Mățăgău
 Matahală
 Matală
+Mățan
 Mătanie
 Mățăoanu
 Mataragiu
@@ -28269,6 +28289,7 @@ Paici
 Paicu
 Paidiu
 Paier
+Paina
 Păiș
 Păișan
 Păișanu
@@ -28773,6 +28794,7 @@ Parnacu
 Parnău
 Parnea
 Parnia
+Parnica
 Parnică
 Pârnog
 Părnuș
@@ -30154,6 +30176,7 @@ Pîțan
 Pitar
 Pitarcă
 Pitariu
+Pităroiu
 Pitaru
 Pițaru
 Pitcu
@@ -32910,6 +32933,7 @@ Sălan
 Sălănoiu
 Salanța
 Salanță
+Sălanță
 Salanți
 Salanțiu
 Sălanțiu
@@ -33912,6 +33936,7 @@ Seratin
 Șercan
 Șercău
 Serceniuc
+Serciu
 Șerdan
 Serdaru
 Șerdean
@@ -34007,6 +34032,7 @@ Sfadu
 Șfaițer
 Sfântu
 Sfârâială
+Sfărăilă
 Sfărășan
 Sfârghie
 Sfârghiu
@@ -37163,6 +37189,7 @@ Tesleanu
 Teșliuc
 Teslovan
 Teșloveanu
+Tesmețianu
 Testehan
 Testemițianu
 Teșu
@@ -37456,6 +37483,7 @@ Tineche
 Tineghe
 Țineghe
 Tinei
+Țingău
 Tinică
 Tiniche
 Tinichez

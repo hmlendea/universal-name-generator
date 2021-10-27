@@ -52,14 +52,12 @@ lăcrămioară
 levănțică
 lumânărică
 mac
-măceș
 măselariță
 mătăciune
 mătrăgună
 merișor
 mesteacăn
 molotru
-mur
 mușețel
 muștar
 nuc
@@ -89,7 +87,7 @@ salvie
 săpunariță
 scai
 schinel
-soc
+Soc_Elderberry
 șovârv
 stejar
 sulfină
@@ -108,4 +106,3 @@ vâsc
 verigariu
 volbură
 zămoșiță
-zmeur
