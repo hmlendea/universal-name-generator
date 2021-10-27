@@ -4863,6 +4863,7 @@ Bitang
 Bîtcă
 Bîtculescu
 Bîte
+Bitea
 Bîtea
 Bitere
 Bîtfoi
@@ -7128,6 +7129,7 @@ Căpușan
 Căpușe
 Căpușneac
 Căpuștă
+Căpută
 Căpuzaru
 Capverde
 Câra
@@ -37187,6 +37189,7 @@ Tesleanu
 Teșliuc
 Teslovan
 Teșloveanu
+Tesmețianu
 Testehan
 Testemițianu
 Teșu
