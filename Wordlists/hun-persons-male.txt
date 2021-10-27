@@ -1,5 +1,6 @@
 Antal
 Attila
+Csaba
 Dániel
 Gergely
 György
@@ -8,6 +9,7 @@ István
 József
 Kálmán
 Lajos
+Levente
 Miklós
 Nándor
 Péter
