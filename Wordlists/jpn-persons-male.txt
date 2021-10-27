@@ -10,6 +10,7 @@ Hiroto
 Hiroyuki
 Jiro
 Junichi
+Kanji
 Keisuke
 Kentaro
 Koichiro
@@ -19,6 +20,7 @@ Mimatsuhiko
 Minato
 Mitsue
 Nekuhiko
+Nishina
 Nobosuke
 Norinaga
 Noriyuke
@@ -37,7 +39,9 @@ Takumi
 Tatsuki
 Teruhito
 Tōgō
+Tokunaga
 Toru
+Tôyama
 Tsubasa
 Yoshi
 Yoshida
