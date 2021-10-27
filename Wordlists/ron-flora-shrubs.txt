@@ -1,0 +1,15 @@
+Agriș_GooseberryShrub
+Alun_HazelShrub
+Azalee_AzaleaShrub
+Clocotiș_BladdernutShrub
+Coacăz_CurrantShrub
+Dracilă_BarberryShrub
+Fistic_PistachioShrub
+Măceș_DogRoseShrub
+Măcieș_DogRoseShrub
+Mur_BlackberryShrub
+Oleandru_OleanderShrub
+Smirnă_MyrrhShrub
+Soc_ElderberryShrub
+Tămâie_FrankincenseShrub
+Zmeur_RaspberryShrub

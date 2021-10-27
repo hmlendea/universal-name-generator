@@ -207,6 +207,7 @@ Kuba
 Kubo
 Kubota
 Kudo
+Kukuri
 Kumagai
 Kuno
 Kuramoto
@@ -276,6 +277,7 @@ Morimoto
 Morine
 Morino
 Morioka
+Morisaki
 Morishige
 Morishita
 Morita
@@ -316,6 +318,7 @@ Nakatani
 Nakatomi
 Nakayama
 Nakazawa
+Nakuchi
 Namba
 Nii
 Nishi
@@ -335,7 +338,7 @@ Noguchi
 Nomura
 Nonaka
 Noya
-Oba
+Ōba
 Obara
 Obi
 Oda
@@ -361,6 +364,7 @@ Okawa
 Okazaki
 Oki
 Okimoto
+Okina
 Okino
 Okita
 Okubo
@@ -373,6 +377,7 @@ Omura
 Onaga
 Onishi
 Ono
+Onoda
 Orio
 Osada
 Osaki
@@ -562,6 +567,7 @@ Yasuda
 Yasui
 Yasutake
 Yogi
+Yokoi
 Yokota
 Yokoyama
 Yonamine
