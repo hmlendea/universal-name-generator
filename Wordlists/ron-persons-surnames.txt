@@ -338,6 +338,7 @@ Adrianescu
 Adronic
 Adroniciuc
 Adudec
+Aduducăi
 Aduducesei
 Aduloaei
 Aduloaia
@@ -8903,6 +8904,7 @@ Ciconea
 Cicort
 Cicortaș
 Cicoș
+Cicotișan
 Cicoveanu
 Cicu
 Cieocoiu
@@ -25310,6 +25312,7 @@ Mițoi
 Mîțoi
 Mitoiu
 Mîțoiu
+Mitoșelu
 Mitoșeriu
 Mitoșeru
 Mitoși
@@ -30077,6 +30080,7 @@ Pîrțan
 Pirtea
 Pîrțea
 Pîrtică
+Pîrtilă
 Pîrțoc
 Piru
 Pirucea
