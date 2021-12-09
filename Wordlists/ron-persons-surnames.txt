@@ -1685,6 +1685,7 @@ Archire
 Archiudean
 Arcip
 Arcire
+Arciudean
 Arcomiță
 Arcoș
 Arcu
@@ -11510,6 +11511,7 @@ Cotiață
 Cotici
 Cotiga
 Cotigă
+Cotinghiu
 Cotinică
 Cotîrci
 Cotîrlă
@@ -11726,6 +11728,7 @@ Crihan
 Crișan
 Crișanu
 Crisbășan
+Crismariuc
 Crîșmaru
 Criste
 Cristea
