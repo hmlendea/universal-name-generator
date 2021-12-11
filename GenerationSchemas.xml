@@ -715,4 +715,28 @@
 		<Category>Yohoho! Puzzle Pirates</Category>
 		<Schema>{randomiser, ,4,32,ypp-ships-adjectives|ypp-ships-fishes}</Schema>
 	</GenerationSchemaEntity>
+	<GenerationSchemaEntity>
+		<Id>middle-earth-elven-sindarin-persons-male</Id>
+		<Name>Elven male persons (Sindarin)</Name>
+		<Category>Middle Earth</Category>
+		<Schema>{randomiser, ,4,32,middle-earth/elven/sindarin/persons-male|middle-earth/elven/sindarin/persons-nickname}</Schema>
+	</GenerationSchemaEntity>
+	<GenerationSchemaEntity>
+		<Id>middle-earth-elven-sindarin-persons-female</Id>
+		<Name>Elven female persons (Sindarin)</Name>
+		<Category>Middle Earth</Category>
+		<Schema>{randomiser, ,4,32,middle-earth/elven/sindarin/persons-female|middle-earth/elven/sindarin/persons-nickname}</Schema>
+	</GenerationSchemaEntity>
+	<GenerationSchemaEntity>
+		<Id>middle-earth-elven-quenya-persons-male</Id>
+		<Name>Elven male persons (Quenya)</Name>
+		<Category>Middle Earth</Category>
+		<Schema>{randomiser, ,4,32,middle-earth/elven/quenya/persons-male|middle-earth/elven/quenya/persons-nickname}</Schema>
+	</GenerationSchemaEntity>
+	<GenerationSchemaEntity>
+		<Id>middle-earth-elven-quenya-persons-female</Id>
+		<Name>Elven female persons (Quenya)</Name>
+		<Category>Middle Earth</Category>
+		<Schema>{randomiser, ,4,32,middle-earth/elven/quenya/persons-female|middle-earth/elven/quenya/persons-nickname}</Schema>
+	</GenerationSchemaEntity>
 </ArrayOfGenerationSchemaEntity>
