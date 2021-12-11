@@ -43,7 +43,7 @@ namespace UniversalNameGenerator.Service
             // Load the filters
             if (!string.IsNullOrWhiteSpace(filterlist))
             {
-                filters = new List<string>(File.ReadAllLines(Path.Combine("Wordlists", filterlist + ".txt")));
+                filters = new List<string>(File.ReadAllLines(Path.Combine("Wordlists", filterlist + ".lst")));
             }
             else
             {
@@ -222,7 +222,7 @@ namespace UniversalNameGenerator.Service
 
             foreach (string wordlistId in wordlistKeys)
             {
-                string filePath = Path.Combine(ApplicationPaths.WordlistsDirectory, $"{wordlistId}.txt");
+                string filePath = Path.Combine(ApplicationPaths.WordlistsDirectory, $"{wordlistId}.lst");
                 
                 IWordRepository wordRepository = new WordRepository(filePath);
 
