@@ -82,7 +82,7 @@ Lights-Sparks
 Lights-the-Way
 Listens-By-Smell
 Listens-to-Sea
-Lizard-Eater
+lizard/Eater
 Long-Cast
 Long-Claw
 Looks-Forward
