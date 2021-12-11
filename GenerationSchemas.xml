@@ -716,16 +716,16 @@
 		<Schema>{randomiser, ,4,32,ypp-ships-adjectives|ypp-ships-fishes}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
-		<Id>middle-earth-elven-sindar-persons-male</Id>
+		<Id>middle-earth-elven-sindarin-persons-male</Id>
 		<Name>Elven male persons (Sindarin)</Name>
 		<Category>Middle Earth</Category>
-		<Schema>{randomiser, ,4,32,middle-earth/elven/sindar/persons-male|middle-earth/elven/sindar/persons-nickname}</Schema>
+		<Schema>{randomiser, ,4,32,middle-earth/elven/sindarin/persons-male|middle-earth/elven/sindarin/persons-nickname}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
-		<Id>middle-earth-elven-sindar-persons-female</Id>
+		<Id>middle-earth-elven-sindarin-persons-female</Id>
 		<Name>Elven female persons (Sindarin)</Name>
 		<Category>Middle Earth</Category>
-		<Schema>{randomiser, ,4,32,middle-earth/elven/sindar/persons-female|middle-earth/elven/sindar/persons-nickname}</Schema>
+		<Schema>{randomiser, ,4,32,middle-earth/elven/sindarin/persons-female|middle-earth/elven/sindarin/persons-nickname}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
 		<Id>middle-earth-elven-quenya-persons-male</Id>

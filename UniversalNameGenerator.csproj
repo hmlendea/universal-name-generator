@@ -169,9 +169,9 @@
     <None Update="Wordlists/middle-earth/elven/quenya/persons-female.txt"><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
     <None Update="Wordlists/middle-earth/elven/quenya/persons-male.txt"><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
     <None Update="Wordlists/middle-earth/elven/quenya/persons-nickname.txt"><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
-    <None Update="Wordlists/middle-earth/elven/sindar/persons-female.txt"><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
-    <None Update="Wordlists/middle-earth/elven/sindar/persons-male.txt"><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
-    <None Update="Wordlists/middle-earth/elven/sindar/persons-nickname.txt"><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
+    <None Update="Wordlists/middle-earth/elven/sindarin/persons-female.txt"><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
+    <None Update="Wordlists/middle-earth/elven/sindarin/persons-male.txt"><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
+    <None Update="Wordlists/middle-earth/elven/sindarin/persons-nickname.txt"><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
     <None Update="Wordlists/mri-persons-female.txt"><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
     <None Update="Wordlists/mri-persons-male.txt"><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
     <None Update="Wordlists/mri-persons-surnames.txt"><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
