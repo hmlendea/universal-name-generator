@@ -283,6 +283,8 @@ Observatoarele_Observatory
 Observatorul_Observatory
 Oceanele_Ocean
 Oceanul_Ocean
+Ochii_Eye
+Ochiul_Eye
 Ocna_Prison
 Ocnele_Prison
 Ogoarele_Field
