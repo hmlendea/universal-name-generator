@@ -661,6 +661,10 @@ din Spate_FromTheBack
 din Sun_FromTheSouth
 din Sus_FromUp
 din Vest_FromTheWest
+Dințoasă_Toothy
+Dințoase_Toothy
+Dințos_Toothy
+Dințoși_Toothy
 Discordiei_OfDiscord
 Dispărut_Disappeared
 Dispărută_Disappeared
@@ -1244,7 +1248,7 @@ Joși_Low
 Joși_Lower
 Josnic_Low
 Josnică_Low
-Josnice_low
+Josnice_Low
 Josnici_Low
 Junioară_Junior
 Junioare_Junior
@@ -1660,6 +1664,7 @@ Neumblat_Unexplored
 Neumblată_Unexplored
 Neumblate_Unexplored
 Neumblați_Unexplored
+Nevestei_OfTheWife
 Nimănui_OfNobody
 Nobil_Noble
 Nobilă_Noble
@@ -2669,6 +2674,9 @@ Voinici_Sturdy
 Voinicilor_OfTheBraveMan
 Voinicului_OfTheBraveMan
 Voinței_OfWill
+Vorbitoare_Speaker
+Vorbitor_Speaker
+Vorbitori_Speaker
 Vrăjit_Charmed
 Vrăjită_Charmed
 Vrăjite_Charmed
