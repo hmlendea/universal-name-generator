@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
-    <TargetFramework>net6.0</TargetFramework>
+    <TargetFramework>net5.0</TargetFramework>
     <RootNamespace>UniversalNameGenerator</RootNamespace>
   </PropertyGroup>
 
@@ -19,7 +19,7 @@
 
   <ItemGroup>
     <None Update="GenerationSchemas.xml"><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
-    <None Update="Wordlists/**/*.txt"><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
+    <None Update="Wordlists/**/*.lst"><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
   </ItemGroup>
 
 </Project>
