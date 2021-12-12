@@ -1,9 +1,11 @@
 using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.Linq;
 
 using NuciCLI;
 using NuciCLI.Menus;
+using NuciExtensions;
 
 using UniversalNameGenerator.Models;
 using UniversalNameGenerator.Service;
@@ -31,10 +33,14 @@ namespace UniversalNameGenerator.Menus
                 .Where(s => s.Category == category)
                 .OrderBy(s => s.Id);
 
+            string categoryCommand = $"{category.ToLowerSnakeCase().Replace('_', '-')}";
+
             foreach (GenerationSchema schema in schemas)
             {
                 Action action = delegate { GenerateNames(schema, 60); };
-                AddCommand(schema.Id, schema.Name, action);
+                string command = schema.Id.Replace($"{categoryCommand}-", "", ignoreCase: true, CultureInfo.InvariantCulture);
+
+                AddCommand(command, schema.Name, action);
             }
         }
 
