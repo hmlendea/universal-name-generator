@@ -33,7 +33,7 @@ namespace UniversalNameGenerator.Menus
             foreach (string category in categories)
             {
                 Action action = delegate { MenuManager.Instance.OpenMenu<CategoryMenu>(category); };
-                string id = $"{category.ToLowerSnakeCase().Replace('_', '-')}-names";
+                string id = category.ToLowerSnakeCase().Replace('_', '-');
                 string description = $"Generate {category} names";
                 
                 AddCommand(id, description, action);
