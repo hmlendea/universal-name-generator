@@ -81,6 +81,12 @@
 		<Schema>{randomiser, ,4,32,real/english/persons/females|real/english/persons/surnames}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
+		<Id>english-ships-space</Id>
+		<Name>English space ship names</Name>
+		<Category>English</Category>
+		<Schema>{randomiser, ,4,32,real/english/units/ships/space/adjectives|real/english/units/ships/space/nouns}</Schema>
+	</GenerationSchemaEntity>
+	<GenerationSchemaEntity>
 		<Id>french-persons-female</Id>
 		<Name>French female persons</Name>
 		<Category>French</Category>
