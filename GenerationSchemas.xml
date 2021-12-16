@@ -81,6 +81,12 @@
 		<Schema>{randomiser, ,4,32,real/english/persons/females|real/english/persons/surnames}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
+		<Id>english-ships-space</Id>
+		<Name>English space ship names</Name>
+		<Category>English</Category>
+		<Schema>{randomiser, ,4,32,real/english/units/ships/space/adjectives|real/english/units/ships/space/nouns}</Schema>
+	</GenerationSchemaEntity>
+	<GenerationSchemaEntity>
 		<Id>french-persons-female</Id>
 		<Name>French female persons</Name>
 		<Category>French</Category>
@@ -91,6 +97,18 @@
 		<Name>French male persons</Name>
 		<Category>French</Category>
 		<Schema>{randomiser, ,4,32,real/french/persons/males|real/french/persons/surnames}</Schema>
+	</GenerationSchemaEntity>
+	<GenerationSchemaEntity>
+		<Id>finnish-persons-female</Id>
+		<Name>Finnish female persons</Name>
+		<Category>Finnish</Category>
+		<Schema>{randomiser, ,4,32,real/finnish/persons/females|real/finnish/persons/surnames}</Schema>
+	</GenerationSchemaEntity>
+	<GenerationSchemaEntity>
+		<Id>finnish-persons-male</Id>
+		<Name>Finnish male persons</Name>
+		<Category>Finnish</Category>
+		<Schema>{randomiser, ,4,32,real/finnish/persons/males|real/finnish/persons/surnames}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
 		<Id>irish-persons-female</Id>
