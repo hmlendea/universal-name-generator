@@ -99,6 +99,18 @@
 		<Schema>{randomiser, ,4,32,real/french/persons/males|real/french/persons/surnames}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
+		<Id>finnish-persons-female</Id>
+		<Name>Finnish female persons</Name>
+		<Category>Finnish</Category>
+		<Schema>{randomiser, ,4,32,real/finnish/persons/females|real/finnish/persons/surnames}</Schema>
+	</GenerationSchemaEntity>
+	<GenerationSchemaEntity>
+		<Id>finnish-persons-male</Id>
+		<Name>Finnish male persons</Name>
+		<Category>Finnish</Category>
+		<Schema>{randomiser, ,4,32,real/finnish/persons/males|real/finnish/persons/surnames}</Schema>
+	</GenerationSchemaEntity>
+	<GenerationSchemaEntity>
 		<Id>irish-persons-female</Id>
 		<Name>Irish female persons</Name>
 		<Category>Irish</Category>
