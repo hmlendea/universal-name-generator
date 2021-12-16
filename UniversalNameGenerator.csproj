@@ -8,7 +8,7 @@
 
   <ItemGroup>
     <PackageReference Include="NuciCLI" Version="1.4.2" />
-    <PackageReference Include="NuciCLI.Menus" Version="1.4.0" />
+    <PackageReference Include="NuciCLI.Menus" Version="1.5.1" />
     <PackageReference Include="NuciDAL" Version="1.1.1" />
     <PackageReference Include="NuciExtensions" Version="1.5.0" />
   </ItemGroup>
