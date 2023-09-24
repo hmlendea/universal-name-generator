@@ -602,7 +602,7 @@
 		<Id>usernames</Id>
 		<Name>Internet usernames</Name>
 		<Category>Usernames</Category>
-		<Schema>{markov,4,16,usernames/minecraft}</Schema>
+		<Schema>{markov,4,16,usernames/github|usernames/mastodon|usernames/minecraft|usernames/steam|usernames/twitter|usernames/youtube}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
 		<Id>letian-settlements</Id>
