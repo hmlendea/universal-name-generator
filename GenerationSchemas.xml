@@ -599,6 +599,12 @@
 		<Schema>{markov,4,11,real/latin/locations/settlements}</Schema>
 	</GenerationSchemaEntity>
 	<GenerationSchemaEntity>
+		<Id>usernames</Id>
+		<Name>Internet usernames</Name>
+		<Category>Usernames</Category>
+		<Schema>{markov,4,16,usernames/minecraft}</Schema>
+	</GenerationSchemaEntity>
+	<GenerationSchemaEntity>
 		<Id>letian-settlements</Id>
 		<Name>Letian (Narivia) settlements</Name>
 		<Category>Letian</Category>
