@@ -55,6 +55,12 @@
         <Schema>{markov,4,24,real/chinese/locations/toponyms}</Schema>
     </GenerationSchemaEntity>
     <GenerationSchemaEntity>
+        <Id>venetian-toponyms</Id>
+        <Name>Venetian toponyms</Name>
+        <Category>Venetian</Category>
+        <Schema>{markov,4,24,real/venetian/locations/toponyms}</Schema>
+    </GenerationSchemaEntity>
+    <GenerationSchemaEntity>
         <Id>welsh-persons-female</Id>
         <Name>Welsh female persons</Name>
         <Category>Welsh</Category>
@@ -731,16 +737,16 @@
         <Schema>{markov,4,24,real/latin/locations/toponyms|real/latin/locations/settlements}</Schema>
     </GenerationSchemaEntity>
     <GenerationSchemaEntity>
-        <Id>usernames</Id>
-        <Name>Internet usernames</Name>
-        <Category>Usernames</Category>
-        <Schema>{markov,4,16,usernames/erepublik|usernames/github|usernames/mastodon|usernames/minecraft|usernames/reddit|usernames/steam|usernames/twitter|usernames/youtube}</Schema>
-    </GenerationSchemaEntity>
-    <GenerationSchemaEntity>
         <Id>letian-settlements</Id>
         <Name>Letian (Narivia) settlements</Name>
         <Category>Letian</Category>
         <Schema>{markov,4,16,narivia/letian/locations/settlements}</Schema>
+    </GenerationSchemaEntity>
+    <GenerationSchemaEntity>
+        <Id>lithuanian-toponyms</Id>
+        <Name>Lithuanian toponyms</Name>
+        <Category>Lithuanian</Category>
+        <Schema>{markov,4,24,real/lithuanian/locations/toponyms}</Schema>
     </GenerationSchemaEntity>
     <GenerationSchemaEntity>
         <Id>rodah-settlements</Id>
@@ -904,5 +910,11 @@
         <Category>Middle Earth</Category>
         <FilterlistPath>middle-earth/elven/quenya/persons/filters</FilterlistPath>
         <Schema>{randomiser, ,4,32,middle-earth/elven/quenya/persons/females|middle-earth/elven/quenya/persons/nicknames}</Schema>
+    </GenerationSchemaEntity>
+    <GenerationSchemaEntity>
+        <Id>usernames</Id>
+        <Name>Internet usernames</Name>
+        <Category>Usernames</Category>
+        <Schema>{markov,4,16,usernames/erepublik|usernames/github|usernames/mastodon|usernames/minecraft|usernames/reddit|usernames/steam|usernames/twitter|usernames/youtube}</Schema>
     </GenerationSchemaEntity>
 </ArrayOfGenerationSchemaEntity>
