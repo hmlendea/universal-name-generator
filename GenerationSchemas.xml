@@ -49,6 +49,12 @@
         <Schema>{randomiser, ,4,32,real/chinese/persons/females|real/chinese/persons/surnames}</Schema>
     </GenerationSchemaEntity>
     <GenerationSchemaEntity>
+        <Id>chinese-toponyms</Id>
+        <Name>Chinese toponyms</Name>
+        <Category>Chinese</Category>
+        <Schema>{markov,4,24,real/chinese/locations/toponyms}</Schema>
+    </GenerationSchemaEntity>
+    <GenerationSchemaEntity>
         <Id>welsh-persons-female</Id>
         <Name>Welsh female persons</Name>
         <Category>Welsh</Category>
@@ -103,6 +109,12 @@
         <Name>English space ship names</Name>
         <Category>English</Category>
         <Schema>{randomiser, ,4,32,real/english/units/ships/space/adjectives|real/english/units/ships/space/nouns}</Schema>
+    </GenerationSchemaEntity>
+    <GenerationSchemaEntity>
+        <Id>english-toponyms</Id>
+        <Name>English toponyms</Name>
+        <Category>English</Category>
+        <Schema>{markov,4,24,real/english/locations/toponyms}</Schema>
     </GenerationSchemaEntity>
     <GenerationSchemaEntity>
         <Id>french-persons-female</Id>
@@ -235,6 +247,12 @@
         <Name>Italian female persons</Name>
         <Category>Italian</Category>
         <Schema>{randomiser, ,4,32,real/italian/persons/females|real/italian/persons/surnames}</Schema>
+    </GenerationSchemaEntity>
+    <GenerationSchemaEntity>
+        <Id>italian-toponyms</Id>
+        <Name>Italian toponyms</Name>
+        <Category>Italian</Category>
+        <Schema>{markov,4,24,real/italian/locations/toponyms}</Schema>
     </GenerationSchemaEntity>
     <GenerationSchemaEntity>
         <Id>japanese-persons-male</Id>
@@ -423,6 +441,12 @@
         <Name>Romanian plant names</Name>
         <Category>Romanian</Category>
         <Schema>{markov,4,16,real/romanian/flora/plants}</Schema>
+    </GenerationSchemaEntity>
+    <GenerationSchemaEntity>
+        <Id>romanian-toponyms</Id>
+        <Name>Romanian toponyms</Name>
+        <Category>Romanian</Category>
+        <Schema>{markov,4,24,real/romanian/locations/settlements/cities/romania|real/romanian/locations/settlements/towns/romania|real/romanian/locations/settlements/communes/romania|real/romanian/locations/settlements/cities/moldova|real/romanian/locations/settlements/communes/moldova|real/romanian/locations/settlements/towns/moldova|real/romanian/locations/settlements/villages/romania|real/romanian/locations/settlements/villages/moldova|real/romanian/locations/toponyms}</Schema>
     </GenerationSchemaEntity>
     <GenerationSchemaEntity>
         <Id>romanian-settlements</Id>
@@ -704,7 +728,7 @@
         <Id>latin-toponyms</Id>
         <Name>Latin toponyms</Name>
         <Category>Latin</Category>
-        <Schema>{markov,4,24,real/latin/locations/toponyms}</Schema>
+        <Schema>{markov,4,24,real/latin/locations/toponyms|real/latin/locations/settlements}</Schema>
     </GenerationSchemaEntity>
     <GenerationSchemaEntity>
         <Id>usernames</Id>
