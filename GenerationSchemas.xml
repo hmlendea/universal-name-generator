@@ -743,6 +743,18 @@
         <Schema>{markov,4,16,narivia/letian/locations/settlements}</Schema>
     </GenerationSchemaEntity>
     <GenerationSchemaEntity>
+        <Id>lithuanian-persons-female</Id>
+        <Name>Lithuanian female persons</Name>
+        <Category>Lithuanian</Category>
+        <Schema>{randomiser, ,4,32,real/lithuanian/persons/females|real/lithuanian/persons/surnames}</Schema>
+    </GenerationSchemaEntity>
+    <GenerationSchemaEntity>
+        <Id>lithuanian-persons-male</Id>
+        <Name>Lithuanian male persons</Name>
+        <Category>Lithuanian</Category>
+        <Schema>{randomiser, ,4,32,real/lithuanian/persons/males|real/lithuanian/persons/surnames}</Schema>
+    </GenerationSchemaEntity>
+    <GenerationSchemaEntity>
         <Id>lithuanian-toponyms</Id>
         <Name>Lithuanian toponyms</Name>
         <Category>Lithuanian</Category>
