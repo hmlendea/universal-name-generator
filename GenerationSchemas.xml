@@ -928,5 +928,6 @@
         <Name>Internet usernames</Name>
         <Category>Usernames</Category>
         <Schema>{markov,4,16,usernames/erepublik|usernames/github|usernames/mastodon|usernames/minecraft|usernames/reddit|usernames/steam|usernames/twitter|usernames/youtube}</Schema>
+        <WordCasing>Original</WordCasing>
     </GenerationSchemaEntity>
 </ArrayOfGenerationSchemaEntity>
