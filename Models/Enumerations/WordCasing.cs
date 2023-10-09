@@ -2,6 +2,8 @@
 {
     public enum WordCasing
     {
+        Original,
+
         /// <summary>
         /// Every letter is lowercase.
         /// </summary>

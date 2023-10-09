@@ -108,28 +108,27 @@ namespace UniversalNameGenerator.Service
 
         string GetNameWithCasing(string name, WordCasing casing)
         {
-            string newName = name;
-
-            switch(casing)
+            if (casing.Equals(WordCasing.Lower))
             {
-                case WordCasing.Lower:
-                    newName = name.ToLower();
-                    break;
-
-                case WordCasing.Upper:
-                    newName = name.ToUpper();
-                    break;
-
-                case WordCasing.Title:
-                    newName = name.ToTitleCase();
-                    break;
-
-                case WordCasing.Sentence:
-                    newName = name.ToSentanceCase();
-                    break;
+                return name.ToLower();
             }
 
-            return newName;
+            if (casing.Equals(WordCasing.Upper))
+            {
+                return name.ToUpper();
+            }
+
+            if (casing.Equals(WordCasing.Title))
+            {
+                return name.ToTitleCase();
+            }
+
+            if (casing.Equals(WordCasing.Sentence))
+            {
+                return name.ToSentanceCase();
+            }
+
+            return name;
         }
 
         /// <summary>
@@ -223,7 +222,7 @@ namespace UniversalNameGenerator.Service
             foreach (string wordlistId in wordlistKeys)
             {
                 string filePath = Path.Combine(ApplicationPaths.WordlistsDirectory, $"{wordlistId}.lst");
-                
+
                 IWordRepository wordRepository = new WordRepository(filePath);
 
                 IEnumerable<Word> words = wordRepository.GetAll().ToDomainModels();
