@@ -927,7 +927,7 @@
         <Id>usernames</Id>
         <Name>Internet usernames</Name>
         <Category>Usernames</Category>
-        <Schema>{markov,4,16,usernames/erepublik|usernames/gamingonlinux|usernames/github|usernames/mastodon|usernames/minecraft|usernames/reddit|usernames/runescape|usernames/steam|usernames/twitter|usernames/yohoho-puzzle-pirates|usernames/youtube}</Schema>
+        <Schema>{markov,4,16,usernames/bitwarden-forum|usernames/erepublik|usernames/gamingonlinux|usernames/github|usernames/imgflip|usernames/instagram|usernames/irc_rizon|usernames/mastodon|usernames/minecraft|usernames/nexusmods|usernames/reddit|usernames/runescape|usernames/steam|usernames/twitter|usernames/yohoho-puzzle-pirates|usernames/youtube}</Schema>
         <WordCasing>Original</WordCasing>
     </GenerationSchemaEntity>
 </ArrayOfGenerationSchemaEntity>
