@@ -345,6 +345,12 @@
         <Schema>{randomiser,,4,32,no-mans-sky/vykeen/persons/neutral}</Schema>
     </GenerationSchemaEntity>
     <GenerationSchemaEntity>
+        <Id>nucian-toponyms</Id>
+        <Name>Nucian toponyms</Name>
+        <Category>Nucian</Category>
+        <Schema>{markov,4,24,conlangs/nucian/locations/settlements|conlangs/nucian/locations/voivodeships}</Schema>
+    </GenerationSchemaEntity>
+    <GenerationSchemaEntity>
         <Id>polish-persons-female</Id>
         <Name>Polish female persons</Name>
         <Category>Polish</Category>
