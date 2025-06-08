@@ -29,13 +29,13 @@ namespace UniversalNameGenerator.Menus
                 .Distinct()
                 .Where(x => !string.IsNullOrWhiteSpace(x))
                 .OrderBy(x => x);
-            
+
             foreach (string category in categories)
             {
-                Action action = delegate { MenuManager.Instance.OpenMenu<CategoryMenu>(category); };
+                void action() { MenuManager.Instance.OpenMenu<CategoryMenu>(category); }
                 string id = category.ToLowerSnakeCase().Replace('_', '-');
                 string description = $"Generate {category} names";
-                
+
                 AddCommand(id, description, action);
             }
         }

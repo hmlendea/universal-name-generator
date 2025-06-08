@@ -8,12 +8,12 @@ namespace UniversalNameGenerator.Service.NameGenerators.Markov
 {
     public class MarkovModel
     {
-        int order;
-        float prior;
-        List<string> alphabet;
-        Dictionary<string, List<string>> observations;
+        readonly int order;
+        readonly float prior;
+        readonly List<string> alphabet;
+        readonly Dictionary<string, List<string>> observations;
         Dictionary<string, List<float>> chains;
-        Random random;
+        readonly Random random;
 
         public MarkovModel(IEnumerable<string> data, int order, float prior, IEnumerable<string> alphabet)
         {
@@ -21,7 +21,7 @@ namespace UniversalNameGenerator.Service.NameGenerators.Markov
             this.prior = prior;
             this.alphabet = alphabet.ToList();
 
-            observations = new Dictionary<string, List<string>>();
+            observations = [];
             random = new Random();
 
             Train(data);
@@ -32,7 +32,7 @@ namespace UniversalNameGenerator.Service.NameGenerators.Markov
         {
             List<float> chain = chains.TryGetValue(context);
 
-            if (chain == null)
+            if (chain is null)
             {
                 return null;
             }
@@ -50,15 +50,15 @@ namespace UniversalNameGenerator.Service.NameGenerators.Markov
 
                 d = $"{"#".Repeat(order)}{d}#";
 
-                for(int i = 0; i < d.Length - order; i++)
+                for (int i = 0; i < d.Length - order; i++)
                 {
                     string key = d.Substring(i, order);
 
                     List<string> value = observations.TryGetValue(key);
 
-                    if (value == null)
+                    if (value is null)
                     {
-                        value = new List<string>();
+                        value = [];
                         observations.AddOrUpdate(key, value); // TODO: Does the update part cause issues?
                     }
 
@@ -68,15 +68,9 @@ namespace UniversalNameGenerator.Service.NameGenerators.Markov
             }
         }
 
-        void Retrain(IEnumerable<string> data)
-        {
-            Train(data);
-            BuildChains();
-        }
-
         void BuildChains()
         {
-            chains = new Dictionary<string, List<float>>();
+            chains = [];
 
             foreach(string context in observations.Keys)
             {
@@ -84,9 +78,9 @@ namespace UniversalNameGenerator.Service.NameGenerators.Markov
                 {
                     List<float> value = chains.TryGetValue(context);
 
-                    if (value == null)
+                    if (value is null)
                     {
-                        value = new List<float>();
+                        value = [];
                         chains.AddOrUpdate(context, value);
                     }
 
@@ -96,9 +90,9 @@ namespace UniversalNameGenerator.Service.NameGenerators.Markov
             }
         }
 
-        int CountMatches(IEnumerable<string> array, string val)
+        static int CountMatches(IEnumerable<string> array, string val)
         {
-            if (array == null)
+            if (array is null)
             {
                 return 0;
             }
@@ -108,7 +102,7 @@ namespace UniversalNameGenerator.Service.NameGenerators.Markov
 
         int SelectIndex(IEnumerable<float> chain)
         {
-            List<float> totals = new List<float>();
+            List<float> totals = [];
             float accumulator = 0;
 
             foreach (float weight in chain)
