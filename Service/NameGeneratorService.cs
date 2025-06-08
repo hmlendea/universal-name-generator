@@ -125,7 +125,7 @@ namespace UniversalNameGenerator.Service
 
             if (casing.Equals(WordCasing.Sentence))
             {
-                return name.ToSentanceCase();
+                return name.ToSentenceCase();
             }
 
             return name;
