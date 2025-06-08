@@ -32,8 +32,6 @@ namespace UniversalNameGenerator.DataAccess.DataObjects
         public string WordCasing { get; set; }
 
         public GenerationSchemaEntity()
-        {
-            WordCasing = Models.Enumerations.WordCasing.Title.GetDisplayName();
-        }
+            => WordCasing = Models.Enumerations.WordCasing.Title.GetDisplayName();
     }
 }
