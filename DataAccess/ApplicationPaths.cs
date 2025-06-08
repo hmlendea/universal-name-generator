@@ -14,10 +14,7 @@ namespace UniversalNameGenerator.DataAccess
         {
             get
             {
-                if (rootDirectory == null)
-                {
-                    rootDirectory = Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location);
-                }
+                rootDirectory ??= Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location);
 
                 return rootDirectory;
             }
