@@ -8,9 +8,6 @@ namespace UniversalNameGenerator.DataAccess.DataObjects
     {
         public ICollection<string> Values { get; set; }
 
-        public WordEntity()
-        {
-            Values = new List<string>();
-        }
+        public WordEntity() => Values = [];
     }
 }

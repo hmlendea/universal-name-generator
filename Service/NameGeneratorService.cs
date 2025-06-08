@@ -23,15 +23,14 @@ namespace UniversalNameGenerator.Service
     {
         Random random;
 
-        Dictionary<string, INameGenerator> generators;
+        readonly Dictionary<string, INameGenerator> generators;
 
-        readonly IRepository<GenerationSchemaEntity> schemaRepository;
+        readonly XmlRepository<GenerationSchemaEntity> schemaRepository;
 
         public NameGeneratorService()
         {
-            generators = new Dictionary<string, INameGenerator>();
-
-            this.schemaRepository = new XmlRepository<GenerationSchemaEntity>("GenerationSchemas.xml");
+            generators = [];
+            schemaRepository = new("GenerationSchemas.xml");
         }
 
         public IEnumerable<string> GenerateNames(string schema, int amount, string filterlist, WordCasing casing)
@@ -43,15 +42,15 @@ namespace UniversalNameGenerator.Service
             // Load the filters
             if (!string.IsNullOrWhiteSpace(filterlist))
             {
-                filters = new List<string>(File.ReadAllLines(Path.Combine("Wordlists", filterlist + ".lst")));
+                filters = [.. File.ReadAllLines(Path.Combine("Wordlists", filterlist + ".lst"))];
             }
             else
             {
-                filters = new List<string>();
+                filters = [];
             }
 
-            List<List<string>> z = new List<List<string>>();
-            List<string> names = new List<string>();
+            List<List<string>> z = [];
+            List<string> names = [];
 
             int generatorsCount = schema.Count(x => x == '{');
 
@@ -63,8 +62,8 @@ namespace UniversalNameGenerator.Service
                 while (currentGeneration.Contains("{") || currentGeneration.Contains("}"))
                 {
                     int pos = currentGeneration.IndexOf('{') + 1;
-                    string com = currentGeneration.Substring(pos, currentGeneration.IndexOf('}') - pos);
-                    IEnumerable<string> values = new List<string>();
+                    string com = currentGeneration[pos..currentGeneration.IndexOf('}')];
+                    IEnumerable<string> values = [];
 
                     string[] split = com.Split(',');
 
@@ -102,11 +101,9 @@ namespace UniversalNameGenerator.Service
         }
 
         public IEnumerable<GenerationSchema> GetSchemas()
-        {
-            return schemaRepository.GetAll().ToDomainModels();
-        }
+            => schemaRepository.GetAll().ToDomainModels();
 
-        string GetNameWithCasing(string name, WordCasing casing)
+        static string GetNameWithCasing(string name, WordCasing casing)
         {
             if (casing.Equals(WordCasing.Lower))
             {
@@ -138,12 +135,12 @@ namespace UniversalNameGenerator.Service
         /// <param name="charlist">Charlist.</param>
         /// <param name="minLength">Minimum length.</param>
         /// <param name="maxLength">Maximum length.</param>
-        IEnumerable<string> RandomStrings(int amount, List<string> choices, int minLength, int maxLength)
+        List<string> RandomStrings(int amount, List<string> choices, int minLength, int maxLength)
         {
             string str = "";
             int targetLength = random.Next(minLength, maxLength + 1);
 
-            List<string> names = new List<string>();
+            List<string> names = [];
 
             while (names.Count <= amount && names.Count != choices.Count)
             {
@@ -215,9 +212,9 @@ namespace UniversalNameGenerator.Service
             return generator.Generate(amount);
         }
 
-        List<Wordlist> GetWordLists(List<string> wordlistKeys)
+        static List<Wordlist> GetWordLists(List<string> wordlistKeys)
         {
-            List<Wordlist> wordlists = new List<Wordlist>();
+            List<Wordlist> wordlists = [];
 
             foreach (string wordlistId in wordlistKeys)
             {
@@ -226,7 +223,7 @@ namespace UniversalNameGenerator.Service
                 IWordRepository wordRepository = new WordRepository(filePath);
 
                 IEnumerable<Word> words = wordRepository.GetAll().ToDomainModels();
-                Wordlist wordlist = new Wordlist(words);
+                Wordlist wordlist = [.. words];
 
                 wordlists.Add(wordlist);
             }

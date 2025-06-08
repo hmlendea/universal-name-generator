@@ -37,7 +37,7 @@ namespace UniversalNameGenerator.Menus
 
             foreach (GenerationSchema schema in schemas)
             {
-                Action action = delegate { GenerateNames(schema, 60); };
+                void action() { GenerateNames(schema, 60); }
                 string command = schema.Id.Replace($"{categoryCommand}-", "", ignoreCase: true, CultureInfo.InvariantCulture);
 
                 AddCommand(command, schema.Name, action);
@@ -51,7 +51,7 @@ namespace UniversalNameGenerator.Menus
             PrintResultsTable(names);
         }
 
-        void PrintResultsTable(List<string> results)
+        static void PrintResultsTable(List<string> results)
         {
             int maxLength = results.Max(x => x.Length);
             int cols = Console.BufferWidth / (maxLength + ColumnSeparator.Length);
