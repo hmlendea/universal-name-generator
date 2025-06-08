@@ -15,15 +15,14 @@ namespace UniversalNameGenerator.Service.NameGenerators.Markov
 
         public List<Word> Data { get; private set; }
 
-        List<MarkovModel> models;
-        
+        readonly List<MarkovModel> models;
+
         public MarkovNameGenerator(List<Word> data, int order, float prior)
-            : this(new List<Wordlist> { new Wordlist(data) }, order, prior)
+            : this([[.. data]], order, prior)
         {
         }
 
-        public MarkovNameGenerator(List<Wordlist> data, int order, float prior)
-            : base(data)
+        public MarkovNameGenerator(List<Wordlist> data, int order, float prior) : base(data)
         {
             List<Word> mergedDataLists = data.SelectMany(x => x).ToList();
 
@@ -31,7 +30,7 @@ namespace UniversalNameGenerator.Service.NameGenerators.Markov
             Prior = prior;
             Data = mergedDataLists;
 
-            List<string> letters = new List<string>();
+            List<string> letters = [];
             List<string> wordValues = mergedDataLists.SelectMany(x => x.Values).ToList();
 
             foreach (string wordValue in wordValues)
@@ -47,10 +46,10 @@ namespace UniversalNameGenerator.Service.NameGenerators.Markov
             List<string> domain = letters.Distinct().ToList();
             domain.Insert(0, "#");
 
-            models = new List<MarkovModel>();
+            models = [];
             for (int i = 0; i < order; i++)
             {
-                MarkovModel model = new MarkovModel(wordValues.ToList(), Order - i, Prior, domain.ToList());
+                MarkovModel model = new(wordValues.ToList(), Order - i, Prior, domain.ToList());
                 models.Add(model);
             }
         }
@@ -77,7 +76,7 @@ namespace UniversalNameGenerator.Service.NameGenerators.Markov
 
             while(letter != "#")
             {
-                if (letter != null)
+                if (letter is not null)
                 {
                     word += letter;
                 }
@@ -97,9 +96,9 @@ namespace UniversalNameGenerator.Service.NameGenerators.Markov
             {
                 letter = model.Generate(myContext);
 
-                if (letter == null)
+                if (letter is null)
                 {
-                    myContext = myContext.Substring(1);
+                    myContext = myContext[1..];
                 }
                 else
                 {

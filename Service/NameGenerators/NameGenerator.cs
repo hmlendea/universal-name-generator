@@ -7,85 +7,65 @@ using UniversalNameGenerator.Models;
 
 namespace UniversalNameGenerator.Service.NameGenerators
 {
-    public abstract class NameGenerator : INameGenerator
+    /// <summary>
+    /// Initializes a new instance of the <see cref="NameGenerator"/> class.
+    /// </summary>
+    /// <param name="wordlists">Word lists.</param>
+    public abstract class NameGenerator(List<Wordlist> wordlists) : INameGenerator
     {
         /// <summary>
         /// Gets or sets the minimum length of the name.
         /// </summary>
         /// <value>The minimum length of the name.</value>
-        public int MinNameLength { get; set; }
+        public int MinNameLength { get; set; } = 5;
 
         /// <summary>
         /// Gets or sets the maximum length of the name.
         /// </summary>
         /// <value>The maximum length of the name.</value>
-        public int MaxNameLength { get; set; }
+        public int MaxNameLength { get; set; } = 10;
 
         /// <summary>
         /// Gets or sets the maximum processing time per word.
         /// </summary>
         /// <value>The maximum processing time per word, in milliseconds.</value>
-        public int MaxProcessingTimePerWord { get; set; }
+        public int MaxProcessingTimePerWord { get; set; } = 1000;
 
-        public bool OnlyNewNames { get; set; }
+        public bool OnlyNewNames { get; set; } = true;
 
         /// <summary>
         /// Gets or sets the excluded strings.
         /// </summary>
         /// <value>The excluded strings.</value>
-        public List<string> ExcludedStrings { get; set; }
+        public List<string> ExcludedStrings { get; set; } = [];
 
         /// <summary>
         /// Gets or sets the included strings.
         /// </summary>
         /// <value>The included strings.</value>
-        public List<string> IncludedStrings { get; set; }
+        public List<string> IncludedStrings { get; set; } = [];
 
         /// <summary>
         /// Gets or sets the string that all generated names must start with.
         /// </summary>
         /// <value>The string start filter.</value>
-        public string StartsWithFilter { get; set; }
+        public string StartsWithFilter { get; set; } = string.Empty;
 
         /// <summary>
         /// Gets or sets the string that all generated names must end with.
         /// </summary>
         /// <value>The string end filter.</value>
-        public string EndsWithFilter { get; set; }
+        public string EndsWithFilter { get; set; } = string.Empty;
 
         /// <summary>
         /// Gets or sets the used words.
         /// </summary>
         /// <value>The used words.</value>
-        public List<string> GeneratedWords { get; protected set; }
+        public List<string> GeneratedWords { get; protected set; } = [];
 
-        public List<Wordlist> Wordlists { get; protected set; }
+        public List<Wordlist> Wordlists { get; protected set; } = wordlists;
 
-        protected readonly Random random;
-
-        /// <summary>
-        /// Initializes a new instance of the <see cref="NameGenerator"/> class.
-        /// </summary>
-        /// <param name="wordlists">Word lists.</param>
-        protected NameGenerator(List<Wordlist> wordlists)
-        {
-            MinNameLength = 5;
-            MaxNameLength = 10;
-
-            MaxProcessingTimePerWord = 1000;
-            OnlyNewNames = true;
-
-            StartsWithFilter = string.Empty;
-            EndsWithFilter = string.Empty;
-
-            ExcludedStrings = new List<string>();
-            IncludedStrings = new List<string>();
-
-            GeneratedWords = new List<string>();
-            Wordlists = wordlists;
-
-            random = new Random();
-        }
+        protected readonly Random random = new();
 
         /// <summary>
         /// Generates names.
@@ -94,7 +74,7 @@ namespace UniversalNameGenerator.Service.NameGenerators
         /// <param name="maximumCount">Maximum count.</param>
         public IEnumerable<string> Generate(int maximumCount)
         {
-            List<string> names = new List<string>();
+            List<string> names = [];
 
             DateTime startTime = DateTime.Now;
             DateTime currentTime = DateTime.Now;
@@ -103,7 +83,7 @@ namespace UniversalNameGenerator.Service.NameGenerators
             while (names.Count < maximumCount && currentTime <= endTime)
             {
                 string name = GenerationAlogrithm();
-                
+
                 if (IsNameValid(name))
                 {
                     names.Add(name);
@@ -119,10 +99,7 @@ namespace UniversalNameGenerator.Service.NameGenerators
         /// <summary>
         /// Reset the list of used names.
         /// </summary>
-        public void Reset()
-        {
-            GeneratedWords.Clear();
-        }
+        public void Reset() => GeneratedWords.Clear();
 
         protected abstract string GenerationAlogrithm();
 
@@ -142,7 +119,7 @@ namespace UniversalNameGenerator.Service.NameGenerators
             {
                 return false;
             }
-            
+
             if (!name.StartsWith(StartsWithFilter, StringComparison.InvariantCulture) ||
                 !name.EndsWith(EndsWithFilter, StringComparison.InvariantCulture))
             {
