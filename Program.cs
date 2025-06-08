@@ -23,7 +23,9 @@ namespace UniversalNameGenerator
             get
             {
                 if (string.IsNullOrEmpty(applicationDirectory))
+                {
                     applicationDirectory = AppDomain.CurrentDomain.BaseDirectory;
+                }
 
                 return applicationDirectory;
             }

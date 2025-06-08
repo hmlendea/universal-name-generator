@@ -46,14 +46,11 @@ namespace UniversalNameGenerator.Models
 
         public WordCasing WordCasing { get; set; }
 
-        public GenerationSchema()
-        {
-            WordCasing = WordCasing.Sentence;
-        }
+        public GenerationSchema() => WordCasing = WordCasing.Sentence;
 
         public bool Equals(GenerationSchema other)
         {
-            if (ReferenceEquals(null, other))
+            if (other is null)
             {
                 return false;
             }
@@ -77,7 +74,7 @@ namespace UniversalNameGenerator.Models
         /// <see cref="GenerationSchema"/>; otherwise, <c>false</c>.</returns>
         public override bool Equals(object obj)
         {
-            if (ReferenceEquals(null, obj))
+            if (obj is null)
             {
                 return false;
             }
@@ -104,10 +101,10 @@ namespace UniversalNameGenerator.Models
         {
             unchecked
             {
-                return ((Id != null ? Id.GetHashCode() : 0) * 397) ^
-                       (Name != null ? Name.GetHashCode() : 0) ^
-                       (Schema != null ? Schema.GetHashCode() : 0) ^
-                       (FilterlistPath != null ? FilterlistPath.GetHashCode() : 0);
+                return ((Id is not null ? Id.GetHashCode() : 0) * 397) ^
+                       (Name is not null ? Name.GetHashCode() : 0) ^
+                       (Schema is not null ? Schema.GetHashCode() : 0) ^
+                       (FilterlistPath is not null ? FilterlistPath.GetHashCode() : 0);
             }
         }
     }
