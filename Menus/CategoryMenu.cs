@@ -19,7 +19,7 @@ namespace UniversalNameGenerator.Menus
     {
         const string ColumnSeparator = " | ";
 
-        readonly INameGeneratorService nameGenerator;
+        readonly NameGeneratorService nameGenerator;
 
         /// <summary>
         /// Initializes a new instance of the <see cref="MainMenu"/> class.

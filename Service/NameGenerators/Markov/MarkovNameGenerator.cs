@@ -18,9 +18,7 @@ namespace UniversalNameGenerator.Service.NameGenerators.Markov
         readonly List<MarkovModel> models;
 
         public MarkovNameGenerator(List<Word> data, int order, float prior)
-            : this([[.. data]], order, prior)
-        {
-        }
+            : this([[.. data]], order, prior) { }
 
         public MarkovNameGenerator(List<Wordlist> data, int order, float prior) : base(data)
         {
