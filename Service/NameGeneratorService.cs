@@ -50,7 +50,7 @@ namespace UniversalNameGenerator.Service
             List<List<string>> z = [];
             List<string> names = [];
 
-            int generatorsCount = schema.Count(x => x == '{');
+            int generatorsCount = schema.Count(x => x.Equals('{'));
 
             while (z.Count < generatorsCount)
             {
@@ -140,9 +140,9 @@ namespace UniversalNameGenerator.Service
 
             List<string> names = [];
 
-            while (names.Count <= amount && names.Count != choices.Count)
+            while (names.Count <= amount && names.Count.NotEquals(choices.Count))
             {
-                while (str.Length != targetLength)
+                while (str.Length.NotEquals(targetLength))
                 {
                     int i = random.Next(0, choices.Count);
                     str += choices[i];
