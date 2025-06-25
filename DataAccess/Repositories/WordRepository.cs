@@ -3,7 +3,6 @@ using System.IO;
 using System.Linq;
 
 using UniversalNameGenerator.DataAccess.DataObjects;
-using UniversalNameGenerator.DataAccess.Repositories.Interfaces;
 
 namespace UniversalNameGenerator.DataAccess.Repositories
 {

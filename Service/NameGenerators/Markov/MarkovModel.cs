@@ -44,7 +44,7 @@ namespace UniversalNameGenerator.Service.NameGenerators.Markov
         {
             List<string> dataList = data.ToList();
 
-            while(dataList.Count != 0)
+            while(!dataList.IsEmpty())
             {
                 string d = dataList.Pop();
 
@@ -97,7 +97,7 @@ namespace UniversalNameGenerator.Service.NameGenerators.Markov
                 return 0;
             }
 
-            return array.Count(str => str == val);
+            return array.Count(str => str.Equals(val));
         }
 
         int SelectIndex(IEnumerable<float> chain)

@@ -1,4 +1,4 @@
-﻿namespace UniversalNameGenerator.Models.Enumerations
+﻿namespace UniversalNameGenerator.Models
 {
     public enum WordCasing
     {
