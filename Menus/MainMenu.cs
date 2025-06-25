@@ -1,5 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Linq;
 
 using NuciCLI.Menus;
@@ -14,7 +13,7 @@ namespace UniversalNameGenerator.Menus
     /// </summary>
     public class MainMenu : Menu
     {
-        readonly INameGeneratorService nameGenerator;
+        readonly NameGeneratorService nameGenerator;
 
         /// <summary>
         /// Initializes a new instance of the <see cref="MainMenu"/> class.
