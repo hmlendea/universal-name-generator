@@ -9,9 +9,7 @@ using NuciExtensions;
 using UniversalNameGenerator.DataAccess;
 using UniversalNameGenerator.DataAccess.DataObjects;
 using UniversalNameGenerator.DataAccess.Repositories;
-using UniversalNameGenerator.DataAccess.Repositories.Interfaces;
 using UniversalNameGenerator.Models;
-using UniversalNameGenerator.Models.Enumerations;
 using UniversalNameGenerator.Service.Mapping;
 using UniversalNameGenerator.Service.NameGenerators;
 using UniversalNameGenerator.Service.NameGenerators.Markov;
@@ -59,7 +57,7 @@ namespace UniversalNameGenerator.Service
                 string name = schema;
                 string currentGeneration = schema;
 
-                while (currentGeneration.Contains("{") || currentGeneration.Contains("}"))
+                while (currentGeneration.Contains('{') || currentGeneration.Contains('}'))
                 {
                     int pos = currentGeneration.IndexOf('{') + 1;
                     string com = currentGeneration[pos..currentGeneration.IndexOf('}')];
@@ -137,7 +135,7 @@ namespace UniversalNameGenerator.Service
         /// <param name="maxLength">Maximum length.</param>
         List<string> RandomStrings(int amount, List<string> choices, int minLength, int maxLength)
         {
-            string str = "";
+            string str = string.Empty;
             int targetLength = random.Next(minLength, maxLength + 1);
 
             List<string> names = [];
@@ -220,8 +218,7 @@ namespace UniversalNameGenerator.Service
             {
                 string filePath = Path.Combine(ApplicationPaths.WordlistsDirectory, $"{wordlistId}.lst");
 
-                IWordRepository wordRepository = new WordRepository(filePath);
-
+                WordRepository wordRepository = new(filePath);
                 IEnumerable<Word> words = wordRepository.GetAll().ToDomainModels();
                 Wordlist wordlist = [.. words];
 

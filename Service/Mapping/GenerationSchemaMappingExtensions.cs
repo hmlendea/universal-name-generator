@@ -4,7 +4,6 @@ using System.Linq;
 
 using UniversalNameGenerator.DataAccess.DataObjects;
 using UniversalNameGenerator.Models;
-using UniversalNameGenerator.Models.Enumerations;
 
 namespace UniversalNameGenerator.Service.Mapping
 {
