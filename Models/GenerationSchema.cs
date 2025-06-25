@@ -1,7 +1,6 @@
 ﻿using System;
 using System.ComponentModel.DataAnnotations;
-
-using UniversalNameGenerator.Models.Enumerations;
+using NuciExtensions;
 
 namespace UniversalNameGenerator.Models
 {
@@ -84,7 +83,7 @@ namespace UniversalNameGenerator.Models
                 return true;
             }
 
-            if (obj.GetType() != GetType())
+            if (obj.GetType().NotEquals(GetType()))
             {
                 return false;
             }

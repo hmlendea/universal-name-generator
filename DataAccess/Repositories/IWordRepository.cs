@@ -2,7 +2,7 @@
 
 using UniversalNameGenerator.DataAccess.DataObjects;
 
-namespace UniversalNameGenerator.DataAccess.Repositories.Interfaces
+namespace UniversalNameGenerator.DataAccess.Repositories
 {
     /// <summary>
     /// Word repository interface.
