@@ -30,7 +30,7 @@ namespace UniversalNameGenerator.Menus
 
             IEnumerable<GenerationSchema> schemas = nameGenerator
                 .GetSchemas()
-                .Where(s => s.Category == category)
+                .Where(s => s.Category?.Equals(category) ?? false)
                 .OrderBy(s => s.Id);
 
             string categoryCommand = $"{category.ToLowerSnakeCase().Replace('_', '-')}";
