@@ -72,7 +72,7 @@ namespace UniversalNameGenerator.Service.NameGenerators.Markov
             string word = "#".Repeat(Order);
             string letter = GetLetter(word);
 
-            while(letter != "#")
+            while(letter.NotEquals("#"))
             {
                 if (letter is not null)
                 {
