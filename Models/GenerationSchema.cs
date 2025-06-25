@@ -1,8 +1,6 @@
 ﻿using System;
 using System.ComponentModel.DataAnnotations;
 
-using UniversalNameGenerator.Models.Enumerations;
-
 namespace UniversalNameGenerator.Models
 {
     /// <summary>

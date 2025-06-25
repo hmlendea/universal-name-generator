@@ -1,7 +1,6 @@
 ﻿using System.Collections.Generic;
 
 using UniversalNameGenerator.Models;
-using UniversalNameGenerator.Models.Enumerations;
 
 namespace UniversalNameGenerator.Service
 {
