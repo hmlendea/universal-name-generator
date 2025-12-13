@@ -1,8 +1,9 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
 
+using NuciGenerators.Text.Models;
+
 using UniversalNameGenerator.DataAccess.DataObjects;
-using UniversalNameGenerator.Models;
 
 namespace UniversalNameGenerator.Service.Mapping
 {
