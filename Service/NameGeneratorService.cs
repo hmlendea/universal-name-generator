@@ -5,15 +5,16 @@ using System.Linq;
 
 using NuciDAL.Repositories;
 using NuciExtensions;
+using NuciGenerators.Text;
+using NuciGenerators.Text.MarkovChain;
+using NuciGenerators.Text.Models;
 
 using UniversalNameGenerator.DataAccess;
 using UniversalNameGenerator.DataAccess.DataObjects;
 using UniversalNameGenerator.DataAccess.Repositories;
-using UniversalNameGenerator.Models;
 using UniversalNameGenerator.Service.Mapping;
-using UniversalNameGenerator.Service.NameGenerators;
-using UniversalNameGenerator.Service.NameGenerators.Markov;
 using UniversalNameGenerator.Service.NameGenerators.Randomiser;
+
 
 namespace UniversalNameGenerator.Service
 {
@@ -31,7 +32,7 @@ namespace UniversalNameGenerator.Service
             schemaRepository = new("GenerationSchemas.xml");
         }
 
-        public IEnumerable<string> GenerateNames(string schema, int amount, string filterlist, WordCasing casing)
+        public IEnumerable<string> GenerateNames(string schema, int amount, string filterlist, WordCase casing)
         {
             random = new Random();
 
@@ -101,24 +102,24 @@ namespace UniversalNameGenerator.Service
         public IEnumerable<GenerationSchema> GetSchemas()
             => schemaRepository.GetAll().ToDomainModels();
 
-        static string GetNameWithCasing(string name, WordCasing casing)
+        static string GetNameWithCasing(string name, WordCase casing)
         {
-            if (casing.Equals(WordCasing.Lower))
+            if (casing.Equals(WordCase.Lower))
             {
                 return name.ToLower();
             }
 
-            if (casing.Equals(WordCasing.Upper))
+            if (casing.Equals(WordCase.Upper))
             {
                 return name.ToUpper();
             }
 
-            if (casing.Equals(WordCasing.Title))
+            if (casing.Equals(WordCase.Title))
             {
                 return name.ToTitleCase();
             }
 
-            if (casing.Equals(WordCasing.Sentence))
+            if (casing.Equals(WordCase.Sentence))
             {
                 return name.ToSentenceCase();
             }

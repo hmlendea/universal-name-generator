@@ -2,8 +2,9 @@
 using System.Collections.Generic;
 using System.Linq;
 
+using NuciGenerators.Text.Models;
+
 using UniversalNameGenerator.DataAccess.DataObjects;
-using UniversalNameGenerator.Models;
 
 namespace UniversalNameGenerator.Service.Mapping
 {
@@ -24,7 +25,7 @@ namespace UniversalNameGenerator.Service.Mapping
             Category = generationSchemaEntity.Category,
             Schema = generationSchemaEntity.Schema,
             FilterlistPath = generationSchemaEntity.FilterlistPath,
-            WordCasing = Enum.Parse<WordCasing>(generationSchemaEntity.WordCasing),
+            WordCase = Enum.Parse<WordCase>(generationSchemaEntity.WordCase),
         };
 
         /// <summary>
@@ -39,7 +40,7 @@ namespace UniversalNameGenerator.Service.Mapping
             Category = generationSchema.Category,
             Schema = generationSchema.Schema,
             FilterlistPath = generationSchema.FilterlistPath,
-            WordCasing = generationSchema.WordCasing.ToString()
+            WordCase = generationSchema.WordCase.ToString()
         };
 
         /// <summary>

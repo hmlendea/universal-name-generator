@@ -29,9 +29,9 @@ namespace UniversalNameGenerator.DataAccess.DataObjects
         /// <value>The filterlist path.</value>
         public string FilterlistPath { get; set; }
 
-        public string WordCasing { get; set; }
+        public string WordCase { get; set; }
 
         public GenerationSchemaEntity()
-            => WordCasing = Models.WordCasing.Title.GetDisplayName();
+            => WordCase = NuciGenerators.Text.Models.WordCase.Title.GetDisplayName();
     }
 }

@@ -7,7 +7,8 @@ using NuciCLI;
 using NuciCLI.Menus;
 using NuciExtensions;
 
-using UniversalNameGenerator.Models;
+using NuciGenerators.Text.Models;
+
 using UniversalNameGenerator.Service;
 
 namespace UniversalNameGenerator.Menus
@@ -46,7 +47,7 @@ namespace UniversalNameGenerator.Menus
 
         void GenerateNames(GenerationSchema schema, int amount)
         {
-            List<string> names = nameGenerator.GenerateNames(schema.Schema, amount, schema.FilterlistPath, schema.WordCasing).ToList();
+            List<string> names = nameGenerator.GenerateNames(schema.Schema, amount, schema.FilterlistPath, schema.WordCase).ToList();
 
             PrintResultsTable(names);
         }

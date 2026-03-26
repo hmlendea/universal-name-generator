@@ -2,7 +2,8 @@
 
 using NuciExtensions;
 
-using UniversalNameGenerator.Models;
+using NuciGenerators.Text;
+using NuciGenerators.Text.Models;
 
 namespace UniversalNameGenerator.Service.NameGenerators.Randomiser
 {
