@@ -7,10 +7,10 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="NuciCLI" Version="2.0.1" />
-    <PackageReference Include="NuciCLI.Menus" Version="1.5.4" />
-    <PackageReference Include="NuciDAL" Version="2.3.3" />
-    <PackageReference Include="NuciExtensions" Version="5.3.0" />
+    <PackageReference Include="NuciCLI" Version="3.0.1" />
+    <PackageReference Include="NuciCLI.Menus" Version="1.5.5" />
+    <PackageReference Include="NuciDAL" Version="3.0.1" />
+    <PackageReference Include="NuciExtensions" Version="5.3.1" />
     <PackageReference Include="NuciGenerators.Text" Version="1.0.0" />
     <PackageReference Include="NuciGenerators.Text.MarkovChain" Version="1.0.0" />
   </ItemGroup>
