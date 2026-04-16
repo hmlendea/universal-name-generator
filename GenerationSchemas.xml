@@ -446,7 +446,8 @@
         <Id>romanian-phone-numbers</Id>
         <Name>Romanian phone numbers</Name>
         <Category>Romanian</Category>
-        <Schema>{markov,17,17,real/romanian/phone-numbers}</Schema>
+        <FilterlistPath>real/romanian/phone-numbers/filters</FilterlistPath>
+        <Schema>{markov,17,17,real/romanian/phone-numbers/phone-numbers}</Schema>
     </GenerationSchemaEntity>
     <GenerationSchemaEntity>
         <Id>romanian-plants</Id>
